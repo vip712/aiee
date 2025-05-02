@@ -1,7 +1,7 @@
 name = "aiee"
 main = "index.js" 
 compatibility_date = "2025-04-30"
-
+assets = { directory = "./public" }
 [env.production]
 account_id = "f691b992c419f7fd3227a7947c1ba3af"
 workers_dev = false
