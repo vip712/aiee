@@ -1,8 +1,9 @@
 name = "aiee"
 main = "index.html" 
+compatibility_date = "2025-04-30"
 
 [env.production]
 account_id = "f691b992c419f7fd3227a7947c1ba3af"
-workers_dev = true
+workers_dev = false
 route = "https://aiee.duckdns.org/*"
 zone_id = "98cf8b4189477063a028a3c930047b3a"
