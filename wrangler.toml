@@ -1,5 +1,5 @@
 name = "aiee"
-main = "index.html"  # 根据你项目的入口文件名称修改
+main = "index.html" 
 
 [env.production]
 account_id = "f691b992c419f7fd3227a7947c1ba3af"
