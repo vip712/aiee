@@ -1,0 +1,8 @@
+name = "aiee"
+main = "index.html"  # 根据你项目的入口文件名称修改
+
+[env.production]
+account_id = "f691b992c419f7fd3227a7947c1ba3af"
+workers_dev = true
+route = "https://aiee.duckdns.org/*"
+zone_id = "98cf8b4189477063a028a3c930047b3a"
