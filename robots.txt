@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vip712.github.io/aiee/sitemap.xml
