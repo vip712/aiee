@@ -75,7 +75,7 @@ footer p{margin-bottom:8px}
     <div class="topbar">
       <div>
         <div class="logo">CryptoPulse <span class="dot">·</span> <span data-i18n="site_sub">加密脉动</span></div>
-        <div class="tagline" data-i18n="tagline">每日核实的加密货币资讯 · Daily verified crypto news</div>
+        <div class="tagline" data-i18n="tagline">每日核实的加密货币资讯</div>
       </div>
       <div class="lang-toggle">
         <button id="btn-zh" class="active" onclick="setLang('zh')">中文</button>
@@ -113,11 +113,11 @@ const CATS = [
   {key:'tech',       zh:'技术与项目',   en:'Tech & Projects'},
 ];
 const I18N = {
-  zh:{site_sub:'加密脉动',tagline:'每日核实的加密货币资讯 · Daily verified crypto news',today:'今日要闻',updated:'更新于',
+  zh:{site_sub:'加密脉动',tagline:'每日核实的加密货币资讯',today:'今日要闻',updated:'更新于',
       sources_note:'资讯来源：CoinDesk、Cointelegraph、The Block、Decrypt、Bloomberg 等主流媒体，每条经 ≥2 独立来源核实。',
       disclaimer:'免责声明：本站内容仅为资讯整理，不构成投资建议。加密货币市场波动剧烈，请自行研究并咨询专业人士。',
       footer_update:'每日 08:00 JST 更新',sources:'来源',empty:'该分类今日暂无资讯。'},
-  en:{site_sub:'Crypto Pulse',tagline:'Daily verified crypto news · 每日核实的加密货币资讯',today:"Today's Headlines",updated:'Updated',
+  en:{site_sub:'Daily Crypto News',tagline:'Daily verified crypto news',today:"Today's Headlines",updated:'Updated',
       sources_note:'Sources: CoinDesk, Cointelegraph, The Block, Decrypt, Bloomberg and other mainstream outlets; every story verified by ≥2 independent sources.',
       disclaimer:'Disclaimer: This site curates news for informational purposes only and is not investment advice. Crypto markets are volatile — do your own research.',
       footer_update:'Updated daily at 08:00 JST',sources:'Sources',empty:'No stories in this category today.'},
@@ -183,7 +183,7 @@ function renderGrid(){
       '<div class="meta"><span class="badge '+it.category+'">'+catName(it.category)+'</span>'+
       '<span class="time">'+fmtTime(it.time)+'</span></div>'+
       '<h2>'+it.title[LANG]+'</h2><p>'+it.summary[LANG]+'</p>'+
-      '<div class="sources">'+I18N[LANG].sources+'：'+srcs+'</div>';
+      '<div class="sources">'+I18N[LANG].sources+(LANG==='zh'?'：':': ')+srcs+'</div>';
     grid.appendChild(card);
   });
 }
