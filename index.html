@@ -3,8 +3,31 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>CryptoPulse 加密脉动 — 每日加密货币资讯</title>
-<meta name="description" content="Daily verified crypto news in Chinese and English. 每日核实的加密货币资讯,中英双语。">
+<title>CryptoPulse 加密脉动 — 每日加密货币资讯 | Daily Crypto News: Bitcoin, Ethereum, Solana</title>
+<meta name="description" content="CryptoPulse 加密脉动：每日更新的加密货币资讯。覆盖比特币 (Bitcoin) 行情、以太坊 (Ethereum) 与公链升级、Solana 生态、现货ETF (Spot ETF)、政策监管与区块链技术动态，每条资讯经多家主流媒体交叉验证，中英双语。Daily verified crypto news in Chinese and English.">
+<meta name="keywords" content="加密货币, 加密货币新闻, 比特币, 以太坊, Solana, 区块链, 数字货币, 现货ETF, crypto news, bitcoin, ethereum, solana, blockchain news, cryptocurrency">
+<link rel="canonical" href="https://vip712.github.io/aiee/">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<meta name="author" content="CryptoPulse">
+<meta name="theme-color" content="#0b0e17">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CryptoPulse 加密脉动">
+<meta property="og:title" content="CryptoPulse 加密脉动 — 每日加密货币资讯 | Daily Crypto News">
+<meta property="og:description" content="每日更新的加密货币资讯：比特币、以太坊、Solana、现货ETF、政策监管与区块链技术，中英双语，多家主流媒体交叉验证。Daily verified crypto news in Chinese and English.">
+<meta property="og:url" content="https://vip712.github.io/aiee/">
+<meta property="og:image" content="https://vip712.github.io/aiee/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:locale:alternate" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="CryptoPulse 加密脉动 — 每日加密货币资讯 | Daily Crypto News">
+<meta name="twitter:description" content="每日更新的加密货币资讯：比特币、以太坊、Solana、现货ETF、政策监管与区块链技术，中英双语。">
+<meta name="twitter:image" content="https://vip712.github.io/aiee/og-image.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"CryptoPulse 加密脉动","alternateName":"CryptoPulse Daily Crypto News","url":"https://vip712.github.io/aiee/","inLanguage":["zh-CN","en"],"description":"每日更新的加密货币资讯：比特币、以太坊、Solana、现货ETF、政策监管与区块链技术，中英双语。Daily verified crypto news in Chinese and English."}
+</script>
 <style>
 :root{
   --bg:#0b0e17; --bg2:#111524; --card:#151a2e; --card2:#1a2036;
@@ -55,6 +78,11 @@ footer{margin-top:44px;border-top:1px solid var(--border);padding:26px 0 40px;co
 footer p{margin-bottom:8px}
 .updated{font-size:13px;color:var(--muted);margin-bottom:18px}
 .empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:60px 0}
+/* about / SEO */
+.about{margin:44px 0 8px;padding:26px 24px;background:var(--bg2);border:1px solid var(--border);border-radius:14px}
+.about h2{font-size:18px;margin-bottom:12px}
+.about p{font-size:13.5px;color:var(--muted);margin-bottom:10px;line-height:1.8}
+.about p:last-child{margin-bottom:0}
 @media(max-width:640px){
   header{padding:20px 0 16px}
   .logo{font-size:21px}
@@ -74,7 +102,7 @@ footer p{margin-bottom:8px}
   <div class="wrap">
     <div class="topbar">
       <div>
-        <div class="logo">CryptoPulse <span class="dot">·</span> <span data-i18n="site_sub">加密脉动</span></div>
+        <h1 class="logo">CryptoPulse <span class="dot">·</span> <span data-i18n="site_sub">加密脉动</span></h1>
         <div class="tagline" data-i18n="tagline">每日核实的加密货币资讯</div>
       </div>
       <div class="lang-toggle">
@@ -85,14 +113,20 @@ footer p{margin-bottom:8px}
   </div>
 </header>
 
-<div class="wrap">
+<main class="wrap">
   <div class="datebar">
     <div class="datelabel"><span data-i18n="today">今日要闻</span> · <b id="today-date"></b></div>
     <div class="updated"><span data-i18n="updated">更新于</span> <span id="updated-at"></span></div>
   </div>
-  <div class="cats" id="cats"></div>
+  <nav class="cats" id="cats" aria-label="News categories"></nav>
   <div class="grid" id="grid"></div>
-</div>
+
+  <section class="about" aria-label="About CryptoPulse">
+    <h2>关于 CryptoPulse 加密脉动 · About</h2>
+    <p>CryptoPulse 加密脉动是每日更新的加密货币资讯站，覆盖比特币 (Bitcoin) 市场行情、以太坊 (Ethereum) 与公链升级、Solana 生态动态、现货ETF (Spot ETF) 资金流向、全球政策监管 (Regulation) 以及区块链技术与项目安全事件。每条资讯均经 CoinDesk、Cointelegraph、The Block、Bloomberg 等 ≥2 家主流媒体交叉验证后发布，中英双语呈现，帮助中文与英文读者快速把握加密市场脉动。</p>
+    <p>CryptoPulse is a daily crypto news site covering Bitcoin market action, Ethereum and L1 upgrades, the Solana ecosystem, spot ETF flows, global crypto regulation, and blockchain tech and security. Every story is cross-verified by ≥2 mainstream outlets before publishing, presented in Chinese and English.</p>
+  </section>
+</main>
 
 <footer>
   <div class="wrap">
@@ -176,16 +210,37 @@ function renderGrid(){
   items = items.filter(it => ACTIVE_CAT==='all' || it.category===ACTIVE_CAT);
   if(!items.length){ grid.innerHTML = '<div class="empty">'+I18N[LANG].empty+'</div>'; return; }
   items.forEach(it=>{
-    const card = document.createElement('div');
+    const card = document.createElement('article');
     card.className = 'card';
     const srcs = (it.sources||[]).map(s=>'<a href="'+s.url+'" target="_blank" rel="noopener">'+s.name+'</a>').join('');
     card.innerHTML =
       '<div class="meta"><span class="badge '+it.category+'">'+catName(it.category)+'</span>'+
-      '<span class="time">'+fmtTime(it.time)+'</span></div>'+
+      '<time class="time" datetime="'+it.time+'">'+fmtTime(it.time)+'</time></div>'+
       '<h2>'+it.title[LANG]+'</h2><p>'+it.summary[LANG]+'</p>'+
       '<div class="sources">'+I18N[LANG].sources+(LANG==='zh'?'：':': ')+srcs+'</div>';
     grid.appendChild(card);
   });
+  injectNewsJsonLd(items);
+}
+function injectNewsJsonLd(items){
+  const old = document.getElementById('news-jsonld');
+  if(old) old.remove();
+  const graph = items.slice(0,30).map(it=>({
+    "@type":"NewsArticle",
+    "headline": it.title.zh || it.title.en,
+    "alternativeHeadline": it.title.en || it.title.zh,
+    "description": it.summary.zh || it.summary.en,
+    "datePublished": it.time,
+    "inLanguage": ["zh-CN","en"],
+    "author": {"@type":"Organization","name":"CryptoPulse 加密脉动"},
+    "publisher": {"@type":"Organization","name":"CryptoPulse 加密脉动","url":"https://vip712.github.io/aiee/"},
+    "mainEntityOfPage": "https://vip712.github.io/aiee/"
+  }));
+  const s = document.createElement('script');
+  s.type = 'application/ld+json';
+  s.id = 'news-jsonld';
+  s.textContent = JSON.stringify({"@context":"https://schema.org","@graph":graph});
+  document.head.appendChild(s);
 }
 fetch('news.json').then(r=>r.json()).then(d=>{ DATA=d; setLang(LANG); })
   .catch(()=>{ document.getElementById('grid').innerHTML='<div class="empty">Failed to load news.</div>'; });
