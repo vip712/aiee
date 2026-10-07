@@ -48,6 +48,9 @@ header{background:linear-gradient(135deg,#0b0e17 0%,#141a33 60%,#1a1440 100%);bo
 .lang-toggle{display:flex;background:var(--card);border:1px solid var(--border);border-radius:999px;overflow:hidden}
 .lang-toggle button{background:transparent;border:0;color:var(--muted);padding:9px 22px;font-size:14px;cursor:pointer;font-weight:600}
 .lang-toggle button.active{background:var(--accent);color:#111}
+.toolbox-link{display:inline-block;border:1px solid var(--accent);color:var(--accent);border-radius:999px;padding:8px 18px;font-size:14px;font-weight:700;white-space:nowrap}
+.toolbox-link:hover{background:var(--accent);color:#111;text-decoration:none}
+.topbar-right{display:flex;align-items:center;gap:10px;flex-wrap:wrap}
 /* date + cats */
 .datebar{display:flex;justify-content:space-between;align-items:center;margin:26px 0 14px;flex-wrap:wrap;gap:10px}
 .datelabel{font-size:15px;color:var(--muted)}
@@ -125,9 +128,12 @@ footer p{margin-bottom:8px}
         <h1 class="logo">CryptoPulse <span class="dot">·</span> <span data-i18n="site_sub">加密脉动</span></h1>
         <div class="tagline" data-i18n="tagline">每日核实的加密货币资讯</div>
       </div>
+      <div class="topbar-right">
+      <a class="toolbox-link" href="https://vip712.github.io/aioo/" target="_blank" rel="noopener" data-i18n="toolbox">🧰 工具箱</a>
       <div class="lang-toggle">
         <button id="btn-zh" class="active" onclick="setLang('zh')">中文</button>
         <button id="btn-en" onclick="setLang('en')">EN</button>
+      </div>
       </div>
     </div>
   </div>
@@ -195,12 +201,12 @@ const I18N = {
       sources_note:'资讯来源：CoinDesk、Cointelegraph、The Block、Decrypt、Bloomberg 等主流媒体，每条经 ≥2 独立来源核实。',
       disclaimer:'免责声明：本站内容仅为资讯整理，不构成投资建议。加密货币市场波动剧烈，请自行研究并咨询专业人士。',
       footer_update:'每日 08:00 JST 更新',sources:'来源',empty:'该分类今日暂无资讯。',
-      donate_title:'☕ 请作者喝杯咖啡',donate_sub:'如果 CryptoPulse 对你有帮助，欢迎用加密货币请作者喝杯咖啡，支持网站持续更新。点击下方主链切换地址，二维码扫码即付。',copy:'复制地址',copied:'已复制 ✓'},
+      donate_title:'☕ 请作者喝杯咖啡',donate_sub:'如果 CryptoPulse 对你有帮助，欢迎用加密货币请作者喝杯咖啡，支持网站持续更新。点击下方主链切换地址，二维码扫码即付。',copy:'复制地址',copied:'已复制 ✓',toolbox:'🧰 工具箱'},
   en:{site_sub:'Daily Crypto News',tagline:'Daily verified crypto news',today:"Today's Headlines",updated:'Updated',
       sources_note:'Sources: CoinDesk, Cointelegraph, The Block, Decrypt, Bloomberg and other mainstream outlets; every story verified by ≥2 independent sources.',
       disclaimer:'Disclaimer: This site curates news for informational purposes only and is not investment advice. Crypto markets are volatile — do your own research.',
       footer_update:'Updated daily at 08:00 JST',sources:'Sources',empty:'No stories in this category today.',
-      donate_title:'☕ Buy Me a Coffee',donate_sub:'If CryptoPulse is useful to you, consider tipping the author in crypto to keep the site running. Switch chains below — scan the QR to pay.',copy:'Copy address',copied:'Copied ✓'},
+      donate_title:'☕ Buy Me a Coffee',donate_sub:'If CryptoPulse is useful to you, consider tipping the author in crypto to keep the site running. Switch chains below — scan the QR to pay.',copy:'Copy address',copied:'Copied ✓',toolbox:'🧰 Toolbox'},
 };
 let LANG = localStorage.getItem('cp-lang') || 'zh';
 let DATA = null, ACTIVE_CAT = 'all';
