@@ -1,6 +1,195 @@
 {
   "days": [
     {
+      "date": "2026-10-09",
+      "items": [
+        {
+          "id": "20261009-01",
+          "category": "market",
+          "time": "2026-10-08T16:00:00Z",
+          "title": {
+            "zh": "现货比特币ETF单日净流出4.85亿美元，抹去10月初全部净流入",
+            "en": "Spot Bitcoin ETFs See $485M Single-Day Outflows, Erasing October Net Inflows"
+          },
+          "summary": {
+            "zh": "美国现货比特币ETF周三录得4.849亿美元净流出，为6月25日以来最大单日流出，完全抹去10月前四个交易日的3.216亿美元净流入，10月累计转为约1.63亿美元净流出。其中贝莱德IBIT流出2.077亿美元居首。机构资金流入明显降温 (institutional inflows cooling)，与比特币在8.3万美元附近承压的走势相互印证。",
+            "en": "U.S. spot Bitcoin ETFs posted $484.9 million in net outflows on Wednesday, the largest single-day withdrawal since June 25, wiping out the $321.6 million in net inflows recorded over October's first four trading sessions and leaving October with about $163 million in net outflows. BlackRock's IBIT led the redemptions at $207.7 million. The pullback signals cooling institutional demand as Bitcoin struggles near $83,000."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            },
+            {
+              "name": "Gadgets360",
+              "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-struggles-below-usd-87000-despite-rising-whale-accumulation-crypto-markets-prices-ethereum-btc-eth-crypto-updates-12149635"
+            }
+          ]
+        },
+        {
+          "id": "20261009-02",
+          "category": "market",
+          "time": "2026-10-08T15:00:00Z",
+          "title": {
+            "zh": "24小时爆仓超10.2亿美元，一小时内3.94亿美元杠杆头寸被清算",
+            "en": "Over $1.02B Liquidated in 24 Hours as $394M Wiped Out in a Single Hour"
+          },
+          "summary": {
+            "zh": "加密市场杠杆头寸遭遇连环爆仓 (cascade liquidations)，24小时全网爆仓金额超过10.2亿美元，其中一小时内就有3.94亿美元被清算，多单占比3.84亿美元。比特币承受了2.09亿美元的爆仓损失，以太坊为8700万美元。市场情绪指数仍处于62的“贪婪”区间，波动或未结束。",
+            "en": "Crypto markets suffered cascading liquidations totaling more than $1.02 billion over 24 hours, including $394 million wiped out within a single hour, of which $384 million were long positions. Bitcoin absorbed $209 million of the damage, followed by Ethereum at $87 million. The market sentiment index remains at 62 in 'Greed' territory, suggesting volatility may not be over."
+          },
+          "sources": [
+            {
+              "name": "Gadgets360",
+              "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-struggles-below-usd-87000-despite-rising-whale-accumulation-crypto-markets-prices-ethereum-btc-eth-crypto-updates-12149635"
+            },
+            {
+              "name": "Bitget Academy",
+              "url": "https://www.bitget.cloud/academy/why-is-crypto-down-today-october-8-2026-bitcoin-etf-outflows"
+            }
+          ]
+        },
+        {
+          "id": "20261009-03",
+          "category": "ethereum",
+          "time": "2026-10-08T12:00:00Z",
+          "title": {
+            "zh": "以太坊跌至2560美元附近，现货ETF连续第七个交易日净流出",
+            "en": "Ethereum Falls Toward $2,560 as Spot ETF Outflows Stretch to Seventh Straight Day"
+          },
+          "summary": {
+            "zh": "以太坊跟随比特币走弱，价格跌至2560美元附近，跌破区间通道支撑。美国现货以太坊ETF周三净流出1.609亿美元，为连续第七个交易日流出，自9月29日以来累计流出约5.69亿美元，其中贝莱德ETHA占1.161亿美元。部分交易员将2520至2500美元视为下一批关键支撑位。",
+            "en": "Ethereum followed Bitcoin lower, sliding toward $2,560 and breaking below its range-channel support. U.S. spot Ether ETFs recorded $160.9 million in net outflows on Wednesday, extending the losing streak to seven consecutive trading sessions, with about $569 million withdrawn since September 29 — $116.1 million of it from BlackRock's ETHA. Some traders now watch $2,520–$2,500 as the next key support zone."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            },
+            {
+              "name": "Bitget Academy",
+              "url": "https://www.bitget.cloud/academy/why-is-crypto-down-today-october-8-2026-bitcoin-etf-outflows"
+            }
+          ]
+        },
+        {
+          "id": "20261009-04",
+          "category": "solana",
+          "time": "2026-10-08T10:00:00Z",
+          "title": {
+            "zh": "SOL跌至115美元附近，SOL现货ETF资金流入骤降98.7%",
+            "en": "SOL Slips Near $115 as Spot Solana ETF Inflows Plunge 98.7%"
+          },
+          "summary": {
+            "zh": "Solana在10月8日交易时段交投于115美元附近，与以太坊同步回调。资金流数据同样转冷：SOL现货ETF资金流入骤降98.7%，尽管链上DEX交易量仍维持在约30.6亿美元。市场等待Alpenglow共识升级 (Alpenglow consensus upgrade) 的主网激活，以验证此前在测试网上实现的毫秒级确认表现。",
+            "en": "Solana traded near $115 during the October 8 session, pulling back alongside Ethereum. Fund flows also cooled: inflows into spot Solana ETFs plunged 98.7%, even as on-chain DEX volume held around $3.06 billion. The market now awaits mainnet activation of the Alpenglow consensus upgrade to validate the millisecond-level finality demonstrated on testnet."
+          },
+          "sources": [
+            {
+              "name": "TradingNews",
+              "url": "https://www.tradingnews.com/news/solana-120-usd-consolidates-in-a-rising-channel-as-alpenglow-nears-mainnet-and-tokenized-stock-volume"
+            },
+            {
+              "name": "Bitget Academy",
+              "url": "https://www.bitget.cloud/academy/why-is-crypto-down-today-october-8-2026-bitcoin-etf-outflows"
+            }
+          ]
+        },
+        {
+          "id": "20261009-05",
+          "category": "regulation",
+          "time": "2026-10-07T12:00:00Z",
+          "title": {
+            "zh": "SEC发布代币化股票“创新豁免”：代币化美股可上线链上交易场所",
+            "en": "SEC Issues 'Innovation Exemption' Allowing Tokenized U.S. Stocks on Onchain Venues"
+          },
+          "summary": {
+            "zh": "美国证券交易委员会 (SEC) 发布两项为期五年的有条件豁免，允许获许可的代币化美股 (tokenized stocks) 在链上交易场所交易：代币化证券场所 (Tokenized Securities Venues) 可豁免于“交易所”定义，通过自动做市商 (AMM) 和流动性池提供流动性的做市商可豁免于“交易商”定义。豁免设有交易品种与成交量上限，且不覆盖DeFi或代币化基金。",
+            "en": "The U.S. Securities and Exchange Commission issued two five-year conditional exemptions allowing permissioned tokenized versions of U.S.-listed stocks to trade on onchain venues: Tokenized Securities Venues are exempted from the definition of an exchange, while liquidity providers supplying liquidity through automated market makers and liquidity pools are exempted from the dealer definition. The relief carries symbol and volume caps and does not cover DeFi or tokenized funds."
+          },
+          "sources": [
+            {
+              "name": "ContentWorks Agency",
+              "url": "https://contentworks.agency/regulations-roundup-october-2026/"
+            },
+            {
+              "name": "Better Markets",
+              "url": "https://bettermarkets.org/analysis/setting-the-record-straight-on-crypto-ftx-sam-bankman-fried-jamie-dimon-the-sec-and-cftc-and-the-revolving-door/"
+            }
+          ]
+        },
+        {
+          "id": "20261009-06",
+          "category": "tech",
+          "time": "2026-10-05T12:00:00Z",
+          "title": {
+            "zh": "Bitget约3.88亿美元被盗案追踪：87.8枚BTC已流入混币器",
+            "en": "BitOK Traces 87.8 BTC From Bitget's ~$388M Hack as Stolen Funds Reach Mixers"
+          },
+          "summary": {
+            "zh": "区块链取证公司BitOK的资金流报告显示，9月24日Bitget约3.88亿美元被盗案中，已有87.8枚比特币经由特定分支地址进入混币器 (mixers)，调查人员已锁定10个未花费输出。初步报告将攻击归因于第三方安全产品被窃取的凭证 (stolen credentials)，Mandiant也参与了调查。CertiK数据显示9月加密行业损失约7.72亿美元，第三季度累计达12.7亿美元。",
+            "en": "Blockchain forensics firm BitOK's fund-flow report shows that 87.8 BTC from the roughly $388 million Bitget hack on September 24 has reached mixers via a traced branch of the attack, with investigators pinpointing ten unspent outputs. Preliminary reports attribute the intrusion to credentials stolen through a third-party security product, with Mandiant also involved in the investigation. CertiK data shows industry losses of about $772.4 million in September and $1.27 billion for Q3."
+          },
+          "sources": [
+            {
+              "name": "Brave New Coin",
+              "url": "https://bravenewcoin.com/insights/following-the-bitget-hack-bitok-traces-87-8-btc-as-stolen-funds-reach-mixers"
+            },
+            {
+              "name": "Kommunitas",
+              "url": "https://kommunitas.net/blog/bitget-hack-liquid-network-coldcard-custody-lessons"
+            }
+          ]
+        },
+        {
+          "id": "20261009-07",
+          "category": "regulation",
+          "time": "2026-10-02T12:00:00Z",
+          "title": {
+            "zh": "美国财政部发布GENIUS法案州级稳定币认证临时最终规则",
+            "en": "U.S. Treasury Issues Interim Final Rule on State Stablecoin Certifications Under GENIUS Act"
+          },
+          "summary": {
+            "zh": "美国财政部发布GENIUS法案 (GENIUS Act) 下首个具约束力的临时最终规则 (interim final rule)，9月30日即时生效：由稳定币认证审查委员会 (Stablecoin Certification Review Committee) 审批各州稳定币监管体制是否“实质相似”于联邦框架。流通量不超过100亿美元的发行人可选择州级监管，而Tether、Circle等超限发行人将被排除在州级路径之外。委员会在获得OMB批准前暂不受理认证申请。",
+            "en": "The U.S. Treasury published the first binding interim final rule under the GENIUS Act, effective September 30: the Stablecoin Certification Review Committee will approve or deny whether state stablecoin regulatory regimes are 'substantially similar' to the federal framework. Issuers with up to $10 billion in outstanding payment stablecoins may opt for state regulation, while issuers above the cap such as Tether and Circle are effectively excluded from the state pathway. The Committee will not accept certifications until OMB grants information-collection approval."
+          },
+          "sources": [
+            {
+              "name": "TFTC",
+              "url": "https://www.tftc.io/fed-genius-act-stablecoin-reserve-rules-forced-liquidation"
+            },
+            {
+              "name": "Paul Hastings",
+              "url": "https://www.paulhastings.com/insights/crypto-policy-tracker/sec-proposes-crypto-custody-framework-treasury-issues-interim-final-rule-on-state-stablecoin-certifications-cftc-submits-two-rules-to-the-white-house"
+            }
+          ]
+        },
+        {
+          "id": "20261009-08",
+          "category": "bitcoin",
+          "time": "2026-10-02T08:00:00Z",
+          "title": {
+            "zh": "花旗将比特币12个月目标价上调至11.3万美元，押注ETF资金回流",
+            "en": "Citi Raises 12-Month Bitcoin Target to $113,000, Betting on Returning ETF Flows"
+          },
+          "summary": {
+            "zh": "花旗分析师Alex Saunders在10月初的研究报告中，将比特币12个月基准目标价从8.2万美元上调至11.3万美元，以太坊目标价从2240美元上调至3028美元。银行预计未来12个月加密投资产品将吸引约50亿美元净流入 (net inflows)，理由是市场活跃度、宏观环境和ETF资金流三项指标同步改善。这是花旗在2026年连续两次下调后首次上调加密目标价。",
+            "en": "Citi analyst Alex Saunders raised the bank's 12-month base-case Bitcoin target to $113,000 from $82,000 in an early-October research note, lifting the Ether target to $3,028 from $2,240. The bank now expects roughly $5 billion in net inflows into crypto investment products over the next 12 months, citing improvement across all three of its tracked inputs: market activity, the macro backdrop, and ETF flows. It is Citi's first upgrade after two downgrades earlier in 2026."
+          },
+          "sources": [
+            {
+              "name": "Hindustan Times",
+              "url": "https://www.hindustantimes.com/world-news/us-news/bitcoin-price-prediction-can-btc-hit-90-000-in-october-as-oil-tops-100-and-fed-rate-hike-fears-rise-101790862275613.html"
+            },
+            {
+              "name": "Coinotag",
+              "url": "https://en.coinotag.com/citigroup-raises-bitcoin-btc-target-113000-etf-inflow-rebound"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-08",
       "items": [
         {
@@ -709,5 +898,5 @@
       ]
     }
   ],
-  "updated": "2026-10-07T08:15:00+09:00"
+  "updated": "2026-10-09"
 }
