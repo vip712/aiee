@@ -1,6 +1,264 @@
 {
   "days": [
     {
+      "date": "2026-10-10",
+      "items": [
+        {
+          "id": "20261010-01",
+          "category": "market",
+          "time": "2026-10-09T12:35:00Z",
+          "title": {
+            "zh": "比特币周五反弹1.8%至83,265美元，此前一度跌破81,000美元",
+            "en": "Bitcoin Rebounds 1.8% to $83,265 on Friday After Thursday Slide Toward $80,000"
+          },
+          "summary": {
+            "zh": "比特币周五（10月9日）反弹1.8%至83,265美元，此前周四交易时段曾跌至80,544美元，创下约两周半以来最低点。反弹受到美债收益率 (Treasury yields) 和油价回落的推动，市场押注中东局势有望缓和。本周加密市场全线下跌，24小时爆仓金额超过10.9亿美元，恐惧与贪婪指数 (Fear & Greed Index) 从72降至59。",
+            "en": "Bitcoin rose 1.8% to $83,265 on Friday, October 9, recovering after dropping to $80,544 during Thursday's session, its lowest level in about two and a half weeks. The rebound came as bond yields and oil prices retreated amid hopes for diplomatic progress in the Middle East. The week's selloff triggered over $1.09 billion in crypto liquidations in 24 hours, pushing the Crypto Fear & Greed Index down from 72 to 59."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears"
+            },
+            {
+              "name": "Morningstar (Dow Jones Newswires)",
+              "url": "https://www.morningstar.com/news/dow-jones/202610093318/bitcoin-recovers-some-ground-on-falling-yields-oil-update"
+            }
+          ]
+        },
+        {
+          "id": "20261010-02",
+          "category": "tech",
+          "time": "2026-10-09T10:00:00Z",
+          "title": {
+            "zh": "Ledger调查与马来西亚经销商CryptoBilis相关的钱包资金被盗事件",
+            "en": "Ledger Investigates Wallet Drains Linked to Malaysian Reseller CryptoBilis"
+          },
+          "summary": {
+            "zh": "Ledger于10月9日宣布正在调查东南亚用户报告的资金被盗事件，受影响钱包据称购自马来西亚经销商CryptoBilis，公司已要求该经销商暂停一切销售。链上调查者Specter追踪到涉及比特币 (Bitcoin)、以太坊 (Ethereum) 和波场 (TRON) 的数百个受害钱包，估计损失超过8600万美元，但该数字尚未独立确认。Ledger尚未确认攻击方式，也不建议用户继续使用近90天内从该经销商购得的设备。",
+            "en": "Ledger said on October 9 it is investigating reports of funds drained from wallets bought through Malaysian reseller CryptoBilis, asking the reseller to pause all sales pending the probe. On-chain investigator Specter traced inflows to theft addresses from hundreds of victim wallets across Bitcoin, Ethereum and Tron, estimating losses above $86 million — a figure not yet independently confirmed. Ledger has not confirmed the attack vector and advised users who bought devices from the reseller in the past 90 days to stop using them."
+          },
+          "sources": [
+            {
+              "name": "MyBroadband",
+              "url": "https://mybroadband.co.za/news/cryptocurrency/671633-bitcoin-stolen-from-ledger-hardware-wallets.html"
+            },
+            {
+              "name": "Blockonomi",
+              "url": "https://blockonomi.com/ledger-investigates-86m-crypto-losses-linked-to-suspected-fake-wallets/"
+            }
+          ]
+        },
+        {
+          "id": "20261010-03",
+          "category": "solana",
+          "time": "2026-10-09T08:00:00Z",
+          "title": {
+            "zh": "SOL测试110-116美元关键支撑区，ETF资金流转负",
+            "en": "SOL Tests $110–$116 Key Support Zone as ETF Flows Turn Negative"
+          },
+          "summary": {
+            "zh": "SOL在10月8日跌至约114.9美元，单日下跌2.5%，逼近110–116美元的关键日线支撑区间。压力主要来自ETF资金流转负：最近一周Solana现货ETF净流出113万美元，Bitwise的BSOL流出651万美元、Canary的SOLC流出478万美元，仅Grayscale的GSOL净流入538万美元部分对冲。若跌破该支撑区，下方支撑位见99–104美元。",
+            "en": "SOL fell to about $114.88 on October 8, down 2.5% over 24 hours, pressing against the closely watched $110–$116 daily support zone. The pressure came from reversed ETF flows: a $1.13 million net weekly outflow, with Bitwise's BSOL losing $6.51 million and Canary's SOLC $4.78 million, only partly offset by $5.38 million entering Grayscale's GSOL. A confirmed break of the zone would expose the $99–$104 demand area."
+          },
+          "sources": [
+            {
+              "name": "CVJ.AI",
+              "url": "https://cvj.ai/briefing/crypto-news/solana-tests-110-116-floor-as-etf-outflows-weigh-on-sol/"
+            },
+            {
+              "name": "CryptoNews.net",
+              "url": "https://cryptonews.net/news/analytics/33528887/"
+            }
+          ]
+        },
+        {
+          "id": "20261010-04",
+          "category": "market",
+          "time": "2026-10-09T06:00:00Z",
+          "title": {
+            "zh": "鹰派FOMC纪要叠加高油价：本周BTC周跌3.4%、ETH周跌8.4%",
+            "en": "Hawkish FOMC Minutes and High Oil Prices Weigh on Crypto; BTC Down 3.4%, ETH Down 8.4% on the Week"
+          },
+          "summary": {
+            "zh": "本周（10月2日至10月9日）加密货币市场先涨后跌：BTC从86,000美元上方回落，ETH从2,700美元上方大幅回落。宏观压力来自FOMC会议纪要显示多数与会者认为年底前再加息是合适的 (appropriate)，以及美国一年期通胀预期升至3.9%。据CoinGecko数据，BTC本周下跌3.4%至81,959美元，ETH下跌8.4%至2,481美元，山寨币表现弱于比特币。",
+            "en": "The crypto market rose then fell over the week of October 2–9: BTC retreated from above $86,000 while ETH pulled back sharply from above $2,700. Macro pressure came from hawkish FOMC minutes — most participants viewed another rate hike before year-end as appropriate — together with US one-year inflation expectations rising to 3.9%. CoinGecko data showed BTC down 3.4% to $81,959 on the week and ETH down 8.4% to $2,481, with altcoins underperforming Bitcoin."
+          },
+          "sources": [
+            {
+              "name": "Tokenlon Weekly",
+              "url": "https://tokenlon.medium.com/tokenlon-weekly-2026-10-2-10-9-799f070e3af9"
+            },
+            {
+              "name": "WEEX Weekly Market Recap",
+              "url": "https://www.weex.com/news/detail/high-yields-pressure-tech-as-pyth-buyback-expectations-rise-weex-weekly-market-recap-october-5-october-9-2026-ur7huuh8doqvmusbmmcm6eb5"
+            }
+          ]
+        },
+        {
+          "id": "20261010-05",
+          "category": "bitcoin",
+          "time": "2026-10-09T03:00:00Z",
+          "title": {
+            "zh": "比特币矿工迎来年内最好月份：9月收入11.2亿美元，算力逼近1 ZH/s",
+            "en": "Bitcoin Miners Post Best Month Since January: September Revenue $1.12B as Hashrate Nears 1 ZH/s"
+          },
+          "summary": {
+            "zh": "比特币挖矿9月收入达11.2亿美元，较8月增长11%，为1月以来最佳月份，反映挖矿经济回暖。网络算力 (Hashrate) 持续复苏：30日平均算力于10月1日达到944.6 EH/s，为6月中旬以来最高，7日估算值约983 EH/s，正重新逼近1 ZH/s大关。算力价格 (Hashprice) 回升至每PH/s每天40美元上方，为5月以来首次；挖矿难度 (Difficulty) 维持在132.72万亿左右，仍比一年前低约15%。",
+            "en": "Bitcoin miners earned $1.12 billion in September, up 11% from August and their best month since January, signaling improving mining economics. Network hashrate keeps recovering: the 30-day average hit 944.6 EH/s on October 1, its highest since mid-June, while the 7-day estimate stood near 983 EH/s, moving back toward the 1 zettahash-per-second threshold. Hashprice is back above $40 per PH/s per day for the first time since May; mining difficulty sits at 132.72 trillion, roughly 15% below where it was a year ago."
+          },
+          "sources": [
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/bitcoin-mining-statistics/"
+            },
+            {
+              "name": "MillionMiner",
+              "url": "https://millionminer.com/news/bitcoin-mining-update-october-2026"
+            }
+          ]
+        },
+        {
+          "id": "20261010-06",
+          "category": "regulation",
+          "time": "2026-10-08T14:00:00Z",
+          "title": {
+            "zh": "French Hill：SEC与CFTC的加密规则不足以替代国会立法",
+            "en": "French Hill: SEC and CFTC Crypto Rules Can't Replace Congressional Legislation"
+          },
+          "summary": {
+            "zh": "众议院金融服务委员会主席French Hill在10月7日接受Fox Business采访时表示，SEC与CFTC的加密监管行动不足以 (falls short) 替代国会立法，机构规则容易被未来政府推翻，而《CLARITY Act》才能提供永久性的法律确定性。Hill表示仍希望在跛脚鸭会期 (lame-duck session) 通过该法案，届时参议院仅剩22个立法日。",
+            "en": "House Financial Services Committee Chair French Hill told Fox Business on October 7 that SEC and CFTC crypto rulemaking falls short of a legislative solution, warning agency rules can be reversed while a statute would endure. He still hopes the CLARITY Act can pass in the post-election lame-duck session, with only 22 Senate session days remaining. The Senate's September 15 cloture vote failed 49–50, short of the 60 needed."
+          },
+          "sources": [
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill"
+            },
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill"
+            }
+          ]
+        },
+        {
+          "id": "20261010-07",
+          "category": "regulation",
+          "time": "2026-10-05T14:00:00Z",
+          "title": {
+            "zh": "CFTC启动加密市场结构规则制定，拟设新型交易所注册类别",
+            "en": "CFTC Launches Crypto Market-Structure Rulemaking, Proposes New Exchange Registration Category"
+          },
+          "summary": {
+            "zh": "美国商品期货交易委员会 (CFTC) 于10月5日发布《预先拟议规则制定通知》(ANPRM)，就针对加密资产零售商品交易 (CTXs) 制定全面框架征求公众意见，并计划为杠杆加密交易设立名为\"加密资产市场\"(crypto asset market, CAM) 的新型交易所注册类别。在参议院未能推进《CLARITY Act》后，CFTC与美国证券交易委员会 (SEC) 正各自在其现有职权范围内推进加密监管。",
+            "en": "The CFTC issued an Advance Notice of Proposed Rulemaking on October 5 seeking comment on a framework for retail crypto asset transactions, and proposed Regulation CTX / Regulation CAM plus a new \"crypto asset market\" exchange registration category for leveraged crypto trading. With the CLARITY Act stalled in the Senate, both the CFTC and SEC are now advancing crypto rules under their existing authority."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers"
+            },
+            {
+              "name": "Mondaq",
+              "url": "https://www.mondaq.com/unitedstates/commoditiesderivativesstock-exchanges/1852678/cftc-launches-crypto-market-structure-rulemaking-as-sec-advances-its-own-digital-asset-framework"
+            }
+          ]
+        },
+        {
+          "id": "20261010-08",
+          "category": "regulation",
+          "time": "2026-10-04T14:00:00Z",
+          "title": {
+            "zh": "社区银行协会起诉OCC，要求撤销加密公司信托牌照规则",
+            "en": "Community Bankers Sue OCC Over Crypto Trust Bank Charters"
+          },
+          "summary": {
+            "zh": "独立社区银行家协会 (ICBA) 于10月2日在华盛顿联邦法院起诉货币监理署 (OCC)，指控其超出法定权限，为不吸收存款、非受托业务的加密公司发放国家信托银行牌照 (national trust bank charters)。诉讼要求撤销OCC的信托牌照规则及授予加密托管商Protego的附条件牌照；ICBA称OCC已批准21张此类牌照，其中至少13张给了加密公司。",
+            "en": "The Independent Community Bankers of America sued the OCC in federal court on October 2, arguing it exceeded statutory authority by granting national trust bank charters to crypto firms that neither take deposits nor perform traditional fiduciary functions. The suit seeks to vacate the OCC's trust-charter rule and the conditional charter granted to crypto custodian Protego Holdings. ICBA says the OCC has approved 21 such charters, at least 13 of them to crypto firms."
+          },
+          "sources": [
+            {
+              "name": "PYMNTS",
+              "url": "https://www.pymnts.com/cryptocurrency/2026/community-banks-sue-occ-over-crypto-trust-bank-charters/"
+            },
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/community-bankers-sue-federal-bank-regulator-to-overturn-crypto-trust-charter-rule/"
+            }
+          ]
+        },
+        {
+          "id": "20261010-09",
+          "category": "tech",
+          "time": "2026-10-02T14:00:00Z",
+          "title": {
+            "zh": "Paradigm支持的Blast L2宣布终止运营，用户须在10月26日前提款",
+            "en": "Paradigm-Backed Blast L2 to Wind Down; Users Must Withdraw by Oct 26"
+          },
+          "summary": {
+            "zh": "以太坊Layer 2网络Blast于10月2日宣布将终止运营，原因是链的运营成本超过收入，且\"看不到可信的经济可持续路径\"。团队要求用户在10月26日前通过标准界面将资产转回以太坊主网，之后只能直接与跨链桥合约 (bridge contracts) 交互提款。该网络总锁仓价值 (TVL) 已从2024年2月主网前的超过20亿美元跌至约3200万美元，BLAST代币当日下跌约17%。",
+            "en": "Ethereum Layer 2 Blast announced on October 2 it will wind down operations because operating costs exceed revenue and it sees no credible path to economic sustainability. Users must withdraw assets to Ethereum mainnet via the standard interface by October 26, 2026; afterward, funds remain recoverable only by interacting directly with its bridge contracts. TVL fell from over $2 billion ahead of the February 2024 mainnet launch to about $32 million per DeFiLlama; the BLAST token fell roughly 17% on the day."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583"
+            },
+            {
+              "name": "Crowdfund Insider",
+              "url": "https://www.crowdfundinsider.com/2026/10/315222-paradigm-backed-blast-to-wind-down-ethereum-layer-2-as-operating-costs-outrun-revenue/"
+            }
+          ]
+        },
+        {
+          "id": "20261010-10",
+          "category": "solana",
+          "time": "2026-10-02T12:00:00Z",
+          "title": {
+            "zh": "Fiserv数字资产平台上线，北达科他州稳定币Roughrider Coin在Solana上结算",
+            "en": "Fiserv Digital Asset Platform Goes Live; Roughrider Coin Settles on Solana"
+          },
+          "summary": {
+            "zh": "支付巨头Fiserv于10月1日将其数字资产平台投入生产，首个落地产品是北达科他银行发行的美元稳定币Roughrider Coin，其交易在Solana区块链上结算（采用Token-2022标准）。北达科他州90多家银行与信用社可通过该平台进行约400毫秒完成的银行间转账，替代原先隔夜的ACH批量结算。该稳定币由VersaBank发行、Fireblocks提供基础设施，仅面向机构客户，不对公众发售。",
+            "en": "Payments giant Fiserv took its digital asset platform into live production on October 1, 2026, with Bank of North Dakota's dollar-backed Roughrider Coin as the first product, settling on the Solana blockchain under the Token-2022 standard. More than 90 North Dakota banks and credit unions can settle interbank transfers in about 400 milliseconds instead of overnight ACH batch processing. VersaBank issues the coin and Fireblocks supplies infrastructure; it is institutional-only, not sold to the public."
+          },
+          "sources": [
+            {
+              "name": "CryptoPotato (via CryptoRank)",
+              "url": "https://cryptorank.io/news/feed/d90b5-north-dakotas-roughrider-coin-goes-live-on-fiserv-and-solana"
+            },
+            {
+              "name": "Tech Times (citing Payments Dive)",
+              "url": "https://www.techtimes.com/articles/328454/20261002/fiserv-stablecoin-platform-activates-10000-banks-400ms-settlement-replaces-overnight-ach.htm"
+            }
+          ]
+        },
+        {
+          "id": "20261010-11",
+          "category": "ethereum",
+          "time": "2026-10-02T11:00:00Z",
+          "title": {
+            "zh": "EIP-8363质押奖励销毁提案作者将其从Hegotá升级纳入评审中撤回",
+            "en": "Authors Withdraw EIP-8363 Staking-Reward Burn Proposal From Hegotá Upgrade Consideration"
+          },
+          "summary": {
+            "zh": "以太坊质押奖励销毁提案EIP-8363（Tapered Issuance Burn，锥形发行销毁）作者于10月1日将其从下一次Hegotá升级的纳入评审中撤回。该提案计划随质押总量上升逐步销毁验证者协议奖励，质押达到6025万枚ETH时销毁比例达100%，分18个月逐步实施。作者认为发行政策 (issuance policy) 不应在硬分叉范围划定流程中决定，将转入独立的政策讨论流程；当前质押收益不受影响。",
+            "en": "The authors of EIP-8363 (\"Tapered Issuance Burn\") withdrew the proposal from consideration for Ethereum's Hegotá upgrade on October 1, 2026. The draft would have burned a rising share of validator rewards as total stake grew, reaching a 100% burn at 60.25 million staked ETH over an 18-month phase-in. Co-author Jérôme de Tychey said issuance policy should be settled in a dedicated process, not inside a fork-scoping exercise; current staking rewards are unchanged."
+          },
+          "sources": [
+            {
+              "name": "Daily Crypto Briefs",
+              "url": "https://dailycryptobriefs.com/news/ethereum-staking-reward-burn-withdrawn-hegota/"
+            },
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/authors-withdraw-ethereum-staking-reward-burn-plan-from-hegota-upgrade-seek-separate-process/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "items": [
         {
@@ -898,5 +1156,5 @@
       ]
     }
   ],
-  "updated": "2026-10-09"
+  "updated": "2026-10-10"
 }
