@@ -1,6 +1,241 @@
 {
   "days": [
     {
+      "date": "2026-10-11",
+      "items": [
+        {
+          "category": "market",
+          "id": "20261011-01",
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
+            },
+            {
+              "name": "CoinPulseHQ",
+              "url": "https://coinpulsehq.com/crypto-market-today-2026-10-10/"
+            }
+          ],
+          "summary": {
+            "en": "Bitcoin held steady near $83,000 over the weekend after rebounding more than 2% on Friday from Thursday's lows around $80,000. CoinDesk reported BTC climbing back above $83,000, while CoinPulseHQ's daily market roundup showed Worldcoin as the day's top mover with an 11% jump. Sentiment remains tied to Treasury yields and oil prices.",
+            "zh": "比特币在周末持稳于83,000美元附近，此前周五反弹逾2%，从周四80,000美元左右的低点回升。CoinDesk报道称比特币已重新站上83,000美元上方，而CoinPulseHQ的市场日报显示当日涨幅居前的是Worldcoin，大涨约11%。市场情绪仍受美债收益率与油价走势牵动。"
+          },
+          "time": "2026-10-10T16:00:00Z",
+          "title": {
+            "en": "Bitcoin Steady Near $83,000 Over the Weekend as Worldcoin Jumps 11%",
+            "zh": "比特币周末持稳于83,000美元附近，Worldcoin领涨11%"
+          }
+        },
+        {
+          "category": "solana",
+          "id": "20261011-02",
+          "sources": [
+            {
+              "name": "Bitget News",
+              "url": "https://www.bitget.ng/news/detail/12560605941957"
+            },
+            {
+              "name": "Cointribune",
+              "url": "https://www.cointribune.com/en/solana-overtakes-ethereum-on-dapps-crypto/"
+            }
+          ],
+          "summary": {
+            "en": "Token Terminal data published by Solana Hub on October 10 shows Solana's on-chain applications earned $38.2 million in seven days, more than three times Ethereum's $11.7 million, topping the ranking with Hyperliquid second at $14.8 million. Low fees and high throughput keep drawing trading apps to Solana at scale.",
+            "zh": "Token Terminal数据显示，Solana链上应用 (dApp) 过去7天收入达3,820万美元，约为以太坊（1,170万美元）的三倍以上，在Solana Hub于10月10日发布的榜单中居首，Hyperliquid以1,480万美元居第二。低手续费与高吞吐持续吸引交易类应用在Solana上大规模部署。"
+          },
+          "time": "2026-10-10T12:00:00Z",
+          "title": {
+            "en": "Solana dApp Revenue Hits $38.2M in Seven Days, More Than 3x Ethereum",
+            "zh": "Solana应用收入7天达3,820万美元，为以太坊三倍多"
+          }
+        },
+        {
+          "category": "tech",
+          "id": "20261011-03",
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses"
+            },
+            {
+              "name": "CryptoRank",
+              "url": "https://cryptorank.io/news/feed/b6248-tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls"
+            }
+          ],
+          "summary": {
+            "en": "THORChain technical co-founder Chad Barraford said Tether blacklisted four of the protocol's Tron vault addresses on October 9 without prior notice, freezing about 1.45 million USDT and halting Tron swaps and liquidity-provider operations for roughly three hours before reversing the action. The incident renewed debate over centralized stablecoin issuers' control of DeFi assets.",
+            "zh": "THORChain技术联合创始人Chad Barraford称，Tether于10月9日在无事先沟通的情况下，将THORChain四个TRON金库地址列入黑名单 (blacklist)，冻结约145万枚USDT，导致该链跨链兑换与流动性提供功能中断约三小时，随后全部解封。此事再次引发关于中心化稳定币发行方对DeFi协议资产控制权的讨论。"
+          },
+          "time": "2026-10-09T14:00:00Z",
+          "title": {
+            "en": "Tether Briefly Freezes About $1.45M USDT in THORChain Tron Vaults, Then Reverses",
+            "zh": "Tether临时冻结THORChain四个TRON金库约145万美元USDT，三小时后解封"
+          }
+        },
+        {
+          "category": "ethereum",
+          "id": "20261011-04",
+          "sources": [
+            {
+              "name": "Crypto News",
+              "url": "https://crypto.news/thailand-to-allow-bitcoin-ethereum-etfs/"
+            },
+            {
+              "name": "CryptoRank",
+              "url": "https://cryptorank.io/news/feed/a0ab6-thailand-sec-approves-bitcoin-ethereum-etfs"
+            }
+          ],
+          "summary": {
+            "en": "Thailand's Securities and Exchange Commission finalized 11 notifications allowing local asset managers to launch Bitcoin and Ethereum ETFs on the Stock Exchange of Thailand, effective October 16. Initially only BTC and ETH are eligible; each ETF must hold at least 80% of net asset value in a single cryptocurrency with SEC-regulated custodians, while Thai retail investors will be barred from foreign crypto ETFs.",
+            "zh": "泰国证券交易委员会 (SEC) 批准了11项新规，允许本地资产管理公司在泰国证券交易所 (SET) 发行比特币与以太坊ETF，规则自10月16日起生效。初期仅比特币和以太坊可作为底层资产，每只ETF须将至少80%的净资产配置于单一加密货币，并由受SEC监管的托管机构保管；泰国散户将不得购买海外加密ETF。"
+          },
+          "time": "2026-10-09T12:00:00Z",
+          "title": {
+            "en": "Thailand Approves Local Bitcoin and Ethereum ETFs, Framework Effective October 16",
+            "zh": "泰国批准本土比特币与以太坊ETF，规则10月16日生效"
+          }
+        },
+        {
+          "category": "bitcoin",
+          "id": "20261011-05",
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison"
+            },
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/regulation/28622"
+            }
+          ],
+          "summary": {
+            "en": "The U.S. Department of Justice announced that Empire Market co-creator Raheim Hamilton was sentenced to 40 years in federal prison and fined $5 million; as part of his plea, he agreed to forfeit about 1,230 Bitcoin (worth roughly $101 million) and 24.4 Ether. The dark-web market processed over 4 million transactions worth more than $430 million between 2018 and 2020, including nearly $375 million in drug sales.",
+            "zh": "美国司法部宣布，暗网市场Empire Market的联合创建者Raheim Hamilton被判处40年联邦监禁并罚款500万美元；作为认罪协议的一部分，他同意没收约1,230枚比特币（价值约1.01亿美元）及24.4枚以太坊。该市场2018年至2020年间促成超过400万笔交易，总额逾4.3亿美元，其中毒品销售额近3.75亿美元。"
+          },
+          "time": "2026-10-09T09:00:00Z",
+          "title": {
+            "en": "Empire Market Co-Founder Sentenced to 40 Years, Forfeits 1,230 Bitcoin",
+            "zh": "暗网市场Empire Market联合创始人被判40年监禁，没收1,230枚比特币"
+          }
+        },
+        {
+          "category": "regulation",
+          "id": "20261011-06",
+          "sources": [
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/regulation/28789"
+            },
+            {
+              "name": "BlockchainReporter",
+              "url": "https://blockchainreporter.net/esma-tokenized-collateral-review/"
+            }
+          ],
+          "summary": {
+            "en": "The European Securities and Markets Authority published a call for evidence asking banks, clearinghouses and custodians to show that central counterparties can access, transfer and quickly liquidate tokenized collateral under stress, including a clearing-member default. Responses are due January 15, 2027, and ESMA will assess in Q1 2027 whether further regulatory action is needed.",
+            "zh": "欧洲证券与市场管理局 (ESMA) 发布征求证据文件 (call for evidence)，要求银行、清算所和托管机构证明：在清算会员违约等压力情景下，中央对手方 (CCP) 能否获取、转移代币化抵押品并迅速将其变现。反馈截止2027年1月15日，ESMA将于2027年第一季度评估是否需要进一步监管行动。"
+          },
+          "time": "2026-10-09T07:28:00Z",
+          "title": {
+            "en": "ESMA Opens Call for Evidence on Tokenized Collateral, Testing Crisis Liquidity",
+            "zh": "ESMA就代币化抵押品公开征求证据，评估危机中的可变现性"
+          }
+        },
+        {
+          "category": "bitcoin",
+          "id": "20261011-07",
+          "sources": [
+            {
+              "name": "CoinPulseHQ",
+              "url": "https://coinpulsehq.com/el-salvador-bitcoin-reserves-imf-waiver-october-2026/"
+            },
+            {
+              "name": "CoinNess",
+              "url": "https://coinness.com/en/news/1171207"
+            }
+          ],
+          "summary": {
+            "en": "El Salvador added 7 BTC over the past week, lifting its national Bitcoin reserve to 7,798 coins worth more than $643 million. Notably, the IMF just approved a $138 million disbursement and granted a waiver for the country's earlier breach of Bitcoin-accumulation limits; the Fund determined additions since June 2025 came from private donations rather than public funds.",
+            "zh": "萨尔瓦多政府继续增持比特币，过去7天新增7枚，国家比特币储备达到7,798枚，价值逾6.43亿美元。值得注意的是，IMF刚刚批准向萨尔瓦多拨付1.38亿美元贷款，并就此前政府增持比特币违反贷款条款给予豁免 (waiver)；IMF认定2025年6月之后的新增部分来自私人捐赠而非公共资金。"
+          },
+          "time": "2026-10-08T15:58:00Z",
+          "title": {
+            "en": "El Salvador Adds 7 BTC, National Reserve Hits 7,798 Coins",
+            "zh": "萨尔瓦多一周增持7枚比特币，国家储备达7,798枚"
+          }
+        },
+        {
+          "category": "market",
+          "id": "20261011-08",
+          "sources": [
+            {
+              "name": "CoinGape",
+              "url": "https://coingape.com/russia-moscow-exchange-plans-to-launch-crypto-trading-in-december/"
+            },
+            {
+              "name": "CryptoTimes",
+              "url": "https://www.cryptotimes.io/2026/10/08/moscow-exchange-plans-december-1-start-for-crypto-trading-in-russia/"
+            }
+          ],
+          "summary": {
+            "en": "Moscow Exchange senior managing director Boris Blokhin confirmed the bourse plans to launch crypto trading on December 1 under Russia's new digital-asset legislation, with testing underway alongside professional traders. The initial lineup is Bitcoin, Ethereum, Solana, XRP and Tron; the Bank of Russia has begun registering crypto exchange operators and custodians, and Sberbank plans its own crypto products the same day.",
+            "zh": "俄罗斯最大证券交易所莫斯科交易所 (MOEX) 高管Boris Blokhin确认，计划依据9月1日生效的加密货币市场立法，于12月1日推出加密货币交易服务，目前正与专业交易者进行系统测试。首批上市资产为比特币、以太坊、Solana、XRP和TRON；俄罗斯央行已开始登记加密交易运营商与托管商，Sberbank也计划同日推出加密产品。"
+          },
+          "time": "2026-10-08T12:00:00Z",
+          "title": {
+            "en": "Moscow Exchange Plans December 1 Crypto Trading Launch With BTC, ETH, SOL, XRP, TRX",
+            "zh": "莫斯科交易所计划12月1日上线加密货币交易，首批含BTC、ETH、SOL、XRP、TRX"
+          }
+        },
+        {
+          "category": "solana",
+          "id": "20261011-09",
+          "sources": [
+            {
+              "name": "PR Newswire",
+              "url": "https://www.prnewswire.com/news-releases/samsung-partners-with-solana-to-natively-deliver-stablecoins-in-samsung-wallet-to-82-million-us-galaxy-devices-302901200.html"
+            },
+            {
+              "name": "Analytics Insight",
+              "url": "https://www.analyticsinsight.net/news/samsung-solana-deal-usdc-coming-to-82-million-galaxy-devices"
+            }
+          ],
+          "summary": {
+            "en": "The Solana Foundation announced that Samsung Wallet and Samsung Pay will support cross-border transfers using stablecoins on Solana. U.S. users can send USDC abroad from late October directly inside the wallet, with built-in fiat on- and off-ramps; the launch covers 82 million Galaxy devices, with Coinbase providing custody via Prime Vault. Foundation president Lily Liu called it a step toward stablecoins entering everyday use.",
+            "zh": "Solana基金会宣布，三星钱包 (Samsung Wallet) 与Samsung Pay将支持Solana链上的稳定币 (stablecoin) 跨境转账。美国用户自10月最后一周起可直接在钱包内用USDC向海外汇款，内置法币出入金通道；首批覆盖8,200万台Galaxy设备，Coinbase将通过Prime Vault提供托管支持。Lily Liu表示这是稳定币走向大众日常使用的关键一步。"
+          },
+          "time": "2026-10-08T00:05:00Z",
+          "title": {
+            "en": "Samsung Partners With Solana to Bring USDC Transfers to 82 Million Galaxy Devices",
+            "zh": "三星与Solana合作，8,200万台Galaxy设备将支持USDC跨境转账"
+          }
+        },
+        {
+          "category": "tech",
+          "id": "20261011-10",
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
+            },
+            {
+              "name": "CryptoRank",
+              "url": "https://cryptorank.io/news/feed/a2b30-ai-could-break-bitcoin-wallet-signatures"
+            }
+          ],
+          "summary": {
+            "en": "Ethereum Foundation researcher Justin Drake urged the industry to plan for 'bunker mode' after OpenAI released 722 mathematics manuscripts, arguing AI could break the elliptic-curve signatures (ECDSA) securing Bitcoin and Ether wallets 'in months, not years,' and recommending an orderly migration of funds to fresh addresses. Ethereum co-founder Vitalik Buterin responded that the risk is real but holders should not panic.",
+            "zh": "以太坊基金会研究员Justin Drake在X上呼吁行业为“掩体模式 (bunker mode)”做准备：在OpenAI近日发布722份数学研究成果之后，他认为人工智能可能在“数月而非数年”内破解保护比特币与以太坊钱包的椭圆曲线签名 (ECDSA)，建议资金有序迁移至公钥从未暴露的新地址。以太坊联合创始人Vitalik Buterin回应称风险真实但无需恐慌。"
+          },
+          "time": "2026-10-07T20:00:00Z",
+          "title": {
+            "en": "Ethereum Researcher Justin Drake Urges 'Bunker Mode' as AI Could Crack Wallet Signatures Before Quantum",
+            "zh": "以太坊研究员Justin Drake呼吁为“掩体模式”做准备：AI或先于量子计算机破解钱包签名"
+          }
+        }
+      ]
+    },
+    {
       "date": "2026-10-10",
       "items": [
         {
@@ -1156,5 +1391,5 @@
       ]
     }
   ],
-  "updated": "2026-10-10"
+  "updated": "2026-10-11"
 }
