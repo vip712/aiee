@@ -1,6 +1,287 @@
 {
   "days": [
     {
+      "date": "2026-10-12",
+      "items": [
+        {
+          "id": "20261012-01",
+          "category": "market",
+          "time": "2026-10-11T16:00:00Z",
+          "title": {
+            "zh": "加密市场迎关键一周：比特币守83,000美元、以太坊约2,500美元，周三CPI成焦点",
+            "en": "Crypto Enters a Key Week: Bitcoin Near $83,000, Ether Near $2,500, Wednesday CPI in Focus"
+          },
+          "summary": {
+            "zh": "加密市场以比特币 (Bitcoin) 约83,000美元、以太坊 (Ethereum) 约2,500美元开启10月12日至18日的一周。美国9月消费者价格指数 (CPI) 定于周三10月14日公布，市场预期总体通胀率约3.7%；同周还有Aptos与Arbitrum代币解锁 (token unlock) 以及周五约12.5亿美元的期权到期 (options expiry)。",
+            "en": "Crypto markets enter the week of October 12-18 with Bitcoin near $83,000 and Ethereum near $2,500. U.S. September CPI data arrives Wednesday, October 14, with headline inflation expected near 3.7%; the calendar also includes Aptos and Arbitrum token unlocks and a Friday options expiry of about $1.25 billion."
+          },
+          "sources": [
+            {
+              "name": "TalkMarkets",
+              "url": "https://talkmarkets.com/article/crypto-week-ahead-what-to-know-about-cpi-data-bitcoin-etf-flows-and-token-unlock"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/crypto-week-ahead-what-to-know-about-cpi-data-bitcoin-etf-flows-and-token-unlocks/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-02",
+          "category": "bitcoin",
+          "time": "2026-10-11T10:00:00Z",
+          "title": {
+            "zh": "比特币现货ETF录得6月底以来最差一周：净流出约6.81亿美元",
+            "en": "Spot Bitcoin ETFs Post Worst Week Since Late June With About $681M in Net Outflows"
+          },
+          "summary": {
+            "zh": "美国现货比特币ETF (Spot Bitcoin ETF) 在截至10月9日的一周净流出约6.81亿美元，为6月底以来最差单周表现，周五单日转为净流入2,110万美元，其中贝莱德IBIT贡献约2,240万美元。多家报道指出，机构需求 (institutional demand) 明显降温，比特币周末在81,300至85,200美元的窄幅区间内交投。",
+            "en": "U.S. spot Bitcoin ETFs recorded about $681 million in net outflows in the week to October 9, their worst week since late June, before returning to a $21.1 million inflow on Friday, with BlackRock's IBIT accounting for about $22.4 million. Reports point to cooled institutional demand, while Bitcoin traded over the weekend inside a narrow $81,300-$85,200 range."
+          },
+          "sources": [
+            {
+              "name": "FXLeaders",
+              "url": "https://www.fxleaders.com/news/2026/10/11/bitcoin-price-consolidates-and-eyes-100k-despite-btc-etf-selloff-on-treasury-buybacks-and-crypto-catalysts/"
+            },
+            {
+              "name": "RespectInvestment",
+              "url": "https://respectinvestment.com/investor-strategy/bitcoin-price-week-ahead-bull-and-bear-case-from-83000/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-03",
+          "category": "solana",
+          "time": "2026-10-11T09:00:00Z",
+          "title": {
+            "zh": "Solana完成出块时间减半：200毫秒槽位在主网epoch 1053生效",
+            "en": "Solana Completes Block-Time Halving: 200-Millisecond Slots Live at Epoch 1053"
+          },
+          "summary": {
+            "zh": "Solana已完成SIMD-0525分阶段升级，目标槽位时间 (slot time) 从最初的400毫秒降至200毫秒，最终一步于10月9日在epoch 1053生效，每秒可提供5次出块机会。每个区块的计算上限 (compute units) 同步降至3,000万单位，因此网络总处理能力大致不变；验证者投票与网络压力则相应上升。",
+            "en": "Solana has completed its staged SIMD-0525 upgrade, cutting target slot time from the original 400 milliseconds to 200 milliseconds, with the final step taking effect at epoch 1053 on October 9 and allowing five block-production opportunities per second. Each block's compute limit falls to 30 million compute units, keeping overall processing capacity roughly unchanged while validator voting demands rise."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears"
+            },
+            {
+              "name": "BitcoinVersus",
+              "url": "https://bitcoinversus.tech/2026/10/11/solana-cuts-slot-time-200-milliseconds/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-04",
+          "category": "market",
+          "time": "2026-10-11T08:00:00Z",
+          "title": {
+            "zh": "本周代币解锁日历：Aptos释放1,131万枚APT，Arbitrum将于10月16日解锁",
+            "en": "This Week's Token Unlock Calendar: Aptos Releases 11.31M APT, Arbitrum Unlock Due October 16"
+          },
+          "summary": {
+            "zh": "Aptos于10月11日释放1,131万枚APT (token unlock)，估值约906万美元，分配给核心贡献者、社区、投资者与基金会。Arbitrum定于10月16日解锁约9,270万枚ARB，估值约1,990万美元；供应释放与周五的期权到期叠加，成为本周需要关注的流动性 (liquidity) 事件。",
+            "en": "Aptos released 11.31 million APT on October 11, valued at about $9.06 million, allocated to core contributors, the community, investors and the foundation. Arbitrum is scheduled to unlock about 92.7 million ARB on October 16, valued at roughly $19.9 million; together with Friday's options expiry, the supply events are key liquidity items on this week's calendar."
+          },
+          "sources": [
+            {
+              "name": "CryptoRank",
+              "url": "https://cryptorank.io/news/feed/3832e-crypto-token-unlocks-hype-ena-apt-october"
+            },
+            {
+              "name": "Crypto-Corner",
+              "url": "https://crypto-corner.com/2026/09/22/upcoming-token-unlocks-sep-oct-2026/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-05",
+          "category": "ethereum",
+          "time": "2026-10-11T07:00:00Z",
+          "title": {
+            "zh": "以太坊Glamsterdam升级在Sepolia运行，区块gas上限测试近2亿",
+            "en": "Ethereum's Glamsterdam Upgrade Runs on Sepolia, Testing a Near-200M Gas Limit"
+          },
+          "summary": {
+            "zh": "以太坊下一次硬分叉Glamsterdam已于10月6日在Sepolia测试网 (testnet) 激活，引入协议内提议者-构建者分离 (ePBS, EIP-7732) 与区块级访问列表 (block-level access lists, EIP-7928)，以支持并行处理。Sepolia区块的gas上限 (gas limit) 已升至近2亿，约为此前6,000万的三倍多；Hoodi测试网与主网日期尚未确定。",
+            "en": "Ethereum's next hard fork, Glamsterdam, activated on the Sepolia testnet on October 6, introducing enshrined proposer-builder separation (ePBS, EIP-7732) and block-level access lists (EIP-7928) to support parallel processing. Sepolia blocks are running with a gas limit near 200 million, more than three times the previous roughly 60 million; dates for the Hoodi testnet and mainnet remain undecided."
+          },
+          "sources": [
+            {
+              "name": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/ethereum-sepolia-forks-gloas-200m-gas/"
+            },
+            {
+              "name": "BitcoinVersus",
+              "url": "https://bitcoinversus.tech/2026/10/11/ethereum-glamsterdam-upgrade-live-sepolia/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-06",
+          "category": "bitcoin",
+          "time": "2026-10-11T02:00:00Z",
+          "title": {
+            "zh": "Coldcard官方X账号被盗用发布钓鱼帖，假称Mk4、Mk5与Q存在固件漏洞",
+            "en": "Coldcard's Official X Account Used for Phishing Post Falsely Claiming Firmware Flaw in Mk4, Mk5 and Q"
+          },
+          "summary": {
+            "zh": "比特币硬件钱包厂商Coldcard的官方X账号于10月11日约02:00 UTC发布一条钓鱼帖 (phishing)，假称Mk4、Mk5与Q设备存在严重固件漏洞，诱导用户通过虚假迁移页面转移资产，该帖随后被删除。公司表示其内部审查未发现异常登录记录，已联系X展开调查，并提醒用户其唯一官网为coldcard.com；目前尚无经证实的用户损失报告。",
+            "en": "A phishing post appeared on Bitcoin hardware-wallet maker Coldcard's official X account around 02:00 UTC on October 11, falsely claiming a critical firmware vulnerability in the Mk4, Mk5 and Q devices and urging users to move funds through a fake migration page; the post was later deleted. The company said an internal review found no matching login records, that it has contacted X for an investigation, and that coldcard.com is its only official website; no verified user losses have been reported."
+          },
+          "sources": [
+            {
+              "name": "Coinotag",
+              "url": "https://en.coinotag.com/coldcard-x-account-compromised-fake-bitcoin-firmware-alert"
+            },
+            {
+              "name": "TradingView (CryptoBriefing)",
+              "url": "https://www.tradingview.com/news/cryptobriefing:47f3e8e9a094b:0-coldcard-investigates-phishing-link-posted-on-its-x-account-after-exploit/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-07",
+          "category": "tech",
+          "time": "2026-10-10T18:00:00Z",
+          "title": {
+            "zh": "Ledger确认一台受影响设备含未授权硬件植入，CryptoBilis停售全部硬件钱包",
+            "en": "Ledger Confirms Unauthorized Hardware Implant in One Affected Device; CryptoBilis Halts All Hardware Wallet Sales"
+          },
+          "summary": {
+            "zh": "Ledger于10月10日确认，在CryptoBilis调查中，一名受影响用户的设备内发现未授权硬件植入 (hardware implant)，这是公司首次证实物理篡改 (physical tampering)。链上分析公司Bitquery估计311个钱包损失约9,290万美元，调查者Specter的估计超过8,600万美元，但Ledger尚未证实任何数字；CryptoBilis已停售全部硬件钱包。",
+            "en": "Ledger confirmed on October 10 that a device belonging to one affected user in the CryptoBilis investigation contained an unauthorized hardware implant, its first confirmation of physical tampering. Blockchain analytics firm Bitquery estimated about $92.9 million lost across 311 wallets and investigator Specter put losses above $86 million, but Ledger has not verified any figure; CryptoBilis has halted sales of all hardware wallets."
+          },
+          "sources": [
+            {
+              "name": "crypto.news",
+              "url": "https://crypto.news/ledger-confirms-hidden-chip-in-crypto-wallet-amid-92m/"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/ledger-confirms-hidden-implant-in-hardware-wallet-as-93-million-theft-probe-grows/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-08",
+          "category": "ethereum",
+          "time": "2026-10-10T14:00:00Z",
+          "title": {
+            "zh": "现货以太坊ETF连续第九日净流出：10月9日流出5,610万美元，全部来自贝莱德ETHA",
+            "en": "Spot Ether ETFs See Ninth Straight Outflow Day: $56.1M Leaves on October 9, All From BlackRock's ETHA"
+          },
+          "summary": {
+            "zh": "美国现货以太坊ETF (Spot Ether ETF) 于10月9日净流出5,610万美元，连续第九个交易日流出，且当日流出全部来自贝莱德的ETHA。自9月29日以来累计流出约6.97亿美元，基金总资产降至约157.1亿美元；ETH同期交投于2,496美元附近。",
+            "en": "U.S. spot Ether ETFs posted $56.1 million in net outflows on October 9, a ninth straight day of withdrawals, with the entire amount coming from BlackRock's ETHA. Cumulative outflows since September 29 total about $697 million and total fund assets have fallen to roughly $15.71 billion, while ETH traded near $2,496."
+          },
+          "sources": [
+            {
+              "name": "CryptoRank (BeInCrypto)",
+              "url": "https://cryptorank.io/news/feed/73a7c-ethereum-etf-outflows-nine-days-shorts"
+            },
+            {
+              "name": "Pluang",
+              "url": "https://pluang.com/en/news-feed/etf-ethereum-aset-asli-as-kena-keluar-rp542-miliar-eth-turun-di-bawah-2500"
+            }
+          ]
+        },
+        {
+          "id": "20261012-09",
+          "category": "solana",
+          "time": "2026-10-10T12:00:00Z",
+          "title": {
+            "zh": "Santiment：Solana网络增长自9月初以来跃升124%，日增约171万个新钱包",
+            "en": "Santiment: Solana Network Growth Up 124% Since Early September, About 1.71M New Wallets a Day"
+          },
+          "summary": {
+            "zh": "链上分析公司Santiment数据显示，Solana网络增长 (network growth) 自9月初以来跃升124%，每日新建钱包约171万个；日活跃地址 (daily active addresses) 同期上升58%，达到约427万个。网络上持有稳定币的地址数也在10月7日突破1,400万；分析同时提醒，地址增长不等同于真实新增用户。",
+            "en": "On-chain analytics firm Santiment reports Solana network growth has jumped 124% since early September, with about 1.71 million new wallets created daily. Daily active addresses rose 58% over the same period to roughly 4.27 million, and addresses holding stablecoins on the network passed 14 million on October 7; analysts caution that address growth does not equal the same number of new human users."
+          },
+          "sources": [
+            {
+              "name": "CryptoRank (ZyCrypto)",
+              "url": "https://cryptorank.io/news/feed/13a1c-solana-is-primed-for-a-massive-2027-as-user-adoption-hits-rooftop-levels"
+            },
+            {
+              "name": "Gate Blog",
+              "url": "https://gateiolink.net/blog/solana-sol-network-growth-124-percent-daily-active-addresses-price-pullback"
+            }
+          ]
+        },
+        {
+          "id": "20261012-10",
+          "category": "tech",
+          "time": "2026-10-10T10:00:00Z",
+          "title": {
+            "zh": "OKX获Circle、Ripple等战略投资，OKXICE代币化美股场所成SEC豁免框架早期测试",
+            "en": "OKX Draws Strategic Investment From Circle and Ripple as OKXICE Tokenized-Stock Venue Tests SEC Exemption"
+          },
+          "summary": {
+            "zh": "OKX披露获得Circle、Ripple、QRT与渣打银行旗下SC Ventures的战略投资 (strategic investment)，此前ICE已入股。其与ICE的合资企业OKXICE计划在SEC创新豁免 (Innovation Exemption) 下推出代币化美股 (tokenized stocks) 场所，覆盖63家美国公司、在X Layer上以USDC、USDT、USDG结算，代币保留分红与投票权；分析师认为机构采用程度仍待观察。",
+            "en": "OKX disclosed strategic investments from Circle, Ripple, QRT and Standard Chartered's SC Ventures, following an earlier investment by ICE. Its OKXICE joint venture with ICE plans a tokenized-stock venue under the SEC Innovation Exemption covering 63 U.S. companies, settling in USDC, USDT and USDG on X Layer with tokens retaining dividend and voting rights; analysts say the scale of institutional adoption remains to be seen."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots"
+            },
+            {
+              "name": "TradersUnion",
+              "url": "https://tradersunion.com/news/brokers-news/show/3750959-okx-launches-tokenized-stocks-platform/"
+            }
+          ]
+        },
+        {
+          "id": "20261012-11",
+          "category": "regulation",
+          "time": "2026-10-09T16:00:00Z",
+          "title": {
+            "zh": "贝森特：美国本周可能再扣押约10亿美元与伊朗关联的加密货币",
+            "en": "Bessent: U.S. May Seize Another $1B in Iran-Linked Crypto This Week"
+          },
+          "summary": {
+            "zh": "美国财政部长Scott Bessent在华盛顿Newsmax政策峰会上表示，美国本周可能再扣押约10亿美元与伊朗关联的加密货币，并称当局已掌握资金位置，正推进所谓绝对孤立 (absolute isolation) 行动。他未说明涉及的具体资产或钱包；此前Tether已在2026年配合制裁执法冻结约5.5亿美元USDT。",
+            "en": "U.S. Treasury Secretary Scott Bessent told the Newsmax Policy Summit in Washington that the United States may seize about another $1 billion in Iran-linked cryptocurrency this week, saying authorities know where the funds are as part of an 'absolute isolation' campaign. He did not specify the assets or wallets involved; Tether has previously frozen about $550 million in USDT during 2026 as part of sanctions enforcement."
+          },
+          "sources": [
+            {
+              "name": "CoinEdition",
+              "url": "https://coinedition.com/crypto-live-news/us-eyes-1b-iran-linked-crypto-seizure-as-treasury-steps-up/"
+            },
+            {
+              "name": "CryptoRank (Coinpedia)",
+              "url": "https://cryptorank.io/news/feed/6ea45-u-s-plans-to-seize-another-1b-in-iran-linked-crypto-bessent-says"
+            }
+          ]
+        },
+        {
+          "id": "20261012-12",
+          "category": "regulation",
+          "time": "2026-10-06T14:00:00Z",
+          "title": {
+            "zh": "FinCEN撤回两项加密拟议规则：自托管钱包报告与混币特别措施均终止",
+            "en": "FinCEN Withdraws Two Proposed Crypto Rules: Unhosted-Wallet Reporting and Mixer Special Measure"
+          },
+          "summary": {
+            "zh": "美国金融犯罪执法局 (FinCEN) 于10月5日宣布、10月6日在《联邦公报》刊登，正式撤回两项拟议规则：2020年的非托管钱包 (unhosted wallet) 交易报告要求，以及2023年将国际加密混币 (CVC mixing) 列为主要洗钱关切的特别措施。FinCEN援引公众意见称，两项提案可能对合法活动产生寒蝉效应 (chilling effect) 并带来沉重报告负担；现有《银行保密法》义务不变。",
+            "en": "The U.S. Financial Crimes Enforcement Network (FinCEN) announced on October 5, with Federal Register publication on October 6, the withdrawal of two proposed rules: the 2020 unhosted-wallet transaction reporting requirements and the 2023 special measure treating international CVC mixing as a primary money-laundering concern. FinCEN cited public comments that the proposals could chill legitimate activity and impose heavy reporting burdens; existing Bank Secrecy Act obligations remain unchanged."
+          },
+          "sources": [
+            {
+              "name": "CryptoDaily",
+              "url": "https://cryptodaily.co.uk/2026/10/fincen-withdraws-self-hosted-wallet-crypto-mixing-rules"
+            },
+            {
+              "name": "Forkast",
+              "url": "https://forkast.news/the-enforcement-layer-just-vanished-from-the-us-crypto-regulatory-stack/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-11",
       "items": [
         {
