@@ -1,6 +1,218 @@
 {
  "days": [
   {
+   "date": "2026-10-14",
+   "items": [
+    {
+     "id": "20261014-01",
+     "category": "market",
+     "time": "2026-10-14T05:00:00Z",
+     "title": {
+      "zh": "比特币在CPI公布前于8.34万美元附近盘整，市场屏息等待9月通胀数据",
+      "en": "Bitcoin Consolidates Near $83,400 Ahead of Today's September CPI Print"
+     },
+     "summary": {
+      "zh": "比特币 (Bitcoin) 在10月14日美国9月CPI (消费者价格指数) 公布前进入观望模式，价格在约8.34万至8.38万美元之间横盘。9月16日美联储 (Federal Reserve) 已加息至3.75%-4%区间，若通胀高于预期，可能强化12月再加息的预期并打压风险资产。",
+      "en": "Bitcoin held a pre-release holding pattern near $83,400-$83,800 ahead of the September US CPI print due at 8:30 a.m. ET on October 14. With the Fed already back in a hiking cycle at 3.75%-4%, a hotter-than-expected print could strengthen expectations of another hike and weigh on risk assets, while a soft print would ease rate fears."
+     },
+     "sources": [
+      {
+       "name": "Coinotag",
+       "url": "https://en.coinotag.com/bitcoin-btc-us-cpi-october-14-fed-data-week"
+      },
+      {
+       "name": "Spheric Media",
+       "url": "https://spheric.media/why-did-bitcoins-latest-rally-stop-near-84000/"
+      }
+     ]
+    },
+    {
+     "id": "20261014-02",
+     "category": "tech",
+     "time": "2026-10-13T14:00:00Z",
+     "title": {
+      "zh": "Ledger披露CryptoBilis植入细节：通过eSIM和蜂窝网络窃取24词助记词",
+      "en": "Ledger Details LTE Implants That Copied 24-Word Recovery Phrases via Cellular Networks"
+     },
+     "summary": {
+      "zh": "Ledger安全团队 (Ledger Donjon) 披露，CryptoBilis渠道售出的设备中的恶意植入体会在设置时截取屏幕显示的24词助记词 (recovery phrase)，通过内置eSIM (嵌入式SIM卡) 经由LTE网络传出。公司强调植入体未破坏安全芯片，也未篡改交易，并正在核查CryptoBilis之外的报告。",
+      "en": "Ledger's security team (Ledger Donjon) disclosed that malicious implants in devices sold via CryptoBilis captured the 24-word recovery phrase shown during setup and transmitted it over LTE networks using an embedded eSIM. The company stressed the implant did not compromise the secure chip or alter transactions, and said it is examining reports beyond the CryptoBilis reseller."
+     },
+     "sources": [
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis"
+      },
+      {
+       "name": "SecurityWeek",
+       "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/"
+      }
+     ]
+    },
+    {
+     "id": "20261014-03",
+     "category": "ethereum",
+     "time": "2026-10-13T12:00:00Z",
+     "title": {
+      "zh": "ENS创始人向DAO提交ENSv2主网激活提案，新.eth注册将暂停数小时",
+      "en": "ENS Founder Submits ENSv2 Mainnet Activation Proposal to DAO; New .eth Registrations Would Pause"
+     },
+     "summary": {
+      "zh": "以太坊域名服务 (Ethereum Name Service, ENS) 创始人Nick Johnson向ENS DAO提交可执行提案，请求激活ENSv2命名系统主网。提案要求冻结旧注册器的新注册，现有域名持有人可继续续费无需迁移；通过需要100万票的多数支持及7天链上投票 (onchain vote)。",
+      "en": "Ethereum Name Service (ENS) founder Nick Johnson submitted an executable draft proposal to the ENS DAO seeking to activate the ENSv2 naming system on mainnet. The proposal would freeze new registrations on the original registrar while existing holders keep their names without migrating; passage requires a majority of at least 1 million ENS votes over a seven-day onchain vote."
+     },
+     "sources": [
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations"
+      },
+      {
+       "name": "crypto.news",
+       "url": "https://crypto.news/ens-seeks-approval-for-major-eth-domain-upgrade/"
+      }
+     ]
+    },
+    {
+     "id": "20261014-04",
+     "category": "tech",
+     "time": "2026-10-13T09:00:00Z",
+     "title": {
+      "zh": "Autheo的THEO代币疑遭跨链桥攻击，24小时暴跌92%",
+      "en": "Autheo's THEO Token Plunges 92% After Suspected Cross-Chain Bridge Exploit"
+     },
+     "summary": {
+      "zh": "Autheo团队证实正调查一起涉及THEO代币的安全事件，并警告持币者在调查结束前不要买卖或跨链桥接 (bridge) THEO。区块链安全公司PeckShield报告攻击者在Base链上未经授权铸造约1900万THEO并兑换为约700.8 ETH (约176万美元)；另一位研究者称铸造量可能高达1.19亿枚。",
+      "en": "The Autheo team confirmed it is investigating a security incident involving the THEO token and warned holders not to buy, sell, or bridge THEO until its investigation concludes. Blockchain security firm PeckShield reported the attacker minted about 19 million THEO on Base without authorization and swapped them for roughly 700.8 ETH (about $1.76 million); another researcher claimed unauthorized minting could be as high as 119 million tokens."
+     },
+     "sources": [
+      {
+       "name": "crypto.news",
+       "url": "https://crypto.news/autheo-theo-token-plunges-92-after-suspected-bridge-exploit/"
+      },
+      {
+       "name": "Crypto Times",
+       "url": "https://www.cryptotimes.io/2026/10/13/autheo-theo-crashes-over-90-after-1-7m-hyperlane-bridge-exploit-on-base/"
+      }
+     ]
+    },
+    {
+     "id": "20261014-05",
+     "category": "solana",
+     "time": "2026-10-13T04:00:00Z",
+     "title": {
+      "zh": "Pando Finance香港第二只SOL现货ETF今日上市，管理费0.6%",
+      "en": "Pando Finance Lists Hong Kong's Second Spot Solana ETF Today With 0.6% Management Fee"
+     },
+     "summary": {
+      "zh": "Pando Finance的SOL现货ETF (代码02831) 今日在香港交易所 (Hong Kong Stock Exchange) 上市，成为继华夏 (ChinaAMC) 之后香港第二只直接持有SOL的产品。基金年管理费0.6%、预计经常性开支1.6%，通过HashKey交易与托管，且不进行质押 (staking)、不使用衍生品。",
+      "en": "Pando Finance's spot Solana ETF (ticker 02831) listed on the Hong Kong Stock Exchange today, becoming Hong Kong's second fund directly holding SOL after ChinaAMC's product. The fund charges a 0.6% annual management fee with an estimated 1.6% ongoing expense ratio, uses HashKey Exchange for trading and HashKey Custody for safekeeping, and will not stake its SOL or use derivatives."
+     },
+     "sources": [
+      {
+       "name": "Coinpaper",
+       "url": "https://coinpaper.com/37177/solana-etf-launch-set-for-hong-kong-as-us-funds-lose-248m-in-one-week"
+      },
+      {
+       "name": "crypto.news",
+       "url": "https://crypto.news/pando-to-launch-hong-kongs-second-spot-solana-etf-on-october-13/"
+      }
+     ]
+    },
+    {
+     "id": "20261014-06",
+     "category": "bitcoin",
+     "time": "2026-10-13T02:00:00Z",
+     "title": {
+      "zh": "Strategy上周再增持250枚比特币，总持仓达84.8万枚",
+      "en": "Strategy Adds Another 250 Bitcoin, Holdings Reach 848,250 BTC"
+     },
+     "summary": {
+      "zh": "Strategy (前MicroStrategy) 在10月5日至11日期间以约2150万美元购入250枚比特币 (Bitcoin)，均价约8.62万美元，总持仓达到84.825万枚。公司同日财报显示同期回购了约1.92亿美元优先股 (preferred shares)，投入回购的资金约为购币资金的九倍。",
+      "en": "Strategy bought 250 BTC between October 5 and 11 for about $21.5 million at an average price of roughly $86,194, bringing total holdings to 848,250 BTC. The same filing showed about $192.4 million of preferred-share repurchases in the same window — roughly nine times what the company spent on Bitcoin."
+     },
+     "sources": [
+      {
+       "name": "Coinjuice",
+       "url": "https://coinjuice.com/research-hub/what-happened-in-bitcoin-today-october-13-2026"
+      },
+      {
+       "name": "TradingNEWS",
+       "url": "https://www.tradingnews.com/news/solana-holds-107-usd-after-an-11-percent-weekly-slide-as-etf-outflows-end-a-14-week"
+      }
+     ]
+    },
+    {
+     "id": "20261014-07",
+     "category": "bitcoin",
+     "time": "2026-10-13T00:00:00Z",
+     "title": {
+      "zh": "周一美现货比特币ETF净流出6540万美元，10月累计流出4.52亿美元",
+      "en": "US Spot Bitcoin ETFs Lose $65.4M on Monday; October Now at a $452M Deficit"
+     },
+     "summary": {
+      "zh": "10月12日美国现货比特币 (Spot Bitcoin) ETF单日净流出6540万美元，全部来自贝莱德 (BlackRock) 的IBIT，其余11只产品无资金变动。以太坊 (Ether) ETF同日净流出8540万美元；10月至今美比特币ETF累计净流出约4.52亿美元，抹去了月初连续四个交易日的流入。",
+      "en": "US spot Bitcoin ETFs posted $65.4 million in net outflows on Monday, October 12 — all of it from BlackRock's IBIT, with the other 11 funds reporting no flow — while spot Ether ETFs shed $85.4 million. October's net Bitcoin ETF flow now stands at about negative $452 million, wiping out the inflows from the month's first four sessions."
+     },
+     "sources": [
+      {
+       "name": "COINTURK News",
+       "url": "https://en.coin-turk.com/us-bitcoin-and-ethereum-etfs-see-150-8-million-in-outflows-as-prices-drop/"
+      },
+      {
+       "name": "TradingNEWS",
+       "url": "https://www.tradingnews.com/news/ibit-etf-posts-the-only-move-in-a-65m-usd-outflow-as-october-flows-flip-from-321m-usd-surplus-to-452m-usd"
+      }
+     ]
+    },
+    {
+     "id": "20261014-08",
+     "category": "regulation",
+     "time": "2026-10-11T06:00:00Z",
+     "title": {
+      "zh": "法国财委会支持稳定币兑换税与加密离境税，随后否决预算案",
+      "en": "French Finance Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget"
+     },
+     "summary": {
+      "zh": "法国国民议会财政委员会通过两项加密税修正案：自2027年1月1日起将加密货币兑换为MiCA定义的稳定币视为应税出售，并将离境税 (exit tax) 扩展至加密资产（持仓超80万欧元且移居国外者）。但委员会随后否决了2027年预算的收入部分，两项措施须在10月13日开始的全会辩论中重新提出。",
+      "en": "France's National Assembly finance committee adopted two crypto tax amendments: treating crypto-to-stablecoin swaps (MiCA-defined electronic money tokens) as taxable sales from January 1, 2027, and extending the exit tax to crypto holdings above €800,000 for those moving tax residence abroad. The committee then rejected the revenue section of the 2027 budget, so both measures must be reintroduced when the full chamber debates the budget from October 13."
+     },
+     "sources": [
+      {
+       "name": "CryptoPulseDaily",
+       "url": "https://cryptopulsedaily.com/french-committee-backs-stablecoin-swap-tax-and-crypto-exit-tax-then-rejects-the-budget/"
+      },
+      {
+       "name": "The Cryptonomist",
+       "url": "https://en.cryptonomist.ch/2026/10/11/france-crypto-tax-changes/"
+      }
+     ]
+    },
+    {
+     "id": "20261014-09",
+     "category": "regulation",
+     "time": "2026-10-06T05:00:00Z",
+     "title": {
+      "zh": "\"加密妈妈\"Hester Peirce卸任SEC委员，委员会仅剩两名委员",
+      "en": "'Crypto Mom' Hester Peirce Leaves SEC; Commission Down to Two Sitting Members"
+     },
+     "summary": {
+      "zh": "被称为\"加密妈妈\"的SEC (美国证券交易委员会) 委员Hester Peirce于10月2日正式卸任，结束其近九年任期；她曾领导SEC加密工作组 (Crypto Task Force)。她的离开使委员会仅剩主席Paul Atkins和委员Mark Uyeda两名在任委员，三个席位空缺待总统提名与参议院确认。",
+      "en": "SEC Commissioner Hester Peirce, nicknamed 'Crypto Mom,' officially stepped down on October 2, ending a nearly nine-year tenure that included leading the SEC's Crypto Task Force. Her departure leaves the commission with only two sitting members — Chairman Paul Atkins and Commissioner Mark Uyeda — with three seats vacant pending presidential nomination and Senate confirmation."
+     },
+     "sources": [
+      {
+       "name": "Crypto Briefing",
+       "url": "https://cryptobriefing.com/hester-peirce-sec-resignation-crypto-oversight/"
+      },
+      {
+       "name": "Adalytica",
+       "url": "https://adalytica.com/news/sec-hester-peirce-leaves-5a93fe44"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "date": "2026-10-13",
    "items": [
     {
@@ -1953,5 +2165,5 @@
    ]
   }
  ],
- "updated": "2026-10-13"
+ "updated": "2026-10-14"
 }
