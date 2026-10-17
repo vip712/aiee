@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-10-18",
+      "items": [
+        {
+          "id": "20261018-01",
+          "category": "bitcoin",
+          "time": "2026-10-17T09:00:00Z",
+          "title": {
+            "en": "Cantor Fitzgerald raises 12-month Bitcoin assumption to $112,000, lifts Strategy target to $208",
+            "zh": "Cantor Fitzgerald 将 12 个月比特币预期上调至 11.2 万美元，Strategy 目标价升至 208 美元"
+          },
+          "summary": {
+            "en": "Cantor Fitzgerald raised its 12-month Bitcoin price assumption to $112,000 from $98,000 on Oct 16, and lifted its Strategy (MSTR) share-price target to $208 from $186 while keeping an Overweight rating. The $112,000 figure feeds directly into its valuation model for Strategy, which holds 848,250 BTC; its enterprise-value estimate rose to $110 billion from $97 billion. The call implies roughly 37% upside from Bitcoin's ~$81,000 market price.",
+            "zh": "Cantor Fitzgerald 于 10 月 16 日将 12 个月比特币价格预期从 98,000 美元上调至 112,000 美元，同时将 Strategy（MSTR）股票目标价从 186 美元上调至 208 美元，维持增持（Overweight）评级。11.2 万美元的假设直接计入其对 Strategy 的估值模型——该公司持有 848,250 枚 BTC；其企业价值（enterprise value）估计也从 970 亿美元上调至 1100 亿美元。按比特币约 81,000 美元的现价计算，该目标意味着约 37% 的上行空间。"
+          },
+          "sources": [
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/investing/33976"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/is-strategy-mstr-stock-a-buy-after-cantor-fitzgerald-lifts-its-target/"
+            }
+          ]
+        },
+        {
+          "id": "20261018-02",
+          "category": "ethereum",
+          "time": "2026-10-17T07:30:00Z",
+          "title": {
+            "en": "Ether rebounds about 4% to ~$2,500 as $2,350 support holds; spot ETH ETFs extend weekly outflows",
+            "zh": "以太坊反弹约 4% 至 2,500 美元附近，2,350 美元支撑守住；现货 ETH ETF 延续周流出"
+          },
+          "summary": {
+            "en": "Ether bounced roughly 4% to around $2,500 after tapping the $2,350 support zone, with analysts flagging $2,550 as the next resistance — a weekly close above it would signal a bottom, while failure risks one more flush. Thursday saw $60.2 million leave U.S. spot Ether ETFs, putting the funds on track for a second straight week of outflows. Hot U.S. inflation data (CPI 3.7%, PPI 6.3%) and $72 million in liquidations have kept pressure on, though RSI at ~42 is not yet oversold.",
+            "zh": "以太坊在测试 2,350 美元支撑后反弹约 4%，升至约 2,500 美元；分析师将 2,550 美元视为下一阻力位——若周线收于其上，将确认底部，否则仍可能再探低点。美国现货以太坊 ETF 周四（10 月 15 日）净流出 6020 万美元，正迈向连续第二周净流出。超预期的美国通胀数据（CPI 同比 3.7%、PPI 同比 6.3%）以及约 7200 万美元的爆仓（liquidations）持续压制市场，不过 RSI 约 42 尚未进入超卖区。"
+          },
+          "sources": [
+            {
+              "name": "Crypto.News",
+              "url": "https://crypto.news/ethereum-price-jumps-can-eth-reach-3000/"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/ethereum-eth-price-analyst-eyes-2550-while-raoul-pal-calls-eth-undervalued/"
+            }
+          ]
+        },
+        {
+          "id": "20261018-03",
+          "category": "bitcoin",
+          "time": "2026-10-17T06:00:00Z",
+          "title": {
+            "en": "Bitcoin consolidates near $81,500 above 50-day average; spot ETFs post second straight weekly outflow",
+            "zh": "比特币在 81,500 美元附近震荡、守住 50 日均线；现货 ETF 连续第二周净流出"
+          },
+          "summary": {
+            "en": "Bitcoin traded near $81,500 on Oct 17, holding above its 50-day EMA around $80,428 while sitting below the 20-day EMA near $82,648, with RSI near 47 suggesting momentum has cooled since early October. U.S. spot Bitcoin ETFs posted a second consecutive weekly outflow of about $228.6 million, following $681.1 million the week before, though selling slowed sharply. Bitcoin remains well above its rising 100- and 200-day averages, keeping the broader trend intact.",
+            "zh": "10 月 17 日，比特币在约 81,500 美元附近交易，守住 50 日均线（约 80,428 美元）上方，但仍低于 20 日均线（约 82,648 美元）；RSI（相对强弱指数）约 47，显示动能自 10 月初以来降温。美国现货比特币 ETF 当周净流出约 2.286 亿美元，为连续第二周流出，不过抛售力度已较前一周的 6.811 亿美元明显放缓。比特币仍远高于持续上行的 100 日与 200 日均线，中期趋势暂未破坏。"
+          },
+          "sources": [
+            {
+              "name": "CoinEdition",
+              "url": "https://coinedition.com/bitcoin-price-prediction-btc-faces-a-decision-point-as-cowen-watches-the-83000-level/"
+            },
+            {
+              "name": "Coinpedia",
+              "url": "https://coinpedia.org/news/bitcoin-etf-news-spot-bitcoin-outflows-push-btc-below-81k/"
+            }
+          ]
+        },
+        {
+          "id": "20261018-04",
+          "category": "market",
+          "time": "2026-10-16T15:00:00Z",
+          "title": {
+            "en": "Crypto ETFs bleed $611M in a week as Ether outflows outpace Bitcoin",
+            "zh": "加密 ETF 单周净流出 6.11 亿美元，以太坊基金流出超比特币"
+          },
+          "summary": {
+            "en": "U.S. spot crypto ETFs recorded about $610.7 million in net outflows for the week of Oct 12–16, with Ether funds shedding $320.1 million — outpacing Bitcoin's $228.4 million — while Solana, Zcash and Hyperliquid funds also lost money. Friday was the weakest session, with Bitcoin ETFs losing $82.39 million in a single day, led by BlackRock's IBIT, though weekly outflows still eased from the prior week's $678.9 million. Bitcoin held near $81,000, consolidating just above the $80,000 level as institutional demand wavered.",
+            "zh": "美国现货加密 ETF 在 10 月 12–16 日当周净流出约 6.107 亿美元，其中以太坊基金净流出 3.201 亿美元，超过比特币基金的 2.284 亿美元；Solana、Zcash 与 Hyperliquid 相关基金同样失血。周五（10 月 16 日）为单日最弱，比特币 ETF 单日净流出 8239 万美元，主要由贝莱德 IBIT 领衔，尽管周流出规模仍较前一周的 6.789 亿美元明显收窄。比特币守在约 81,000 美元附近，在 80,000 美元上方窄幅震荡，机构需求持续摇摆。"
+          },
+          "sources": [
+            {
+              "name": "Newisty",
+              "url": "https://newisty.com/blog/ether-etfs-outpace-bitcoin-in-weekly-outflows-as-crypto-funds-lose-610-million"
+            },
+            {
+              "name": "Coinpedia",
+              "url": "https://coinpedia.org/news/bitcoin-etf-news-spot-bitcoin-outflows-push-btc-below-81k/"
+            }
+          ]
+        },
+        {
+          "id": "20261018-05",
+          "category": "tech",
+          "time": "2026-10-16T13:00:00Z",
+          "title": {
+            "en": "Scammer gets scammed: Chainalysis says task-scam operator lost 60 BTC (~$4.9M) in Ledger exploit",
+            "zh": "骗子反被骗：Chainalysis 称某“任务诈骗”团伙在 Ledger 漏洞中损失 60 枚 BTC（约 490 万美元）"
+          },
+          "summary": {
+            "en": "Chainalysis said Oct 16 that a task-scam operator — who ran fake online-job schemes luring victims with 'negative balance' demands — lost 60 BTC (about $4.9 million) when attackers emptied three Ledger wallet addresses on Oct 9. The wallets used devices sold by Southeast Asian reseller CryptoBilis, which contained unauthorized hardware implants able to transmit recovery information over a mobile network. The case underscores the reach of the CryptoBilis breach and shows even criminal proceeds were swept into the same laundering chain.",
+            "zh": "Chainalysis 于 10 月 16 日表示，一名运营“任务诈骗”（以虚假在线兼职诱骗受害者，以“账户负余额”为由要求充值）的团伙，在 10 月 9 日被攻击者清空了三个 Ledger 钱包地址，损失 60 枚比特币（约 490 万美元）。这些钱包使用的是东南亚经销商 CryptoBilis 售出的设备，其中含有可通过移动网络传输助记词的非法硬件植入。此案凸显了 CryptoBilis 事件的波及范围，也表明连犯罪所得也被卷入同一条洗钱链条。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin"
+            },
+            {
+              "name": "DeFi Market Journal",
+              "url": "https://defimarketjournal.com/news/task-scammer-loses-60-btc-ledger-drain.html"
+            }
+          ]
+        },
+        {
+          "id": "20261018-06",
+          "category": "solana",
+          "time": "2026-10-16T11:00:00Z",
+          "title": {
+            "en": "Solana tests $100 as U.S. SOL ETFs post record $24.8M weekly outflow ahead of Alpenglow upgrade",
+            "zh": "Solana 考验 100 美元关口；美国 SOL ETF 单周净流出 2480 万美元创纪录，Alpenglow 升级临近"
+          },
+          "summary": {
+            "en": "Solana fell about 13% in October to test the $100 level as U.S. spot SOL ETFs recorded a record $24.8 million weekly outflow, ending a 14-week inflow streak; outflows stretched to eight straight days. Bitwise's BSOL accounted for most of the selling, while Solana network activity stayed firm with $3.5 billion of USDC minted on-chain in a week. The Alpenglow protocol upgrade, set for Oct 21 and changing Solana's consensus mechanism, is the next key catalyst.",
+            "zh": "Solana 10 月累计下跌约 13%，考验 100 美元关口；美国现货 SOL ETF 单周净流出 2480 万美元，创下纪录并终结连续 14 周的净流入，流出天数已连续 8 天。Bitwise 的 BSOL 占抛售的大部分，而 Solana 链上活动依然活跃，单周铸造 35 亿美元 USDC。定于 10 月 21 日的 Alpenglow 协议升级（将改变 Solana 共识机制）是下一个关键催化剂。"
+          },
+          "sources": [
+            {
+              "name": "CoinPaper",
+              "url": "https://coinpaper.com/37177/solana-etf-launch-set-for-hong-kong-as-us-funds-lose-248m-in-one-week"
+            },
+            {
+              "name": "Invezz",
+              "url": "https://invezz.com/news/2026/10/15/solana-has-lost-13-in-october-as-etf-outflows-hit-8-days-will-100-hold/"
+            }
+          ]
+        },
+        {
+          "id": "20261018-07",
+          "category": "regulation",
+          "time": "2026-10-15T08:00:00Z",
+          "title": {
+            "en": "Australia's ASIC consults on up to A$14M capital bar for crypto platforms ahead of 2027 licensing",
+            "zh": "澳大利亚 ASIC 就加密平台最高 1400 万澳元资本要求征求意见，牌照制度 2027 年生效"
+          },
+          "summary": {
+            "en": "Australia's ASIC released consultation paper CP 392 on Oct 15 proposing capital, custody and trading standards for digital-asset platforms, with feedback due Nov 27 and final guidance expected in March 2027. One of three capital models would require operators without qualifying third-party custody to hold at least A$14 million in net tangible assets (or 10% of average revenue). The framework, effective April 8, 2027, also restricts proprietary trading and requires quarterly wallet reporting; ASIC has already received over 140 licensing applications.",
+            "zh": "澳大利亚证券和投资委员会（ASIC）于 10 月 15 日发布 CP 392 征求意见文件，就数字资产平台的资本、托管与交易标准征求意见，截止 11 月 27 日，最终指引预计 2027 年 3 月发布。三种资本模型之一要求未采用合格第三方托管的运营商持有至少 1400 万澳元有形净资产（或年均收入的 10%，取较高者）。该框架将于 2027 年 4 月 8 日生效，还将限制自营交易并要求按季度报告客户资产钱包；ASIC 已收到超过 140 份牌照申请。"
+          },
+          "sources": [
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/regulation/32296"
+            },
+            {
+              "name": "NILE1",
+              "url": "https://nile1.com/australia-proposes-strict-capital-custody-rules-for-crypto-platforms-in-licensing-push/"
+            }
+          ]
+        },
+        {
+          "id": "20261018-08",
+          "category": "regulation",
+          "time": "2026-10-14T07:00:00Z",
+          "title": {
+            "en": "South Korea approves website blocks on 27 unregistered overseas exchanges including KuCoin and MEXC",
+            "zh": "韩国批准封锁 27 家未注册海外交易所网站，包括 KuCoin 与 MEXC"
+          },
+          "summary": {
+            "en": "South Korea's Financial Intelligence Unit announced Oct 13 that regulators approved blocking domestic access to websites of 27 unregistered overseas virtual-asset operators, including KuCoin, MEXC, Phemex, BingX and BitMart. Overseas-run sites face access blocking while domestically hosted ones face service termination, extending last year's app-store restrictions to websites. The FIU assesses whether platforms target Koreans via Korean-language services, local marketing or won payments, and warned users they could struggle to access funds.",
+            "zh": "韩国金融情报室（FIU）于 10 月 13 日宣布，监管部门已批准封锁 27 家未注册海外虚拟资产运营商的网站国内访问，包括 KuCoin、MEXC、Phemex、BingX 与 BitMart。境外运营的网站将被限制访问，境内托管的网站则终止服务，相当于将去年的应用商店限制扩大到网站层面。FIU 以韩语服务、面向韩国用户的营销和韩元支付支持作为是否面向韩国运营的判断标准，并警告用户可能面临资金提取困难。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin"
+            },
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc"
+            }
+          ]
+        },
+        {
+          "id": "20261018-09",
+          "category": "solana",
+          "time": "2026-10-13T03:00:00Z",
+          "title": {
+            "en": "Pando Finance lists Hong Kong's second spot Solana ETF on Oct 13",
+            "zh": "Pando Finance 于 10 月 13 日在香港上市第二只 Solana 现货 ETF"
+          },
+          "summary": {
+            "en": "Pando Finance listed its spot Solana ETF on the Hong Kong Stock Exchange on Oct 13 under code 02831, Hong Kong's second SOL-based spot ETF after ChinaAMC's. The fund charges a 0.6% management fee (about 1.6% in estimated annual ongoing charges), holds SOL without staking, and uses HashKey for trading and custody. It tracks the CME CF Solana-Dollar index's Asia-Pacific close, giving regional investors regulated SOL exposure through brokerage accounts.",
+            "zh": "Pando Finance 于 10 月 13 日在香港交易所上市其 Solana 现货 ETF（代码 02831），成为香港第二只 SOL 现货 ETF（此前为华夏基金）。该基金管理费为 0.6%（预计年度经常性开支约 1.6%），持有 SOL 但不参与质押（staking），由 HashKey 提供交易与托管服务。基金跟踪 CME CF Solana 美元指数的亚太收盘价，让地区投资者可通过券商账户获得合规的 SOL 敞口。"
+          },
+          "sources": [
+            {
+              "name": "The Cryptonomist",
+              "url": "https://en.cryptonomist.ch/2026/10/12/hong-kong-solana-etf/"
+            },
+            {
+              "name": "Phemex News",
+              "url": "https://phemex.com/news/article/hong-kong-to-list-second-spot-solana-etf-on-october-13-99511"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-17",
       "items": [
         {
@@ -2939,5 +3151,5 @@
       ]
     }
   ],
-  "updated": "2026-10-17"
+  "updated": "2026-10-18"
 }
