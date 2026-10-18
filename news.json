@@ -1,6 +1,264 @@
 {
   "days": [
     {
+      "date": "2026-10-19",
+      "items": [
+        {
+          "id": "20261019-01",
+          "category": "bitcoin",
+          "time": "2026-10-18T16:00:00Z",
+          "title": {
+            "en": "Saylor teases another Bitcoin buy as Strategy hoard reaches 848,250 BTC",
+            "zh": "Saylor 再发购币暗示：Strategy 持仓已达 848,250 枚 BTC"
+          },
+          "summary": {
+            "en": "Michael Saylor posted his recurring 'we found room for more orange' chart update on X on October 18, teasing another Strategy Bitcoin purchase. The company's dashboard shows 848,250 BTC held — about 4.04% of the 21 million supply — worth roughly $69.45 billion at an average cost of $75,444 per coin. The tease comes as reported weekly purchases have slowed: the latest reporting week saw only 250 BTC bought while $192.4 million went to STRC preferred-share buybacks.",
+            "zh": "Michael Saylor 于 10 月 18 日在 X 发布其惯例的“we found room for more orange”持仓图表，暗示 Strategy 将再次买入比特币。公司仪表盘显示其持有 848,250 枚 BTC（约占 2100 万供应总量的 4.04%），价值约 694.5 亿美元，平均成本为每枚 75,444 美元。值得注意的是，公司近期周度购币节奏放缓：最新报告周仅买入 250 枚 BTC，同时将 1.924 亿美元用于回购 STRC 优先股（preferred shares）。"
+          },
+          "sources": [
+            {
+              "name": "U.Today",
+              "url": "https://u.today/saylor-teases-more-bitcoin-purchases-to-expand-strategys-848250-btc-hoard"
+            },
+            {
+              "name": "Coinotag",
+              "url": "https://en.coinotag.com/saylor-teases-more-bitcoin-btc-buys-strategy-hoard-848250"
+            }
+          ]
+        },
+        {
+          "id": "20261019-02",
+          "category": "tech",
+          "time": "2026-10-18T12:07:00Z",
+          "title": {
+            "en": "Cysic suspends bridge after attacker mints 10 million CYS on BNB Chain",
+            "zh": "Cysic 遭攻击：攻击者在 BNB Chain 未经授权铸造 1000 万枚 CYS，跨链桥暂停"
+          },
+          "summary": {
+            "en": "The Cysic Foundation said on October 18 that an attacker exploited unauthorized database access and a bridge message-processing flaw to mint 10 million CYS on BNB Chain on October 17. On-chain tracking shows the attacker sold about 7.2 million CYS and moved roughly 306.6 ETH (about $727,000) to Ethereum before Cysic blacklisted the receiving address, freezing the remaining 2.8 million CYS. The project says the incident did not affect the Cysic mainnet or existing user assets, and the bridge stays closed until a security review is complete.",
+            "zh": "Cysic 基金会于 10 月 18 日披露，攻击者于 10 月 17 日利用未经授权的数据库访问与跨链桥消息处理漏洞，在 BNB Chain 上非法铸造 1000 万枚 CYS。链上追踪显示，攻击者在 Cysic 拉黑（blacklist）相关地址前卖出约 720 万枚 CYS，并将约 306.6 枚 ETH（约 72.7 万美元）转移至以太坊（Ethereum）；剩余约 280 万枚 CYS 已被冻结。项目方称事件未波及 Cysic 主网及现有用户资产，跨链桥在安全审查完成前保持关闭。"
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863"
+            },
+            {
+              "name": "The Defiant",
+              "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys"
+            }
+          ]
+        },
+        {
+          "id": "20261019-03",
+          "category": "solana",
+          "time": "2026-10-18T12:00:00Z",
+          "title": {
+            "en": "Spot Solana ETF outflows extend to ten straight sessions; SOL tests $100",
+            "zh": "美国现货 SOL ETF 净流出延续至第十个交易日，SOL 考验 100 美元关口"
+          },
+          "summary": {
+            "en": "U.S. spot Solana ETFs recorded about $12.7 million in net outflows on October 16, their tenth consecutive session of withdrawals, with Bitwise's BSOL accounting for the entire day's exit. Across October 12–16 the funds lost about $25.5 million, though cumulative net inflows still stand near $1.55 billion. SOL slipped to about $103 as traders reduced futures exposure and watched the $100 support level.",
+            "zh": "美国现货 SOL ETF 于 10 月 16 日录得约 1270 万美元净流出，为连续第十个交易日净赎回，当日流出全部来自 Bitwise 的 BSOL 产品。10 月 12–16 日期间上述基金累计净流出约 2550 万美元，不过累计净流入仍维持在约 15.5 亿美元。SOL 随之跌至约 103 美元，交易员削减期货敞口，并关注 100 美元支撑位。"
+          },
+          "sources": [
+            {
+              "name": "Analytics Insight",
+              "url": "https://www.analyticsinsight.net/news/solana-price-faces-usd-110-test-ahead-of-october-21-alpenglow-upgrade"
+            },
+            {
+              "name": "EconoTimes",
+              "url": "https://econotimes.com/Solana-SOL-ETFs-Lose-12-67-Million-NEAR-Protocol-NEAR-Funds-Add-2-61-Million-1755867"
+            }
+          ]
+        },
+        {
+          "id": "20261019-04",
+          "category": "bitcoin",
+          "time": "2026-10-18T08:00:00Z",
+          "title": {
+            "en": "Bitcoin holds near $81,500 in quiet weekend trading; $82,800 in focus for weekly close",
+            "zh": "比特币周末交投清淡守住 81,500 美元附近，周线收盘聚焦 82,800 美元"
+          },
+          "summary": {
+            "en": "Bitcoin traded around $81,500 through the weekend in thin liquidity, with technical indicators giving mixed signals: shorter-term moving averages favor sellers while the longer-term structure still supports buyers. Analysts cited $82,800 as the weekly-close level needed to open a path toward $90,000, while a loss of $80,000 could invite a deeper slide. Bitcoin dominance rose to about 60%, signaling defensive positioning as altcoins underperformed.",
+            "zh": "比特币在流动性清淡的周末守住 81,500 美元附近，技术指标信号分化：短期均线偏向空方，长期结构仍支撑多方。分析师认为，周线收盘站上 82,800 美元方可打开通往 90,000 美元的空间；若跌破 80,000 美元则可能引发更深回调。随着山寨币走弱，比特币市占率升至约 60%，显示资金转向防御。"
+          },
+          "sources": [
+            {
+              "name": "CryptoNews",
+              "url": "https://cryptonews.com/news/bitcoin-price-forecast-81500-leaves-weekly-close-big-push/"
+            },
+            {
+              "name": "AiTraderView",
+              "url": "https://aitraderview.com/2026/10/18/bitcoin-weekly-close-in-focus-82800-to-unlock-90000-while-80000-loss-risks-70000/"
+            }
+          ]
+        },
+        {
+          "id": "20261019-05",
+          "category": "market",
+          "time": "2026-10-17T10:00:00Z",
+          "title": {
+            "en": "Spot Bitcoin ETFs post $82.4M outflows on October 16 as Ethereum funds shed $69.7M",
+            "zh": "10 月 16 日美国现货 BTC ETF 净流出 8240 万美元，ETH ETF 净流出 6970 万美元"
+          },
+          "summary": {
+            "en": "U.S. spot Bitcoin ETFs recorded $82.39 million in net outflows on October 16, led by BlackRock's IBIT with $71.78 million in redemptions; Ethereum ETFs lost $69.68 million the same day, entirely from BlackRock's ETHA. The outflows mark a third consecutive losing week for Ethereum products, with roughly $1 billion withdrawn over the three weeks ending October 16. Bitcoin funds remain near $105–106 billion in total assets, so the daily outflow was less than 0.1% of assets.",
+            "zh": "美国现货比特币 ETF 于 10 月 16 日录得 8239 万美元净流出，其中贝莱德（BlackRock）IBIT 占 7178 万美元；同日以太坊 ETF 净流出 6968 万美元，全部来自贝莱德 ETHA。此为以太坊产品连续第三周净流出，截至 10 月 16 日的三周累计流出约 10 亿美元。比特币 ETF 总资产仍接近 1050–1060 亿美元，单日流出不足资产规模的 0.1%。"
+          },
+          "sources": [
+            {
+              "name": "EconoTimes",
+              "url": "https://econotimes.com/Bitcoin-Price-Holds-Above-81K-as-ETF-Outflows-Raise-Concerns-1756044"
+            },
+            {
+              "name": "crypto.news",
+              "url": "https://crypto.news/ethereum-etf-outflows-bitcoin-etfs-october-2026/"
+            }
+          ]
+        },
+        {
+          "id": "20261019-06",
+          "category": "regulation",
+          "time": "2026-10-17T08:45:00Z",
+          "title": {
+            "en": "ECB confirms digital euro plans as Lagarde flags 3.8% euro-area inflation",
+            "zh": "欧洲央行确认数字欧元（digital euro）计划，拉加德称欧元区通胀达 3.8%"
+          },
+          "summary": {
+            "en": "ECB President Christine Lagarde confirmed at the IMF Annual Meetings on October 17 that the ECB is preparing a digital euro to complement cash in retail payments, aiming to stimulate innovation and competition while preserving Europe's payments autonomy. The ECB plans a 12-month internal pilot in the second half of 2027, with a first possible issuance in 2029, subject to EU legislation. Lagarde also said September's 3.8% euro-area inflation largely reflected high energy costs expected to ease next year.",
+            "zh": "欧洲央行行长拉加德（Christine Lagarde）于 10 月 17 日在 IMF 年会上确认，欧洲央行正筹备数字欧元（digital euro）以在零售支付中补充现金，目标是促进创新与竞争、维护欧洲支付自主权。欧洲央行计划 2027 年下半年开展为期 12 个月的内部试点，并以欧盟立法通过为前提，最早于 2029 年首次发行。拉加德还表示，9 月欧元区 3.8% 的通胀率主要反映能源成本高企，预计明年缓解。"
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent"
+            },
+            {
+              "name": "247 News Bulletins",
+              "url": "https://247newsbulletins.com/market/digital-euro-christine-lagarde-confirms-the-schedule-of-the-first-tests/"
+            }
+          ]
+        },
+        {
+          "id": "20261019-07",
+          "category": "regulation",
+          "time": "2026-10-16T22:00:00Z",
+          "title": {
+            "en": "France's National Assembly narrowly votes to tax crypto-to-stablecoin swaps at 31.4%",
+            "zh": "法国国民议会以 38 比 37 通过修正案：加密资产兑换稳定币将按 31.4% 征税"
+          },
+          "summary": {
+            "en": "France's National Assembly voted 38–37 on October 16 to adopt Amendment I-3898 to the 2027 Finance Bill, which would make swaps of volatile crypto into MiCA-defined fiat-pegged stablecoins a taxable event from January 1, 2027. The measure ends the deferral that let French investors rotate into stablecoins tax-free until cashing out to euros, applying the flat 31.4% digital-asset gains rate. The text still needs Senate review; Public Accounts Minister David Amiel opposed it, citing tracking complexity.",
+            "zh": "法国国民议会于 10 月 16 日以 38 票对 37 票通过 2027 年财政法案修正案 I-3898，拟自 2027 年 1 月 1 日起，将加密资产兑换为 MiCA 定义的法定货币挂钩稳定币视为应税事件。该修正案终结了法国投资者在兑换为欧元前可免税转入稳定币的递延政策，适用 31.4% 的数字资产统一资本利得税率（flat rate）。修正案仍需参议院审议；公共账务部长 David Amiel 以追踪复杂为由表示反对。"
+          },
+          "sources": [
+            {
+              "name": "dig.watch",
+              "url": "https://dig.watch/updates/france-stablecoin-tax-proposal"
+            },
+            {
+              "name": "MABOnChain",
+              "url": "https://mabonchain.com/news/france-assembly-backs-31-4-tax-crypto-stablecoin-swaps/"
+            }
+          ]
+        },
+        {
+          "id": "20261019-08",
+          "category": "market",
+          "time": "2026-10-16T20:00:00Z",
+          "title": {
+            "en": "Fed Chair Warsh stays tight-lipped on rates; October hike odds collapse",
+            "zh": "美联储主席 Warsh 对利率路径三缄其口，10 月加息概率骤降"
+          },
+          "summary": {
+            "en": "Federal Reserve Chair Kevin Warsh declined to give forward guidance at an economic conference in Bangkok on October 16, saying 'it’s a new chapter at the Fed, and we’re not in that business anymore.' Markets read it as a signal the Fed will hold on October 28: CME FedWatch odds of a hold jumped above 85%, while Polymarket put no-change odds at 87%. Warsh acknowledged inflation pressures remain uncomfortable and that central banks globally are tightening in sync, leaving December as the next open decision point.",
+            "zh": "美联储主席 Kevin Warsh 于 10 月 16 日在曼谷一场经济会议上拒绝给出前瞻指引（forward guidance），称“这是美联储的新篇章，我们不再做这项业务”。市场将其解读为 10 月 28 日议息会议将按兵不动：CME FedWatch 显示维持利率不变的概率升至 85% 以上，Polymarket 的无变动赔率达 87%。Warsh 同时承认通胀压力仍令人不安、全球央行正同步收紧，12 月将是下一个开放的决策窗口。"
+          },
+          "sources": [
+            {
+              "name": "New York Post",
+              "url": "https://nypost.com/2026/10/16/business/traders-bet-on-october-interest-rate-hold-after-kevin-warsh-remains-tight-lipped-at-conference/"
+            },
+            {
+              "name": "HTX Insights",
+              "url": "https://www.htx.com/news/fed-chair-warsh-ai-is-the-most-profound-economic-transformat-2fDt4Rxu/"
+            }
+          ]
+        },
+        {
+          "id": "20261019-09",
+          "category": "solana",
+          "time": "2026-10-14T15:00:00Z",
+          "title": {
+            "en": "Solana sets October 21 activation for Alpenglow, targeting ~150ms finality",
+            "zh": "Solana 敲定 Alpenglow 于 10 月 21 日激活，目标实现约 150 毫秒最终确认"
+          },
+          "summary": {
+            "en": "Solana will activate Alpenglow, its largest consensus overhaul, at the start of epoch 1064 around 15:00 UTC on October 21, replacing TowerBFT. The upgrade targets transaction finality of about 150 milliseconds, down from roughly 12.8 seconds today, by moving validator votes off-chain into direct message exchange with certificates. Validators must run Agave 4.3.0 or later; each vote account must hold 0.8 SOL above its rent-exempt balance under the new Validator Admission Ticket.",
+            "zh": "Solana 将于 10 月 21 日约 15:00（UTC）在 epoch 1064 起始处激活 Alpenglow——其历史上最大规模的共识机制改革，以取代 TowerBFT。该升级通过将验证者投票转为链下直连消息并聚合成证书（certificates），目标是将交易最终确认（finality）从当前约 12.8 秒降至约 150 毫秒。验证者需运行 Agave 4.3.0 及以上版本，且每个投票账户需在租金豁免余额之外持有 0.8 枚 SOL（Validator Admission Ticket 新规）。"
+          },
+          "sources": [
+            {
+              "name": "Cryptoweek",
+              "url": "https://cryptoweek.ai/news/solana-alpenglow-october-21-150-millisecond-finality"
+            },
+            {
+              "name": "The Coin Republic",
+              "url": "https://www.thecoinrepublic.com/2026/10/14/solana-news-alpenglow-upgrade-nears-will-sol-price-rally/"
+            }
+          ]
+        },
+        {
+          "id": "20261019-10",
+          "category": "tech",
+          "time": "2026-10-14T14:00:00Z",
+          "title": {
+            "en": "Babylon Labs proposes native Bitcoin collateral for Aave V4",
+            "zh": "Babylon Labs 提案：将原生比特币（native BTC）引入 Aave V4 作为抵押品"
+          },
+          "summary": {
+            "en": "Babylon Labs published an ARFC on the Aave governance forum on October 14 proposing native Bitcoin as collateral on Aave V4 through Trustless Bitcoin Vaults. BTC would be locked in Taproot-based arrangements on the Bitcoin network, with Aave recording restricted collateral units inside a dedicated market — no wrapping or custodian required. The proposal remains at the governance-comment stage; risk parameters, a Snapshot vote and an on-chain proposal are still ahead.",
+            "zh": "Babylon Labs 于 10 月 14 日在 Aave 治理论坛发布 ARFC 提案，拟通过“无信任比特币金库”（Trustless Bitcoin Vaults, TBV）将原生比特币引入 Aave V4 作为抵押品。BTC 将锁定在比特币网络上的 Taproot 脚本安排中，Aave 则在专用市场内记录受限抵押单元——无需封装（wrapping）或托管。该提案目前处于治理评论阶段，风险参数、Snapshot 投票与链上提案尚待推进。"
+          },
+          "sources": [
+            {
+              "name": "CryptoTimes",
+              "url": "https://www.cryptotimes.io/2026/10/14/babylon-proposes-native-btc-collateral-and-new-spokes-on-aave-v4/"
+            },
+            {
+              "name": "Bitcoin Info News",
+              "url": "https://bitcoininfonews.com/babylon-bitcoin-backed-stablecoin-borrowing-aave-v4"
+            }
+          ]
+        },
+        {
+          "id": "20261019-11",
+          "category": "ethereum",
+          "time": "2026-10-14T12:00:00Z",
+          "title": {
+            "en": "Standard Chartered opens direct Bitcoin and Ether trading to UAE wealth clients",
+            "zh": "渣打银行向阿联酋财富客户开放比特币与以太币直接交易"
+          },
+          "summary": {
+            "en": "Standard Chartered launched direct Bitcoin and Ether trading for affluent UAE clients on October 14, becoming the first international bank to offer such a service in the UAE. Eligible professional investors can trade BTC and ETH through their existing bank accounts, with custody and settlement kept inside the bank's closed-loop system built with Zodia Markets. The service is regulated by Dubai's Virtual Assets Regulatory Authority (VARA).",
+            "zh": "渣打银行（Standard Chartered）于 10 月 14 日向阿联酋财富客户推出比特币与以太币直接交易服务，成为首家在阿联酋提供此类服务的国际银行。符合条件的专业投资者（professional investors）可通过现有银行账户直接交易 BTC 与 ETH，托管与结算由银行闭环系统内部完成，技术方案由 Zodia Markets 提供。该服务受迪拜虚拟资产监管局（VARA）监管。"
+          },
+          "sources": [
+            {
+              "name": "Crypto Watch Daily",
+              "url": "https://cryptowatchdaily.com/news/standard-chartered-crypto-trading-affluent-uae/"
+            },
+            {
+              "name": "Live BTC News",
+              "url": "https://www.livebtcnews.com/articles/2026-10-14-standard-chartered-opens-direct-bitcoin-trading-to-uae"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-18",
       "items": [
         {
@@ -3151,5 +3409,5 @@
       ]
     }
   ],
-  "updated": "2026-10-18"
+  "updated": "2026-10-19"
 }
