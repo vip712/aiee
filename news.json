@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-10-20",
+      "items": [
+        {
+          "id": "20261020-01",
+          "category": "ethereum",
+          "time": "2026-10-19T21:30:00Z",
+          "title": {
+            "zh": "Bitmine再购1.25万枚ETH：持仓达604万枚，逼近总供应量5%目标",
+            "en": "Bitmine adds 12,535 ETH, lifting holdings to 6.04M — 99% of the way to 5% of supply"
+          },
+          "summary": {
+            "zh": "由 Tom Lee 担任董事长的 Bitmine Immersion Technologies 上周再度买入12,535枚以太坊（约3,000万美元），总持仓升至6,041,481枚 ETH，约占流通量的4.9%，距离其“5%供应量”目标（Alchemy of 5%）仅一步之遥。公司表示该仓位价值约143亿美元，其每周持续买入的节奏已延续超过14个月，是目前最大的企业以太坊财库。",
+            "en": "Bitmine Immersion Technologies, chaired by Tom Lee, bought another 12,535 ETH worth roughly $30 million last week, lifting total holdings to 6,041,481 ETH — about 4.9% of Ethereum's supply and 99% of the way to its self-set \"Alchemy of 5%\" goal. The stake is valued at roughly $14.3 billion. The company's weekly accumulation streak, unbroken since launching its treasury strategy in mid-2025, makes it the largest corporate ETH treasury."
+          },
+          "sources": [
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line"
+            },
+            {
+              "name": "CryptoCompass",
+              "url": "https://cryptocompass.com/articles/bitmine-is-63-500-eth-short-of-its-5-goal-then-buying-stops"
+            }
+          ]
+        },
+        {
+          "id": "20261020-02",
+          "category": "market",
+          "time": "2026-10-19T20:00:00Z",
+          "title": {
+            "zh": "现货比特币与以太坊ETF上周净流出5.49亿美元，以太坊10月流出逼近10亿美元",
+            "en": "Spot Bitcoin and Ether ETFs see $549M weekly net outflows; October ETH outflows near $1B"
+          },
+          "summary": {
+            "zh": "美国现货比特币与以太坊ETF（Spot ETF）上周合计净流出约5.49亿美元，其中比特币ETF净流出2.29亿美元、以太坊ETF净流出3.2亿美元（数据来源：SoSoValue）。这是比特币ETF连续第二周净流出、以太坊ETF连续第三周净流出，不过相比前一周12.2亿美元的流出规模已明显放缓；以太坊现货ETF的10月累计净流出约9.55亿美元，为今年单月最高。尽管近期承压，两类ETF今年以来的累计净流入仍为正值。",
+            "en": "U.S. spot Bitcoin and Ether ETFs recorded about $549 million in combined net outflows last week, per SoSoValue data — roughly $229 million from Bitcoin funds and $320 million from Ether funds. It was the second straight red week for Bitcoin ETFs and the third for Ether funds, though outflows eased from the previous week's $1.22 billion. Spot Ether ETFs have now seen around $955 million in net outflows so far in October, the heaviest monthly total of 2026, while both ETF categories remain net positive year-to-date."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows"
+            },
+            {
+              "name": "AltcoinBuzz",
+              "url": "https://www.altcoinbuzz.io/bitcoin-ether-etfs-shed-549m-as-october-eth-outflows-near-1b"
+            }
+          ]
+        },
+        {
+          "id": "20261020-03",
+          "category": "regulation",
+          "time": "2026-10-19T19:00:00Z",
+          "title": {
+            "zh": "SEC加密资产提案公众意见征询于10月20日截止，市场结构法案前途未卜",
+            "en": "SEC's Regulation Crypto Assets comment window closes Oct 20 as CLARITY bill stalls"
+          },
+          "summary": {
+            "zh": "美国证监会（SEC）的《加密资产条例》（Regulation Crypto Assets，S7-2026-27）提案公众意见征询期将于10月20日截止，为 GENIUS 法案稳定币合规框架2027年1月生效前的最后一道公开程序。该提案建立了将支付型稳定币（Payment Stablecoins）排除在证券定义之外的分类体系，截止前夕 Hyperliquid 政策中心等行业机构已密集提交意见。国会层面的《CLARITY法案》（数字资产市场结构法案）依然停滞，SEC 在国会立法缺位下推进自身规则路径。",
+            "en": "The SEC's proposed Regulation Crypto Assets (S7-2026-27) rulemaking closes its public comment period on October 20 — the last formal window before the GENIUS Act stablecoin compliance framework takes effect in January 2027. The proposal establishes a taxonomy that excludes payment stablecoins from the definition of a security, and drew last-minute comment letters including from the Hyperliquid Policy Center. In Congress, the CLARITY market-structure bill remains stalled, with the SEC advancing its own rulebook workaround."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules"
+            },
+            {
+              "name": "Forkast",
+              "url": "https://forkast.news/tuesdays-sec-comment-deadline-closes-the-last-public-window-before-the-genius-act-compliance-stack-locks-in/"
+            }
+          ]
+        },
+        {
+          "id": "20261020-04",
+          "category": "bitcoin",
+          "time": "2026-10-19T16:30:00Z",
+          "title": {
+            "zh": "Strive与Strategy合计增持1490枚比特币，Strategy扩大STRC回购计划至30亿美元",
+            "en": "Strive and Strategy buy 1,490 BTC combined; Strategy expands STRC buyback program to $3B"
+          },
+          "summary": {
+            "zh": "企业比特币财库（Bitcoin Treasury）公司 Strive 与 Strategy 本周一同步披露增持：Strive 以均价81,734美元购入1,223枚比特币，总持仓达36,818枚；Strategy 则以约2,210万美元买入267枚，均价82,900美元，总持仓升至848,517枚。Strategy 同时将其数字信贷证券回购授权从20亿美元扩大至30亿美元，并以1.93亿美元回购了部分高息优先股（STRC），显示其资本配置重心正从直接购币转向回购低于票面价值（Par）的优先股。",
+            "en": "Corporate bitcoin treasury firms Strive and Strategy disclosed new purchases on Monday: Strive bought 1,223 BTC at an average of $81,734, lifting holdings to 36,818 BTC, while Strategy added 267 BTC for about $22.1 million at $82,900 each, taking its total to 848,517 BTC. Strategy also expanded its digital credit securities repurchase authorization to $3 billion from $2 billion and bought back $193 million of its high-yield preferred stock STRC, signaling a capital allocation tilt toward repurchasing preferred shares trading below par."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound"
+            },
+            {
+              "name": "The Cryptonomist",
+              "url": "https://en.cryptonomist.ch/2026/10/19/bitcoin-market-recovery-strive-strategy/"
+            }
+          ]
+        },
+        {
+          "id": "20261020-05",
+          "category": "tech",
+          "time": "2026-10-19T15:30:00Z",
+          "title": {
+            "zh": "Qubic因弱钱包种子被盗约140万美元，网络暂停运行",
+            "en": "Qubic halts network after weak wallet seeds let attacker drain ~$1.4M"
+          },
+          "summary": {
+            "zh": "一层区块链（Layer-1）Qubic 在攻击者利用弱随机数生成的钱包种子（Weak Wallet Seeds）从1,404个钱包中盗走约2.94万亿枚 QU（约140万美元）后暂停了网络运行，停于区块高度 tick 85,371,949。受影响的是通过 iPhone/iPad 浏览器、Mac 版 Safari 或旧版 iOS 应用创建的钱包；项目方已用加密安全的随机数函数修复该缺陷（v4.26.4）。约87.1%的被盗资金被冻结在链上，其余流向 MEXC 交易所的部分也被冻结，网络重启时间未定。",
+            "en": "Layer-1 blockchain Qubic halted operations after an attacker exploited weakly generated wallet seeds to drain about 2.94 trillion QU (roughly $1.4 million) from 1,404 wallets, freezing the network at tick 85,371,949. Affected seeds were generated via browsers on iPhones/iPads, Safari on Mac, or older Qubic iOS app versions; the project fixed the flaw (v4.26.4) by replacing Math.random() with a cryptographically secure random function. About 87.1% of drained funds were frozen on-chain and the rest frozen at the MEXC exchange; no restart date has been announced."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds"
+            },
+            {
+              "name": "InvestingLive",
+              "url": "https://investinglive.com/cryptocurrency/crypto-qubic-halts-network-after-weak-wallet-seeds-let-attacker-drain-1-404-wallets/"
+            }
+          ]
+        },
+        {
+          "id": "20261020-06",
+          "category": "bitcoin",
+          "time": "2026-10-19T14:30:00Z",
+          "title": {
+            "zh": "Metaplanet进军美国资本市场：Super League股东批准2100枚比特币交易",
+            "en": "Metaplanet moves toward U.S. listing as Super League shareholders approve 2,100 BTC deal"
+          },
+          "summary": {
+            "zh": "纳斯达克上市公司 Super League Enterprise 股东批准了与日本比特币财库公司 Metaplanet 的交易提案，Metaplanet 将注入2,100枚比特币与250万美元现金，换取约4,486万股普通股、优先股与认股权证，交易完成后控股约93.7%。交易完成后 Super League 将更名为 Superplanet、股票代码改为 SUPA，成为 Metaplanet 在美国上市的比特币财库平台，目标是提升每股比特币持有量（BTC per share）；交易尚待纳斯达克相关备案等收尾条件。",
+            "en": "Shareholders of Nasdaq-listed Super League Enterprise approved proposals tied to Japanese bitcoin treasury company Metaplanet's investment, under which Metaplanet will contribute 2,100 BTC and $2.5 million in cash for about 44.86 million common shares plus preferred stock and warrants, giving it roughly 93.7% ownership. Super League will be renamed Superplanet and trade under the ticker SUPA, becoming Metaplanet's U.S.-listed bitcoin treasury platform aimed at growing bitcoin per share. Closing remains subject to customary conditions including Nasdaq filings."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/metaplanet-super-league-2100-btc-us-bitcoin-treasury-deal"
+            },
+            {
+              "name": "CryptoTimes",
+              "url": "https://www.cryptotimes.io/2026/10/19/metaplanets-2100-btc-superplanet-deal-nears-nasdaq-rebrand/"
+            }
+          ]
+        },
+        {
+          "id": "20261020-07",
+          "category": "solana",
+          "time": "2026-10-19T13:00:00Z",
+          "title": {
+            "zh": "DFDV增持3983枚SOL至259万枚，CHAD优先股股息上调至14%",
+            "en": "DFDV adds 3,983 SOL to reach 2.59M treasury; raises CHAD dividend rate to 14%"
+          },
+          "summary": {
+            "zh": "纳斯达克上市的 Solana 财库公司 DeFi Development Corp（DFDV）上周增持3,983枚 SOL 及等值资产，财库总量达到约2,590,266枚，继续通过质押与验证节点运营获取收益。公司同时宣布将其可变利率 C 系列优先股（CHAD）的年股息率从13%上调至14%，11月2日生效，每股年派息由1.30美元升至1.40美元。公司表示未来优先股发行所得将主要用于进一步增持 SOL。",
+            "en": "Nasdaq-listed Solana treasury firm DeFi Development Corp (DFDV) added 3,983 SOL and equivalents last week, bringing its treasury to about 2,590,266 SOL, which it deploys through staking and validator operations. The company raised the annual dividend rate on its variable-rate Series C preferred stock (CHAD) from 13% to 14%, effective November 2, lifting the annual payout to $1.40 per share from $1.30. DFDV said proceeds from future CHAD issuances will be used primarily to accumulate more SOL."
+          },
+          "sources": [
+            {
+              "name": "TipRanks",
+              "url": "https://www.tipranks.com/news/company-announcements/defi-development-boosts-solana-holdings-eyes-alpenglow-upgrade"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694"
+            }
+          ]
+        },
+        {
+          "id": "20261020-08",
+          "category": "ethereum",
+          "time": "2026-10-19T12:00:00Z",
+          "title": {
+            "zh": "Glamsterdam升级定于10月26日激活Hoodi测试网，Gas上限升至2亿",
+            "en": "Glamsterdam set for Hoodi testnet activation on Oct 26 with 200M gas limit"
+          },
+          "summary": {
+            "zh": "以太坊基金会（Ethereum Foundation）宣布，Glamsterdam 升级将于10月26日17:42（UTC）在 Hoodi 测试网 epoch 132,352 激活，这是继10月6日 Sepolia 之后、主网前的最后一个公共测试网部署。升级核心包括内嵌的提议者-构建者分离（Enshrined Proposer-Builder Separation, ePBS）与区块级访问列表（Block-Level Access Lists），并将区块 Gas 上限从6,000万提升至2亿。主网激活时间尚未公布，主网用户与持币人无需采取行动。",
+            "en": "The Ethereum Foundation announced that the Glamsterdam upgrade will activate on the Hoodi testnet at epoch 132,352 on October 26, 2026 at 17:42 UTC — the final public testnet deployment after Sepolia's October 6 activation. Headline features include enshrined proposer-builder separation (ePBS) and block-level access lists, plus a gas limit rise from 60 million to 200 million. No mainnet date has been set, and mainnet users and holders need take no action."
+          },
+          "sources": [
+            {
+              "name": "laicrypto",
+              "url": "https://laicrypto.com/ethereums-next-upgrade-has-a-date-on-hoodi-but-not-on-mainnet/50447/crypto/"
+            },
+            {
+              "name": "The Crypto Updates",
+              "url": "https://www.thecryptoupdates.com/ethereum-schedules-hoodi-200-million-gas-test-for-october-26/"
+            }
+          ]
+        },
+        {
+          "id": "20261020-09",
+          "category": "tech",
+          "time": "2026-10-15T16:00:00Z",
+          "title": {
+            "zh": "Starknet就转型独立抗量子一层链启动社区投票",
+            "en": "Starknet launches vote on exploring an independent post-quantum Layer 1"
+          },
+          "summary": {
+            "zh": "Starknet 社区启动了为期七天的非约束性（Non-binding）治理投票，询问 STRK 持有者是否支持研究将 Starknet 从以太坊二层网络（Layer 2）转型为独立的抗量子一层链（Post-Quantum Layer 1），投票将于10月22日截止。StarkWare 表示，其 STARK 证明本身抗量子，但依赖以太坊的跨链桥与数据可用性仍是量子安全短板。投赞成票仅代表支持进一步研究，并不批准迁移；STRK 仍将是唯一代币，以太坊跨链桥保持开放。",
+            "en": "The Starknet community opened a seven-day non-binding governance vote asking STRK holders whether to research transitioning Starknet from an Ethereum Layer 2 into an independent post-quantum Layer 1, closing October 22. StarkWare says its STARK proofs are already quantum-resistant, but Ethereum-dependent components like its bridge and data availability remain quantum-security gaps. A \"Yes\" vote only authorizes further research — not a migration — and STRK would remain the native token with Ethereum bridges staying open."
+          },
+          "sources": [
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/starknet-opens-its-first-vote-on-becoming-an-independent-post-quantum-layer-1/"
+            },
+            {
+              "name": "crypto.news",
+              "url": "https://crypto.news/starknet-launches-7-day-vote-on-leaving-ethereum/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "items": [
         {
@@ -3104,310 +3316,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-06",
-      "items": [
-        {
-          "category": "ethereum",
-          "id": "e1",
-          "sources": [
-            {
-              "name": "Coinotag",
-              "url": "https://en.coinotag.com/ethereum-glamsterdam-sepolia-activation-october-6"
-            },
-            {
-              "name": "U.Today",
-              "url": "https://u.today/eth-upgrade-countdown-begins-24-hours-left-for-glamsterdam-testnet-launch"
-            },
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/05/crypto-week-ahead-token2049-fomc-evernorth-xrp-nasdaq-debut-ethereum-glamsterdam/"
-            }
-          ],
-          "summary": {
-            "en": "Ethereum's Glamsterdam upgrade activates on the Sepolia testnet today at 13:53 UTC (epoch 353,024). Headline changes: enshrined proposer-builder separation (ePBS, EIP-7732) and block-level access lists (BALs, EIP-7928). Mainnet targeting Q4 2026; no action needed from ETH holders.",
-            "zh": "以太坊Glamsterdam升级今日13:53 UTC在Sepolia测试网 (testnet) 激活（epoch 353024）。核心改动：写入协议的提议者-构建者分离 (ePBS, EIP-7732) 与区块级访问清单 (BALs, EIP-7928)。主网目标2026年Q4，ETH持有者无需操作。"
-          },
-          "time": "2026-10-06T08:00:00Z",
-          "title": {
-            "en": "Ethereum's Glamsterdam Upgrade Activates on Sepolia Testnet Today",
-            "zh": "以太坊Glamsterdam升级今日在Sepolia测试网激活"
-          }
-        },
-        {
-          "id": "s4",
-          "category": "solana",
-          "time": "2026-10-06T05:30:00Z",
-          "title": {
-            "zh": "Solana Foundation推出Solana DvP：摩根大通参与设计的机构级链上券款对付 (DvP) 结算标准",
-            "en": "Solana Foundation Launches Solana DvP, Institutional On-Chain Settlement Standard Shaped with J.P. Morgan"
-          },
-          "summary": {
-            "zh": "Solana Foundation今日发布Solana DvP，一个MIT开源的链上托管程序 (escrow program)，为金融机构提供标准化的原子化券款对付 (Delivery-versus-Payment, DvP) 结算接口。摩根大通 (J.P. Morgan) 在开发过程中就机构结算实践与合规需求提供了输入。该标准将传统需数日的清算流程压缩为一笔原子交易，资产与资金要么同时交割、要么都不交割，数秒内完成最终结算。",
-            "en": "The Solana Foundation today launched Solana DvP, an MIT-licensed open-source escrow program offering financial institutions a standardized API for atomic delivery-versus-payment settlement on Solana. J.P. Morgan provided input on institutional settlement practices and requirements during development. The standard compresses a traditionally multi-day clearing process into a single atomic transaction — asset and payment settle together or not at all, with finality in seconds."
-          },
-          "sources": [
-            {
-              "name": "PR Newswire (Solana Foundation announcement)",
-              "url": "https://www.advfn.com/stock-market/stock-news/99437428/solana-foundation-launches-solana-dvp-an-atomic-s"
-            },
-            {
-              "name": "PANews",
-              "url": "https://panews.io/articles/01a10f1a-b9f7-7399-b6b2-e879e3a2e28a"
-            },
-            {
-              "name": "Spendnode",
-              "url": "https://www.spendnode.io/blog/solana-jp-morgan-institutional-settlement-standard-october-2026/"
-            }
-          ]
-        },
-        {
-          "category": "market",
-          "id": "m2",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings"
-            }
-          ],
-          "summary": {
-            "en": "U.S. spot Bitcoin ETFs posted $241M in net inflows last week, the third consecutive week of gains led by BlackRock's IBIT ($450M). Total net assets across spot BTC ETFs reached $108.89B, signaling renewed institutional demand.",
-            "zh": "美国比特币现货ETF (Spot ETF) 上周净流入2.41亿美元，连续第三周录得增长，其中贝莱德IBIT贡献4.5亿美元。目前现货BTC ETF总净资产达1088.9亿美元，显示机构需求回暖。"
-          },
-          "time": "2026-10-05T20:30:00Z",
-          "title": {
-            "en": "Spot Bitcoin ETFs Post $241M Inflows, Third Straight Week of Gains",
-            "zh": "比特币现货ETF单周净流入2.41亿美元，连续第三周增长"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "s1",
-          "sources": [
-            {
-              "name": "Coinbird",
-              "url": "https://www.coinbird.com/cryptocurrencies/solana/news"
-            }
-          ],
-          "summary": {
-            "en": "Solana's Alpenglow upgrade achieved 54ms median finalization on testnet, beating design targets and moving closer to mainnet activation — a major leap for network speed and scalability.",
-            "zh": "Solana的Alpenglow升级在测试网实现54毫秒中位确认时间 (finality)，超设计目标，主网激活渐近——网络速度与可扩展性迎来大跃升。"
-          },
-          "time": "2026-10-05T18:30:00Z",
-          "title": {
-            "en": "Solana's Alpenglow Hits 54ms Finality on Testnet",
-            "zh": "Solana Alpenglow测试网实现54毫秒确认，超设计目标"
-          }
-        },
-        {
-          "category": "ethereum",
-          "id": "e2",
-          "sources": [
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/ethereum-news-today/"
-            }
-          ],
-          "summary": {
-            "en": "ETH trades near $2,712 (+0.7% / 24h). U.S. spot Ether ETFs saw ~$118M net outflows last week after $689.8M inflows the week before. BitMine reports 6,001,302 ETH holdings; its next weekly update lands Monday.",
-            "zh": "ETH报2712美元附近（24小时+0.7%）。美国以太坊现货ETF上周净流出约1.18亿美元，前一周曾流入6.898亿美元。BitMine持有600万枚ETH，下一次持仓周报将于周一公布。"
-          },
-          "time": "2026-10-05T18:00:00Z",
-          "title": {
-            "en": "ETH Near $2,712 as Spot Ether ETFs See $118M Weekly Outflows",
-            "zh": "ETH守住2712美元，以太坊现货ETF周流出1.18亿美元"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "s2",
-          "sources": [
-            {
-              "name": "Coinbird",
-              "url": "https://www.coinbird.com/cryptocurrencies/solana/news"
-            },
-            {
-              "name": "TradingKey",
-              "url": "https://www.tradingkey.com/news/cryptocurrencies/262199500-fxstr"
-            }
-          ],
-          "summary": {
-            "en": "The CFTC chair named SOL among digital commodities under CFTC oversight, easing regulatory uncertainty. Separately, Fiserv launched its digital-asset platform on Solana, with 90+ North Dakota banks using Roughrider Coin for interbank settlement.",
-            "zh": "CFTC主席将SOL列为其监管的数字商品 (digital commodity)，监管不确定性下降。另，Fiserv在Solana上推出数字资产平台，90多家北达科他州银行已用Roughrider Coin做银行间结算。"
-          },
-          "time": "2026-10-05T17:00:00Z",
-          "title": {
-            "en": "SOL Classed as Digital Commodity; Fiserv Brings 90+ U.S. Banks to Solana",
-            "zh": "SOL被列为数字商品；Fiserv携90余家美国银行登陆Solana"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "t1",
-          "sources": [
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/ethereum-news-today/"
-            }
-          ],
-          "summary": {
-            "en": "A vault on Base lost 1,783 wstETH (~$6M) on Sunday after an attacker was added to its whitelist, borrowed receipt tokens and redeemed via Aave V3. Neither Base nor Aave core contracts were compromised — an access-control failure on the vault's multisig.",
-            "zh": "Base上一金库周日损失1783枚wstETH（约600万美元）：攻击者被加入白名单 (whitelist) 后借出凭证代币并经Aave V3赎回。Base与Aave核心合约未受影响，系金库多签 (multisig) 的访问控制失误。"
-          },
-          "time": "2026-10-05T15:00:00Z",
-          "title": {
-            "en": "Base Vault Loses $6M in wstETH Whitelist Exploit",
-            "zh": "Base金库遭白名单攻击，损失600万美元wstETH"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "s3",
-          "sources": [
-            {
-              "name": "AMBCrypto",
-              "url": "https://ambcrypto.com/?p=638558"
-            },
-            {
-              "name": "Ranzware",
-              "url": "https://ranzware.com/solana-flips-ethereum-as-dex-volume-tops-l2s-and-hyperliquid-combined"
-            }
-          ],
-          "summary": {
-            "en": "Solana's spot DEX volume topped Ethereum mainnet, all its L2s, and Hyperliquid combined to open Q4 — over $1.6B per Blockworks data. 21Shares research: Solana handled 36%+ of global spot DEX volume in H1 2026, roughly double Ethereum's share.",
-            "zh": "Solana现货DEX交易量在Q4开局超过以太坊主网+全部L2+Hyperliquid之和（Blockworks数据超16亿美元）。21Shares研究显示2026上半年Solana处理了全球现货DEX交易量的36%以上，约为以太坊的两倍。"
-          },
-          "time": "2026-10-05T14:00:00Z",
-          "title": {
-            "en": "Solana DEX Volume Flips Ethereum to Open Q4",
-            "zh": "Solana DEX交易量反超以太坊，强势开启Q4"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "b1",
-          "sources": [
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/bitcoin-news-today/"
-            }
-          ],
-          "summary": {
-            "en": "Michael Saylor posted 'more orange than ever' on Sunday, hinting at another Strategy bitcoin purchase — typically confirmed in Monday SEC filings. Strategy's last disclosed holding: 847,666 BTC at an average cost of ~$75,437.",
-            "zh": "Michael Saylor周日发文\"more orange than ever\"，暗示Strategy将再次增持比特币 (通常于周一SEC文件中确认）。Strategy目前持有847,666枚BTC，平均成本约75,437美元。"
-          },
-          "time": "2026-10-05T12:00:00Z",
-          "title": {
-            "en": "Saylor Hints at New Strategy Bitcoin Purchase",
-            "zh": "Saylor暗示Strategy将再次增持比特币"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "r1",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings"
-            },
-            {
-              "name": "CryptoRank",
-              "url": "https://cryptorank.io/news/feed/b9dfe-sec-approves-3x-leveraged-bitcoin-ether-and-other-etps-for-listing"
-            }
-          ],
-          "summary": {
-            "en": "On Oct 2 the SEC approved a Cboe BZX rule change allowing six 3x leveraged ETFs from Volatility Shares — covering bitcoin, ether, gold, silver, oil and gas. The first 3x crypto ETFs in the U.S.; trading still needs S-1 effectiveness. Bloomberg's Eric Balchunas called it 'a big win.'",
-            "zh": "SEC于10月2日批准Cboe BZX规则变更，允许Volatility Shares发行六只3倍杠杆ETF (Leveraged ETF)，覆盖比特币、以太坊、黄金、白银、原油、天然气——美国首批3倍加密ETF。实际交易仍需S-1生效。彭博Eric Balchunas称之为\"重大胜利\"。"
-          },
-          "time": "2026-10-05T11:14:00Z",
-          "title": {
-            "en": "SEC Approves First 3x Bitcoin and Ether ETFs in the U.S.",
-            "zh": "SEC批准美国首批3倍比特币/以太坊ETF"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "b2",
-          "sources": [
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest"
-            }
-          ],
-          "summary": {
-            "en": "Veteran trader Peter Brandt has flipped bullish, saying 'there's a good possibility we have seen the low.' He now targets $300,000–$600,000 for Bitcoin's late-2029 cycle peak, up from $250,000–$300,000 in July.",
-            "zh": "资深交易员Peter Brandt转多，称\"低点可能已经出现\"。他将本轮周期比特币顶部目标上调至30万–60万美元（2029年末），高于7月预测的25万–30万美元。"
-          },
-          "time": "2026-10-05T10:00:00Z",
-          "title": {
-            "en": "Peter Brandt Flips Bullish, Sees Bitcoin $300K–$600K by 2029",
-            "zh": "Peter Brandt转多：比特币2029年或达30万–60万美元"
-          }
-        },
-        {
-          "category": "market",
-          "id": "m1",
-          "sources": [
-            {
-              "name": "Morningstar / Dow Jones",
-              "url": "https://www.morningstar.com/news/dow-jones/202610051423/bitcoin-holds-above-86000-after-fed-rate-hike-bets-ease"
-            },
-            {
-              "name": "Barron's",
-              "url": "https://www.barrons.com/livecoverage/stock-market-news-today-100526/card/bitcoin-regains-some-momentum-but-stays-below-87-000-vNkB8wqYMwEDZbyAJlVl"
-            }
-          ],
-          "summary": {
-            "en": "Bitcoin held above $86,000 on Monday after weak U.S. jobs data pared bets on an October Fed rate hike. $87,000 remains the key resistance; a break could open the path toward $90,000. The Fed publishes September meeting minutes on Wednesday, and TOKEN2049 Singapore runs Oct 7–8.",
-            "zh": "受美国疲软就业数据打压10月加息预期影响，比特币周一守住86000美元上方。87000美元仍是关键阻力位 (resistance)，突破后有望看向90000美元。美联储 (Fed) 将于周三公布9月会议纪要，TOKEN2049新加坡大会于10月7–8日举行。"
-          },
-          "time": "2026-10-05T09:24:00Z",
-          "title": {
-            "en": "Bitcoin Holds Above $86K, Tests $87K Resistance Ahead of Fed Minutes",
-            "zh": "比特币守住86000美元上方，87000美元阻力位成焦点，美联储会议纪要将至"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "t2",
-          "sources": [
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/05/crypto-week-ahead-token2049-fomc-evernorth-xrp-nasdaq-debut-ethereum-glamsterdam/"
-            }
-          ],
-          "summary": {
-            "en": "Evernorth is set to debut on Nasdaq as XRPN after shareholders approved its merger, expecting to hold ~473M XRP as the largest listed pure-play XRP treasury — the latest in the digital-asset treasury (DAT) trend.",
-            "zh": "Evernorth在股东批准合并后将以代码XRPN登陆纳斯达克，预计持有约4.73亿枚XRP，成为最大上市XRP财库公司——数字资产财库 (DAT) 热潮的又一案例。"
-          },
-          "time": "2026-10-05T09:00:00Z",
-          "title": {
-            "en": "Evernorth XRP Treasury to Debut on Nasdaq as XRPN",
-            "zh": "Evernorth XRP财库即将以XRPN登陆纳斯达克"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "r2",
-          "sources": [
-            {
-              "name": "KuCoin News",
-              "url": "https://www.kucoin.com/news/flash/sec-funding-disruption-halts-new-crypto-etf-reviews"
-            }
-          ],
-          "summary": {
-            "en": "With the U.S. federal budget lapsed, the SEC has halted reviews of new crypto ETF applications — 90+ were pending as October began. Existing products (IBIT, FBTC) trade normally. Analysts call the 'ETF Cryptober' delay temporary, not a rejection.",
-            "zh": "因美国联邦预算中断，SEC已暂停新的加密货币ETF申请审核——10月初有90多份申请待批。已上市产品（IBIT、FBTC）交易不受影响。分析师称\"ETF Cryptober\"只是推迟而非否决。"
-          },
-          "time": "2026-10-04T16:00:00Z",
-          "title": {
-            "en": "SEC Funding Lapse Halts New Crypto ETF Reviews",
-            "zh": "SEC资金中断，暂停新的加密货币ETF审核"
-          }
-        }
-      ]
     }
   ],
-  "updated": "2026-10-19"
+  "updated": "2026-10-20"
 }
