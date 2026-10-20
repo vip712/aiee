@@ -1,6 +1,245 @@
 {
   "days": [
     {
+      "date": "2026-10-21",
+      "items": [
+        {
+          "id": "20261021-02",
+          "category": "bitcoin",
+          "time": "2026-10-20T15:00:00Z",
+          "title": {
+            "zh": "贝莱德申请第三只比特币ETF：PBIT缓冲型基金，用IBIT期权对冲约10%下行风险",
+            "en": "BlackRock files third Bitcoin ETF \"PBIT\": a buffer fund using IBIT options to cushion ~10% downside"
+          },
+          "summary": {
+            "zh": "贝莱德10月19日向SEC递交初步招股书，拟发行iShares Bitcoin Managed Protection ETF（代码PBIT），这将是其继现货ETF IBIT和备兑收益型ETF BITA之后的第三只比特币基金。PBIT不直接持有比特币，而是通过买卖IBIT期权构建缓冲结构（buffer structure），目标将每期最大亏损限制在约10%，代价是放弃部分上行收益。分析人士认为，这类合规“缓冲”产品正是机构投资者入场所需的包装。",
+            "en": "BlackRock filed a preliminary prospectus with the SEC on October 19 for the iShares Bitcoin Managed Protection ETF (ticker PBIT), its third Bitcoin ETF after the spot IBIT and the call-writing BITA. PBIT would hold no bitcoin directly; instead it would use overlapping call option spreads on IBIT to build a defined-outcome buffer structure, targeting a maximum loss of about 10% per tranche while capping upside. Analysts say such a compliance-friendly buffer wrapper is exactly what some institutional allocators need before they can touch bitcoin at all."
+          },
+          "sources": [
+            {
+              "name": "Stocktwits",
+              "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-exposure-with-less-downside-risk-blackrock-new-etf/cZxqUdsRBux"
+            },
+            {
+              "name": "TFTC",
+              "url": "https://www.tftc.io/blackrock-pbit-buffer-bitcoin-etf-ibit-665m-inflow"
+            }
+          ]
+        },
+        {
+          "id": "20261021-01",
+          "category": "market",
+          "time": "2026-10-20T14:00:00Z",
+          "title": {
+            "zh": "比特币跌破8.2万美元：亚洲芯片股重挫拖累风险资产，现货ETF却创近一个月最大流入",
+            "en": "Bitcoin slips toward $81,400 as Asian chip stocks tumble; US spot ETFs post biggest inflow in nearly a month"
+          },
+          "summary": {
+            "zh": "比特币周二跌至约8.14万美元，韩国KOSPI重挫3.73%凸显科技股疲软带来的风险厌恶（risk-off）情绪。讽刺的是，美国现货比特币ETF周一反而录得5.266亿美元净流入，为近一个月最大单日流入，其中贝莱德IBIT独揽6.652亿美元。与之形成对比的是，以太坊ETF净流出1.033亿美元，已连续第四个交易日失血。资金向比特币的“避风港化”集中非常明显。",
+            "en": "Bitcoin slipped to about $81,400 on Tuesday as South Korea's Kospi plunged 3.73% on AI-spending worries, dragging risk assets lower. In a twist, US spot Bitcoin ETFs recorded $526.6 million of net inflows on Monday — their biggest day in nearly a month — with BlackRock's IBIT alone pulling in $665.2 million. Spot Ether ETFs, in contrast, shed $103.3 million, extending their losing streak to four sessions. The data shows a sharp concentration of institutional demand in bitcoin specifically."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/bitcoin-etfs-rebound-with-526m-why-is-btc-price-still-weak/"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-ethereum-xrp-tick-lower-amid-mixed-etf-flows-202610201028"
+            }
+          ]
+        },
+        {
+          "id": "20261021-08",
+          "category": "tech",
+          "time": "2026-10-20T13:30:00Z",
+          "title": {
+            "zh": "Drift Protocol黑客沉寂两月后行动：将13,400至25,700枚ETH转入Tornado Cash洗钱",
+            "en": "Drift exploiter resurfaces after two months idle, sending 13,400–25,700 ETH into Tornado Cash"
+          },
+          "summary": {
+            "zh": "与4月Drift Protocol攻击（损失约2.95亿美元）相关的钱包10月20日结束约两个月的沉寂，开始将窃取的ETH转入Tornado Cash混币器。Onchain Lens与Lookonchain追踪到的金额在13,400枚（约3,200万美元）到25,700枚（约6,100万美元）之间，攻击者地址仍持有约81,400枚ETH（约1.94亿美元）。这是继7月之后该资金的第二次大规模洗钱尝试，Mandiant此前将其归因于朝鲜黑客组织UNC6862。",
+            "en": "Wallets linked to the April Drift Protocol attack (~$295 million lost) woke up on Oct 20 after about two months of silence and began moving stolen ETH into the Tornado Cash mixer. Onchain Lens and Lookonchain tracked between 13,400 ETH (~$32M) and 25,700 ETH (~$61M) entering the mixer over two hours; the exploiter's addresses still hold about 81,400 ETH (~$194M). It is the second major laundering attempt for these funds after July. Mandiant previously attributed the attack to North Korean group UNC6862."
+          },
+          "sources": [
+            {
+              "name": "TradingView",
+              "url": "https://www.tradingview.com/news/cointelegraph:d3e45ed70094b:0-drift-exploiter-sends-61m-eth-to-tornado-cash-holds-194m/"
+            },
+            {
+              "name": "The Cryptonomist",
+              "url": "https://en.cryptonomist.ch/2026/10/20/stolen-ethereum-laundering-drift/"
+            }
+          ]
+        },
+        {
+          "id": "20261021-03",
+          "category": "ethereum",
+          "time": "2026-10-20T13:00:00Z",
+          "title": {
+            "zh": "以太坊Glamsterdam升级10月26日登陆Hoodi测试网，区块Gas上限翻倍至2亿",
+            "en": "Ethereum's Glamsterdam upgrade goes live on the Hoodi testnet Oct 26, doubling the block gas limit to 200M"
+          },
+          "summary": {
+            "zh": "以太坊基金会确认，Glamsterdam硬分叉（hard fork）将于10月26日17:42 UTC在Hoodi测试网激活，届时区块Gas上限将提升至2亿，为此前在Sepolia测试网运行过的同等参数。这是主网部署前最后一个公开测试步骤，但主网激活日期仍未确定。ETH目前在约2,380美元附近交投，距离9月底高点仍有约15%差距。",
+            "en": "The Ethereum Foundation confirmed that the Glamsterdam hard fork will activate on the Hoodi testnet on October 26 at 17:42 UTC, raising the block gas limit to 200 million — the same parameters already exercised on Sepolia earlier this month. Hoodi is the final public test step before developers commit to a mainnet slot, though no mainnet date has been set. ETH trades near $2,380, roughly 15% below its late-September peak."
+          },
+          "sources": [
+            {
+              "name": "Crypto News Flash",
+              "url": "https://www.crypto-news-flash.com/ethereum-sellers-quiet-glamsterdam-countdown/"
+            },
+            {
+              "name": "BlockchainReporter",
+              "url": "https://blockchainreporter.net/ethereum-news-today/"
+            }
+          ]
+        },
+        {
+          "id": "20261021-04",
+          "category": "solana",
+          "time": "2026-10-20T12:00:00Z",
+          "title": {
+            "zh": "Solana今日激活Alpenglow共识升级：交易终局时间将从12.8秒缩短至150毫秒",
+            "en": "Solana activates the Alpenglow consensus upgrade today, cutting finality from 12.8s to 150ms"
+          },
+          "summary": {
+            "zh": "Solana自2020年沿用的TowerBFT共识机制今天将被Alpenglow取代，目标是将交易终局时间（finality）压缩到150毫秒，验证人需运行兼容客户端并注册BLS密钥。升级引入了每epoch 0.8 SOL的验证人准入费，取代原有链上投票费结构。据SolanaFloor数据，截至10月20日仍有约20.3%的质押份额标记为“未就绪”，激活过程是否顺畅成为短期最大看点。",
+            "en": "Solana is replacing its TowerBFT consensus mechanism — in use since 2020 — with Alpenglow today, targeting transaction finality of 150 milliseconds. Validators must run compatible software and register BLS keys; the upgrade also introduces a 0.8 SOL per-epoch validator admission fee replacing the existing on-chain voting fee structure. Data cited by SolanaFloor shows roughly 20.3% of staked tokens were still marked unready on Oct 20, making a smooth activation the key near-term watch point."
+          },
+          "sources": [
+            {
+              "name": "KuCoin",
+              "url": "https://www.kucoin.com/news/flash/solana-to-launch-major-consensus-upgrade-alpenglow-on-october-21"
+            },
+            {
+              "name": "Gadgets360",
+              "url": "https://www.gadgets360.com/cryptocurrency/news/solana-alpenglow-upgrade-set-for-october-21-with-150-millisecond-finality-target-crypto-upgrades-updates-adoption-sol-token-12184700"
+            }
+          ]
+        },
+        {
+          "id": "20261021-05",
+          "category": "solana",
+          "time": "2026-10-20T11:00:00Z",
+          "title": {
+            "zh": "Solana链上代币化股票持有人突破140万地址，三季度非投票交易量达89.2亿笔创新高",
+            "en": "Solana tokenized equity holders pass 1.4M addresses; Q3 non-vote transactions hit a record 8.92B"
+          },
+          "summary": {
+            "zh": "Solana官方X账号10月19日公布，链上持有代币化股票（tokenized equity）的地址数已突破140万个，自9月初以来增长加速。另据Allium数据，第三季度非投票交易量（non-vote transactions，更接近真实用户需求）达89.2亿笔，环比增长24%，较2025年第四季度翻了一倍以上，创季度新高。不过，自动化交易机器人贡献了相当比例的链上活动，活跃用户数与交易笔数并不等同。",
+            "en": "Solana's official X account reported on Oct 19 that addresses holding tokenized equities on the network passed 1.4 million, with growth accelerating since early September. Allium data shows non-vote transactions — a closer proxy for real user demand — reached 8.92 billion in Q3, up 24% quarter-over-quarter and more than double Q4 2025's level, a new quarterly record. A caveat: automated trading bots account for a significant share of on-chain activity, so transaction counts do not equal user counts."
+          },
+          "sources": [
+            {
+              "name": "CoinStats",
+              "url": "https://coinstats.app/news/2cf2519a52450c05d32e5cb694b70ba18d3fa63ec4dab36be53702d6a069fac2_Solana-News-14M-Stock-Holders-892B-Transactions-Alpenglow-Date/"
+            },
+            {
+              "name": "TradingView",
+              "url": "https://www.tradingview.com/news/u_today:76cd1eba6094b:0-solana-achieves-104-transaction-growth/"
+            }
+          ]
+        },
+        {
+          "id": "20261021-06",
+          "category": "regulation",
+          "time": "2026-10-20T10:00:00Z",
+          "title": {
+            "zh": "SEC加密资产新规意见征集期结束：收到约140条评论，CLARITY法案流产后SEC继续推进",
+            "en": "SEC's \"Regulation Crypto Assets\" comment period ends with ~140 submissions; agency advances after CLARITY Act failure"
+          },
+          "summary": {
+            "zh": "SEC的《加密资产监管规则》（Regulation Crypto Assets）10月20日正式结束公众意见征集，共收到约140条评论。拟议规则允许加密初创公司在特定条件下筹集最高5,000万美元而无需完整证券注册，并设立代币“去证券化”安全港（safe harbor）。在CLARITY法案参议院受挫后，主席Paul Atkins表示SEC将依据现有职权继续推进加密框架。Hyperliquid Policy Center等业界组织已提交修改建议，要求澄清五个条款。",
+            "en": "The SEC's \"Regulation Crypto Assets\" proposal closed its 60-day public comment period on Oct 20 with roughly 140 submissions. The draft would let crypto startups raise up to $50 million under lighter disclosure conditions and create a conditional safe harbor for tokens to exit \"investment contract\" status. After the CLARITY Act stalled in the Senate, Chair Paul Atkins said the agency will press ahead under existing authority. Industry groups including the Hyperliquid Policy Center have filed comments seeking revisions to five provisions."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules"
+            },
+            {
+              "name": "BTCNewz",
+              "url": "https://btcnewz.com/articles/hyperliquid-policy-center-sec-crypto-rules-2026"
+            }
+          ]
+        },
+        {
+          "id": "20261021-07",
+          "category": "regulation",
+          "time": "2026-10-20T09:00:00Z",
+          "title": {
+            "zh": "Google更新阿联酋加密广告政策：10月21日起须持本地牌照并通过谷歌认证",
+            "en": "Google tightens UAE crypto ad rules from Oct 21: local licence plus Google certification required"
+          },
+          "summary": {
+            "zh": "谷歌宣布，10月21日起，面向阿联酋用户的加密货币交易所和软件钱包广告，必须持有CMA、DFSA、FSRA或VARA四家监管机构之一的牌照，并通过谷歌Ads认证（认证账户将标记“Eligible (Limited)”）。规则适用于全球所有投放阿联酋市场的账户。此举延续了谷歌与各地监管对齐的路线：ICO、DeFi交易协议和未持牌产品的广告依然被禁止。",
+            "en": "Google announced that from October 21, 2026, ads for crypto exchanges and software wallets targeting UAE users must hold a licence from one of four authorities — the CMA, DFSA, FSRA or VARA — and complete Google Ads certification (compliant accounts will show an \"Eligible (Limited)\" status). The policy applies to all accounts worldwide advertising to the UAE. It continues Google's alignment with local regulators: ICO, DeFi-protocol and unlicensed-product ads remain prohibited."
+          },
+          "sources": [
+            {
+              "name": "Finance Magnates",
+              "url": "https://www.financemagnates.com/forex/google-broadens-uae-crypto-ad-eligibility-clarifies-cfd-and-forex-rules/"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/google-uae-crypto-ads-certification-october/"
+            }
+          ]
+        },
+        {
+          "id": "20261021-09",
+          "category": "tech",
+          "time": "2026-10-19T16:00:00Z",
+          "title": {
+            "zh": "Cysic跨链桥被黑：攻击者伪造消息在BNB链铸造1,000万枚CYS，约72.7万美元流入以太坊",
+            "en": "Cysic bridge exploited: attacker forged messages to mint 10M CYS on BNB Chain; ~$727K moved to Ethereum"
+          },
+          "summary": {
+            "zh": "10月17日，攻击者通过未经授权访问桥接服务的数据库、利用消息处理逻辑漏洞，在BNB智能链上伪造铸造了1,000万枚CYS代币。Cysic在76分钟后拉黑收款地址，冻结了剩余的280万枚，但约720万枚已被出售，约306.6 ETH（价值约72.7万美元）被转移到以太坊。项目方称主网及用户钱包资产未受影响，跨链桥在安全审查期间保持暂停。",
+            "en": "On Oct 17, an attacker exploited a message-processing vulnerability in Cysic's cross-chain bridge after gaining unauthorized access to a supporting database, minting 10 million unauthorized CYS tokens on BNB Chain. Cysic blacklisted the recipient address 76 minutes later, freezing the remaining 2.8 million CYS — but about 7.2 million had already been sold, with roughly 306.6 ETH (~$727,000) moved to Ethereum. The project says its mainnet and user wallets were unaffected; the bridge stays paused pending a security review."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys"
+            },
+            {
+              "name": "Bitcoinist",
+              "url": "https://bitcoinist.com/cysic-bridge-exploit-creates-10-million-tokens-before-727-000-moves-to-ethereum-2/amp/"
+            }
+          ]
+        },
+        {
+          "id": "20261021-10",
+          "category": "tech",
+          "time": "2026-10-18T08:00:00Z",
+          "title": {
+            "zh": "Ledger供应链攻击：硬件钱包被植入间谍芯片经马来西亚经销商流出，损失超9,000万美元",
+            "en": "Ledger supply-chain attack: spy chips hidden in hardware wallets sold via Malaysian retailer; losses exceed $90M"
+          },
+          "summary": {
+            "zh": "Ledger披露，有组织犯罪集团在经马来西亚经销商CryptoBilis售出的部分Ledger设备中植入了隐蔽芯片。当用户在屏幕上设置助记词（recovery phrase）时，芯片会识别并解码助记词，再通过内置eSIM经LTE无线传出，使攻击者得以清空钱包。区块链研究人员估计损失超过9,000万美元。Ledger已要求港澳及东南亚零售商停售相关设备，OneKey和Trezor也开始审查部分经销商渠道。",
+            "en": "Ledger disclosed that a highly organized criminal group implanted covert chips inside some Ledger devices sold via Malaysian retailer CryptoBilis. When users set up the device and the recovery phrase appeared on screen, the chip recognized and decoded the words, then transmitted them via LTE using a built-in eSIM — letting attackers drain the wallets remotely. Blockchain researchers estimate losses above $90 million. Ledger has asked retailers in Hong Kong, Macau and Southeast Asia to halt sales of affected devices, and OneKey and Trezor are also reviewing reseller channels."
+          },
+          "sources": [
+            {
+              "name": "Silicon UK",
+              "url": "https://www.silicon.co.uk/cybersecurity/ledger-spyware-breach-crypto-631929"
+            },
+            {
+              "name": "Business Standard",
+              "url": "https://www.business-standard.com/amp/world-news/crypto-devices-built-to-foil-hackers-may-have-come-with-spies-inside-126101800160_1.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "items": [
         {
@@ -3100,223 +3339,7 @@
           }
         }
       ]
-    },
-    {
-      "date": "2026-10-07",
-      "items": [
-        {
-          "id": "20261007-m1",
-          "category": "market",
-          "time": "2026-10-06T22:00:00Z",
-          "title": {
-            "zh": "比特币守住8.6万美元上方，美联储会议纪要今日公布",
-            "en": "Bitcoin Holds Above $86K Ahead of FOMC Minutes Release"
-          },
-          "summary": {
-            "zh": "比特币在86000美元附近交投，本周第三次未能突破87000美元阻力位 (resistance)。现货ETF (Spot ETF) 资金流向喜忧参半：上周录得2.41亿美元净流入、连续第三周增长，但单日也曾出现8980万美元流出。美联储 (Fed) 将于今日公布9月会议纪要 (FOMC minutes)，市场关注官员对进一步加息的分歧程度。",
-            "en": "Bitcoin traded near $86,000 after sellers rejected a move above $87,000 for the third time since late September. Spot ETF flows were mixed: last week brought $241 million in net inflows, the third straight positive week, though one session saw $89.8 million in outflows. The Fed releases its September FOMC minutes today, and traders will parse them for the depth of disagreement over further rate hikes."
-          },
-          "sources": [
-            {
-              "name": "99Bitcoins",
-              "url": "https://99bitcoins.com/news/bitcoin-btc/btc-usd-price-87000-resistance-saylor-buy/"
-            },
-            {
-              "name": "TradingNews",
-              "url": "https://www.tradingnews.com/news/bitcoin-coils-below-87k-usd-ressistane-on-126k-peak-anniversary"
-            },
-            {
-              "name": "Schaeffer's Investment Research",
-              "url": "https://www.schaeffersresearch.com/content/news/2026/10/01/the-week-ahead-fomc-meeting-minutes-take-center-stage"
-            }
-          ]
-        },
-        {
-          "id": "20261007-b1",
-          "category": "bitcoin",
-          "time": "2026-10-06T10:00:00Z",
-          "title": {
-            "zh": "Strategy再购334枚比特币，总持仓突破84.8万枚",
-            "en": "Strategy Buys 334 More Bitcoin, Holdings Top 848,000 BTC"
-          },
-          "summary": {
-            "zh": "Strategy在10月1日至4日以约2870万美元购入334枚BTC，均价85,838美元（10月5日披露的SEC 8-K文件）。公司目前持有84.8万枚比特币，总成本约639.7亿美元，平均成本75,441美元。该公司同时估计三季度数字资产收益 (digital-asset gain) 约209亿美元。",
-            "en": "Strategy acquired 334 BTC for about $28.7 million between October 1 and 4 at an average price of $85,838, per its October 5 SEC 8-K filing. Total holdings reached 848,000 BTC at an aggregate cost of $63.97 billion (average $75,441). The company also estimated a roughly $20.9 billion gain on digital assets for Q3."
-          },
-          "sources": [
-            {
-              "name": "The Block",
-              "url": "https://www.theblock.co/news/business/2026-10-05-more-orange-than-ever-michael-saylor-strategy-bitcoin-417631"
-            },
-            {
-              "name": "Altcoin Buzz",
-              "url": "https://www.altcoinbuzz.io/strategy-buys-334-bitcoin-28-7-million"
-            }
-          ]
-        },
-        {
-          "id": "20261007-t1",
-          "category": "tech",
-          "time": "2026-10-06T08:30:00Z",
-          "title": {
-            "zh": "ZachXBT卧底追踪Bybit被盗资金，捣毁Lazarus关联洗钱网络",
-            "en": "ZachXBT's Undercover Sting Traced Bybit Hack Funds to Lazarus-Linked Network"
-          },
-          "summary": {
-            "zh": "链上侦探 (on-chain investigator) ZachXBT披露，他自掏腰包34.97万美元伪装成客户，潜入一个涉嫌为朝鲜Lazarus Group洗钱超10亿美元的华人洗钱网络。该行动帮助追踪了超1200万美元的Bybit被盗资金，Tether随后冻结了44.2万枚USDT。相关调查细节已移交私营调查机构与执法部门。",
-            "en": "On-chain investigator ZachXBT disclosed that he spent $349,700 posing as a client to infiltrate an alleged Chinese money-laundering network that moved over $1 billion for North Korea-linked hackers. The operation helped trace more than $12 million in funds from Bybit's $1.5 billion theft, and Tether later froze 442,000 USDT. Findings were shared with private-sector investigators and law enforcement."
-          },
-          "sources": [
-            {
-              "name": "CryptoRank",
-              "url": "https://cryptorank.io/news/feed/e3dcf-zachxbt-349700-sting-traced-bybit-hack-funds-to-lazarus-linked-network"
-            },
-            {
-              "name": "crypto.news",
-              "url": "https://crypto.news/how-zachxbt-traced-bybit-hack-funds-to-a-lazarus-linked-network/"
-            }
-          ]
-        },
-        {
-          "id": "20261007-e1",
-          "category": "ethereum",
-          "time": "2026-10-06T08:00:00Z",
-          "title": {
-            "zh": "以太坊完成主网首笔原子化L1到L2跨层交易",
-            "en": "Ethereum Executes First Atomic L1-to-L2 Transaction on Mainnet"
-          },
-          "summary": {
-            "zh": "以太坊经济区 (Ethereum Economic Zone, EEZ) 在主网完成首笔原子化跨层交易，以一笔0.001 ETH测试交易演示了L1与L2之间的同步可组合性 (synchronous composability)。该里程碑有望统一流动性、降低对跨链桥 (bridge) 的依赖。ETH维持在2700美元上方交投。",
-            "en": "The Ethereum Economic Zone (EEZ) completed the first atomic cross-layer transaction on mainnet, demonstrating synchronous composability between L1 and L2 with a 0.001 ETH test transaction. The milestone could unify liquidity and reduce reliance on bridges. ETH held above $2,700."
-          },
-          "sources": [
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/06/eth-price-holds-2700-as-ethereum-economic-zone-runs-atomic-l1-to-l2-mainnet-test/"
-            },
-            {
-              "name": "Coinbird",
-              "url": "https://www.coinbird.com/cryptocurrencies/ethereum/news"
-            }
-          ]
-        },
-        {
-          "id": "20261007-e2",
-          "category": "ethereum",
-          "time": "2026-10-06T06:00:00Z",
-          "title": {
-            "zh": "BitMine再购15112枚ETH，总持仓达602万枚",
-            "en": "BitMine Adds 15,112 ETH, Holdings Reach 6.02 Million"
-          },
-          "summary": {
-            "zh": "BitMine在10月4日当周增持15,112枚ETH（约4100万美元），总持仓达6,016,414枚，相当于ETH供应量的4.9%，距离其5%“炼金术”目标 (alchemy of 5%) 仅一步之遥。公司质押 (staking) 的ETH达507万枚，预计年化质押收入3.63亿美元。",
-            "en": "BitMine added 15,112 ETH (about $41 million) in the week through October 4, lifting holdings to 6,016,414 tokens — 4.9% of ETH supply, near its self-stated 5% \"alchemy\" target. The company has 5.07 million ETH staked and projects $363 million in annual staking revenue."
-          },
-          "sources": [
-            {
-              "name": "CryptoPotato",
-              "url": "https://cryptopotato.com/bitmine-lifts-eth-treasury-to-6-02-million-with-smallest-buy-since-mid-august/"
-            },
-            {
-              "name": "BeInCrypto",
-              "url": "https://beincrypto.com/bitmine-stock-beat-ethereum-2026-loss/"
-            }
-          ]
-        },
-        {
-          "id": "20261007-t2",
-          "category": "tech",
-          "time": "2026-10-06T05:00:00Z",
-          "title": {
-            "zh": "NEAR Intents追回380万美元被盗资金，调查结束",
-            "en": "NEAR Intents Recovers $3.8M in Exploit Funds as Probe Ends"
-          },
-          "summary": {
-            "zh": "跨链交易平台NEAR Intents确认已全额追回此前攻击中损失的380万美元资金，攻击者于10月2日归还了约34.59枚BTC及部分其他资产。NEAR联创Illia Polosukhin将追回归功于SHIELD AI安全层与快速链上侦查。协议计划下周起逐步恢复暂停的跨链服务。",
-            "en": "Cross-chain trading platform NEAR Intents confirmed the full $3.8 million stolen in its October 1 exploit has been recovered, with the attacker returning about 34.59 BTC and other assets on October 2. Co-founder Illia Polosukhin credited the SHIELD AI security layer and rapid on-chain detective work. The protocol plans to restore paused cross-chain services starting next week."
-          },
-          "sources": [
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/06/near-price-jumps-128-in-a-month-as-ai-intents-and-hack-recovery-align/"
-            },
-            {
-              "name": "crypto-economy",
-              "url": "https://crypto-economy.com/near-intents-recovers-3-8m-in-exploit-funds-as-investigation-ends/"
-            }
-          ]
-        },
-        {
-          "id": "20261007-r2",
-          "category": "regulation",
-          "time": "2026-10-06T03:00:00Z",
-          "title": {
-            "zh": "OKX与ICE合资公司拟推24/7代币化美股交易平台",
-            "en": "OKXICE Files to Launch 24/7 Tokenized U.S. Stock Trading Venue"
-          },
-          "summary": {
-            "zh": "OKX与纽交所母公司ICE的合资公司OKXICE已通知SEC，计划依据创新豁免 (Innovation Exemption) 推出代币化证券交易场所 (Tokenized Securities Venue)，首批覆盖60多只美股，包括英伟达、苹果、特斯拉等。交易将通过X Layer上的许可制Uniswap v4流动性池进行，全天候 (24/7) 交易；代币持有人享有与普通股东相同的分红与投票权。各发行人有30天异议期。",
-            "en": "OKXICE, the joint venture between OKX and NYSE parent ICE, notified the SEC of its plan to launch a tokenized U.S. stock trading venue under the five-year Innovation Exemption, initially covering 60+ listed companies including Nvidia, Apple and Tesla. Trading would run 24/7 through permissioned Uniswap v4 pools on X Layer; token holders retain the same dividend and voting rights as ordinary shareholders. Issuers have 30 days to object."
-          },
-          "sources": [
-            {
-              "name": "The Block",
-              "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613"
-            },
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks"
-            }
-          ]
-        },
-        {
-          "id": "20261007-r1",
-          "category": "regulation",
-          "time": "2026-10-06T01:00:00Z",
-          "title": {
-            "zh": "CLARITY法案流产后，CFTC单干发布CTX/CAM监管框架征求意见",
-            "en": "CFTC Publishes CTX/CAM Rulemaking Notice After CLARITY Act Failure"
-          },
-          "summary": {
-            "zh": "美国商品期货交易委员会 (CFTC) 10月5日发布预先征求意见通知，提出监管框架CTX（加密资产交易监管）与CAM（加密资产市场监管），将提供杠杆 (leverage) 的加密交易所纳入联邦监管，开启60天公众意见征询。此举是CLARITY法案在参议院受阻后，监管机构依据现有职权自行推进市场结构规则的标志性动作。纯现货 (spot) 交易所不在覆盖范围。",
-            "en": "The U.S. Commodity Futures Trading Commission published an advance notice of proposed rulemaking on October 5, outlining Regulation CTX and Regulation CAM to bring crypto exchanges offering leveraged trading under federal oversight, opening a 60-day comment period. The move marks regulators filling the market-structure gap with existing authority after the CLARITY Act stalled in the Senate. Plain spot exchanges are left outside the framework."
-          },
-          "sources": [
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote"
-            },
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/cftc-seeks-comment-on-first-crypto-rules-for-leveraged-trading-leaving-spot-markets-out/"
-            }
-          ]
-        },
-        {
-          "id": "20261007-s1",
-          "category": "solana",
-          "time": "2026-10-05T22:00:00Z",
-          "title": {
-            "zh": "SOL守住120美元；SOL ETF单周流入243万美元，机构需求降温",
-            "en": "SOL Holds $120 as SOL ETF Inflows Cool to $2.43M"
-          },
-          "summary": {
-            "zh": "SOL维持在120美元附近交投。SoSoValue数据显示，SOL现货ETF上周净流入243万美元，远低于前一周的1.88亿美元，不过仍实现连续第14周净流入。数字资产财库公司DeFi Development (DFDV) 增持26,203枚SOL，财库价值约3.02亿美元。",
-            "en": "SOL traded near $120. SoSoValue data showed SOL-focused ETFs drew just $2.43 million in weekly net inflows, down sharply from $188.22 million the prior week, though the streak of positive weeks reached 14. Digital-asset treasury firm DeFi Development (DFDV) added 26,203 SOL, bringing its treasury to about $302 million."
-          },
-          "sources": [
-            {
-              "name": "Mitrade",
-              "url": "https://www.mitrade.com/au/insights/news/live-news/article-3-2136511-20261005"
-            },
-            {
-              "name": "TradersUnion",
-              "url": "https://tradersunion.com/news/cryptocurrency-news/show/3674249-solana-down-0-66percent-today-at/"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-10-20"
+  "updated": "2026-10-21"
 }
