@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-10-22",
+      "items": [
+        {
+          "id": "20261022-01",
+          "category": "regulation",
+          "time": "2026-10-21T18:30:00Z",
+          "title": {
+            "zh": "英国FCA就DeFi指引与加密资产监管边界启动两份咨询，2027年新规倒计时",
+            "en": "UK FCA opens two consultations on DeFi guidance and crypto regulatory perimeter ahead of 2027 regime"
+          },
+          "summary": {
+            "zh": "英国金融行为监管局（FCA）10月21日发布两份咨询文件：GC26/7 针对使用去中心化金融（DeFi）的受监管企业，就运营韧性（operational resilience）、金融犯罪与反洗钱义务提供合规指引；CP26/36 则厘清新加密资产监管制度下的授权边界与豁免情形。两份咨询均将于11月18日截止，明年1月发布最终指引，而英国全面加密资产制度定于2027年10月25日生效。",
+            "en": "The UK's Financial Conduct Authority (FCA) on October 21 opened two consultations: GC26/7 sets out how regulated firms using decentralized finance (DeFi) should handle operational resilience, financial crime and money-laundering obligations, while CP26/36 clarifies the authorization perimeter and exclusions under the incoming cryptoasset regime. Both close on November 18, 2026, with final guidance planned for January 2027 ahead of the UK cryptoasset regime taking effect on October 25, 2027."
+          },
+          "sources": [
+            {
+              "name": "Cryptopolitan",
+              "url": "https://www.cryptopolitan.com/blockchain-groups-sec-fca-defi-consultations/"
+            },
+            {
+              "name": "PANews",
+              "url": "https://www.panews.io/articles/01a15fb5-1f42-731d-b5e4-cb94dd64f520"
+            }
+          ]
+        },
+        {
+          "id": "20261022-02",
+          "category": "tech",
+          "time": "2026-10-21T16:50:00Z",
+          "title": {
+            "zh": "MoonPay与Upbit母公司Dunamu达成战略合作，探索稳定币全球支付与GIWA生态扩张",
+            "en": "MoonPay and Upbit parent Dunamu announce strategic collaboration on stablecoin payments and GIWA expansion"
+          },
+          "summary": {
+            "zh": "加密支付公司MoonPay 10月20日宣布与韩国最大加密交易所Upbit的母公司Dunamu达成战略合作，计划共同探索基于稳定币（stablecoin）的全球支付与资金转移、企业财务与资金管理，以及扩大Dunamu以太坊二层网络GIWA的全球连接。目前尚无商业条款或上线时间表，双方仍在评估技术与商业可行性。这是韩国在《数字资产基本法》（Digital Asset Basic Act）立法推进期间又一起稳定币基础设施布局。",
+            "en": "Crypto payments firm MoonPay announced on October 20 a strategic collaboration with Dunamu, the parent of South Korea's largest exchange Upbit, to explore stablecoin-based global payments and fund transfers, corporate finance and treasury management, and expanding the global connectivity of Dunamu's Ethereum Layer 2 network GIWA. No commercial terms or launch timeline were given; both sides are still assessing technical and commercial feasibility. The move adds to South Korea's stablecoin infrastructure push as its Digital Asset Basic Act moves forward."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476"
+            },
+            {
+              "name": "Bitcoin.com News",
+              "url": "https://news.bitcoin.com/crypto-news/moonpay-upbit-parent-dunamu-take-aim-global-finance/"
+            }
+          ]
+        },
+        {
+          "id": "20261022-03",
+          "category": "regulation",
+          "time": "2026-10-21T16:00:00Z",
+          "title": {
+            "zh": "六大公链组织联名致信SEC，要求将“数字商品”定义写入拟议加密规则正文",
+            "en": "Six blockchain groups urge SEC to codify digital commodity definition in binding rule text"
+          },
+          "summary": {
+            "zh": "Chainlink Labs、Cardano基金会、Hedera、Aptos Labs、Ava Labs与Stellar发展基金会10月20日联名向美国证券交易委员会（SEC）提交意见信，要求把“数字商品”（digital commodity）作为非证券的定义直接写入《拟议加密资产规则》（Regulation Crypto Assets）的正文条款，而非留在序言与解读性指引中。信中认为，仅靠解释性指引难以给出长期确定性，开发者需要绑定性规则保障。意见提交日恰逢该规则公众评论期截止。",
+            "en": "Chainlink Labs, the Cardano Foundation, Hedera, Aptos Labs, Ava Labs and the Stellar Development Foundation jointly wrote to the US SEC on October 20, urging it to write the definition of a \"digital commodity\" as a non-security into the operative text of its proposed Regulation Crypto Assets, rather than leaving it in the preamble and interpretive guidance. The groups argue that interpretive guidance alone cannot provide lasting certainty for builders, and the letter landed on the comment deadline for the proposed rule."
+          },
+          "sources": [
+            {
+              "name": "CryptoTimes",
+              "url": "https://www.cryptotimes.io/2026/10/21/chainlink-cardano-hedera-avalanche-stellar-aptos-urge-sec-to-codify-digital-commodity-status/"
+            },
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules"
+            }
+          ]
+        },
+        {
+          "id": "20261022-04",
+          "category": "market",
+          "time": "2026-10-21T12:00:00Z",
+          "title": {
+            "zh": "比特币ETF周初获5.27亿美元净流入，以太坊ETF十月流出额突破10.8亿美元创年内最大",
+            "en": "Bitcoin ETFs draw $527M Monday inflow while Ether ETF October outflows top $1.08B, biggest of 2026"
+          },
+          "summary": {
+            "zh": "SoSoValue数据显示，美国现货比特币ETF周一（10月19日）净流入5.27亿美元，为9月22日以来最强单日，周二再添2300万美元，比特币守住8.3万美元附近。反观现货以太坊ETF，十月净流出已达10.8亿美元，创2026年最大单月流出并吞掉9月全部净流入，十月迄今以太币下跌9.7%至2438美元。资金明显向比特币（Bitcoin）倾斜，ETH ETF全年净流入仅剩约4.85亿美元。",
+            "en": "SoSoValue data shows US spot Bitcoin ETFs drew $527 million in net inflows on Monday, October 19, the strongest single day since September 22, followed by $23 million on Tuesday, with bitcoin holding near $83,000. In contrast, US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, erasing September's entire $832 million in net inflows as ether fell 9.7% in October to $2,438. Flows are clearly favoring Bitcoin, leaving Ether ETFs with roughly $485 million in year-to-date net inflows."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october"
+            },
+            {
+              "name": "Cryptopolitan",
+              "url": "https://www.cryptopolitan.com/ether-etfs-lose-1-08b-october-2026/"
+            }
+          ]
+        },
+        {
+          "id": "20261022-05",
+          "category": "ethereum",
+          "time": "2026-10-21T11:00:00Z",
+          "title": {
+            "zh": "以太坊质押占比升至35.9%创历史新高，三季度年化收益率降至2.63%",
+            "en": "Ethereum staking hits record 35.9% of supply as Q3 annualized yield falls to 2.63%"
+          },
+          "summary": {
+            "zh": "Bitwise三季度报告显示，以太坊质押量达到4380万ETH，占流通总量的35.9%，创历史纪录，其中机构与企业参与者推动了质押规模的扩大。增发下行压缩了收益，平均年化质押收益率降至2.63%。分析师指出，质押率攀升锁定了流通供给，但收益下滑意味着锁仓增长未必转化为新增现货需求。Solana质押占比亦达到约69%。",
+            "en": "Bitwise's Q3 report shows Ethereum staking reached 43.8 million ETH, or 35.9% of total supply, a record high, driven by growing corporate and institutional participation alongside the protocol upgrade. Declining issuance compressed yields, with the average annualized staking yield falling to 2.63%. Analysts note that a high staking ratio locks up circulating supply, but falling yields mean expanding staked balances do not necessarily translate into new spot demand. Solana's staking share also reached about 69%."
+          },
+          "sources": [
+            {
+              "name": "DigitalToday",
+              "url": "https://www.digitaltoday.co.kr/en/view/117781/ethereum-staking-hits-record-high-on-institutional-participation-and-upgrade-effects"
+            },
+            {
+              "name": "MEXC Alpha Trader",
+              "url": "https://www.mexc.com/crypto-pulse/article/btc-spot-etf-sees-527-million-in-net-inflows-in-a-single-day-mexc-alpha-trader-daily-market-brief-october-21-2026-176272"
+            }
+          ]
+        },
+        {
+          "id": "20261022-06",
+          "category": "regulation",
+          "time": "2026-10-21T04:30:00Z",
+          "title": {
+            "zh": "Ripple向SEC提交20页意见信支持加密规则，主张区分投资合约与代币本身",
+            "en": "Ripple files 20-page comment letter backing SEC crypto rule, urging separation of investment contract from token"
+          },
+          "summary": {
+            "zh": "Ripple 10月20日向SEC提交20页意见信，公开支持拟议的《加密资产规则》（Regulation Crypto Assets），并请求明确：投资合约（investment contract）与代币本身应作区分，当发行方承诺的必要管理活动结束时，投资合约即终止。首席法务官Stuart Alderoty称公司此前诉讼已花费超1.5亿美元，并呼吁豁免二级市场的普通做市交易。评论期同日截止，SEC接下来将审议约140份意见。",
+            "en": "Ripple filed a 20-page comment letter with the SEC on October 20 backing its proposed Regulation Crypto Assets, asking the agency to distinguish an investment contract from the token itself, so that the contract ends once the issuer's promised managerial work is complete. Chief legal officer Stuart Alderoty said the company's earlier legal fight cost more than $150 million and urged safe treatment for ordinary secondary-market liquidity provision. The comment period closed the same day, with the SEC now weighing roughly 140 submissions."
+          },
+          "sources": [
+            {
+              "name": "crypto.news",
+              "url": "https://crypto.news/ripple-sec-regulation-crypto-assets-comment-letter/"
+            },
+            {
+              "name": "EconoTimes",
+              "url": "https://econotimes.com/Ripple-Urges-SEC-to-Finalize-Crypto-Proposal-With-Trading-Clarifications-1759086"
+            }
+          ]
+        },
+        {
+          "id": "20261022-07",
+          "category": "bitcoin",
+          "time": "2026-10-20T13:30:00Z",
+          "title": {
+            "zh": "瑞士FINMA批准首只面向散户的现货比特币ETF，豁免基金分散化规则",
+            "en": "FINMA approves Switzerland's first retail spot Bitcoin ETF, exempting it from diversification rules"
+          },
+          "summary": {
+            "zh": "瑞士金融市场监管局（FINMA）10月20日宣布批准该国首只面向散户投资者的现货比特币ETF，基金直接持有比特币。FINMA以比特币交易历史悠久、成交量远高于其他加密资产为由，豁免了公募基金的风险分散要求，并要求托管机构遵循其2026年1月发布的加密托管指引。FINMA未披露发行方名称，苏黎世的BIT Asset Management随后宣布获得批准，计划11月在瑞士证交所上市（代码BBIT）。",
+            "en": "Switzerland's Financial Market Supervisory Authority (FINMA) announced on October 20 the approval of the country's first spot Bitcoin ETF open to retail investors, with the fund holding bitcoin directly. FINMA cited bitcoin's long trading history and comparatively high volume to grant an exemption from standard fund diversification rules, while requiring custodians to follow its January 2026 crypto custody guidance. FINMA did not name the issuer; Zurich-based BIT Asset Management later claimed the approval, planning a November listing on SIX Swiss Exchange under ticker BBIT."
+          },
+          "sources": [
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/switzerlands-finma-lets-retail-investors-into-a-bitcoin-only-fund-for-the-first-time/"
+            },
+            {
+              "name": "BeInCrypto",
+              "url": "https://beincrypto.com/switzerland-first-spot-bitcoin-etf-retail/"
+            }
+          ]
+        },
+        {
+          "id": "20261022-08",
+          "category": "solana",
+          "time": "2026-10-19T12:00:00Z",
+          "title": {
+            "zh": "DeFi Development Corp一周增持3983枚SOL，国库持仓约259万枚SOL",
+            "en": "DeFi Development Corp adds 3,983 SOL, bringing treasury to ~2.59M SOL"
+          },
+          "summary": {
+            "zh": "首家以囤积Solana为核心战略的美国上市公司DeFi Development Corp（纳斯达克代码DFDV）10月19日宣布，过去一周国库增持3983枚SOL及等价资产，总持仓达到约2590266枚SOL。同时公司宣布其分红代币CHAD的年化分红率将于11月2日起从13%上调至14%。公司表示将通过质押、验证者节点与链上国库基础设施持续复利SOL头寸。",
+            "en": "DeFi Development Corp (Nasdaq: DFDV), the first US public company built around a Solana accumulation strategy, announced on October 19 that its treasury added 3,983 SOL and SOL equivalents over the past week, bringing total holdings to approximately 2,590,266 SOL. The company also raised the annual dividend rate of its CHAD token from 13% to 14%, effective November 2. It said it plans to keep compounding its SOL position through staking, validator operations and onchain treasury infrastructure."
+          },
+          "sources": [
+            {
+              "name": "ad-hoc-news.de",
+              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/defi-development-adds-3-983-sol-what-it-means-for-the-solana-price/70387009"
+            },
+            {
+              "name": "FinancialContent (GlobeNewswire)",
+              "url": "https://www.financialcontent.com/article/gnwcq-2026-10-19-dfdv-continues-accumulating-sol-ahead-of-solanas-alpenglow-upgrade"
+            }
+          ]
+        },
+        {
+          "id": "20261022-09",
+          "category": "tech",
+          "time": "2026-10-17T12:00:00Z",
+          "title": {
+            "zh": "Autheo发布THEO交易警示：跨链桥被盗170万美元后敦促用户暂停买卖与跨链",
+            "en": "Autheo issues THEO trading advisory after $1.7M bridge exploit, urges users to halt trading and bridging"
+          },
+          "summary": {
+            "zh": "Autheo Network 10月17日发布安全警示，呼吁用户在调查结束前暂停THEO的买卖与跨链操作。10月12日，攻击者通过Hyperlane跨链桥上的一枚受信任中继者密钥，无授权增发了1900万枚THEO并抛售，套现约700.8枚ETH（约176万美元）后转至以太坊主网。事件导致THEO价格单日暴跌约92%，而该项目此前曾通过Halborn、CertiK等多家机构的审计。",
+            "en": "Autheo Network issued a security advisory on October 17 urging users to refrain from buying, selling or bridging THEO until its investigation concludes. On October 12, an attacker used a trusted relayer key on the project's Hyperlane bridge on Base to mint 19 million unbacked THEO tokens and sold them, converting the proceeds into roughly 700.8 ETH (about $1.76 million) that was then bridged to Ethereum mainnet. THEO plunged about 92% in a day, despite the project having been audited by firms including Halborn and CertiK."
+          },
+          "sources": [
+            {
+              "name": "CryptoTimes",
+              "url": "https://www.cryptotimes.io/2026/10/18/autheo-issues-theo-trading-advisory-after-1-7m-bridge-exploit/"
+            },
+            {
+              "name": "CryptoDnes",
+              "url": "https://cryptodnes.bg/en/autheo-theo-token-plummets-base-bridge-exploit/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "items": [
         {
@@ -3150,196 +3362,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-08",
-      "items": [
-        {
-          "category": "market",
-          "id": "20261008-01",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
-            },
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/bitcoin-drops-under-84000-as-487-million-in-leveraged-longs-get-liquidated-in-24-hours/"
-            }
-          ],
-          "summary": {
-            "en": "Bitcoin fell below $84,000 on Wednesday, touching about $83,550, as total crypto liquidations reached $555.6 million over 24 hours, with $487.2 million from long positions, per CoinGlass. The sell-off followed Iran's escalation of attacks on tankers in the Strait of Hormuz, which pushed Brent crude above $101 a barrel and lifted Treasury yields and the dollar, sparking a risk-off rush. Ether dropped about 3.5% to roughly $2,600, while smaller tokens fell further.",
-            "zh": "比特币周三跌破84000美元，最低触及约83550美元，24小时爆仓总额达5.556亿美元 (liquidations)，其中4.872亿美元为多头 (longs)。导火索是伊朗在霍尔木兹海峡 (Strait of Hormuz) 加大对油轮的袭击，布伦特原油 (Brent crude) 冲破每桶101美元，推高美债收益率 (Treasury yields) 与美元，引发避险情绪 (risk-off)。以太坊同步下跌约3.5%至2600美元一线，小市值币种跌幅更深。"
-          },
-          "time": "2026-10-07T10:35:00Z",
-          "title": {
-            "en": "Bitcoin Drops Below $84,000 as Geopolitical Tensions Trigger Over $550M in Liquidations",
-            "zh": "比特币跌破8.4万美元，地缘紧张引发逾5亿美元爆仓"
-          }
-        },
-        {
-          "category": "market",
-          "id": "20261008-02",
-          "sources": [
-            {
-              "name": "CoinTelegraph",
-              "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses"
-            },
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000"
-            }
-          ],
-          "summary": {
-            "en": "US spot Bitcoin ETFs recorded $119 million in net inflows on Tuesday, reversing Monday's $90 million loss and marking the fourth inflow day in the last five sessions, according to SoSoValue data. In contrast, spot Ether ETFs posted $202 million in outflows on the same day, extending their outflow streak to six consecutive trading sessions totaling about $408 million. XRP ETFs attracted $3.1 million while Solana ETFs saw $3.7 million in outflows.",
-            "zh": "美国现货比特币ETF (Spot Bitcoin ETF) 周二录得1.19亿美元净流入 (net inflows)，扭转了周一9000万美元的流出，为近五个交易日中的第四个流入日。反差鲜明的是，现货以太坊ETF (Spot Ether ETF) 当天流出2.02亿美元，连续第六个交易日失血，累计约4.08亿美元。XRP相关ETF小幅流入310万美元，Solana ETF流出370万美元。"
-          },
-          "time": "2026-10-07T08:00:00Z",
-          "title": {
-            "en": "Spot Bitcoin ETFs Draw $119M Inflows Despite Price Drop as Ether Funds Extend Outflow Streak",
-            "zh": "现货比特币ETF逆势吸金1.19亿美元，以太坊ETF遭遇六连流出"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "20261008-03",
-          "sources": [
-            {
-              "name": "FinanceFeeds",
-              "url": "https://financefeeds.com/solanas-alpenglow-targets-150-millisecond-finality-down-from-12-8-seconds/"
-            },
-            {
-              "name": "BTCC",
-              "url": "https://www.btcc.com/en-US/deepdive/10963"
-            }
-          ],
-          "summary": {
-            "en": "Solana's largest consensus overhaul, Alpenglow, is targeted for October mainnet activation via the Agave 4.3 validator release and is already live on testnet. The upgrade replaces TowerBFT with the Votor engine, cutting transaction finality from roughly 12.8 seconds to about 150 milliseconds, and moves validator vote messages, which currently consume up to 75% of block space, off-chain to free capacity for user transactions. No mainnet activation date has been confirmed yet, and validators must complete BLS key registration and Validator Admission Ticket checks first.",
-            "zh": "Solana迄今最大的共识机制升级Alpenglow预计于10月随验证器客户端Agave 4.3上线主网 (mainnet)，目前已在测试网上运行。该升级用Votor引擎取代TowerBFT，将交易最终确认 (finality) 时间从约12.8秒压缩至150毫秒左右，并将目前占用高达75%区块空间的验证投票移至链下 (off-chain)，释放更多交易容量。验证者需完成BLS密钥注册并通过验证者准入票 (Validator Admission Ticket) 检查，主网具体激活日期尚未公布。"
-          },
-          "time": "2026-10-07T07:00:00Z",
-          "title": {
-            "en": "Solana's Alpenglow Upgrade Nears, Targeting 150-Millisecond Finality",
-            "zh": "Solana共识大升级Alpenglow临近，目标实现150毫秒最终确认"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "20261008-04",
-          "sources": [
-            {
-              "name": "Crypto Times",
-              "url": "https://www.cryptotimes.io/2026/10/07/crypto-trader-frogman-loses-over-4m-in-wallet-hack-in-singapore-during-token2049/"
-            },
-            {
-              "name": "Cointime",
-              "url": "https://www.cointime.ai/flash-news/trader-frogman-confirms-theft-92725"
-            }
-          ],
-          "summary": {
-            "en": "Crypto trader Frogman said two of his wallets were drained of more than $4 million around 4:30 a.m. Singapore time on October 7 while he slept in Singapore ahead of the TOKEN2049 conference. On-chain analysts tracked the stolen tokens (BP, MarsCoin, Cash Cat and others) as they were swapped into ETH, BNB and SOL, then routed through the Privacy Cash privacy protocol and the Chainflip cross-chain swap protocol. Frogman said he does not yet know how the attacker gained access; analysts suggest a compromised seed phrase or device rather than a single token approval.",
-            "zh": "加密货币交易员Frogman称，其两个钱包在10月7日凌晨新加坡时间4:30左右被盗走超400万美元资产，当时他正在新加坡参加TOKEN2049会议期间熟睡。链上分析显示，被盗代币 (BP、MarsCoin、Cash Cat等) 被兑换为ETH、BNB和SOL，并经由隐私协议 (Privacy Cash) 与跨链协议 (Chainflip) 转移。Frogman表示尚不清楚攻击者如何得手，分析人士推测可能是助记词 (seed phrase) 或设备被入侵，而非单一代币授权问题。"
-          },
-          "time": "2026-10-07T05:21:00Z",
-          "title": {
-            "en": "Trader Frogman Loses $4M+ in Wallet Hack in Singapore During TOKEN2049",
-            "zh": "交易员Frogman在新加坡遭黑客攻击，超400万美元钱包资产被盗"
-          }
-        },
-        {
-          "category": "ethereum",
-          "id": "20261008-05",
-          "sources": [
-            {
-              "name": "LaiCrypto",
-              "url": "https://laicrypto.com/ethereum-glamsterdam-hits-sepolia-with-200-million-gas-limit-test/50023/crypto/"
-            },
-            {
-              "name": "Crypto Times",
-              "url": "https://www.cryptotimes.io/2026/10/06/ethereum-activates-glamsterdam-upgrade-on-sepolia-for-testing/"
-            }
-          ],
-          "summary": {
-            "en": "Ethereum's next major upgrade, Glamsterdam, activated on the Sepolia testnet on October 6 at 13:53 UTC, including 18 core EIPs and seven other EIPs. Headline changes include enshrined proposer-builder separation (ePBS, EIP-7732) and block-level access lists (EIP-7928), alongside a gas limit increase on Sepolia from about 60 million to 200 million to test parallel processing under larger blocks. Developers will use Sepolia results to set the activation schedule for the Hoodi testnet and, eventually, mainnet.",
-            "zh": "以太坊下一次重大升级Glamsterdam已于10月6日13:53 UTC在Sepolia测试网 (testnet) 激活，包含18个核心EIP与7个其他EIP。核心内容包括协议内提案者-构建者分离 (ePBS, EIP-7732) 与区块级访问列表 (Block-Level Access Lists, EIP-7928)，并将Sepolia的Gas上限 (gas limit) 从约6000万提升至2亿，以测试网络在更大区块下的并行处理能力。开发者将依据Sepolia表现决定Hoodi测试网与主网 (mainnet) 的激活时间表。"
-          },
-          "time": "2026-10-06T13:53:36Z",
-          "title": {
-            "en": "Ethereum's Glamsterdam Upgrade Goes Live on Sepolia Testnet With 200M Gas Limit Test",
-            "zh": "以太坊Glamsterdam升级上线Sepolia测试网，测试2亿Gas上限"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "20261008-06",
-          "sources": [
-            {
-              "name": "Crypto Times",
-              "url": "https://www.cryptotimes.io/2026/10/05/michael-saylors-strategy-mstr-extends-bitcoin-buying-streak-with-334-btc-addition/"
-            },
-            {
-              "name": "BTC Times",
-              "url": "https://btctimes.com/strategy-reports-20-9-billion-q3-gain-on-digital-assets-and-adds-334-bitcoin"
-            }
-          ],
-          "summary": {
-            "en": "Bitcoin treasury company Strategy (formerly MicroStrategy) disclosed in an October 5 Form 8-K filing that it acquired 334 bitcoin for about $28.7 million between October 1 and 4 at an average price of roughly $85,839, lifting total holdings to 848,000 BTC, more than 4% of Bitcoin's 21 million fixed supply. The company also estimated a third-quarter digital-asset fair-value gain of about $20.91 billion, with a deferred tax expense of roughly $1.88 billion.",
-            "zh": "比特币财库公司Strategy (原MicroStrategy) 在10月5日披露的8-K文件中称，于10月1日至4日以约2870万美元购入334枚比特币 (Bitcoin)，均价约85839美元，总持仓升至84.8万枚，超过比特币2100万固定供应量的4%。公司同时预估第三季度数字资产公允价值收益 (fair-value gain) 约209亿美元，递延税费用 (deferred tax expense) 约18.8亿美元。"
-          },
-          "time": "2026-10-05T12:00:00Z",
-          "title": {
-            "en": "Strategy Buys 334 More BTC, Holdings Reach 848,000; Q3 Digital-Asset Gain Hits $20.9B",
-            "zh": "Strategy再购334枚比特币，总持仓达84.8万枚；Q3数字资产浮盈209亿美元"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "20261008-07",
-          "sources": [
-            {
-              "name": "CoinTelegraph",
-              "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-            },
-            {
-              "name": "Mercation",
-              "url": "https://mercation.com/news/near-intents-recovers-3-8-million-after-ultimatum"
-            }
-          ],
-          "summary": {
-            "en": "Cross-chain swap service NEAR Intents said the roughly $3.8 million stolen in a security breach has been returned in full. The exploit stemmed from a bug in the interaction between its Omni deposit-and-withdrawal infrastructure and the NEAR Intents smart contract, prompting a temporary service pause; blockchain investigator ZachXBT traced the funds to KuCoin, where they were bridged to Bitcoin. General manager Alex Shevchenko had publicly told the attacker the team knew their identity and issued a 48-hour return ultimatum under a responsible-disclosure framework, after which the funds came back in full.",
-            "zh": "跨链兑换服务NEAR Intents宣布，被盗的约380万美元资金已全额追回。该漏洞源于Omni存取款基础设施与NEAR Intents智能合约交互中的缺陷 (bug)，团队一度暂停服务；链上侦探ZachXBT追踪到被盗资金被转入KuCoin并桥接为比特币 (Bitcoin)。总经理Alex Shevchenko此前公开表示已锁定攻击者身份，并以“负责任披露” (responsible disclosure) 为名发出48小时归还最后通牒，资金随后被悉数返还。"
-          },
-          "time": "2026-10-02T18:00:00Z",
-          "title": {
-            "en": "NEAR Intents Recovers Entire $3.8M After 48-Hour Ultimatum to Exploiter",
-            "zh": "NEAR Intents遭380万美元攻击后全额追回，曾向攻击者发出48小时最后通牒"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "20261008-08",
-          "sources": [
-            {
-              "name": "Fintech Garden",
-              "url": "https://fintech.garden/news/2026-10-05-sec-proposes-first-dedicated-crypto-custody-framework-for-registered-advisers-an/"
-            },
-            {
-              "name": "Genfinity",
-              "url": "https://genfinity.io/2026/10/02/sec-crypto-custody-rule-investment-advisers-funds/"
-            }
-          ],
-          "summary": {
-            "en": "The US Securities and Exchange Commission voted on October 1 to propose a dedicated crypto custody framework (File No. S7-2026-35), amending rules under the Investment Advisers Act of 1940 and the Investment Company Act of 1940. The 760-page proposal would recognize state-chartered trust companies as qualified custodians, permit registered advisers to self-custody client crypto in limited cases where no permitted custodian is available (with documentation and quarterly reviews), and explicitly excludes crypto exchanges from the qualified-custodian category. A 60-day public comment period opens once the release publishes in the Federal Register.",
-            "zh": "美国证券交易委员会 (SEC) 于10月1日投票提议加密资产托管新规 (文件编号S7-2026-35)，修订《投资顾问法》与《投资公司法》相关条款。这是SEC首个针对注册投资顾问 (registered investment advisers) 与受监管基金的专用加密托管框架：州特许信托公司可被认定为合格托管人 (qualified custodian)；在无可用托管机构时，顾问可有限自托管客户加密资产，但需备案并每季度复核；加密交易所被明确排除在合格托管人之列。提案长达760页，将进入60天公众意见征询期。"
-          },
-          "time": "2026-10-01T21:32:00Z",
-          "title": {
-            "en": "SEC Proposes Dedicated Crypto Custody Framework for Advisers and Funds",
-            "zh": "SEC提议加密托管新规：允许顾问有限自托管，州信托公司可担任合格托管人"
-          }
-        }
-      ]
     }
   ],
-  "updated": "2026-10-21"
+  "updated": "2026-10-22"
 }
