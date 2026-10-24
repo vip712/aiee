@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-10-25",
+      "items": [
+        {
+          "id": "20261025-01",
+          "category": "tech",
+          "time": "2026-10-24T20:27:59Z",
+          "title": {
+            "zh": "硬件钱包厂商Keystone披露官网数据泄露，助记词与私钥未受影响",
+            "en": "Keystone discloses website data breach; seed phrases and private keys unaffected"
+          },
+          "summary": {
+            "zh": "硬件钱包厂商Keystone于10月24日披露，其官网在10月20日遭到未授权访问，经与Shopify核查应用程序接口（Application Programming Interface, API）活动后于10月23日确认，第三方获取了客户姓名、联系方式、收货地址及订单详情。公司表示支付卡与银行信息、助记词（Seed Phrase）、私钥（Private Key）及钱包密码均未泄露，已封堵访问入口、修复漏洞并开始邮件通知受影响客户。Keystone同时警告，用户须警惕冒充官方索要退款或换机、诱导透露助记词的诈骗。",
+            "en": "Hardware wallet maker Keystone disclosed on October 24 that unauthorized access to its official website on October 20 exposed customer names, contact details, shipping addresses and order details, confirmed on October 23 after reviewing Shopify API activity. The company said payment card and bank details, seed phrases, private keys and wallet passwords were not compromised, and that it has blocked the access, fixed the vulnerability and begun emailing affected customers. Keystone warned users to watch for impostors offering refunds or replacement devices to trick them into revealing recovery phrases."
+          },
+          "sources": [
+            {
+              "name": "CryptoBriefing",
+              "url": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/"
+            },
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/technology/40311"
+            }
+          ]
+        },
+        {
+          "id": "20261025-02",
+          "category": "ethereum",
+          "time": "2026-10-24T17:35:00Z",
+          "title": {
+            "zh": "以太坊质押量创纪录达4380万枚，占供应量约36%，收益率降至2.63%",
+            "en": "Ethereum staking hits record 43.8M ETH, about 36% of supply, as yield slips to 2.63%"
+          },
+          "summary": {
+            "zh": "Bitwise首份质押报告显示，以太坊质押量已达约4380万枚ETH，占总供应量近36%，创历史新高，第三季度新增质押近200万枚，机构通过质押型交易所交易产品（Exchange-Traded Product, ETP）与企业财库持续加仓。尽管年化质押收益率已从2.81%降至2.63%，仍有约138万枚ETH排队等待进入质押，预估等待时间超过24天。报告指出，随着质押比例逼近50%，EIP-8361等调整发行机制的提案值得关注。",
+            "en": "Bitwise's first staking report shows about 43.8 million ETH, nearly 36% of supply, now staked on Ethereum, a record, with almost 2 million ETH added in the third quarter as institutions contributed through staking ETPs and corporate treasuries. Although the annualized staking yield has fallen from 2.81% to 2.63%, about 1.38 million ETH remains queued to enter staking, with an estimated wait of more than 24 days. The report flags proposals such as EIP-8361 to adjust issuance as the staking ratio approaches 50%."
+          },
+          "sources": [
+            {
+              "name": "CryptoCoinShow",
+              "url": "https://cryptocoinshow.com/bitwise-finds-40-2-million-eth-staked-as-institutions-add-stake-despite-falling-prices/"
+            },
+            {
+              "name": "BBX",
+              "url": "https://bbx.com/news-detail/3149044"
+            }
+          ]
+        },
+        {
+          "id": "20261025-03",
+          "category": "market",
+          "time": "2026-10-24T12:39:00Z",
+          "title": {
+            "zh": "比特币周六回落至约80400美元，重回9月水平",
+            "en": "Bitcoin slips back toward $80,400 on Saturday, returning to September levels"
+          },
+          "summary": {
+            "zh": "比特币在10月24日周六回落至约80400美元附近，较24小时前下跌约1%，回到了9月以来首次跌破的80000美元关口附近，此前一周内冲高至近85000美元后未能守住涨幅。本轮回调伴随美国现货比特币交易所交易基金（Spot ETF）的资金流出，周四单日净流出逾6.35亿美元，几乎追平截至10月9日当周的总流出额。市场情绪转弱之际，交易员正关注下周美联储政策会议带来的下一步信号。",
+            "en": "Bitcoin fell to about $80,400 on Saturday, October 24, down roughly 1% over 24 hours and back near the $80,000 level it last traded in September, after failing to hold a rally toward $85,000 earlier in the week. The pullback came alongside outflows from U.S. spot Bitcoin ETFs, which lost more than $635 million on Thursday alone, nearly matching the total outflow for the week ended October 9. With sentiment weakening, traders are watching next week's Federal Reserve policy meeting for the next signal."
+          },
+          "sources": [
+            {
+              "name": "Stocktwits",
+              "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-etfs-see-635-m-outflow-in-a-day-as-btc-slips-back-to-september-levels/cZUGVn9RBU0"
+            },
+            {
+              "name": "HokaNews",
+              "url": "https://www.hokanews.com/2026/10/bitcoin-price-falls-toward-80000-as-xrp.html"
+            }
+          ]
+        },
+        {
+          "id": "20261025-04",
+          "category": "regulation",
+          "time": "2026-10-24T12:01:00Z",
+          "title": {
+            "zh": "汇丰港元稳定币RedCoin登陆PayMe，首批覆盖330万用户",
+            "en": "HSBC's Hong Kong dollar stablecoin RedCoin rolls out on PayMe to 3.3 million users"
+          },
+          "summary": {
+            "zh": "汇丰银行于10月23日开始向香港支付应用PayMe的逾330万用户分阶段推出首款港元稳定币RedCoin（RCHKD），首阶段支持用户间转账及在逾10万家商户付款，并承诺按1比1兑换港元。RedCoin在香港《稳定币条例》框架下发行，由汇丰持有的稳定币发行人牌照（FRS02）覆盖，储备为隔离的高质量流动资产，且本身不支付利息。汇丰计划在2026年底前将该代币接入香港汇丰流动理财应用，用于认购代币化投资产品，起投额低至100港元。",
+            "en": "HSBC began rolling out RedCoin (RCHKD), its first Hong Kong dollar stablecoin, to more than 3.3 million PayMe users in Hong Kong on October 23, with the first phase covering peer-to-peer transfers and payments at over 100,000 merchants and one-to-one redemption in Hong Kong dollars. Issued under Hong Kong's Stablecoins Ordinance under HSBC's issuer licence FRS02, RedCoin is backed by segregated, high-quality liquid assets and pays no interest. HSBC plans to bring the token into its Hong Kong mobile banking app by the end of 2026 for tokenized investment subscriptions starting at HK$100."
+          },
+          "sources": [
+            {
+              "name": "GNcrypto",
+              "url": "https://www.gncrypto.news/news/hsbc-hong-kong-dollar-stablecoin-redcoin-payme-users/"
+            },
+            {
+              "name": "PYMNTS",
+              "url": "https://www.pymnts.com/blockchain/2026/hsbc-launches-hong-kong-dollar-stablecoin-for-everyday-payments/"
+            }
+          ]
+        },
+        {
+          "id": "20261025-05",
+          "category": "market",
+          "time": "2026-10-24T11:00:00Z",
+          "title": {
+            "zh": "加密ETF一周收绿：比特币基金净流入约3.09亿美元，以太坊基金流出2.21亿美元",
+            "en": "Crypto ETFs end week in green as Bitcoin funds gain about $309M and Ether funds lose $221M"
+          },
+          "summary": {
+            "zh": "尽管周五合计净流出1.3254亿美元，美国加密交易所交易基金（ETF）一周仍以8764万美元净流入收官，扭转了此前一周6.009亿美元净流出的局面。本周比特币基金净流入约3.09亿美元，其中贝莱德IBIT一周吸金5.6567亿美元，而以太坊基金则净流出2.2066亿美元，贝莱德ETHA流出2.3319亿美元。资金在周内剧烈摇摆：周一至周三合计流入后，周四单日流出7.4495亿美元，凸显机构需求仍不稳定。",
+            "en": "U.S. crypto ETFs ended the week $87.64 million in net inflows despite $132.54 million of outflows on Friday, reversing the previous week's $600.9 million net outflow. Bitcoin funds drew about $309 million over the week, with BlackRock's IBIT attracting $565.67 million, while Ethereum funds lost $220.66 million, including $233.19 million from BlackRock's ETHA. Flows swung sharply during the week, with strong inflows Monday through Wednesday followed by $744.95 million in outflows on Thursday, underscoring still-unstable institutional demand."
+          },
+          "sources": [
+            {
+              "name": "CoinEdition",
+              "url": "https://coinedition.com/crypto-etfs-end-week-in-green-as-bitcoin-gains-and-ether-outflows-rise/"
+            },
+            {
+              "name": "CryptoDesk",
+              "url": "https://cryptodesk.fr/en/posts/bitcoin-etf-weekly-inflows-reversal-fed-october-2026"
+            }
+          ]
+        },
+        {
+          "id": "20261025-06",
+          "category": "tech",
+          "time": "2026-10-23T15:41:30Z",
+          "title": {
+            "zh": "Initia遭无抵押增发攻击损失约270万美元，L1与Rollup全网暂停",
+            "en": "Initia halts L1 and rollups after unauthorized minting exploit drains about $2.7M"
+          },
+          "summary": {
+            "zh": "模块化公链Initia于10月23日15时41分（协调世界时，UTC）暂停其一层网络（Layer 1, L1）及关联Rollup，此前攻击者利用Move虚拟机（MoveVM）漏洞无抵押增发代币并通过跨链桥转移资产，初步估计损失约270万美元。据安全研究机构D2 Finance分析，攻击者增发了约200万枚无抵押的AUSD，并跨链提取约140万枚AUSD、105枚ETH及108万枚USDC，最终整合为约1135.5枚ETH。Initia表示正与安全研究人员、验证者及交易所合作评估影响，重启时间尚未公布。",
+            "en": "Modular blockchain Initia halted its layer-1 network and connected rollups at 15:41 UTC on October 23 after an attacker exploited a MoveVM flaw to mint tokens without backing and move assets across bridges, with preliminary losses estimated at about $2.7 million. Security firm D2 Finance reported the attacker minted about 2 million unbacked AUSD and withdrew roughly 1.4 million AUSD, 105 ETH and 1.08 million USDC to Ethereum, consolidating them into about 1,135.5 ETH. Initia said it is working with security researchers, validators and exchanges to assess the impact, with no restart timeline announced."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained"
+            },
+            {
+              "name": "Forklog",
+              "url": "https://forklog.com/en/hacker-steals-2-7-million-from-initia-blockchain/"
+            }
+          ]
+        },
+        {
+          "id": "20261025-07",
+          "category": "solana",
+          "time": "2026-10-22T12:00:00Z",
+          "title": {
+            "zh": "Solana提出Quantumglow抗量子方案，为Alpenglow共识抵御未来量子攻击",
+            "en": "Solana pitches Quantumglow to shield Alpenglow consensus from future quantum attacks"
+          },
+          "summary": {
+            "zh": "Solana开发者于10月22日介绍了Quantumglow方案，这是一项针对Alpenglow共识机制的抗量子（Post-Quantum）改造设想，旨在抵御量子计算对验证者签名的潜在威胁，同时保留约150毫秒的快速最终性。该方案基于Anza于7月30日发表的研究，核心包括基于哈希的Ax（Alpenglow XMSS）签名方案与分布式 quorum 签名设计，验证者将预先交换并缓存一次性公钥材料以降低通信开销。开发者强调，Quantumglow目前仅为研究提案，尚未公布实施时间表，也未对应专门的Solana改进提案（Solana Improvement Document, SIMD）。",
+            "en": "Solana developers presented Quantumglow on October 22, a proposed post-quantum adaptation of the Alpenglow consensus mechanism designed to protect validator signatures against future quantum computing threats while preserving roughly 150-millisecond finality. Based on research Anza published on July 30, the design centers on the hash-based Ax (Alpenglow XMSS) signature scheme and a distributed quorum signature design, with validators pre-exchanging and caching one-time public-key material to reduce communication overhead. Developers stressed Quantumglow is only a research proposal, with no implementation timeline and no dedicated Solana Improvement Document (SIMD) announced."
+          },
+          "sources": [
+            {
+              "name": "Crypto.news",
+              "url": "https://crypto.news/solana-quantumglow-alpenglow-post-quantum-consensus/"
+            },
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/technology/39166"
+            }
+          ]
+        },
+        {
+          "id": "20261025-08",
+          "category": "regulation",
+          "time": "2026-10-22T10:00:00Z",
+          "title": {
+            "zh": "SEC加密资产新规征求意见截止后，银行与行业团体立场分裂",
+            "en": "Banks and industry groups split over SEC crypto rules as comment window closes"
+          },
+          "summary": {
+            "zh": "美国证券交易委员会（Securities and Exchange Commission, SEC）拟议的《加密资产监管条例》（Regulation Crypto Assets）征求意见期于10月20日截止，暴露出行业与银行业之间的明显分歧。该提案允许符合条件的加密项目在四年内融资最高500万美元或每年最高7500万美元而无需注册，区块链协会（Blockchain Association）则呼吁将上限提高至1000万美元与1.5亿美元，并明确代币何时不再属于投资合同。银行业团体则警告，更宽松的发行规则可能加速稳定币采用并分流存款，对金融稳定构成风险。",
+            "en": "The comment period for the U.S. Securities and Exchange Commission's proposed Regulation Crypto Assets closed on October 20, exposing a sharp split between the crypto industry and banks. The proposal would let qualifying crypto projects raise up to $5 million over four years or $75 million annually without registering their offerings, while the Blockchain Association urged raising the caps to $10 million and $150 million and clarifying when tokens cease to be investment contracts. Banking groups warned that easier issuance could accelerate stablecoin adoption and drain deposits, posing financial-stability risks."
+          },
+          "sources": [
+            {
+              "name": "CryptosBank",
+              "url": "https://cryptosbank.in/2026/10/22/sec-75m-crypto-fundraising-plan-draws-bank-backlash/"
+            },
+            {
+              "name": "KuCoin",
+              "url": "https://www.kucoin.com/news/flash/blockchain-association-proposes-major-revisions-to-sec-crypto-rules"
+            }
+          ]
+        },
+        {
+          "id": "20261025-09",
+          "category": "bitcoin",
+          "time": "2026-10-20T08:15:00Z",
+          "title": {
+            "zh": "贝莱德申请第三只比特币ETF PBIT，以期权换取约10%的下跌缓冲",
+            "en": "BlackRock files for third Bitcoin ETF PBIT, trading capped upside for about 10% downside cushion"
+          },
+          "summary": {
+            "zh": "贝莱德于10月19日向美国证券交易委员会（SEC）提交了iShares比特币管理保护ETF（iShares Bitcoin Managed Protection ETF，代码PBIT）的初步招募说明书，这是其第三只比特币相关ETF。该基金不直接持有比特币或比特币交易所交易产品（ETP），而是通过与IBIT挂钩的期权组合获取敞口：三档交错的看涨期权价差（Call Spread）各以约90%的参考价作为保护起点，目标是在支付费用前缓冲约10%的下跌，同时以卖出高行权价看涨期权换取成本并封顶上涨收益。PBIT尚未生效交易，管理费、上市交易所及发行日期均未披露。",
+            "en": "BlackRock filed a preliminary prospectus with the U.S. Securities and Exchange Commission on October 19 for the iShares Bitcoin Managed Protection ETF (ticker PBIT), its third Bitcoin-linked ETF. The fund would not hold bitcoin or bitcoin ETPs directly, instead gaining exposure through options tied to IBIT: three overlapping call-spread tranches, each starting protection at about 90% of the reference value to cushion roughly 10% of declines before fees, while sold higher-strike calls fund the protection and cap upside. PBIT is not yet effective for trading, with its fee, listing exchange and launch date undisclosed."
+          },
+          "sources": [
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/blackrock-files-for-bitcoin-etf-that-trades-capped-gains-for-a-10-loss-floor/"
+            },
+            {
+              "name": "Stocktwits",
+              "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-exposure-with-less-downside-risk-blackrock-new-etf/cZxqUdsRBux"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "items": [
         {
@@ -3081,242 +3293,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-11",
-      "items": [
-        {
-          "category": "market",
-          "id": "20261011-01",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows"
-            },
-            {
-              "name": "CoinPulseHQ",
-              "url": "https://coinpulsehq.com/crypto-market-today-2026-10-10/"
-            }
-          ],
-          "summary": {
-            "en": "Bitcoin held steady near $83,000 over the weekend after rebounding more than 2% on Friday from Thursday's lows around $80,000. CoinDesk reported BTC climbing back above $83,000, while CoinPulseHQ's daily market roundup showed Worldcoin as the day's top mover with an 11% jump. Sentiment remains tied to Treasury yields and oil prices.",
-            "zh": "比特币在周末持稳于83,000美元附近，此前周五反弹逾2%，从周四80,000美元左右的低点回升。CoinDesk报道称比特币已重新站上83,000美元上方，而CoinPulseHQ的市场日报显示当日涨幅居前的是Worldcoin，大涨约11%。市场情绪仍受美债收益率与油价走势牵动。"
-          },
-          "time": "2026-10-10T16:00:00Z",
-          "title": {
-            "en": "Bitcoin Steady Near $83,000 Over the Weekend as Worldcoin Jumps 11%",
-            "zh": "比特币周末持稳于83,000美元附近，Worldcoin领涨11%"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "20261011-02",
-          "sources": [
-            {
-              "name": "Bitget News",
-              "url": "https://www.bitget.ng/news/detail/12560605941957"
-            },
-            {
-              "name": "Cointribune",
-              "url": "https://www.cointribune.com/en/solana-overtakes-ethereum-on-dapps-crypto/"
-            }
-          ],
-          "summary": {
-            "en": "Token Terminal data published by Solana Hub on October 10 shows Solana's on-chain applications earned $38.2 million in seven days, more than three times Ethereum's $11.7 million, topping the ranking with Hyperliquid second at $14.8 million. Low fees and high throughput keep drawing trading apps to Solana at scale.",
-            "zh": "Token Terminal数据显示，Solana链上应用 (dApp) 过去7天收入达3,820万美元，约为以太坊（1,170万美元）的三倍以上，在Solana Hub于10月10日发布的榜单中居首，Hyperliquid以1,480万美元居第二。低手续费与高吞吐持续吸引交易类应用在Solana上大规模部署。"
-          },
-          "time": "2026-10-10T12:00:00Z",
-          "title": {
-            "en": "Solana dApp Revenue Hits $38.2M in Seven Days, More Than 3x Ethereum",
-            "zh": "Solana应用收入7天达3,820万美元，为以太坊三倍多"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "20261011-03",
-          "sources": [
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses"
-            },
-            {
-              "name": "CryptoRank",
-              "url": "https://cryptorank.io/news/feed/b6248-tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls"
-            }
-          ],
-          "summary": {
-            "en": "THORChain technical co-founder Chad Barraford said Tether blacklisted four of the protocol's Tron vault addresses on October 9 without prior notice, freezing about 1.45 million USDT and halting Tron swaps and liquidity-provider operations for roughly three hours before reversing the action. The incident renewed debate over centralized stablecoin issuers' control of DeFi assets.",
-            "zh": "THORChain技术联合创始人Chad Barraford称，Tether于10月9日在无事先沟通的情况下，将THORChain四个TRON金库地址列入黑名单 (blacklist)，冻结约145万枚USDT，导致该链跨链兑换与流动性提供功能中断约三小时，随后全部解封。此事再次引发关于中心化稳定币发行方对DeFi协议资产控制权的讨论。"
-          },
-          "time": "2026-10-09T14:00:00Z",
-          "title": {
-            "en": "Tether Briefly Freezes About $1.45M USDT in THORChain Tron Vaults, Then Reverses",
-            "zh": "Tether临时冻结THORChain四个TRON金库约145万美元USDT，三小时后解封"
-          }
-        },
-        {
-          "category": "ethereum",
-          "id": "20261011-04",
-          "sources": [
-            {
-              "name": "Crypto News",
-              "url": "https://crypto.news/thailand-to-allow-bitcoin-ethereum-etfs/"
-            },
-            {
-              "name": "CryptoRank",
-              "url": "https://cryptorank.io/news/feed/a0ab6-thailand-sec-approves-bitcoin-ethereum-etfs"
-            }
-          ],
-          "summary": {
-            "en": "Thailand's Securities and Exchange Commission finalized 11 notifications allowing local asset managers to launch Bitcoin and Ethereum ETFs on the Stock Exchange of Thailand, effective October 16. Initially only BTC and ETH are eligible; each ETF must hold at least 80% of net asset value in a single cryptocurrency with SEC-regulated custodians, while Thai retail investors will be barred from foreign crypto ETFs.",
-            "zh": "泰国证券交易委员会 (SEC) 批准了11项新规，允许本地资产管理公司在泰国证券交易所 (SET) 发行比特币与以太坊ETF，规则自10月16日起生效。初期仅比特币和以太坊可作为底层资产，每只ETF须将至少80%的净资产配置于单一加密货币，并由受SEC监管的托管机构保管；泰国散户将不得购买海外加密ETF。"
-          },
-          "time": "2026-10-09T12:00:00Z",
-          "title": {
-            "en": "Thailand Approves Local Bitcoin and Ethereum ETFs, Framework Effective October 16",
-            "zh": "泰国批准本土比特币与以太坊ETF，规则10月16日生效"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "20261011-05",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison"
-            },
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/regulation/28622"
-            }
-          ],
-          "summary": {
-            "en": "The U.S. Department of Justice announced that Empire Market co-creator Raheim Hamilton was sentenced to 40 years in federal prison and fined $5 million; as part of his plea, he agreed to forfeit about 1,230 Bitcoin (worth roughly $101 million) and 24.4 Ether. The dark-web market processed over 4 million transactions worth more than $430 million between 2018 and 2020, including nearly $375 million in drug sales.",
-            "zh": "美国司法部宣布，暗网市场Empire Market的联合创建者Raheim Hamilton被判处40年联邦监禁并罚款500万美元；作为认罪协议的一部分，他同意没收约1,230枚比特币（价值约1.01亿美元）及24.4枚以太坊。该市场2018年至2020年间促成超过400万笔交易，总额逾4.3亿美元，其中毒品销售额近3.75亿美元。"
-          },
-          "time": "2026-10-09T09:00:00Z",
-          "title": {
-            "en": "Empire Market Co-Founder Sentenced to 40 Years, Forfeits 1,230 Bitcoin",
-            "zh": "暗网市场Empire Market联合创始人被判40年监禁，没收1,230枚比特币"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "20261011-06",
-          "sources": [
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/regulation/28789"
-            },
-            {
-              "name": "BlockchainReporter",
-              "url": "https://blockchainreporter.net/esma-tokenized-collateral-review/"
-            }
-          ],
-          "summary": {
-            "en": "The European Securities and Markets Authority published a call for evidence asking banks, clearinghouses and custodians to show that central counterparties can access, transfer and quickly liquidate tokenized collateral under stress, including a clearing-member default. Responses are due January 15, 2027, and ESMA will assess in Q1 2027 whether further regulatory action is needed.",
-            "zh": "欧洲证券与市场管理局 (ESMA) 发布征求证据文件 (call for evidence)，要求银行、清算所和托管机构证明：在清算会员违约等压力情景下，中央对手方 (CCP) 能否获取、转移代币化抵押品并迅速将其变现。反馈截止2027年1月15日，ESMA将于2027年第一季度评估是否需要进一步监管行动。"
-          },
-          "time": "2026-10-09T07:28:00Z",
-          "title": {
-            "en": "ESMA Opens Call for Evidence on Tokenized Collateral, Testing Crisis Liquidity",
-            "zh": "ESMA就代币化抵押品公开征求证据，评估危机中的可变现性"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "20261011-07",
-          "sources": [
-            {
-              "name": "CoinPulseHQ",
-              "url": "https://coinpulsehq.com/el-salvador-bitcoin-reserves-imf-waiver-october-2026/"
-            },
-            {
-              "name": "CoinNess",
-              "url": "https://coinness.com/en/news/1171207"
-            }
-          ],
-          "summary": {
-            "en": "El Salvador added 7 BTC over the past week, lifting its national Bitcoin reserve to 7,798 coins worth more than $643 million. Notably, the IMF just approved a $138 million disbursement and granted a waiver for the country's earlier breach of Bitcoin-accumulation limits; the Fund determined additions since June 2025 came from private donations rather than public funds.",
-            "zh": "萨尔瓦多政府继续增持比特币，过去7天新增7枚，国家比特币储备达到7,798枚，价值逾6.43亿美元。值得注意的是，IMF刚刚批准向萨尔瓦多拨付1.38亿美元贷款，并就此前政府增持比特币违反贷款条款给予豁免 (waiver)；IMF认定2025年6月之后的新增部分来自私人捐赠而非公共资金。"
-          },
-          "time": "2026-10-08T15:58:00Z",
-          "title": {
-            "en": "El Salvador Adds 7 BTC, National Reserve Hits 7,798 Coins",
-            "zh": "萨尔瓦多一周增持7枚比特币，国家储备达7,798枚"
-          }
-        },
-        {
-          "category": "market",
-          "id": "20261011-08",
-          "sources": [
-            {
-              "name": "CoinGape",
-              "url": "https://coingape.com/russia-moscow-exchange-plans-to-launch-crypto-trading-in-december/"
-            },
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/08/moscow-exchange-plans-december-1-start-for-crypto-trading-in-russia/"
-            }
-          ],
-          "summary": {
-            "en": "Moscow Exchange senior managing director Boris Blokhin confirmed the bourse plans to launch crypto trading on December 1 under Russia's new digital-asset legislation, with testing underway alongside professional traders. The initial lineup is Bitcoin, Ethereum, Solana, XRP and Tron; the Bank of Russia has begun registering crypto exchange operators and custodians, and Sberbank plans its own crypto products the same day.",
-            "zh": "俄罗斯最大证券交易所莫斯科交易所 (MOEX) 高管Boris Blokhin确认，计划依据9月1日生效的加密货币市场立法，于12月1日推出加密货币交易服务，目前正与专业交易者进行系统测试。首批上市资产为比特币、以太坊、Solana、XRP和TRON；俄罗斯央行已开始登记加密交易运营商与托管商，Sberbank也计划同日推出加密产品。"
-          },
-          "time": "2026-10-08T12:00:00Z",
-          "title": {
-            "en": "Moscow Exchange Plans December 1 Crypto Trading Launch With BTC, ETH, SOL, XRP, TRX",
-            "zh": "莫斯科交易所计划12月1日上线加密货币交易，首批含BTC、ETH、SOL、XRP、TRX"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "20261011-09",
-          "sources": [
-            {
-              "name": "PR Newswire",
-              "url": "https://www.prnewswire.com/news-releases/samsung-partners-with-solana-to-natively-deliver-stablecoins-in-samsung-wallet-to-82-million-us-galaxy-devices-302901200.html"
-            },
-            {
-              "name": "Analytics Insight",
-              "url": "https://www.analyticsinsight.net/news/samsung-solana-deal-usdc-coming-to-82-million-galaxy-devices"
-            }
-          ],
-          "summary": {
-            "en": "The Solana Foundation announced that Samsung Wallet and Samsung Pay will support cross-border transfers using stablecoins on Solana. U.S. users can send USDC abroad from late October directly inside the wallet, with built-in fiat on- and off-ramps; the launch covers 82 million Galaxy devices, with Coinbase providing custody via Prime Vault. Foundation president Lily Liu called it a step toward stablecoins entering everyday use.",
-            "zh": "Solana基金会宣布，三星钱包 (Samsung Wallet) 与Samsung Pay将支持Solana链上的稳定币 (stablecoin) 跨境转账。美国用户自10月最后一周起可直接在钱包内用USDC向海外汇款，内置法币出入金通道；首批覆盖8,200万台Galaxy设备，Coinbase将通过Prime Vault提供托管支持。Lily Liu表示这是稳定币走向大众日常使用的关键一步。"
-          },
-          "time": "2026-10-08T00:05:00Z",
-          "title": {
-            "en": "Samsung Partners With Solana to Bring USDC Transfers to 82 Million Galaxy Devices",
-            "zh": "三星与Solana合作，8,200万台Galaxy设备将支持USDC跨境转账"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "20261011-10",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto"
-            },
-            {
-              "name": "CryptoRank",
-              "url": "https://cryptorank.io/news/feed/a2b30-ai-could-break-bitcoin-wallet-signatures"
-            }
-          ],
-          "summary": {
-            "en": "Ethereum Foundation researcher Justin Drake urged the industry to plan for 'bunker mode' after OpenAI released 722 mathematics manuscripts, arguing AI could break the elliptic-curve signatures (ECDSA) securing Bitcoin and Ether wallets 'in months, not years,' and recommending an orderly migration of funds to fresh addresses. Ethereum co-founder Vitalik Buterin responded that the risk is real but holders should not panic.",
-            "zh": "以太坊基金会研究员Justin Drake在X上呼吁行业为“掩体模式 (bunker mode)”做准备：在OpenAI近日发布722份数学研究成果之后，他认为人工智能可能在“数月而非数年”内破解保护比特币与以太坊钱包的椭圆曲线签名 (ECDSA)，建议资金有序迁移至公钥从未暴露的新地址。以太坊联合创始人Vitalik Buterin回应称风险真实但无需恐慌。"
-          },
-          "time": "2026-10-07T20:00:00Z",
-          "title": {
-            "en": "Ethereum Researcher Justin Drake Urges 'Bunker Mode' as AI Could Crack Wallet Signatures Before Quantum",
-            "zh": "以太坊研究员Justin Drake呼吁为“掩体模式”做准备：AI或先于量子计算机破解钱包签名"
-          }
-        }
-      ]
     }
   ],
-  "updated": "2026-10-24"
+  "updated": "2026-10-25"
 }
