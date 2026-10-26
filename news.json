@@ -1,6 +1,195 @@
 {
   "days": [
     {
+      "date": "2026-10-27",
+      "items": [
+        {
+          "id": "20261027-01",
+          "category": "market",
+          "time": "2026-10-26T17:00:00Z",
+          "title": {
+            "zh": "比特币再度跌破8万美元，美联储会议与AI股抛售打压风险偏好",
+            "en": "Bitcoin slips below $80,000 again as Fed meeting and AI-stock selloff weigh on risk appetite"
+          },
+          "summary": {
+            "zh": "比特币10月26日一度跌至约7.93万美元附近，随后回升至8万美元上下，以太币、XRP和Solana等主要代币也同步走弱。市场在10月27日至28日的美联储会议前削减风险敞口，同时投资者对人工智能领域巨额支出的疑虑拖累了科技股。分析人士指出，比特币仍低于约8.17万美元的50日均线，7.8万美元附近的支撑位受到关注。",
+            "en": "Bitcoin fell to about $79,300 on October 26 before recovering toward $80,000, while Ether, XRP and Solana also declined. Traders cut risk ahead of the Federal Reserve's October 27-28 meeting, and doubts over heavy AI spending weighed on technology shares. Bitcoin remained below its 50-day moving average near $81,700, with support near $78,000 in focus."
+          },
+          "sources": [
+            {
+              "name": "The Motley Fool",
+              "url": "https://www.fool.com/coverage/stock-market-today/2026/10/26/crypto-market-today-oct-26-bitcoin-slips-below-usd80-000-as-fed-decision-looms/"
+            },
+            {
+              "name": "Gadgets360",
+              "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-slips-below-usd-80000-as-oil-surge-and-fed-uncertainty-weigh-on-sentiment-crypto-markets-prices-btc-ethereum-eth-crypto-updates-12236736"
+            }
+          ]
+        },
+        {
+          "id": "20261027-02",
+          "category": "regulation",
+          "time": "2026-10-26T16:00:00Z",
+          "title": {
+            "zh": "美国OCC呼吁社区银行申请成为支付稳定币发行方",
+            "en": "US OCC urges community banks to apply to become payment stablecoin issuers"
+          },
+          "summary": {
+            "zh": "在上周敲定《GENIUS法案》(GENIUS Act)实施细则后，美国货币监理署(OCC)于10月26日公开鼓励社区银行发展支付稳定币业务，并申请成为许可发行方或通过子公司发行。该法案将于2027年1月18日生效，对准备金、赎回、托管和风险管理作出规定。银行业团体此前对稳定币收益规则表示反对，并已就加密公司牌照问题起诉OCC。",
+            "en": "Days after finalizing its GENIUS Act implementation rules, the US Office of the Comptroller of the Currency on October 26 encouraged community banks to develop payment stablecoin capabilities and apply to become permitted issuers, directly or via a subsidiary. The law takes effect on January 18, 2027, setting standards for reserves, redemption, custody and risk management. Banking groups have pushed back on the stablecoin yield rules and sued the OCC over crypto-company charters."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act"
+            },
+            {
+              "name": "PYMNTS",
+              "url": "https://www.pymnts.com/blockchain/2026/occ-encourages-community-banks-to-consider-developing-payment-stablecoin-capabilities/"
+            }
+          ]
+        },
+        {
+          "id": "20261027-03",
+          "category": "regulation",
+          "time": "2026-10-26T14:51:00Z",
+          "title": {
+            "zh": "韩国考虑第四次推迟加密货币利得税，实施时间或延至2029年",
+            "en": "South Korea weighs fourth delay of crypto gains tax, pushing it to 2029"
+          },
+          "summary": {
+            "zh": "据韩国媒体报道，韩国政府正倾向于把原定2027年1月实施的加密货币利得税再度推迟至2029年，这将是该政策的第四次推迟。现行方案对年收益超过250万韩元的部分征收22%的税（含地方税），但由于美国要到2029年才开始参与经合组织(OECD)的加密资产报告框架(CARF)下的数据共享，官员担心本土交易所用户会承担不对称的税负。最终决定预计在11月底至12月初作出，仍需国会批准。",
+            "en": "South Korea's government is leaning toward delaying its crypto gains tax, due to start in January 2027, until 2029, in what would be a fourth postponement, Korean media reported. The plan would levy 22%, including local tax, on annual gains above 2.5 million won, but officials worry domestic-exchange users would bear an uneven burden because the US will not join OECD Crypto-Asset Reporting Framework data sharing until 2029. A final decision is expected in late November or early December and would still need parliamentary approval."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029"
+            },
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029"
+            }
+          ]
+        },
+        {
+          "id": "20261027-04",
+          "category": "solana",
+          "time": "2026-10-26T13:00:00Z",
+          "title": {
+            "zh": "Solana代币化股票持有人数创历史新高，自8月以来增长约五倍",
+            "en": "Solana tokenized-equity holders hit all-time high, up about fivefold since August"
+          },
+          "summary": {
+            "zh": "Solana网络上的代币化股票持有人数在10月26日达到约164万个地址，创历史新高，自8月以来增长约五倍，9月单月交易量约为44亿美元。这一增长与美国监管明确化及机构需求有关，8月3日至10月11日期间的激励计划向超过36万个钱包发放了约3100万美元的股票代币。不过该指标统计的是地址而非独立投资者，同一投资者使用多个钱包会被重复计算。",
+            "en": "The number of tokenized-equity holders on Solana reached about 1.64 million addresses on October 26, an all-time high and roughly a fivefold increase since August, with September trading volume of about $4.4 billion. The growth has been linked to US regulatory clarity and institutional demand, while incentive programs distributed about $31 million in stock tokens to over 360,000 wallets between August 3 and October 11. The metric counts addresses, not distinct investors, so one person using several wallets can appear more than once."
+          },
+          "sources": [
+            {
+              "name": "Finbold",
+              "url": "https://finbold.com/solanas-tokenized-equity-holders-hit-an-all-time-high/"
+            },
+            {
+              "name": "The Cryptonomist",
+              "url": "https://en.cryptonomist.ch/2026/10/26/solana-tokenized-equities-holders/"
+            }
+          ]
+        },
+        {
+          "id": "20261027-05",
+          "category": "bitcoin",
+          "time": "2026-10-26T12:24:00Z",
+          "title": {
+            "zh": "Strive再购6182枚比特币，总持仓达4.3万枚",
+            "en": "Strive buys 6,182 more Bitcoin, lifting treasury to 43,000 BTC"
+          },
+          "summary": {
+            "zh": "纳斯达克上市公司Strive在10月26日提交的8-K文件(Form 8-K)中披露，于10月17日至23日以约每枚82732美元的均价购入6182枚比特币，总额约5.11亿美元，总持仓从36818枚增至4.3万枚。公司同期现金增至约5.04亿美元，并新设立了规模上限10亿美元的SATS优先股发行计划。按持仓规模，Strive已成为第四大公开上市的企业比特币持有方，仅次于Strategy、Metaplanet和Twenty One。",
+            "en": "Nasdaq-listed Strive disclosed in an October 26 Form 8-K that it bought 6,182 Bitcoin between October 17 and 23 at an average of about $82,732 per coin, roughly $511 million, lifting its holdings from 36,818 to 43,000 BTC. Cash rose to about $504.4 million over the same period, and the company set up a SATS preferred-stock sale program of up to $1 billion. The holdings rank Strive fourth among publicly traded corporate Bitcoin holders, behind Strategy, Metaplanet and Twenty One."
+          },
+          "sources": [
+            {
+              "name": "Bitcoin Magazine",
+              "url": "https://bitcoinmagazine.com/news/strive-asst-buys-6182-bitcoin"
+            },
+            {
+              "name": "Bitcoin.com",
+              "url": "https://news.bitcoin.com/crypto-news/strive-scoops-up-6182-bitcoin-pushing-stash-total-to-43000-btc/"
+            }
+          ]
+        },
+        {
+          "id": "20261027-06",
+          "category": "market",
+          "time": "2026-10-26T11:10:00Z",
+          "title": {
+            "zh": "10月底最后一周代币解锁规模超7.3亿美元，CARDS、SUI与KMNO在列",
+            "en": "Token unlocks worth over $730 million due in final week of October, including CARDS, SUI and KMNO"
+          },
+          "summary": {
+            "zh": "10月最后一周的代币解锁总规模超过7.301亿美元，其中Collector Crypt(CARDS)将于10月29日解锁5926万枚（约1757万美元，占已释放供应量的9.60%），Kamino(KMNO)将于10月30日解锁约2.29亿枚（约969万美元），Sui(SUI)将于11月1日解锁1315万枚（约1211万美元）。这些解锁主要流向团队、早期贡献者、社区储备和投资者，Tokenomist仍将其标记为待验证，实际数量可能调整，短期波动风险值得关注。",
+            "en": "Token unlocks worth more than $730.1 million are scheduled for the final week of October. Collector Crypt (CARDS) unlocks 59.26 million tokens on October 29 (about $17.57 million, 9.60% of released supply), Kamino (KMNO) unlocks about 229.17 million on October 30 (about $9.69 million), and Sui (SUI) unlocks 13.15 million on November 1 (about $12.11 million). The tokens go mainly to teams, early contributors, community reserves and investors, and tracker Tokenomist still flags the amounts as pending verification, so short-term volatility is a risk to watch."
+          },
+          "sources": [
+            {
+              "name": "BeInCrypto",
+              "url": "https://beincrypto.com/token-unlocks-final-week-of-october-2026/"
+            },
+            {
+              "name": "Coinotag",
+              "url": "https://en.coinotag.com/sui-unlock-13-15-million-sui-november-1"
+            }
+          ]
+        },
+        {
+          "id": "20261027-07",
+          "category": "ethereum",
+          "time": "2026-10-26T10:30:00Z",
+          "title": {
+            "zh": "美国现货以太币ETF 10月净流出超11亿美元，机构需求持续降温",
+            "en": "US spot Ether ETFs pass $1.1 billion in October outflows as institutional demand cools"
+          },
+          "summary": {
+            "zh": "美国现货以太币ETF(Spot Ether ETF)在10月迄今的净流出已超过11亿美元，其中上周为连续第四周净流出，约2.21亿美元。10月23日虽录得小幅净流入约430万美元，但过去21个交易日的净流出仍高达约11.3亿美元，基金总资产降至约146亿美元附近。以太币价格在约2320美元附近承压，市场同时等待美联储会议结果和以太坊Glamsterdam升级测试的下一步进展。",
+            "en": "US spot Ether ETFs have recorded more than $1.1 billion in net outflows so far in October, including a fourth consecutive weekly outflow of about $221 million last week. A small $4.3 million net inflow on October 23 did not change the trend: roughly $1.13 billion left over the previous 21 trading days, leaving total assets near $14.6 billion. Ether traded near $2,320 under pressure as markets awaited the Federal Reserve meeting and the next step in testing Ethereum's Glamsterdam upgrade."
+          },
+          "sources": [
+            {
+              "name": "EL7.AI",
+              "url": "https://el7.ai/en/news/2026-10-26-ethereum-dips-below-2400-as-spot-etf-outflows-surpass-1-billion"
+            },
+            {
+              "name": "FXLeaders",
+              "url": "https://www.fxleaders.com/news/2026/10/26/ethereum-slides-amid-heavy-eth-etf-redemptions-830m-monthly-drainage/"
+            }
+          ]
+        },
+        {
+          "id": "20261027-08",
+          "category": "tech",
+          "time": "2026-10-26T09:34:00Z",
+          "title": {
+            "zh": "Solana交易机器人Bloom用户钱包被盗约95万美元，官方承诺全额赔付",
+            "en": "Solana trading bot Bloom users lose about $950,000 in wallet drain; full reimbursement promised"
+          },
+          "summary": {
+            "zh": "基于Solana的Telegram交易机器人Bloom Trading在10月26日遭遇钱包盗取事件，9名用户的49个钱包共损失约9408枚SOL，价值约95万美元，最大单笔损失约1636枚SOL。Bloom表示正在调查疑似第三方入侵，已暂停部分服务，并承诺向用户指定的新安全钱包全额赔付。此次事件再次凸显托管式交易机器人由平台生成并持有用户私钥所带来的风险。",
+            "en": "Solana-based Telegram trading bot Bloom Trading suffered a wallet drain on October 26, with 49 wallets belonging to nine users losing about 9,408 SOL, worth roughly $950,000; the largest single loss was about 1,636 SOL. Bloom said it is investigating a suspected third-party compromise, has paused some services, and plans to fully reimburse affected users to new secure wallets they designate. The incident highlights the risk of custodial trading bots, where the platform generates and holds users' private keys."
+          },
+          "sources": [
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/bloom-trading-bot-users-lose-nearly-1-million-in-solana-wallet-drain/"
+            },
+            {
+              "name": "TradingView (Blockchain Reporter)",
+              "url": "https://www.tradingview.com/news/bloomingbit:9251b407c094b:0-solana-based-trading-bot-bloom-loses-950-000-in-hack/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "items": [
         {
@@ -2920,288 +3109,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-13",
-      "items": [
-        {
-          "id": "20261013-01",
-          "category": "tech",
-          "time": "2026-10-12T11:00:00Z",
-          "title": {
-            "zh": "Ledger经销商供应链攻击：约9300万美元被盗，确认硬件植入，Tether冻结1000万美元",
-            "en": "Ledger Reseller Supply-Chain Attack: ~$93M Stolen, Hardware Implant Confirmed, Tether Freezes $10M"
-          },
-          "summary": {
-            "zh": "法国硬件钱包厂商Ledger确认，从马来西亚经销商CryptoBilis购入的设备中发现未授权硬件植入（hardware implant）。区块链分析公司Bitquery追踪到约9300万美元加密资产从315个钱包被盗（另有估计称9400万至9450万美元），Tether已冻结其中约1000万美元USDT (Tether)。",
-            "en": "Ledger confirmed an unauthorized hardware implant in devices bought from Malaysian reseller CryptoBilis. Blockchain analytics firm Bitquery traced about $93.2 million stolen from 315 wallets (other estimates put losses at $94-94.5 million), and Tether has frozen $10 million in USDT linked to the theft."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen"
-            },
-            {
-              "name": "Crypto Times",
-              "url": "https://www.cryptotimes.io/2026/10/12/ledger-cryptobilis-hack-explained-93m-stolen-wallets-tampered/"
-            }
-          ]
-        },
-        {
-          "id": "20261013-02",
-          "category": "market",
-          "time": "2026-10-12T06:00:00Z",
-          "title": {
-            "zh": "比特币与以太坊现货ETF单周合计净流出12.2亿美元，比特币结束三周流入",
-            "en": "Spot Bitcoin and Ether ETFs Record Combined $1.2B Weekly Outflows; Bitcoin Ends Three-Week Inflow Streak"
-          },
-          "summary": {
-            "zh": "10月5日至9日，美国现货比特币 (Spot Bitcoin) ETF净流出6.81亿美元，以太坊 (Ethereum) ETF净流出5.42亿美元，合计约12.2亿美元。其中贝莱德 (BlackRock) 的ETHA占以太坊ETF流出的4.77亿美元，两只产品均告别此前的连续净流入。",
-            "en": "U.S. spot Bitcoin ETFs saw $681 million in net outflows and spot Ether ETFs $542 million during October 5-9, a combined $1.2 billion. BlackRock's ETHA accounted for $477 million of the Ether withdrawals, ending weeks of consecutive inflows for both products."
-          },
-          "sources": [
-            {
-              "name": "KuCoin News",
-              "url": "https://www.kucoin.com/news/flash/bitcoin-and-ethereum-etfs-record-1-2b-in-weekly-outflows"
-            },
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000"
-            }
-          ]
-        },
-        {
-          "id": "20261013-03",
-          "category": "market",
-          "time": "2026-10-12T04:55:00Z",
-          "title": {
-            "zh": "比特币重返84,000美元上方，做空平仓助推反弹；小市值代币领涨",
-            "en": "Bitcoin Back Above $84,000 on Short Covering; Small-Cap Tokens Lead the Rally"
-          },
-          "summary": {
-            "zh": "比特币 (Bitcoin) 周一回升至84,000美元上方，24小时涨约1.3%，反弹主要来自空头平仓和期货做多力量回补。此轮涨幅由流动性较薄的小市值代币引领（CoinDesk 80指数涨约3%），以太坊回升至2,560美元附近，市场静待周三美国9月CPI数据。",
-            "en": "Bitcoin climbed back above $84,000 on Monday, up about 1.3% in 24 hours as heavy short liquidations forced bearish traders to cover. Gains were led by thinly traded small-cap tokens (the CoinDesk 80 index rose ~3%), while Ether recovered toward $2,560 ahead of Wednesday's U.S. September CPI release."
-          },
-          "sources": [
-            {
-              "name": "Crypto Times",
-              "url": "https://www.cryptotimes.io/2026/10/12/bitcoin-price-today-btc-back-above-84k-as-etf-selling-eases-and-shorts-unwind/"
-            },
-            {
-              "name": "The Economic Times",
-              "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-83k-as-market-attempts-to-stabilise-spot-etf-outflows-signal-cautious-institutional-sentiment/articleshow/134891588.cms?from=mdr"
-            }
-          ]
-        },
-        {
-          "id": "20261013-04",
-          "category": "solana",
-          "time": "2026-10-12T01:00:00Z",
-          "title": {
-            "zh": "Solana现货ETF单周净流出2480万美元，终结连续14周流入",
-            "en": "Solana Spot ETFs Post $24.8M Weekly Outflows, Ending 14-Week Inflow Streak"
-          },
-          "summary": {
-            "zh": "美国Solana现货ETF在10月5日至9日当周净流出2480万美元，连续五日出现赎回，终结了长达14周的净流入纪录。产品总资产从19亿美元降至约17.3亿美元，Solana在代币化股票交易量中仍占约65%份额。",
-            "en": "U.S. spot Solana ETFs recorded $24.8 million in net outflows during October 5-9, five straight days of withdrawals that ended a 14-week inflow streak. Total net assets fell from $1.90 billion to about $1.73 billion, while Solana retained roughly a 65% share of tokenized-equities trading volume."
-          },
-          "sources": [
-            {
-              "name": "Traders Union",
-              "url": "https://tradersunion.com/news/cryptocurrency-news/show/3762716-solana-rises-3-04percent-today-to/"
-            },
-            {
-              "name": "CoinStats",
-              "url": "https://coinstats.app/ai/a/latest-news-for-solana"
-            }
-          ]
-        },
-        {
-          "id": "20261013-05",
-          "category": "regulation",
-          "time": "2026-10-12T00:30:00Z",
-          "title": {
-            "zh": "美SEC提议加密托管新规：允许有条件自托管，州信托公司可作合格托管人",
-            "en": "SEC Proposes Crypto Custody Rules: Conditional Self-Custody, State Trust Companies as Qualified Custodians"
-          },
-          "summary": {
-            "zh": "美国证监会 (SEC) 于10月1日提议的数字资产托管框架允许注册投资顾问在特定条件下自持客户加密资产的私钥，并将州特许信托公司纳入合格托管人 (qualified custodian) 名单。该提案已于10月6日发布于《联邦公报》(Federal Register)，公众意见征询期至12月7日。",
-            "en": "The SEC's October 1 custody proposal would let registered investment advisers hold client crypto private keys themselves under limited conditions and add state-chartered trust companies to the list of qualified custodians. Published in the Federal Register on October 6, the proposal is open for public comment through December 7."
-          },
-          "sources": [
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/sec-proposes-crypto-custody-rules/"
-            },
-            {
-              "name": "Crypto Cloud News",
-              "url": "https://cryptocloudnews.com/news/sec-proposes-new-crypto-custody-rules-for-advisers-and-funds-k43g"
-            }
-          ]
-        },
-        {
-          "id": "20261013-06",
-          "category": "bitcoin",
-          "time": "2026-10-11T02:00:00Z",
-          "title": {
-            "zh": "Coldcard官方X账号惊现钓鱼链接，公司称未发现异常登录记录",
-            "en": "Coldcard's Official X Account Publishes Phishing Link; No Unauthorized Login Found"
-          },
-          "summary": {
-            "zh": "比特币硬件钱包厂商Coldcard (Coinkite) 表示，其官方X账号10月11日出现一条冒充固件漏洞警告的钓鱼帖，诱导用户前往仿冒网站进行“安全迁移”，帖子已被删除。公司称账户启用离线双因素认证 (2FA)，内部审查未发现异常登录，已要求X平台协助调查；暂未确认用户资金损失。",
-            "en": "Bitcoin hardware wallet maker Coldcard said a phishing post appeared on its official X account on October 11, posing as an urgent firmware flaw warning and directing users to a copycat site for a \"security migration\"; the post has been deleted. The firm found no unauthorized login records, credits offline 2FA, and has asked X to investigate; no verified user losses so far."
-          },
-          "sources": [
-            {
-              "name": "CoinCentral",
-              "url": "https://coincentral.com/coldcard-hacked-again-phishing-link-appears-on-bitcoin-wallet-makers-x-account/"
-            },
-            {
-              "name": "Crypto.news",
-              "url": "https://crypto.news/coldcard-warns-bitcoin-users-about-phishing-scam-on-x/"
-            }
-          ]
-        },
-        {
-          "id": "20261013-09",
-          "category": "solana",
-          "time": "2026-10-09T14:42:00Z",
-          "title": {
-            "zh": "Solana完成200毫秒出块间隔升级，较8月翻倍出块频率",
-            "en": "Solana Completes 200-Millisecond Slot Upgrade, Doubling Block Frequency Since August"
-          },
-          "summary": {
-            "zh": "Solana于10月9日在主网epoch 1053激活200毫秒目标出块间隔 (slot time)，较原先的400毫秒减半，完成了自8月21日以来的四阶段降速（400→350→300→250→200毫秒）。该升级为网络层面变更（SIMD-0525），并非Alpenglow共识升级；区块更小更频繁，网络每秒理论处理能力大致不变。",
-            "en": "Solana activated a 200-millisecond target slot time on mainnet at epoch 1053 on October 9, halving its original 400ms setting and completing a four-stage reduction since August 21 (400→350→300→250→200ms). The network-level change (SIMD-0525) is distinct from the Alpenglow consensus upgrade; blocks are smaller but more frequent, leaving theoretical per-second capacity roughly unchanged."
-          },
-          "sources": [
-            {
-              "name": "CryptoCompass",
-              "url": "https://cryptocompass.com/articles/solana-s-200ms-slot-upgrade-is-live-but-first-epoch"
-            },
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/solana-news-today-block-times-drop-200ms/"
-            }
-          ]
-        },
-        {
-          "id": "20261013-07",
-          "category": "regulation",
-          "time": "2026-10-09T10:42:00Z",
-          "title": {
-            "zh": "美SEC批准首批3倍杠杆比特币与以太坊ETF上市规则，仍需注册生效后才能交易",
-            "en": "SEC Approves First 3x Bitcoin and Ether ETF Listing Rule; Trading Still Needs Effective Registration"
-          },
-          "summary": {
-            "zh": "美SEC于10月2日批准Cboe BZX交易所规则变更，允许Volatility Shares旗下六只3倍杠杆产品上市，含3倍比特币ETF与3倍以太坊ETF，是美国历史上首次突破2倍杠杆上限的加密杠杆产品。该批准仅是上市规则许可，产品仍需注册声明生效后方可交易；六只产品均将通过受监管的期货合约 (futures) 实现杠杆，而非直接持有现货。",
-            "en": "The SEC on October 2 approved a Cboe BZX rule change allowing six 3x leveraged products from Volatility Shares to list, including 3x Bitcoin and 3x Ether ETFs — the first U.S. crypto products to break the 2x leverage ceiling. The order only permits listing; trading still requires an effective registration statement. All six will use regulated futures, not spot holdings, for leverage."
-          },
-          "sources": [
-            {
-              "name": "Forkast",
-              "url": "https://forkast.news/the-sec-just-broke-the-2x-ceiling-on-leveraged-crypto-etfs-and-the-first-3x-products-are-one-form-away-from-trading/"
-            },
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/sec-clears-cboe-to-list-volatility-shares-3x-bitcoin-and-ether-funds/"
-            }
-          ]
-        },
-        {
-          "id": "20261013-08",
-          "category": "regulation",
-          "time": "2026-10-09T08:00:00Z",
-          "title": {
-            "zh": "泰国SEC批准本土比特币与以太坊ETF，10月16日生效",
-            "en": "Thailand's SEC Approves Locally Listed Bitcoin and Ether ETFs, Effective October 16"
-          },
-          "summary": {
-            "zh": "泰国证监会 (SEC) 于10月8日发布11份通知，允许本土资管公司在泰国证券交易所 (SET) 发行比特币与以太坊ETF，10月16日起生效。规则要求基金每个会计年度对单一加密资产的平均净敞口不低于资产净值 (NAV) 的80%，资产须交由泰国SEC监管的本土托管人保管；散户暂不能通过存托凭证 (DR) 等间接购买海外加密ETF。",
-            "en": "Thailand's SEC on October 8 issued 11 notifications allowing local asset managers to launch Bitcoin and Ether ETFs on the Stock Exchange of Thailand, effective October 16. Funds must keep average net exposure to a single crypto asset at no less than 80% of NAV each accounting year and use SEC-regulated local custodians; retail investors remain barred from indirect access to foreign crypto ETFs via instruments like depositary receipts."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs"
-            },
-            {
-              "name": "The Block",
-              "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132"
-            }
-          ]
-        },
-        {
-          "id": "20261013-11",
-          "category": "ethereum",
-          "time": "2026-10-06T13:53:00Z",
-          "title": {
-            "zh": "以太坊Glamsterdam升级在Sepolia测试网激活，主网时间待定",
-            "en": "Ethereum's Glamsterdam Upgrade Activates on Sepolia Testnet; Mainnet Date Undecided"
-          },
-          "summary": {
-            "zh": "以太坊Glamsterdam升级于10月6日在Sepolia测试网 (Sepolia testnet) 按期激活，这是主网上线前的关键一步。升级核心包括协议内生的提议者-构建者分离 (enshrined proposer-builder separation, ePBS) 与区块级访问列表 (block-level access lists, BALs)，目标是大幅提升一层 (L1) 吞吐量；以太坊基金会称主网日期尚未确定。",
-            "en": "Ethereum's Glamsterdam upgrade activated on the Sepolia testnet on October 6 as scheduled, a key step before mainnet. Headline changes include enshrined proposer-builder separation (ePBS) and block-level access lists (BALs), targeting much higher Layer 1 throughput; the Ethereum Foundation says the mainnet date is not yet decided."
-          },
-          "sources": [
-            {
-              "name": "CryptoNews.net",
-              "url": "https://cryptonews.net/news/ethereum/33541656/"
-            },
-            {
-              "name": "Trading News",
-              "url": "https://www.tradingnews.com/news/ethereum-2562-usd-lands-on-its-50-day-average-after-233m"
-            }
-          ]
-        },
-        {
-          "id": "20261013-10",
-          "category": "solana",
-          "time": "2026-10-02T00:00:00Z",
-          "title": {
-            "zh": "Solana生态10月迎来多起大额代币解锁，DoubleZero领衔释放约1.13亿美元",
-            "en": "Solana Ecosystem Faces Large October Token Unlocks; DoubleZero Leads With ~$113M"
-          },
-          "summary": {
-            "zh": "10月Solana生态多个项目释放大批锁定代币：DoubleZero (2Z) 10月2日起解锁17.8亿枚（约1.13亿美元），占流通量约34.8%，其12个月归属悬崖到期；Official Trump (TRUMP) 解锁约2802万枚（约6080万美元）；Pump.fun (PUMP) 按月线性释放70亿枚（约4025万美元）；deBridge (DBR) 将于10月17日解锁约6.18亿枚。反观Sanctum (SANC) 10月6日通过治理投票销毁25%供应。",
-            "en": "Several Solana projects unlock large token batches in October: DoubleZero ($2Z) begins unlocking 1.78 billion tokens (~$113M) on October 2, about 34.8% of circulating supply, as its 12-month vesting cliff expires; Official Trump ($TRUMP) releases ~28.02M tokens (~$60.8M); Pump.fun ($PUMP) linearly vests 7B tokens (~$40.25M); deBridge ($DBR) unlocks ~618.33M on October 17. In the opposite direction, Sanctum ($SANC) burned 25% of its supply on October 6 after a governance vote."
-          },
-          "sources": [
-            {
-              "name": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/solana-ecosystem-token-unlocks-october-2026/"
-            },
-            {
-              "name": "SolanaFloor",
-              "url": "https://solanafloor.com/news/solana-ecosystem-token-unlocks-what-to-watch-in-october-2026"
-            }
-          ]
-        },
-        {
-          "id": "20261013-12",
-          "category": "ethereum",
-          "time": "2026-10-01T00:00:00Z",
-          "title": {
-            "zh": "EIP-8363从以太坊Hegotá升级中撤回，发行政策辩论移交独立流程",
-            "en": "EIP-8363 Withdrawn From Ethereum's Hegotá Upgrade; Issuance Debate Moves to Separate Process"
-          },
-          "summary": {
-            "zh": "拟按质押比例销毁验证者奖励的EIP-8363（Tapered Issuance Burn）提案作者于10月1日宣布，从以太坊下下代升级Hegotá的备选中撤回该提案，称分叉选型流程不适合裁决发行政策这类根本性变革。作者将转入专门的多节点治理流程，首场发行政策论坛定于11月Devcon举行。",
-            "en": "The authors of EIP-8363 (Tapered Issuance Burn), which would burn a rising share of validator rewards as staking grows, withdrew the proposal from consideration for Ethereum's Hegotá upgrade on October 1, saying a fork-scoping process is not the right venue for issuance policy. They will pursue a dedicated governance process, starting with an issuance forum at Devcon in November."
-          },
-          "sources": [
-            {
-              "name": "Daily Crypto Briefs",
-              "url": "https://dailycryptobriefs.com/news/ethereum-staking-reward-burn-withdrawn-hegota/"
-            },
-            {
-              "name": "Newisty",
-              "url": "https://newisty.com/blog/ethereum-staking-reward-burn-proposal-eip-8363-pulled-from-hegota-upgrade"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-10-26"
+  "updated": "2026-10-27"
 }
