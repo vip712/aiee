@@ -1,6 +1,241 @@
 {
  "days": [
   {
+   "date": "2026-10-30",
+   "items": [
+    {
+     "category": "tech",
+     "time": "2026-10-29T21:12:00Z",
+     "title": {
+      "zh": "币安确认遭遇安全事件，链上追踪显示黑客地址持有逾57亿美元资产",
+      "en": "Binance confirms security incident as on-chain trackers put over $5.7 billion in hacker's wallet"
+     },
+     "summary": {
+      "zh": "全球最大加密货币交易所币安 (Binance) 10月29日确认遭遇安全事件并暂停多条网络的提现，链上追踪显示黑客地址持有逾57亿美元资产，其中包括近15亿美元比特币 (Bitcoin) 和9亿美元以太币 (Ether)。稳定币发行商泰达 (Tether) 与 Circle 已分别冻结逾15.7亿美元 USDT 与逾8亿美元 USDC。币安创始人赵长鹏表示用户资金安全并将得到全额赔付，但事件已导致比特币跌至约7.88万美元。",
+      "en": "Binance confirmed a security incident on October 29 and suspended withdrawals on multiple networks, with on-chain trackers putting more than $5.7 billion in assets in the hacker's wallet, including nearly $1.5 billion in bitcoin and $900 million in ether. Tether and Circle froze over $1.57 billion in USDT and over $800 million in USDC linked to the incident. Founder Changpeng Zhao said user funds are safe and will be fully covered, but bitcoin still fell to about $78,800 on the news."
+     },
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets"
+      },
+      {
+       "name": "TechCrunch",
+       "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+      }
+     ],
+     "id": "20261030-01"
+    },
+    {
+     "category": "bitcoin",
+     "time": "2026-10-29T21:05:00Z",
+     "title": {
+      "zh": "比特币一度跌破8万美元，美国科技股抛售与PCE通胀数据施压风险资产",
+      "en": "Bitcoin briefly breaks below $80,000 as US tech selloff and PCE data weigh on risk assets"
+     },
+     "summary": {
+      "zh": "比特币 (Bitcoin) 10月29日一度跌破8万美元关口，随后在约8.08万美元附近震荡，美国科技股因三星股东回报不及预期及 Alphabet 财报引发的 AI 投资担忧而走弱，风险厌恶情绪蔓延至加密市场。同日公布的美国9月个人消费支出 (PCE) 物价指数同比上涨3.6%，核心 PCE 上涨3.1%，均符合预期，但仍远高于美联储2%的目标。交易员关注比特币能否守住8万美元，以及10月30日到期的约110亿美元期权 (Options) 对行情的影响。",
+      "en": "Bitcoin briefly broke below $80,000 on October 29 before trading near $80,800, as a selloff in US tech stocks on Samsung shareholder-return disappointment and AI-spending worries around Alphabet's earnings spilled into crypto. US September PCE inflation rose 3.6% year on year, with core PCE up 3.1%, both in line with expectations but still well above the Federal Reserve's 2% target. Traders are watching whether bitcoin can hold $80,000 and what the roughly $11 billion options expiry on October 30 means for prices."
+     },
+     "sources": [
+      {
+       "name": "BigGo Finance",
+       "url": "https://finance.biggo.com/news/37f1a509-14f1-4ac6-9417-d477cd530ec3"
+      },
+      {
+       "name": "Hokanews",
+       "url": "https://www.hokanews.com/2026/10/bitcoin-holds-near-80000-as-september.html"
+      }
+     ],
+     "id": "20261030-02"
+    },
+    {
+     "category": "tech",
+     "time": "2026-10-29T18:55:00Z",
+     "title": {
+      "zh": "Polymarket因第三方服务商遭入侵暂停交易，约270万美元用户资金被盗",
+      "en": "Polymarket halts trading after third-party breach drains about $2.7 million in user funds"
+     },
+     "summary": {
+      "zh": "预测市场平台 Polymarket 10月29日因一家第三方服务商遭入侵而暂停国际平台交易，链上分析估计约270万美元用户资金在约710个钱包中被盗。攻击者据称通过网站性能监测服务商 DebugBear 被植入的恶意脚本获取用户交易会话并转移资产，Polymarket 随后修复问题并恢复交易，承诺全额赔付受影响用户。美国平台未受影响，事件发生在11月3日美国中期选举交易量预期升温之际。",
+      "en": "Prediction market Polymarket suspended trading on its international platform on October 29 after a third-party provider was compromised, with on-chain analysts estimating about $2.7 million stolen across roughly 710 wallets. Attackers allegedly used a malicious script planted via website-performance provider DebugBear to access user trading sessions and move funds; Polymarket later fixed the issue, resumed trading and pledged to fully reimburse affected users. The US platform was unaffected, and the incident comes just ahead of expected heavy trading around the November 3 US midterm elections."
+     },
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses"
+      },
+      {
+       "name": "Bitcoin.com News",
+       "url": "https://news.bitcoin.com/security/polymarket-halts-trading-exploit-stole-estimated-2-7m-users/"
+      }
+     ],
+     "id": "20261030-03"
+    },
+    {
+     "category": "market",
+     "time": "2026-10-29T15:00:00Z",
+     "title": {
+      "zh": "Kalshi完成10亿美元融资，估值400亿美元，几乎较5月翻倍",
+      "en": "Kalshi closes $1 billion round at $40 billion valuation, nearly doubling May's price tag"
+     },
+     "summary": {
+      "zh": "预测市场平台 Kalshi 宣布完成10亿美元 G 轮融资 (Series G)，估值达到400亿美元，较5月份的220亿美元几乎翻倍，由红杉资本 (Sequoia Capital) 与 Wellington Management 共同领投。公司称非体育市场年化收入已突破10亿美元，过去30天交易量约158亿美元。本轮融资之际，犹他州已就体育合约涉嫌非法赌博对 Kalshi 及其联合创始人提起刑事指控，而美国商品期货交易委员会 (CFTC) 则寻求阻止该州的执法行动。",
+      "en": "Prediction market Kalshi closed a $1 billion Series G round at a $40 billion valuation, nearly double its $22 billion May valuation, co-led by Sequoia Capital and Wellington Management. The company said non-sports markets now generate over $1 billion in annualized revenue, with about $15.8 billion in trading volume over the past 30 days. The raise comes as Utah filed criminal charges against Kalshi and its co-founders over sports contracts it calls illegal gambling, while the CFTC has moved to block the state's enforcement."
+     },
+     "sources": [
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b"
+      },
+      {
+       "name": "Dealroom",
+       "url": "https://dealroom.co/news/167945-kalshi-raises-1b-at-40b-valuation-doubling-mays-price-tag/"
+      }
+     ],
+     "id": "20261030-04"
+    },
+    {
+     "category": "bitcoin",
+     "time": "2026-10-29T12:04:00Z",
+     "title": {
+      "zh": "约109亿美元比特币期权10月30日到期，最大痛点约7.8万美元",
+      "en": "About $10.9 billion in bitcoin options expire October 30, with max pain near $78,000"
+     },
+     "summary": {
+      "zh": "约109亿美元的比特币期权 (Options) 将于10月30日8时 (UTC) 在 Deribit 到期，约占该平台比特币期权未平仓合约的三分之一，其中看涨期权 (Call Options) 数量约为看跌期权 (Put Options) 的两倍，最大痛点 (Max Pain) 约为7.8万美元。做市商对冲集中在7.5万至8.2万美元区间，短期偏斜 (Skew) 已明显偏向看跌期权，交易员警告到期结算可能放大波动。同日到期的以太币期权名义价值约7.8亿美元，最大痛点为2500美元。",
+      "en": "About $10.9 billion in bitcoin options expire on Deribit at 08:00 UTC on October 30, roughly a third of the venue's bitcoin options open interest, with calls outnumbering puts about two to one and max pain near $78,000. Dealer hedging is concentrated between $75,000 and $82,000 and short-dated skew has swung heavily toward puts, leaving traders braced for settlement-driven volatility. Ether options worth about $780 million expire at the same time, with max pain at $2,500."
+     },
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing"
+      },
+      {
+       "name": "TokenPost",
+       "url": "https://www.tokenpost.com/news/investing/43775"
+      }
+     ],
+     "id": "20261030-05"
+    },
+    {
+     "category": "regulation",
+     "time": "2026-10-29T11:11:00Z",
+     "title": {
+      "zh": "HTX与英国FCA达成和解并退出英国市场，营销承诺持续至2031年",
+      "en": "HTX settles with UK FCA and exits the UK market, with marketing pledges running to 2031"
+     },
+     "summary": {
+      "zh": "英国金融行为监管局 (FCA) 10月29日宣布与加密货币交易所 HTX (原火币) 达成和解，HTX 向高等法院作出具约束力的承诺，不再向英国消费者违法推广加密服务，相关承诺持续至2031年10月。和解条款保密且不构成承认过错，HTX 已退出英国市场，英国用户无法再充值或注册，并可申请一次性48小时窗口提取剩余资产。这是 FCA 针对加密公司违法营销的首起执法案件。",
+      "en": "The UK Financial Conduct Authority announced a settlement with crypto exchange HTX (formerly Huobi) on October 29, under which it gave binding High Court undertakings not to unlawfully promote crypto services to UK consumers, running until October 2031. Terms are confidential and involve no admission of liability; HTX has exited the UK market, where users can no longer deposit or sign up, though existing users may request a one-time 48-hour window to withdraw remaining assets. It is the FCA's first enforcement case against a crypto firm over marketing to UK consumers."
+     },
+     "sources": [
+      {
+       "name": "Finance Magnates",
+       "url": "https://www.financemagnates.com/cryptocurrency/regulation/crypto-exchange-htx-leaves-uk-and-settles-regulators-lawsuit-over-illegal-ads/"
+      },
+      {
+       "name": "Cointelegraph",
+       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today"
+      }
+     ],
+     "id": "20261030-06"
+    },
+    {
+     "category": "solana",
+     "time": "2026-10-29T08:21:00Z",
+     "title": {
+      "zh": "Solana跌破100美元，现货ETF两日净流出约2482万美元",
+      "en": "Solana drops below $100 as spot ETFs shed about $24.82 million in two days"
+     },
+     "summary": {
+      "zh": "Solana (SOL) 10月29日跌破100美元关口，报约99.7美元，美国现货 SOL ETF 在此前两个交易日合计净流出约2482万美元，其中10月27日单日流出1916万美元，为2025年12月3日以来最大单日流出。10月 SOL ETF 累计净流出已超过1.05亿美元，但自推出以来的累计净流入仍约15.1亿美元。链上数据显示有巨鲸在五天内抛售约102万枚 SOL，价值约1.04亿美元，分析师将96至100美元视为关键支撑区间。",
+      "en": "Solana fell below $100 on October 29 to about $99.71, after US spot SOL ETFs recorded combined net outflows of about $24.82 million over two sessions, including $19.16 million on October 27, the largest single-day outflow since December 3, 2025. October outflows from SOL ETFs have topped $105 million, though cumulative net inflows since launch remain about $1.51 billion. On-chain data also showed a whale selling about 1.02 million SOL, worth roughly $104 million, over five days, with analysts watching $96-$100 as key support."
+     },
+     "sources": [
+      {
+       "name": "Token10x",
+       "url": "https://token10x.blog/2026/10/solana-price-falls-below-100-as-etfs-lose-24-8m-in-two-days/"
+      },
+      {
+       "name": "CoinCentral",
+       "url": "https://coincentral.com/solana-price-prediction-can-sol-reach-150-before-the-end-of-2026/"
+      }
+     ],
+     "id": "20261030-07"
+    },
+    {
+     "category": "market",
+     "time": "2026-10-29T06:00:00Z",
+     "title": {
+      "zh": "比特币现货ETF三日吸金约4.24亿美元，10月累计资金流转正",
+      "en": "Spot bitcoin ETFs draw about $424 million in three days, flipping October flows positive"
+     },
+     "summary": {
+      "zh": "美国现货比特币 ETF (Spot Bitcoin ETF) 10月28日净流入1.37亿美元，连续第三个交易日吸金，三日合计约4.24亿美元，推动10月累计资金流转正至约1.11亿美元净流入。此前一周最后两个交易日曾流出约7.74亿美元，10月一度大幅净流出。同期现货以太币 ETF 仍在失血，10月28日再流出约2140万美元，显示机构资金在比特币与以太坊之间的分化仍在持续。",
+      "en": "US spot bitcoin ETFs drew $137 million in net inflows on October 28, a third straight day of gains totaling about $424 million, flipping October's cumulative flows positive to about $111 million. The rebound followed roughly $774 million in outflows over the final two trading days of the previous week. Spot ether ETFs kept bleeding, with about $21.4 million leaving on October 28, underscoring the ongoing divergence in institutional flows between bitcoin and ether."
+     },
+     "sources": [
+      {
+       "name": "Hokanews",
+       "url": "https://www.hokanews.com/2026/10/bitcoin-etfs-attract-137-million-as.html"
+      },
+      {
+       "name": "KuCoin",
+       "url": "https://www.kucoin.com/news/insight/BTC/6ae32c94bbcb5200074506df"
+      }
+     ],
+     "id": "20261030-08"
+    },
+    {
+     "category": "regulation",
+     "time": "2026-10-29T02:26:00Z",
+     "title": {
+      "zh": "Crypto.com面向美国用户推出永续合约，杠杆上限5倍",
+      "en": "Crypto.com brings perpetual futures to US customers with a 5x leverage cap"
+     },
+     "summary": {
+      "zh": "Crypto.com 与其衍生品伙伴 OG.com 已面向符合条件的美国用户推出加密货币永续合约 (Perpetual Futures)，杠杆上限为5倍，可全天候交易且无到期日，合约通过受美国商品期货交易委员会 (CFTC) 监管的 OG.com 交易所及清算所运作。Crypto.com 近期已在美国全国期货协会 (NFA) 注册为介绍经纪商 (Introducing Broker) 以分销该产品。此举延续了美国合规永续合约市场的扩围，此前 Kraken 与 Kalshi 等平台已相继入场。",
+      "en": "Crypto.com and derivatives partner OG.com have launched crypto perpetual futures for eligible US customers with leverage capped at 5x, trading around the clock with no expiry, via OG.com's CFTC-regulated exchange and clearinghouse. Crypto.com recently registered with the National Futures Association as an introducing broker to distribute the products. The launch extends the regulated US perpetuals market, following earlier entries by Kraken and Kalshi."
+     },
+     "sources": [
+      {
+       "name": "Blockhead",
+       "url": "https://www.blockhead.co/2026/10/29/crypto-com-brings-perpetual-futures-to-us-customers-with-a-5x-cap/"
+      },
+      {
+       "name": "CryptoDaily",
+       "url": "https://cryptodaily.co.uk/2026/10/cryptocom-launches-regulated-us-crypto-perpetuals-with-up-to-5x-leverage"
+      }
+     ],
+     "id": "20261030-09"
+    },
+    {
+     "category": "ethereum",
+     "time": "2026-10-27T07:09:00Z",
+     "title": {
+      "zh": "以太坊修复Glamsterdam存款缺陷，防止验证者资金被记入构建者账户",
+      "en": "Ethereum fixes Glamsterdam deposit flaw that could have credited validator funds to builders"
+     },
+     "summary": {
+      "zh": "以太坊 (Ethereum) 开发者已合并一项针对 Glamsterdam 升级的修复，解决了验证者存款可能被错误记入区块构建者 (Block Builder) 账户的缺陷，原因是两者可共用同一公钥。该修复按取款凭证 (Withdrawal Credentials) 对分叉激活时仍在排队的存款进行分类，确保验证者资金留在验证者账户，质押服务商的资金不会被挪用。此前该方案曾于10月19日因客户端支持不足被否决，10月26日重新合并，目前尚未报告任何损失，Glamsterdam 在 Hoodi 测试网的新上线日期仍未公布。",
+      "en": "Ethereum developers have merged a fix for the Glamsterdam upgrade that resolves a flaw under which validator deposits could have been credited to block builders' accounts when both roles shared a public key. The fix sorts deposits still pending at fork activation by withdrawal credentials, keeping validator funds with validators and preventing staking services' funds from being diverted. The change was rejected on October 19 for lack of client support before being merged on October 26; no losses have been reported, and a new Hoodi testnet date has not been announced."
+     },
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders"
+      },
+      {
+       "name": "Unchained",
+       "url": "https://unchainedcrypto.com/ethereum-developers-merge-glamsterdam-fix-to-keep-validator-deposits-out-of-builder-accounts/"
+      }
+     ],
+     "id": "20261030-10"
+    }
+   ]
+  },
+  {
    "date": "2026-10-29",
    "items": [
     {
@@ -2736,265 +2971,7 @@
      ]
     }
    ]
-  },
-  {
-   "date": "2026-10-16",
-   "items": [
-    {
-     "category": "market",
-     "id": "20261016-01",
-     "sources": [
-      {
-       "name": "CoinDesk",
-       "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens?post-id=0e89581b4e10"
-      },
-      {
-       "name": "NDTV",
-       "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-october-us-iran-war-oil-prices-12187412"
-      }
-     ],
-     "summary": {
-      "en": "A hotter-than-expected September US CPI briefly pushed bitcoin below $80,000 for the first time in about a month, before it rebounded toward $82,000. US spot bitcoin ETFs lost about $261 million on Wednesday, according to SoSoValue data, while ether fell roughly 5% to near $2,370 and ZEC led the losers. Traders are now watching the October 27-28 Federal Reserve meeting, with markets pricing in a 27% chance of a rate hike.",
-      "zh": "美国9月CPI (Consumer Price Index) 超预期升温，比特币一度跌破80,000美元，约为一个月来首次，随后回升至82,000美元附近。据SoSoValue数据，美现货比特币ETF (Spot Bitcoin ETF) 周三净流出约2.61亿美元；以太币下跌约5%至2,370美元附近，ZEC领跌大盘。市场将目光转向10月27-28日的美联储议息会议，市场预计加息概率为27%。"
-     },
-     "time": "2026-10-15T20:00:00Z",
-     "title": {
-      "en": "Bitcoin Briefly Falls Below $80,000 Then Rebounds to ~$82,000; US Spot ETFs Shed ~$261M",
-      "zh": "比特币短暂跌破8万美元后反弹至约82,000美元，美现货ETF单日净流出约2.61亿美元"
-     }
-    },
-    {
-     "category": "tech",
-     "id": "20261016-02",
-     "sources": [
-      {
-       "name": "Cointelegraph",
-       "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3"
-      },
-      {
-       "name": "CryptoNews",
-       "url": "https://cryptonews.net/news/security/33596090/"
-      }
-     ],
-     "summary": {
-      "en": "Security firm Hacken's Q3 report tallied about $1.18 billion in crypto hack losses across 107 recorded incidents in the third quarter of 2026, the most damaging quarter since Q1 2025. About 77% ($906 million) stemmed from compromised suppliers or developer tools and disclosed-but-undeployed fixes, while smart-contract exploits were the most frequent attack type ($228M across 71 incidents). Roughly $387 million (33%) was returned or reversed, but $384 million remained unrecovered; four incidents (Bitget, Liquid Network, Tectonic, Coldcard) accounted for about 80% of total losses.",
-      "zh": "安全公司Hacken的第三季度报告显示，2026年第三季度加密劫案共107起，损失约11.8亿美元，为自2025年一季度 (Bybit 14亿美元事件) 以来最严重的季度。其中约77% (9.06亿美元) 与受损的供应商或开发工具、已披露却未修复的漏洞有关；智能合约漏洞为最频发攻击类型 (71起，损失2.28亿美元)。约3.87亿美元 (33%) 被返还或回滚，但仍有约3.84亿美元未能追回；Bitget、Liquid Network、Tectonic与Coldcard固件漏洞四起事件占总损失的约80%。"
-     },
-     "time": "2026-10-15T11:01:00Z",
-     "title": {
-      "en": "Hacken: Q3 2026 Crypto Hacks Hit $1.18B Across 107 Incidents, Worst Quarter Since Q1 2025",
-      "zh": "Hacken报告：2026年第三季度加密劫案损失达11.8亿美元，为2025年一季度以来最惨重"
-     }
-    },
-    {
-     "category": "tech",
-     "id": "20261016-03",
-     "sources": [
-      {
-       "name": "Cointelegraph",
-       "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal"
-      },
-      {
-       "name": "crypto.news",
-       "url": "https://crypto.news/babylon-wants-aave-users-to-borrow-against-bitcoin/"
-      }
-     ],
-     "summary": {
-      "en": "Babylon Labs published an ARFC proposal on Aave's governance forum on October 14 to add native BTC as collateral on Aave V4 through its Trustless Bitcoin Vaults protocol. The design introduces the Babylon Spoke and the BTC Vault Swap Spoke: the former lets users borrow stablecoins against BTC locked on the Bitcoin network, while the latter handles liquidations — without wrapping or bridging BTC. The proposal follows a May temperature check that passed on June 10 and must clear community review and a Snapshot vote before any onchain vote.",
-      "zh": "Babylon Labs于10月14日在Aave治理论坛发布ARFC提案，拟通过其无托管比特币金库 (Trustless Bitcoin Vaults) 将原生BTC (Native Bitcoin) 引入Aave V4作为抵押品。方案设立Babylon Spoke与BTC Vault Swap Spoke两个组件：前者允许用户以锁定在比特币网络上的BTC抵押借入稳定币 (Stablecoin)，后者负责清算结算，全程无需跨链或包装BTC。该提案沿用了6月10日通过的初步社区投票结果，仍需经社区讨论与快照投票 (Snapshot Vote) 后方可进入链上投票。"
-     },
-     "time": "2026-10-15T10:00:00Z",
-     "title": {
-      "en": "Babylon Labs Advances Aave V4 Proposal for Native Bitcoin Collateral via Trustless Vaults",
-      "zh": "Babylon Labs推进Aave V4原生比特币抵押提案，拟通过无托管金库实现借贷"
-     }
-    },
-    {
-     "category": "ethereum",
-     "id": "20261016-04",
-     "sources": [
-      {
-       "name": "crypto.news",
-       "url": "https://crypto.news/ethereum-price-cpi-106m-liquidations/"
-      },
-      {
-       "name": "NDTV",
-       "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-15-october-us-iran-war-oil-prices-12187412"
-      }
-     ],
-     "summary": {
-      "en": "Stronger-than-expected US inflation data triggered heavy selling that pushed ether down nearly 6% to about $2,350 on October 15. CryptoQuant analyst Darkfost reported more than $106 million in Binance ETH long liquidations within one hour following the CPI release, the largest hourly liquidation event in six months. RSI sits near 34 as traders watch support around $2,300, while spot ETH ETFs saw provisional outflows.",
-      "zh": "9月美国CPI超预期引发抛售，以太币 (Ether) 周四下跌近6%至约2,350美元。CryptoQuant分析师Darkfost称，CPI发布后一小时内，币安ETH多单被清算逾1.06亿美元，为半年来最大单小时爆仓事件。RSI (Relative Strength Index) 接近34，交易员正关注2,300美元附近的支撑位；现货以太币ETF (Spot ETH ETF) 亦录得初步资金流出。"
-     },
-     "time": "2026-10-15T09:00:00Z",
-     "title": {
-      "en": "Ether Drops Nearly 6% to ~$2,350 as $106M in ETH Longs Liquidated in One Hour on Binance",
-      "zh": "以太币下跌近6%至约2,350美元，币安ETH多单一小时内爆仓逾1.06亿美元"
-     }
-    },
-    {
-     "category": "solana",
-     "id": "20261016-05",
-     "sources": [
-      {
-       "name": "Coin-Turk",
-       "url": "https://en.coin-turk.com/solana-drops-below-102-as-etf-outflows-extend-for-eighth-straight-day/"
-      },
-      {
-       "name": "FXStreet",
-       "url": "https://www.fxstreet.com/cryptocurrencies/news/solana-price-forecast-sol-risks-100-breakdown-as-etf-outflows-mount-202610150606"
-      }
-     ],
-     "summary": {
-      "en": "Solana fell below $102 on Thursday, extending its October decline to about 13% after a double-top reversal near $122. SoSoValue data showed spot SOL ETFs recorded roughly $1.3 million in net outflows on Wednesday, the eighth consecutive day of withdrawals, following $24.81 million the previous week. Meanwhile, tokenized equity supply on Solana rose to about $611 million across 1.42 million holders. RSI near 35 leaves $100 as the key psychological level, with 200-day EMA support at $97.95.",
-      "zh": "Solana (SOL) 周四跌破102美元，10月以来累计下跌约13%，月初曾在122美元附近形成双顶反转。SoSoValue数据显示，SOL现货ETF周三净流出约130万美元，为连续第八天净流出，上周累计流出2,481万美元。与此同时，Solana链上股权代币 (Tokenized Equity) 供应量升至约6.11亿美元，分布在142万持有人手中。RSI接近35，100美元成为关键心理关口，下方支撑在200日均线约97.95美元。"
-     },
-     "time": "2026-10-15T08:52:27Z",
-     "title": {
-      "en": "SOL Drops Below $102 as ETF Outflows Extend to Eighth Straight Day; Tokenized Equity Tops $611M",
-      "zh": "SOL跌破102美元，ETF连续第八天净流出；Solana链上股权代币化规模超6.11亿美元"
-     }
-    },
-    {
-     "category": "bitcoin",
-     "id": "20261016-06",
-     "sources": [
-      {
-       "name": "CryptoNews",
-       "url": "https://cryptonews.net/news/mining/33590620/"
-      },
-      {
-       "name": "BitcoinVersus.Tech",
-       "url": "https://bitcoinversus.tech/2026/10/15/bitcoin-miners-6-percent-difficulty-jump-fee-revenue/"
-      }
-     ],
-     "summary": {
-      "en": "Network data suggests Bitcoin's mining difficulty will rise about 5.68% around October 16 at block 971,712, the third-largest increase of 2026. Hashprice would fall from roughly $39.77 to about $37.63 per PH/day, cutting revenue per unit of computing power by about 5.37%. The projection reflects blocks arriving every 9.49 minutes, faster than the protocol's 10-minute target, as hashrate holds near 1 ZH/s — a sign miners keep adding capacity even with BTC under $82,000.",
-      "zh": "网络数据显示，比特币挖矿难度 (Mining Difficulty) 将于10月16日区块971,712处上调约5.68%，为2026年第三大涨幅。哈希价格 (Hashprice) 将从约39.77美元降至37.63美元/日/PH，单位算力收入下降约5.37%。此次上调源于出块间隔约为9.49分钟、快于协议10分钟目标，全网算力维持在约1 ZH/s附近——表明即使在BTC低于82,000美元的情况下，矿工仍在持续加码。"
-     },
-     "time": "2026-10-15T08:00:00Z",
-     "title": {
-      "en": "Bitcoin Mining Difficulty Projected to Jump ~5.7% on October 16, Third-Biggest Rise of 2026",
-      "zh": "比特币挖矿难度预计10月16日上调约5.7%，为2026年第三大涨幅"
-     }
-    },
-    {
-     "category": "ethereum",
-     "id": "20261016-07",
-     "sources": [
-      {
-       "name": "crypto.news",
-       "url": "https://crypto.news/vaneck-cancels-plans-for-lido-staked-ethereum-etf/"
-      },
-      {
-       "name": "Coinspeaker",
-       "url": "https://www.coinspeaker.com/ethereum-news-steth-etf-vaneck-withdrawal/amp/"
-      }
-     ],
-     "summary": {
-      "en": "VanEck Digital Assets filed to withdraw its Lido Staked Ethereum ETF registration with the SEC on October 14, ending plans for a fund that would have held Lido's stETH. The firm confirmed the registration never became effective and no shares were issued or sold, without disclosing a reason for the withdrawal. The decision ends this specific proposal but does not establish a new SEC position on liquid staking tokens more broadly.",
-      "zh": "VanEck Digital Assets于10月14日向SEC (Securities and Exchange Commission) 提交撤回文件，终止其Lido质押以太币ETF (Staked Ether ETF) 的注册计划。该基金原计划持有Lido的stETH；VanEck确认注册从未生效，未发行任何份额，亦未披露撤回原因。此举仅终结该特定产品，并不构成SEC对流动性质押代币 (Liquid Staking Token) 的新立场。"
-     },
-     "time": "2026-10-15T06:00:00Z",
-     "title": {
-      "en": "VanEck Withdraws Lido Staked Ether ETF Registration; No Shares Were Ever Issued",
-      "zh": "VanEck撤回Lido质押以太币ETF注册申请，基金从未发行"
-     }
-    },
-    {
-     "category": "tech",
-     "id": "20261016-08",
-     "sources": [
-      {
-       "name": "CoinDesk",
-       "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen"
-      },
-      {
-       "name": "Bitquery",
-       "url": "https://bitquery.io/investigations/ledger-cryptobilis-hack"
-      }
-     ],
-     "summary": {
-      "en": "Tether froze about $10 million in USDT linked to the theft of funds from Ledger devices sold by Malaysian reseller CryptoBilis. Blockchain analytics firm Bitquery raised its estimate of the losses to about $102 million taken from 324 wallets across six blockchains, mostly USDT on TRON. Ledger previously confirmed an unauthorized hardware implant in an affected device that could capture the 24-word recovery phrase during setup, and advised CryptoBilis customers to move assets to new devices with fresh seed phrases.",
-      "zh": "Tether冻结了约1,000万美元与马来西亚经销商CryptoBilis所售Ledger设备劫案相关的USDT。区块链分析公司Bitquery将损失估计上调至约1.02亿美元，涉324个钱包、横跨六条区块链，大部分为TRON链上的USDT。Ledger此前确认在受影响设备中发现了未经授权的硬件植入物，可在设置过程中窃取24词助记词 (Recovery Phrase)，并建议CryptoBilis客户将资产转移至使用新助记词的新设备。"
-     },
-     "time": "2026-10-15T05:00:00Z",
-     "title": {
-      "en": "Tether Freezes $10M USDT Tied to CryptoBilis Ledger Exploit; On-Chain Estimate Rises to ~$102M",
-      "zh": "Tether冻结与CryptoBilis Ledger劫案相关的1,000万美元USDT；链上损失估计升至约1.02亿美元"
-     }
-    },
-    {
-     "category": "regulation",
-     "id": "20261016-09",
-     "sources": [
-      {
-       "name": "CoinSpectator",
-       "url": "https://coinspectator.com/cryptonews/2026/10/15/sec-approves-binary-options-tied-to-coinbase-volume-and-bitcoin-mining-output/"
-      },
-      {
-       "name": "CryptoCompass",
-       "url": "https://cryptocompass.com/articles/sec-crypto-news-who-gained-who-slipped-after-cboe-kpi-options-nod"
-      }
-     ],
-     "summary": {
-      "en": "The SEC on October 13 approved a Cboe rule change to list binary options tied to corporate key performance indicators (KPIs). The approval covers 23 large issuers, including Coinbase's trading volume and transaction revenue, MARA's BTC production and energized hashrate, and Robinhood's funded customers and revenues. The contracts are cash-settled and European-style, paying a fixed $1 or nothing at expiry, with settlement based on figures companies report in their earnings filings.",
-      "zh": "SEC于10月13日批准了Cboe的规则修改，允许上市与上市公司关键绩效指标 (KPI) 挂钩的二元期权 (Binary Option)。首批覆盖23家大型发行人，包括Coinbase的总交易量与交易收入、MARA (Marathon Digital) 的比特币产量与算力、以及Robinhood的客户数与营收数据。这类合约以现金结算 (Cash-settled)、欧式行权，按公司财报披露的数据结算，固定赔付1美元或零。"
-     },
-     "time": "2026-10-15T04:00:00Z",
-     "title": {
-      "en": "SEC Approves Cboe Binary KPI Options Tied to Coinbase Volume and MARA Bitcoin Output",
-      "zh": "SEC批准Cboe上市挂钩Coinbase交易量、MARA比特币产量的二元KPI期权"
-     }
-    },
-    {
-     "category": "regulation",
-     "id": "20261016-10",
-     "sources": [
-      {
-       "name": "Basis Desk",
-       "url": "https://basisdesk.news/news/treasury-fdic-advance-genius-act-stablecoin-rules"
-      },
-      {
-       "name": "LexBlog",
-       "url": "https://www.lexblog.com/2026/10/15/federal-reserve-proposes-framework-for-bank-issued-payment-stablecoins-under-the-genius-act/"
-      }
-     ],
-     "summary": {
-      "en": "The US Treasury and FDIC issued proposed rulemakings defining licensing, reserve, and custody requirements for payment stablecoin issuers under the GENIUS Act, with the framework targeted at the law's statutory effective date of January 18, 2027. Separately, the Federal Reserve on October 15 proposed a framework for bank-issued payment stablecoins under the Act, following its earlier state-certification rules. The proposals remain open for public comment.",
-      "zh": "美国财政部 (Treasury) 与联邦存款保险公司 (FDIC) 提出了《GENIUS法案》下支付稳定币 (Payment Stablecoin) 的许可、储备与托管规则，发行人需持有联邦或州牌照，规则拟于该法法定生效日2027年1月18日落地。与此同时，美联储于10月15日单独提出了银行发行支付稳定币的框架，延续其此前关于州认证的规则进程。各提案尚处征求意见阶段。"
-     },
-     "time": "2026-10-15T03:00:00Z",
-     "title": {
-      "en": "Treasury and FDIC Advance GENIUS Act Stablecoin Rules Targeting January 18, 2027; Fed Proposes Bank-Issued Framework",
-      "zh": "美财政部与FDIC推进GENIUS法案稳定币规则制定，拟2027年1月18日生效；美联储单独提议银行发行框架"
-     }
-    },
-    {
-     "category": "regulation",
-     "id": "20261016-11",
-     "sources": [
-      {
-       "name": "crypto.news",
-       "url": "https://crypto.news/richard-heart-arrested-in-istanbul/"
-      },
-      {
-       "name": "The Crypto Times",
-       "url": "https://www.cryptotimes.io/2026/10/15/who-is-richard-heart-from-hex-crypto-millions-to-istanbul-detention/"
-      }
-     ],
-     "summary": {
-      "en": "Turkish media reported that Hex and PulseChain founder Richard Heart (legal name Richard James Schueler) was detained in Istanbul's Beşiktaş district on October 14 in a joint police and intelligence (MIT) operation. Authorities reportedly seized about $4 million in cash and 64 luxury watches from his residence. The detention follows a 2024 Interpol Red Notice requested by Finnish authorities over suspected aggravated tax fraud; his wife was also reportedly taken into custody. The SEC's 2023 civil suit against Heart over $1B+ in token offerings was dismissed by a federal judge in February 2025, and regulators declined to amend — this detention is not a new SEC charge.",
-      "zh": "土耳其媒体报道，Hex/PulseChain创始人Richard Heart (法定名Richard James Schueler) 于10月14日在伊斯坦布尔贝西克塔斯区被土耳其警方与国家情报组织 (MIT) 联合拘留，警方在其住所查获约400万美元现金与64块名表；其妻子亦一同被拘留。此次拘留基于国际刑警组织 (Interpol) 2024年应芬兰当局要求发出的红色通缉令，涉加重税务欺诈 (Aggravated Tax Fraud) 嫌疑。值得注意的是，SEC 2023年对其逾10亿美元代币发行案的民事诉讼已于2025年2月被联邦法官驳回且未再起诉——本次并非SEC新的指控。"
-     },
-     "time": "2026-10-15T00:30:00Z",
-     "title": {
-      "en": "Hex Founder Richard Heart Detained in Istanbul Under Interpol Red Notice",
-      "zh": "Hex创始人Richard Heart在伊斯坦布尔被拘留，涉国际刑警红色通缉令"
-     }
-    }
-   ]
   }
  ],
- "updated": "2026-10-29"
+ "updated": "2026-10-30"
 }
