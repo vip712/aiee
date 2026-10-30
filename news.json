@@ -1,6 +1,218 @@
 {
  "days": [
   {
+   "date": "2026-10-31",
+   "items": [
+    {
+     "id": "20261031-01",
+     "category": "tech",
+     "time": "2026-10-30T21:14:00Z",
+     "title": {
+      "zh": "Chainalysis披露遭AI智能体技术入侵，部分客户信息被访问",
+      "en": "Chainalysis discloses AI-agent attack that accessed some customer data"
+     },
+     "summary": {
+      "zh": "区块链分析公司Chainalysis 10月30日披露，本月外部攻击者利用“进攻性智能体技术 (offensive agentic techniques)”未经授权访问了其内部系统与工具，涉及部分客户的姓名、电子邮件地址、用户ID与组织职务信息。公司表示目前没有证据显示调查内容、密码、双重验证 (MFA) 密钥或会话令牌遭到访问，并强调该事件与币安 (Binance) 近期的被盗事件无关。",
+      "en": "Blockchain analytics firm Chainalysis disclosed on October 30 that an external actor used \"offensive agentic techniques\" to gain unauthorized access to its internal systems and tools this month, accessing some customers' names, email addresses, user IDs and organization role labels. The company said it found no evidence that investigation content, passwords, MFA secrets or session tokens were accessed, and stressed the incident is unrelated to the recent Binance theft."
+     },
+     "sources": [
+      {
+       "name": "Chainalysis",
+       "url": "https://www.chainalysis.com/blog/security-incident-october-30/"
+      },
+      {
+       "name": "CoinTime",
+       "url": "https://www.cointime.ai/flash-news/chainalysis-faces-ai-50041"
+      }
+     ]
+    },
+    {
+     "id": "20261031-02",
+     "category": "bitcoin",
+     "time": "2026-10-30T20:15:00Z",
+     "title": {
+      "zh": "比特币现货ETF连续四个交易日净流入，合计约4.41亿美元",
+      "en": "Spot bitcoin ETFs extend inflow streak to four sessions, totaling about $441 million"
+     },
+     "summary": {
+      "zh": "美国现货比特币ETF (Spot Bitcoin ETF) 本周连续四个交易日净流入，合计约4.41亿美元，10月累计资金流也随之转正。尽管单日流入规模从周中的1.37亿美元放缓至周四的约1700万美元，机构需求仍保持净买入态势；与此同时，以太币与SOL基金则持续遭遇资金流出，分化格局明显。",
+      "en": "U.S. spot bitcoin ETFs recorded net inflows for a fourth straight trading session this week, totaling roughly $441 million and pushing October's cumulative flow back into positive territory. Daily inflows cooled from about $137 million midweek to roughly $17 million on Thursday, but institutional demand stayed net positive, while ether and SOL funds kept losing money, underscoring the divergence."
+     },
+     "sources": [
+      {
+       "name": "CryptoNews",
+       "url": "https://cryptonews.net/news/finance/33678474/"
+      },
+      {
+       "name": "DigitalToday",
+       "url": "https://www.digitaltoday.co.kr/en/view/121899/bitcoin-spot-etfs-post-third-straight-day-of-net-inflows-october-turns-positive"
+      }
+     ]
+    },
+    {
+     "id": "20261031-03",
+     "category": "solana",
+     "time": "2026-10-30T20:15:00Z",
+     "title": {
+      "zh": "SOL现货ETF四日净流出约6074万美元，抛压随币安事件加剧",
+      "en": "SOL spot ETFs see about $60.74 million in four-day outflows as Binance shock weighs"
+     },
+     "summary": {
+      "zh": "SOL现货ETF (Spot SOL ETF) 周四单日净流出2769万美元，四个交易日累计流出约6074万美元，其中Bitwise的BSOL占周四流出的大头。与此同时，SOL价格在币安安全事件引发的市场抛售中单日下跌约7%，资金面与价格面同步承压。",
+      "en": "Spot SOL ETFs lost $27.69 million on Thursday, taking four-day outflows to about $60.74 million, with Bitwise's BSOL accounting for most of Thursday's exit. SOL fell about 7% over the same stretch as the Binance security incident drove a broad market selloff, leaving both flows and price under pressure."
+     },
+     "sources": [
+      {
+       "name": "CryptoNews",
+       "url": "https://cryptonews.net/news/finance/33678474/"
+      },
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech?post-id=48fc23091458"
+      }
+     ]
+    },
+    {
+     "id": "20261031-04",
+     "category": "market",
+     "time": "2026-10-30T20:05:00Z",
+     "title": {
+      "zh": "Tether三季度净营业利润15亿美元，超额储备近翻倍至79.5亿美元",
+      "en": "Tether posts $1.5 billion Q3 operating profit as excess reserves nearly double to $7.95 billion"
+     },
+     "summary": {
+      "zh": "稳定币发行商泰达 (Tether) 10月30日公布，第三季度净营业利润 (net operating profit) 为15亿美元，与第二季度持平，前三季度累计达45亿美元。截至9月30日，其储备资产为1914.5亿美元，负债1835亿美元，超额储备 (excess reserves) 从二季度末的41亿美元近乎翻倍至79.5亿美元；该数据经BDO鉴证，但属于时点报告而非全面审计。",
+      "en": "Stablecoin issuer Tether reported on October 30 a third-quarter net operating profit of $1.5 billion, matching the second quarter and bringing the first nine months to $4.5 billion. As of September 30, reserve assets stood at $191.45 billion against $183.50 billion in liabilities, lifting excess reserves from $4.1 billion at end-June to $7.95 billion. The figures carry a BDO assurance opinion on the quarter-end report, not a full audit."
+     },
+     "sources": [
+      {
+       "name": "CoinMarketCap",
+       "url": "https://coinmarketcap.com/academy/article/tether-q3-profit-excess-reserves-7-95b"
+      },
+      {
+       "name": "News.Bitcoin.com",
+       "url": "https://news.bitcoin.com/finance/tether-reports-1-5b-q3-profit-total-reserves-reach-191-5b/"
+      }
+     ]
+    },
+    {
+     "id": "20261031-05",
+     "category": "market",
+     "time": "2026-10-30T19:49:00Z",
+     "title": {
+      "zh": "比特币10月累计下跌约8%，或创2014年以来最差10月表现",
+      "en": "Bitcoin heads for worst October since 2014 with roughly 8% monthly drop"
+     },
+     "summary": {
+      "zh": "比特币 (Bitcoin) 10月30日跌破7.7万美元，创六周新低，10月累计跌幅约8%，有望创下2014年以来最差的10月表现，打破了“10月历来上涨”的季节性规律。分析指出，币安安全事件与美国科技股抛售叠加，令风险资产整体承压，7.6万美元附近的技术支撑成为市场关注焦点。",
+      "en": "Bitcoin fell below $77,000 on October 30 to a six-week low, leaving it down roughly 8% for October and on track for its worst October since 2014, defying the month's usually strong seasonal pattern. Analysts pointed to the Binance security incident and a U.S. tech selloff weighing on risk assets together, with technical support near $76,000 now in focus."
+     },
+     "sources": [
+      {
+       "name": "Cointelegraph",
+       "url": "https://www.tradingview.com/news/cointelegraph:07c22c29b094b:0-bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold/"
+      },
+      {
+       "name": "CryptoBriefing",
+       "url": "https://cryptobriefing.com/bitcoin-slides-october-nearing-76k/"
+      }
+     ]
+    },
+    {
+     "id": "20261031-06",
+     "category": "tech",
+     "time": "2026-10-30T12:13:00Z",
+     "title": {
+      "zh": "币安拨备逾63.4亿美元赔付被盗损失，已冻结资产约30亿美元",
+      "en": "Binance sets aside over $6.34 billion to cover hack losses as about $3 billion is frozen"
+     },
+     "summary": {
+      "zh": "币安 (Binance) 10月30日表示，已拨备逾63.4亿美元公司资金用于恢复受影响用户余额，其中50亿美元为与被盗资产完全相同的代币；另有约30亿美元被盗资产已在合作方协助下冻结。调查发现了最初指向工程师笔记本电脑之外的更多入侵点，Chainalysis与TRM Labs均高置信度地将此次约63亿美元被盗事件归因于朝鲜黑客组织TraderTraitor，提现服务预计约48小时内恢复。",
+      "en": "Binance said on October 30 it has set aside more than $6.34 billion in company funds to restore affected user balances, including $5 billion held in the exact tokens that were stolen, while about $3 billion in stolen assets has been frozen with partners' help. Investigators found additional breach points beyond the compromised engineer's laptop first cited, and Chainalysis and TRM Labs both attributed the roughly $6.3 billion theft with high confidence to North Korea's TraderTraitor group. Withdrawals are expected to resume within about 48 hours."
+     },
+     "sources": [
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack"
+      },
+      {
+       "name": "Cointelegraph",
+       "url": "https://www.tradingview.com/news/cointelegraph:3a8f5c45b094b:0-live-updates-binance-uncovers-more-breach-points-in-6-3b-hack/"
+      }
+     ]
+    },
+    {
+     "id": "20261031-07",
+     "category": "regulation",
+     "time": "2026-10-30T12:00:00Z",
+     "title": {
+      "zh": "Ripple获OCC全国信托银行最终批准，RLUSD加速布局银行渠道",
+      "en": "Ripple wins final OCC approval for national trust bank as RLUSD expands bank distribution"
+     },
+     "summary": {
+      "zh": "美国货币监理署 (OCC) 10月26日给予Ripple全国信托银行 (Ripple National Trust Bank) 最终批准，该行将管理RLUSD储备并担任储备受托人，同时提供机构数字资产托管服务，RLUSD本身仍由纽约州监管的Standard Custody & Trust Company发行。本周内，Ripple还相继与Coinbase、Robinhood及纽约梅隆银行 (BNY) 达成RLUSD分销与托管合作，稳定币市值已逾26亿美元。",
+      "en": "The U.S. Office of the Comptroller of the Currency gave final approval on October 26 for Ripple National Trust Bank, which will manage RLUSD reserves, act as collateral trustee for holders and offer institutional digital asset custody, while RLUSD itself remains issued by New York-regulated Standard Custody & Trust Company. During the same week Ripple struck RLUSD distribution and custody deals with Coinbase, Robinhood and BNY, and the stablecoin's market value passed $2.6 billion."
+     },
+     "sources": [
+      {
+       "name": "PYMNTS",
+       "url": "https://www.pymnts.com/cryptocurrency/2026/ripple-moves-deeper-into-banking-with-stablecoin-deals/"
+      },
+      {
+       "name": "Decrypt",
+       "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin"
+      }
+     ]
+    },
+    {
+     "id": "20261031-08",
+     "category": "ethereum",
+     "time": "2026-10-30T04:15:00Z",
+     "title": {
+      "zh": "以太币跌至约2178美元，创两个月新低",
+      "en": "Ether drops to about $2,178, a two-month low"
+     },
+     "summary": {
+      "zh": "以太币 (Ether) 10月30日跌至约2178美元，创两个月新低，24小时跌幅逾5%，与比特币及SOL等主要资产同步走弱。市场抛售由币安安全事件引爆，并叠加美国科技股走弱与利率波动，令风险资产在月末交易中普遍承压。",
+      "en": "Ether fell to about $2,178 on October 30, a two-month low and down more than 5% in 24 hours, sliding alongside bitcoin, SOL and other major assets. The selloff was triggered by the Binance security incident and compounded by weakness in U.S. tech stocks and rate moves, leaving risk assets broadly lower into month-end."
+     },
+     "sources": [
+      {
+       "name": "BusinessWorld",
+       "url": "https://bworldonline.com/technology/2026/10/30/790434/crypto-exchange-binance-freezes-assets-after-6-3-billion-security-breach/"
+      },
+      {
+       "name": "CoinDesk",
+       "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech?post-id=48fc23091458"
+      }
+     ]
+    },
+    {
+     "id": "20261031-09",
+     "category": "regulation",
+     "time": "2026-10-27T22:28:00Z",
+     "title": {
+      "zh": "Coinbase欧洲零售用户稳定币转换截止，14种非MiCA稳定币将转为USDC",
+      "en": "Coinbase converts 14 non-MiCA stablecoins to USDC for EEA retail users as deadline hits"
+     },
+     "summary": {
+      "zh": "Coinbase对欧洲经济区 (EEA) 零售用户的稳定币转换于10月30日截止，USDT、PYUSD、DAI、USD1等14种未获MiCA授权的稳定币的剩余余额将按市价一次性转换为USDC (USD Coin)。Coinbase表示，MiCA发行商过渡期已于7月1日结束且未延长，持币用户此前仅剩提现至外部钱包的选项，转换完成后将不再逆转。",
+      "en": "Coinbase's stablecoin conversion for European Economic Area retail users took effect on October 30, with remaining balances in 14 stablecoins lacking MiCA authorization — including USDT, PYUSD, DAI and USD1 — converted at the market rate into USDC in a one-time swap. Coinbase said the MiCA transitional period for stablecoin issuers ended July 1 and was not extended, leaving withdrawal to an external wallet as the only option beforehand, and completed conversions will not be reversed."
+     },
+     "sources": [
+      {
+       "name": "Unchained",
+       "url": "https://unchainedcrypto.com/coinbases-one-time-mica-stablecoin-conversion-runs-friday-for-eea-users/"
+      },
+      {
+       "name": "CoinMarketCap",
+       "url": "https://coinmarketcap.com/academy/article/coinbase-eu-mica-stablecoins-usdc-conversion"
+      }
+     ]
+    }
+   ]
+  },
+  {
    "date": "2026-10-30",
    "items": [
     {
@@ -2759,219 +2971,7 @@
      ]
     }
    ]
-  },
-  {
-   "date": "2026-10-17",
-   "items": [
-    {
-     "id": "20261017-01",
-     "category": "ethereum",
-     "time": "2026-10-16T12:00:00Z",
-     "title": {
-      "en": "Ethereum's Glamsterdam Upgrade Scheduled for Hoodi Testnet on Oct 26",
-      "zh": "以太坊 Glamsterdam 升级定于 10 月 26 日上线 Hoodi 测试网"
-     },
-     "summary": {
-      "en": "The Ethereum Foundation announced that the Glamsterdam network upgrade will activate on the Hoodi testnet on October 26, 2026 at 17:42:48 UTC (epoch 132,352), following its October 6 activation on Sepolia. Glamsterdam combines the Amsterdam execution-layer upgrade with the Gloas consensus-layer upgrade, headlined by enshrined proposer-builder separation (EIP-7732) and block-level access lists (EIP-7928). The mainnet activation date has not yet been decided.",
-      "zh": "以太坊基金会宣布，Glamsterdam 网络升级将于 10 月 26 日 17:42:48 UTC 在 Hoodi 测试网激活（epoch 132,352），此前已于 10 月 6 日在 Sepolia 测试网上线。该升级融合了 Amsterdam 执行层升级与 Gloas 共识层升级，核心内容包括嵌入式提议者—构建者分离（EIP-7732，enshrined proposer-builder separation）与区块级访问列表（EIP-7928，block-level access lists）。主网激活日期尚未确定。"
-     },
-     "sources": [
-      {
-       "name": "Ethereum Foundation Blog",
-       "url": "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement"
-      },
-      {
-       "name": "BasisDesk",
-       "url": "https://basisdesk.news/news/ethereum-glamsterdam-upgrade-hoodi-testnet"
-      }
-     ]
-    },
-    {
-     "id": "20261017-02",
-     "category": "market",
-     "time": "2026-10-16T11:48:00Z",
-     "title": {
-      "en": "Bitcoin rebounds toward $83,000 after inflation-driven sell-off; nearly $1B in liquidations",
-      "zh": "通胀数据引发抛售后，比特币反弹至接近 83,000 美元；杠杆仓位爆仓近 10 亿美元"
-     },
-     "summary": {
-      "en": "Bitcoin recovered to about $82,750 on October 16 after falling as low as $79,770 the previous day, when hot US inflation data (September CPI 3.7% YoY, PPI up 6.3% YoY) pushed odds of an October Fed rate hike above 50%. Roughly $950 million to $973 million in leveraged crypto positions were liquidated in the sell-off, while easing Treasury yields (10-year retreating to about 5.1%) and dip-buying helped stabilize prices. Ether also recovered, rising about 1.3% to $2,481.",
-      "zh": "比特币在 10 月 16 日回升至约 82,750 美元，此前一天曾因超预期的美国通胀数据（9 月 CPI 同比 3.7%、PPI 同比上涨 6.3%）跌至 79,770 美元，美联储 10 月加息概率升破 50%。本次抛售导致约 9.5 亿至 9.73 亿美元的杠杆仓位被强制平仓（liquidations），美债收益率回落（10 年期回落至约 5.1%）与逢低买入帮助稳定了价格。以太币同样反弹，上涨约 1.3% 至 2,481 美元。"
-     },
-     "sources": [
-      {
-       "name": "Dow Jones Newswires (via Morningstar)",
-       "url": "https://www.morningstar.com/news/dow-jones/202610162814/bitcoin-rises-as-dollar-weakens-tech-recovers-update"
-      },
-      {
-       "name": "CoinDesk",
-       "url": "https://www.coindesk.com/markets/2026/10/16/live-updates-bitcoin-back-above-usd82-000-zec-jumps-11-as-etf-outflows-continue"
-      }
-     ]
-    },
-    {
-     "id": "20261017-03",
-     "category": "solana",
-     "time": "2026-10-16T10:33:58Z",
-     "title": {
-      "en": "Solana's on-chain RWA value hits $4.3B, reaching 26% of Ethereum's total",
-      "zh": "Solana 链上 RWA 市值达到 43 亿美元，相当于以太坊总量的 26%"
-     },
-     "summary": {
-      "en": "A Castle Labs report published October 15 found Solana's on-chain real-world asset (RWA) market value grew from about $700 million to $4.3 billion over the past year, lifting it from 4.5% to 26% of Ethereum's $16.6 billion total. Tokenized stocks were a standout, rising from $63 million to $455 million, driven by issuers such as xStocks and Backpack. The report also noted Solana led tracked networks with $193.1 million in application revenue over the past 30 days.",
-      "zh": "Castle Labs 于 10 月 15 日发布的报告显示，Solana 链上现实世界资产（RWA，real-world assets）市值在过去一年从约 7 亿美元增长至 43 亿美元，占以太坊 166 亿美元总量的比例从 4.5% 提升至 26%。其中代币化股票（tokenized stocks）表现突出，从 6300 万美元增至 4.55 亿美元，主要由 xStocks、Backpack 等发行方推动。报告还指出，Solana 在过去 30 天以 1.931 亿美元的应用收入领跑所追踪的公链。"
-     },
-     "sources": [
-      {
-       "name": "Castle Labs",
-       "url": "https://research.castlelabs.io/p/solana-building-the-full-stack-onchain"
-      },
-      {
-       "name": "TokenPost",
-       "url": "https://www.tokenpost.com/news/investing/33179"
-      }
-     ]
-    },
-    {
-     "id": "20261017-04",
-     "category": "tech",
-     "time": "2026-10-16T08:00:00Z",
-     "title": {
-      "en": "SlowMist warns of fake Ledger firmware-update phishing exploiting the CryptoBilis hack",
-      "zh": "SlowMist 警告：不法分子冒充 Ledger 固件更新页面，利用 CryptoBilis 事件实施钓鱼"
-     },
-     "summary": {
-      "en": "Blockchain security firm SlowMist issued a threat-intelligence alert on October 16 about phishing pages impersonating an official Ledger firmware update, exploiting panic from the CryptoBilis supply-chain incident. The fake pages replicate Ledger's 'Genuine Check' flow, device selection and an 'Update Now' button to trick users into revealing their recovery phrases. SlowMist advises never updating Ledger devices through website links and never entering a recovery phrase anywhere except the device itself.",
-      "zh": "区块链安全公司 SlowMist 于 10 月 16 日发布威胁情报警报，称钓鱼页面冒充 Ledger 官方固件更新，利用 CryptoBilis 供应链事件引发的恐慌行骗。这些页面复制了 Ledger 的“Genuine Check”（真伪检测）流程、设备选择界面与“立即更新”按钮，诱导用户泄露助记词（recovery phrase）。SlowMist 建议用户切勿通过网页链接更新 Ledger 设备，也不要在设备以外的任何地方输入助记词。"
-     },
-     "sources": [
-      {
-       "name": "CryptoTimes",
-       "url": "https://www.cryptotimes.io/2026/10/16/fake-ledger-firmware-update-scam-exploits-cryptobilis-hack-slowmist-warns/"
-      },
-      {
-       "name": "cryptonews.net",
-       "url": "https://cryptonews.net/news/security/33605345/"
-      }
-     ]
-    },
-    {
-     "id": "20261017-05",
-     "category": "market",
-     "time": "2026-10-15T12:00:00Z",
-     "title": {
-      "en": "XRP ETFs extend inflow streak to 13 weeks as BTC, ETH and SOL funds bleed",
-      "zh": "XRP 现货 ETF 连续 13 周净流入，BTC、ETH、SOL 基金则持续失血"
-     },
-     "summary": {
-      "en": "US spot XRP ETFs have logged net inflows for 13 consecutive weeks, reaching about $1.80 billion in cumulative inflows, even as XRP net assets fell to roughly $1.57 billion on price declines. In the week ended October 9, XRP funds added $11.31 million while Bitcoin, Ethereum and Solana ETFs shed a combined $1.25 billion. The streak continued even though the daily inflow slowed to about $740,000 on October 14.",
-      "zh": "美国现货 XRP ETF 已连续 13 周实现净流入，累计流入约 18 亿美元，不过受币价下跌影响，净资产降至约 15.7 亿美元。截至 10 月 9 日的一周，XRP 基金净流入 1131 万美元，而同期比特币、以太坊和 Solana ETF 合计净流出 12.5 亿美元。尽管 10 月 14 日单日流入放缓至约 74 万美元，连续流入纪录仍在延续。"
-     },
-     "sources": [
-      {
-       "name": "Altcoin Buzz",
-       "url": "https://www.altcoinbuzz.io/thirteen-weeks-of-xrp-etf-inflows-and-net-assets-are-still-falling"
-      },
-      {
-       "name": "CryptoNews",
-       "url": "https://cryptonews.com/news/xrp-price-etf-13-weeks-inflows/"
-      }
-     ]
-    },
-    {
-     "id": "20261017-06",
-     "category": "tech",
-     "time": "2026-10-14T12:00:00Z",
-     "title": {
-      "en": "Ledger suspends Southeast Asia resellers after hardware implant drained ~$90M from wallets",
-      "zh": "Ledger 在硬件植入事件盗走约 9000 万美元后，暂停东南亚经销商销售"
-     },
-     "summary": {
-      "en": "Ledger asked resellers and distributors in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia and Hong Kong to suspend sales while it investigates tampered devices sold through Malaysian reseller CryptoBilis. Ledger confirmed a hardware implant in an affected device - an extra chip intercepting the 24-word seed phrase - and Bloomberg reported about $90 million stolen across Bitcoin, Ethereum and TRON wallets; on-chain tallies range from roughly $86 million to $102 million. Ledger said its own infrastructure and direct sales channel show no sign of compromise.",
-      "zh": "Ledger 已要求印度尼西亚、新加坡、泰国、菲律宾、越南、马来西亚和中国香港的经销商与分销商暂停销售，以配合对马来西亚经销商 CryptoBilis 售出的被篡改设备进行调查。Ledger 确认受影响设备存在硬件植入——一块用于拦截 24 词助记词（seed phrase）的额外芯片；据 Bloomberg 报道，比特币、以太坊和波场（TRON）钱包中约 9000 万美元被盗，链上统计范围约为 8600 万至 1.02 亿美元。Ledger 表示其自身基础设施与直销渠道未发现被攻破迹象。"
-     },
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "url": "https://www.pymnts.com/cryptocurrency/2026/ledger-suspends-southeast-asian-resellers-during-90-million-crypto-wallet-hack-investigation/"
-      },
-      {
-       "name": "The Coin Republic",
-       "url": "https://www.thecoinrepublic.com/2026/10/09/ledger-wallet-hack-probe-intensifies-after-86m-in-suspected-crypto-theft/?amp"
-      }
-     ]
-    },
-    {
-     "id": "20261017-07",
-     "category": "bitcoin",
-     "time": "2026-10-12T12:00:00Z",
-     "title": {
-      "en": "Strategy bought 250 BTC in week ended Oct 11; holdings reach 848,250 BTC",
-      "zh": "Strategy 在截至 10 月 11 日的一周增持 250 枚 BTC，总持仓达 848,250 枚"
-     },
-     "summary": {
-      "en": "Strategy disclosed on October 12 that it purchased 250 BTC for approximately $21.5 million during the week of October 5-11, at an average price of about $86,194 per coin. The addition lifts total holdings to 848,250 BTC, acquired for an aggregate cost of roughly $64 billion. The company also repurchased about $192.4 million of its STRC preferred shares over the same period.",
-      "zh": "Strategy 于 10 月 12 日披露，在 10 月 5 日至 11 日的一周内以约 2150 万美元买入 250 枚比特币，平均买入价约为 86,194 美元/枚。本次增持后，其总持仓达到 848,250 枚 BTC，累计成本约 640 亿美元。同期公司还回购了约 1.924 亿美元的 STRC 优先股。"
-     },
-     "sources": [
-      {
-       "name": "Blockchain Reporter",
-       "url": "https://blockchainreporter.net/strategy-adds-250-bitcoin-holdings-top-848250-btc/"
-      },
-      {
-       "name": "crypto.news",
-       "url": "https://crypto.news/msci-new-rules-put-strategy-metaplanet-at-risk/"
-      }
-     ]
-    },
-    {
-     "id": "20261017-08",
-     "category": "solana",
-     "time": "2026-10-07T12:00:00Z",
-     "title": {
-      "en": "Samsung Wallet to add USDC transfers on Solana for 82M US Galaxy devices",
-      "zh": "三星钱包将为美国 8200 万台 Galaxy 设备接入 Solana 上的 USDC 转账"
-     },
-     "summary": {
-      "en": "Samsung Electronics said its Wallet and Pay apps will support USDC transfers on the Solana blockchain for eligible US users starting in the last week of October, covering 82 million compatible Galaxy devices. The feature runs inside the existing Samsung Wallet interface with integrated fiat on/off-ramps, supported by Coinbase as sub-custodian and Bastion for stablecoin infrastructure. Sui is also listed as a supporting blockchain partner.",
-      "zh": "三星电子表示，其 Wallet 与 Pay 应用将于 10 月最后一周起支持符合条件的美国用户在 Solana 区块链上进行 USDC 转账，覆盖 8200 万台兼容的 Galaxy 设备。该功能内置于现有三星钱包界面，集成法币出入金通道（fiat on/off-ramps），由 Coinbase 担任次级托管方（sub-custodian），Bastion 提供稳定币基础设施支持。Sui 也被列为支持的区块链合作方之一。"
-     },
-     "sources": [
-      {
-       "name": "Crypto Briefing",
-       "url": "https://cryptobriefing.com/samsung-wallet-usdc-solana-transfers/"
-      },
-      {
-       "name": "CoinCentral",
-       "url": "https://coincentral.com/solana-sol-price-samsung-wallet-to-support-usdc-transfers-on-82-million-u-s-devices/"
-      }
-     ]
-    },
-    {
-     "id": "20261017-09",
-     "category": "regulation",
-     "time": "2026-10-05T12:00:00Z",
-     "title": {
-      "en": "CFTC proposes first federal crypto trading rules after Clarity Act stalls",
-      "zh": "在 Clarity 法案受阻后，CFTC 推出首批联邦层面加密交易规则草案"
-     },
-     "summary": {
-      "en": "The US Commodity Futures Trading Commission on October 5 proposed two new rules, Regulation CTX and Regulation CAM, the first federal regulations written specifically for digital-asset trading. The rules would let crypto exchanges opt into a federal regime for margined, leveraged or financed retail crypto trades, bypassing state-by-state licensing. The move follows the Senate's failure to advance the Clarity Act market-structure bill; the public has 60 days to comment.",
-      "zh": "美国商品期货交易委员会（CFTC）于 10 月 5 日推出两项新规 Regulation CTX 与 Regulation CAM，这是首批专门针对数字资产交易的联邦法规。该规则允许加密交易所选择加入联邦监管框架，处理面向散户的保证金、杠杆或融资加密交易，从而绕过各州逐州发牌。这一举动发生在参议院未能推进 Clarity 法案市场结构立法之后；公众有 60 天时间提交意见。"
-     },
-     "sources": [
-      {
-       "name": "PYMNTS",
-       "url": "https://www.pymnts.com/cryptocurrency/2026/cftc-build-federal-rulebook-crypto-exchanges-after-clarity-act-fails/"
-      },
-      {
-       "name": "Bitcoin Magazine",
-       "url": "https://bitcoinmagazine.com/news/cftc-proposes-new-crypto-rules"
-      }
-     ]
-    }
-   ]
   }
  ],
- "updated": "2026-10-30"
+ "updated": "2026-10-31"
 }
