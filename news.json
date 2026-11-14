@@ -1,6 +1,241 @@
 {
   "days": [
     {
+      "date": "2026-11-15",
+      "items": [
+        {
+          "id": "20261115-01",
+          "category": "tech",
+          "time": "2026-11-14T23:07:00Z",
+          "title": {
+            "zh": "Kava Lend遭黑客攻击损失约380万美元，KAVA暴跌约40%",
+            "en": "Kava Lend loses roughly $3.8 million to hack as KAVA plunges about 40%"
+          },
+          "summary": {
+            "zh": "攻击者利用Kava Lend中一个近乎闲置的BUSD (Binance USD) 稳定币市场操纵存款价值，在约一个半小时内借出约5520万枚KAVA (约376万美元)，随后将大部分代币跨链至BNB Chain (BNB Smart Chain) 并以约209万美元卖出。Kava表示事件已隔离在Kava Lend内部，并非无限增发，同时暂停了Axelar跨链桥；Upbit、Bithumb与Coinone已暂停KAVA存取款，KAVA 24小时内下跌约40%。",
+            "en": "An attacker exploited a near-dormant BUSD stablecoin market on Kava Lend to inflate deposit values and borrow about 55.2 million KAVA, worth roughly $3.76 million, in about ninety minutes, then bridged most of it to BNB Chain and sold it for around $2.1 million. Kava said the incident is isolated to Kava Lend and is not an infinite mint, and it paused its Axelar bridge as a precaution, while Upbit, Bithumb and Coinone suspended KAVA deposits and withdrawals. KAVA fell about 40% in 24 hours."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/kava-token-incident-bridge-shutdown/"
+            }
+          ]
+        },
+        {
+          "id": "20261115-02",
+          "category": "market",
+          "time": "2026-11-14T18:00:00Z",
+          "title": {
+            "zh": "比特币短暂跌破6.5万美元，以太坊与Solana跌幅更深，24小时爆仓超8.56亿美元",
+            "en": "Bitcoin briefly falls below $65,000 as ether and solana drop harder and liquidations top $856 million in 24 hours"
+          },
+          "summary": {
+            "zh": "比特币周六一度跌至约6.5万美元，为8月以来最低，周线料将连续第六周收跌；以太坊跌至约1808美元、Solana跌至约71.84美元，均为7月下旬以来最低。过去24小时全网爆仓金额超过8.56亿美元，其中多头占约7.72亿美元；加密恐惧与贪婪指数 (Crypto Fear & Greed Index) 降至12，进入极度恐惧 (Extreme Fear) 区间。",
+            "en": "Bitcoin briefly fell to about $65,000 on Saturday, its lowest since August and on course for a sixth straight weekly loss, while ether dropped to about $1,808 and solana to about $71.84, their lowest levels since late July and early August. More than $856 million in crypto positions were liquidated over 24 hours, roughly $772 million of it longs, and the Crypto Fear & Greed Index fell to 12, deep in extreme fear territory."
+          },
+          "sources": [
+            {
+              "name": "The Economic Times",
+              "url": "https://economictimes.indiatimes.com/news/international/us/why-bitcoin-price-today-crashed-to-68000-etf-outflows-weak-buying-demand-and-856-million-in-liquidations-fuel-selloff-can-btc-usd-rebound-to-90000/articleshow/135816252.cms"
+            },
+            {
+              "name": "PlainBTC",
+              "url": "https://plainbtc.com/articles/ether-solana-xrp-lead-selloff-bitcoin-65000-nov-2026"
+            }
+          ]
+        },
+        {
+          "id": "20261115-03",
+          "category": "bitcoin",
+          "time": "2026-11-14T17:50:00Z",
+          "title": {
+            "zh": "美国现货比特币ETF连续第七天净流出，七个交易日合计流失19.1亿美元",
+            "en": "US spot bitcoin ETFs post a seventh straight day of outflows, losing $1.91 billion in seven sessions"
+          },
+          "summary": {
+            "zh": "美国12只现货比特币ETF (Spot Bitcoin ETF) 周五净流出1.855亿美元，为连续第七个交易日净流出，自11月5日以来累计流出约19.1亿美元；上周净流出10.7亿美元，是连续第二周流出超过10亿美元。贝莱德IBIT占周五流出的约77%，其连亏纪录已达11个交易日；11月以来比特币ETF累计净流出已达23.5亿美元。",
+            "en": "The 12 US spot bitcoin ETFs saw $185.5 million in net outflows on Friday, a seventh consecutive daily loss that has drained about $1.91 billion since November 5, with $1.07 billion leaving last week alone — the second straight week of outflows above $1 billion. BlackRock's IBIT accounted for about 77% of Friday's outflow and is on an 11-session losing streak, while November outflows have reached $2.35 billion."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337"
+            },
+            {
+              "name": "Coin24.news",
+              "url": "https://coin24.news/posts/crypto-etfs-bleed-institutional-cash"
+            }
+          ]
+        },
+        {
+          "id": "20261115-04",
+          "category": "solana",
+          "time": "2026-11-14T16:00:00Z",
+          "title": {
+            "zh": "Solana跌至约70美元，为8月初以来最低，现货ETF连续第五天净流出",
+            "en": "Solana falls to about $70, its lowest since early August, as spot ETFs log a fifth straight day of outflows"
+          },
+          "summary": {
+            "zh": "Solana周六24小时内下跌约11.6%至约70.55美元，盘中一度触及约69美元，为8月初以来最低，过去7天累计下跌约20.7%。美国现货Solana ETF (Spot Solana ETF) 已连续第五天净流出，累计流出约5330万美元；市场情绪极度悲观，恐惧与贪婪指数 (Fear & Greed Index) 降至12。",
+            "en": "Solana fell about 11.6% in 24 hours to roughly $70.55 on Saturday, touching about $69 intraday for its lowest price since early August and a weekly drop of about 20.7%. US spot solana ETFs recorded a fifth consecutive day of outflows, totaling about $53.3 million, while market sentiment stayed deeply bearish with the Fear & Greed Index at 12."
+          },
+          "sources": [
+            {
+              "name": "CoinStats",
+              "url": "https://coinstats.app/ai/a/latest-news-for-solana"
+            },
+            {
+              "name": "TradersUnion",
+              "url": "https://tradersunion.com/news/cryptocurrency-news/show/4243438-solana-drops-6-13percent-today-to/"
+            }
+          ]
+        },
+        {
+          "id": "20261115-05",
+          "category": "ethereum",
+          "time": "2026-11-14T14:33:00Z",
+          "title": {
+            "zh": "以太坊跌破1900美元创7月中旬以来新低，以太坊基金会关联钱包五天售出5000枚ETH",
+            "en": "Ether falls below $1,900 to its lowest since mid-July as an Ethereum Foundation-linked wallet sells 5,000 ETH in five days"
+          },
+          "summary": {
+            "zh": "以太坊周六跌至约1808美元，为7月中旬以来最低，过去7天下跌约15%。与以太坊基金会 (Ethereum Foundation) 关联的钱包在11月10日至14日五天内售出5000枚ETH (约992万美元)，最新一批1000枚ETH通过CoWSwap兑换为USDS稳定币；该钱包仍持有约1万枚ETH。",
+            "en": "Ether fell to about $1,808 on Saturday, its lowest since mid-July and down roughly 15% over seven days. A wallet linked to the Ethereum Foundation sold 5,000 ETH, worth about $9.92 million, over five days from November 10 to 14, with the latest 1,000 ETH tranche swapped for the USDS stablecoin via CoWSwap; the wallet still holds about 10,000 ETH."
+          },
+          "sources": [
+            {
+              "name": "Bitcoin.com News",
+              "url": "https://news.bitcoin.com/market-updates/ethereum-foundation-sells-5000-eth-five-days/"
+            },
+            {
+              "name": "The Coin Republic",
+              "url": "https://www.thecoinrepublic.com/2026/11/14/ethereum-news-eth-whale-dumps-16700-coins-as-two-buyers-add-20146-eth/"
+            }
+          ]
+        },
+        {
+          "id": "20261115-06",
+          "category": "solana",
+          "time": "2026-11-14T12:30:00Z",
+          "title": {
+            "zh": "Pump.fun累计已售出约8.876亿美元SOL，最新一批6.47万枚转入Kraken",
+            "en": "Pump.fun has now sold about $887.6 million in SOL, sending a fresh 64,666 SOL to Kraken"
+          },
+          "summary": {
+            "zh": "Solana迷因币发行平台Pump.fun于11月13日至14日再次向Kraken转入6.47万枚SOL (约519万美元)，其累计售出的SOL达到约562万枚，按平均价格158美元计算约合8.876亿美元。链上分析机构Arkham的数据显示，Pump.fun自2024年初以来一直在将收取的手续费收入兑换为现金；按当前约75美元的价格计算，这些已售SOL如今仅值约4.26亿美元。",
+            "en": "Memecoin launchpad Pump.fun deposited another 64,666 SOL, worth about $5.19 million, into Kraken on November 13–14, taking its cumulative sales to about 5.62 million SOL, worth roughly $887.6 million at an average price of $158. On-chain data from Arkham shows the platform has been converting fee revenue collected in SOL into cash since early 2024; at the current price of about $75, the SOL it sold would be worth only around $426 million."
+          },
+          "sources": [
+            {
+              "name": "Bitcoin.com News",
+              "url": "https://news.bitcoin.com/crypto-news/pump-fun-sold-888m-sol-kraken-deposit/"
+            },
+            {
+              "name": "BloomingBit",
+              "url": "https://en.bloomingbit.io/feed/news/124448"
+            }
+          ]
+        },
+        {
+          "id": "20261115-07",
+          "category": "ethereum",
+          "time": "2026-11-14T12:00:00Z",
+          "title": {
+            "zh": "美国现货以太坊ETF连续第六天净流出，六个交易日合计流出约5.32亿美元",
+            "en": "US spot ether ETFs log a sixth straight day of outflows, totaling about $532 million over six sessions"
+          },
+          "summary": {
+            "zh": "美国现货以太坊ETF (Spot Ether ETF) 在最新交易日净流出7050万美元，为连续第六天净流出，六个交易日累计流出约5.319亿美元。资金持续外流之际，以太坊价格已跌破2000美元关口；周一公布的最新资金流数据将显示这轮流出是否延续。",
+            "en": "US spot ether ETFs recorded $70.5 million in net outflows in the latest session, a sixth consecutive day of redemptions totaling about $531.9 million over six sessions. The sustained outflows come as ether has fallen below the $2,000 level, and Monday's flow data will show whether the streak continues."
+          },
+          "sources": [
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/ethereum-eth-price-falls-below-1900-as-spot-etfs-log-sixth-straight-day-of-outflows/"
+            },
+            {
+              "name": "The Coin Republic",
+              "url": "https://www.thecoinrepublic.com/2026/11/14/ethereum-news-eth-whale-dumps-16700-coins-as-two-buyers-add-20146-eth/"
+            }
+          ]
+        },
+        {
+          "id": "20261115-08",
+          "category": "market",
+          "time": "2026-11-14T10:00:00Z",
+          "title": {
+            "zh": "美国10月PPI同比上涨6.5%创近四年新高，12月加息概率升至约88%",
+            "en": "US October PPI rises 6.5% year over year, the highest in nearly four years, as December hike odds climb to about 88%"
+          },
+          "summary": {
+            "zh": "美国10月生产者价格指数 (Producer Price Index, PPI) 同比上涨6.5%，为2022年11月以来最高，略低于6.6%的预期；数据公布后，市场对美联储 (Federal Reserve) 12月加息25个基点的预期升至约88%。10年期美债收益率 (10-Year Treasury Yield) 升至5.15%，利率走高令包括加密货币在内的风险资产承压。",
+            "en": "US producer prices rose 6.5% year over year in October, the highest reading since November 2022 and just under the 6.6% forecast, pushing market-implied odds of a 25-basis-point Federal Reserve rate hike in December to about 88%. The 10-year Treasury yield climbed to 5.15%, and higher rates are weighing on risk assets including crypto."
+          },
+          "sources": [
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/ethereum-eth-price-falls-below-1900-as-spot-etfs-log-sixth-straight-day-of-outflows/"
+            },
+            {
+              "name": "MyToken",
+              "url": "https://mytoken.io/en/news/607872.html"
+            }
+          ]
+        },
+        {
+          "id": "20261115-09",
+          "category": "tech",
+          "time": "2026-11-10T17:00:00Z",
+          "title": {
+            "zh": "币安警告iOS漏洞worse_query可泄露钱包助记词，最新系统仍未修复",
+            "en": "Binance warns iOS flaw worse_query can expose wallet seed phrases, and the latest update does not fix it"
+          },
+          "summary": {
+            "zh": "币安于11月10日警告，iOS沙箱逃逸漏洞worse_query可让恶意应用读取其他应用的本地文件，可能泄露加密钱包的助记词 (Seed Phrase)、私钥与登录凭证；受影响版本包括iOS 26.7.1、27.0.1与27.2。研究人员于11月8日公开了概念验证代码 (Proof of Concept)，并表示iOS 27.2.1与27.3测试版仍未修复该漏洞；目前尚无与该漏洞相关的盗窃报告。",
+            "en": "Binance warned on November 10 that worse_query, an iOS sandbox escape, can let a malicious app read other apps' local files, potentially exposing crypto wallet seed phrases, private keys and login credentials on iOS 26.7.1, 27.0.1 and 27.2. Researchers published proof-of-concept code on November 8 and say the flaw remains unpatched in iOS 27.2.1 and the iOS 27.3 beta; no thefts tied to the flaw have been reported."
+          },
+          "sources": [
+            {
+              "name": "Bitcoin Magazine",
+              "url": "https://bitcoinmagazine.com/news/binance-warns-ios-flaw-wallet-seed-phrases"
+            },
+            {
+              "name": "CyberInsider",
+              "url": "https://cyberinsider.com/binance-ios-worse-query-sandbox-escape-crypto-wallet-secrets/"
+            }
+          ]
+        },
+        {
+          "id": "20261115-10",
+          "category": "regulation",
+          "time": "2026-11-09T16:00:00Z",
+          "title": {
+            "zh": "Coinbase获美国货币监理署最终批准，设立联邦特许国民信托公司",
+            "en": "Coinbase wins final OCC approval to operate a federally chartered national trust company"
+          },
+          "summary": {
+            "zh": "Coinbase于11月9日宣布，美国货币监理署 (Office of the Comptroller of the Currency, OCC) 已最终批准设立Coinbase National Trust Company，特许于11月6日生效；公司计划在三年内将现有托管业务迁入该联邦信托公司。获得特许并不意味着Coinbase成为传统商业银行：该信托公司不接受普通存款、不发放贷款、也不发行稳定币，且前三年须持有至少6000万美元一级资本 (Tier 1 Capital)。",
+            "en": "Coinbase announced on November 9 that the Office of the Comptroller of the Currency has given final approval for Coinbase National Trust Company, with the charter effective November 6, and plans to move its existing custody business into the federal trust company over three years. The charter does not make Coinbase a traditional bank: the trust cannot accept ordinary deposits, make loans or issue stablecoins, and must hold at least $60 million in Tier 1 capital for its first three years."
+          },
+          "sources": [
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/coinbase-occ-charter-custody-migration/"
+            },
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/coinbase-wins-final-occ-approval-to-charter-a-national-trust-company-for-crypto-custody/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-14",
       "items": [
         {
@@ -2893,219 +3128,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-25",
-      "items": [
-        {
-          "id": "20261025-01",
-          "category": "tech",
-          "time": "2026-10-24T20:27:59Z",
-          "title": {
-            "zh": "硬件钱包厂商Keystone披露官网数据泄露，助记词与私钥未受影响",
-            "en": "Keystone discloses website data breach; seed phrases and private keys unaffected"
-          },
-          "summary": {
-            "zh": "硬件钱包厂商Keystone于10月24日披露，其官网在10月20日遭到未授权访问，经与Shopify核查应用程序接口（Application Programming Interface, API）活动后于10月23日确认，第三方获取了客户姓名、联系方式、收货地址及订单详情。公司表示支付卡与银行信息、助记词（Seed Phrase）、私钥（Private Key）及钱包密码均未泄露，已封堵访问入口、修复漏洞并开始邮件通知受影响客户。Keystone同时警告，用户须警惕冒充官方索要退款或换机、诱导透露助记词的诈骗。",
-            "en": "Hardware wallet maker Keystone disclosed on October 24 that unauthorized access to its official website on October 20 exposed customer names, contact details, shipping addresses and order details, confirmed on October 23 after reviewing Shopify API activity. The company said payment card and bank details, seed phrases, private keys and wallet passwords were not compromised, and that it has blocked the access, fixed the vulnerability and begun emailing affected customers. Keystone warned users to watch for impostors offering refunds or replacement devices to trick them into revealing recovery phrases."
-          },
-          "sources": [
-            {
-              "name": "CryptoBriefing",
-              "url": "https://cryptobriefing.com/keystone-data-breach-exposed-2026/"
-            },
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/technology/40311"
-            }
-          ]
-        },
-        {
-          "id": "20261025-02",
-          "category": "ethereum",
-          "time": "2026-10-24T17:35:00Z",
-          "title": {
-            "zh": "以太坊质押量创纪录达4380万枚，占供应量约36%，收益率降至2.63%",
-            "en": "Ethereum staking hits record 43.8M ETH, about 36% of supply, as yield slips to 2.63%"
-          },
-          "summary": {
-            "zh": "Bitwise首份质押报告显示，以太坊质押量已达约4380万枚ETH，占总供应量近36%，创历史新高，第三季度新增质押近200万枚，机构通过质押型交易所交易产品（Exchange-Traded Product, ETP）与企业财库持续加仓。尽管年化质押收益率已从2.81%降至2.63%，仍有约138万枚ETH排队等待进入质押，预估等待时间超过24天。报告指出，随着质押比例逼近50%，EIP-8361等调整发行机制的提案值得关注。",
-            "en": "Bitwise's first staking report shows about 43.8 million ETH, nearly 36% of supply, now staked on Ethereum, a record, with almost 2 million ETH added in the third quarter as institutions contributed through staking ETPs and corporate treasuries. Although the annualized staking yield has fallen from 2.81% to 2.63%, about 1.38 million ETH remains queued to enter staking, with an estimated wait of more than 24 days. The report flags proposals such as EIP-8361 to adjust issuance as the staking ratio approaches 50%."
-          },
-          "sources": [
-            {
-              "name": "CryptoCoinShow",
-              "url": "https://cryptocoinshow.com/bitwise-finds-40-2-million-eth-staked-as-institutions-add-stake-despite-falling-prices/"
-            },
-            {
-              "name": "BBX",
-              "url": "https://bbx.com/news-detail/3149044"
-            }
-          ]
-        },
-        {
-          "id": "20261025-03",
-          "category": "market",
-          "time": "2026-10-24T12:39:00Z",
-          "title": {
-            "zh": "比特币周六回落至约80400美元，重回9月水平",
-            "en": "Bitcoin slips back toward $80,400 on Saturday, returning to September levels"
-          },
-          "summary": {
-            "zh": "比特币在10月24日周六回落至约80400美元附近，较24小时前下跌约1%，回到了9月以来首次跌破的80000美元关口附近，此前一周内冲高至近85000美元后未能守住涨幅。本轮回调伴随美国现货比特币交易所交易基金（Spot ETF）的资金流出，周四单日净流出逾6.35亿美元，几乎追平截至10月9日当周的总流出额。市场情绪转弱之际，交易员正关注下周美联储政策会议带来的下一步信号。",
-            "en": "Bitcoin fell to about $80,400 on Saturday, October 24, down roughly 1% over 24 hours and back near the $80,000 level it last traded in September, after failing to hold a rally toward $85,000 earlier in the week. The pullback came alongside outflows from U.S. spot Bitcoin ETFs, which lost more than $635 million on Thursday alone, nearly matching the total outflow for the week ended October 9. With sentiment weakening, traders are watching next week's Federal Reserve policy meeting for the next signal."
-          },
-          "sources": [
-            {
-              "name": "Stocktwits",
-              "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-etfs-see-635-m-outflow-in-a-day-as-btc-slips-back-to-september-levels/cZUGVn9RBU0"
-            },
-            {
-              "name": "HokaNews",
-              "url": "https://www.hokanews.com/2026/10/bitcoin-price-falls-toward-80000-as-xrp.html"
-            }
-          ]
-        },
-        {
-          "id": "20261025-04",
-          "category": "regulation",
-          "time": "2026-10-24T12:01:00Z",
-          "title": {
-            "zh": "汇丰港元稳定币RedCoin登陆PayMe，首批覆盖330万用户",
-            "en": "HSBC's Hong Kong dollar stablecoin RedCoin rolls out on PayMe to 3.3 million users"
-          },
-          "summary": {
-            "zh": "汇丰银行于10月23日开始向香港支付应用PayMe的逾330万用户分阶段推出首款港元稳定币RedCoin（RCHKD），首阶段支持用户间转账及在逾10万家商户付款，并承诺按1比1兑换港元。RedCoin在香港《稳定币条例》框架下发行，由汇丰持有的稳定币发行人牌照（FRS02）覆盖，储备为隔离的高质量流动资产，且本身不支付利息。汇丰计划在2026年底前将该代币接入香港汇丰流动理财应用，用于认购代币化投资产品，起投额低至100港元。",
-            "en": "HSBC began rolling out RedCoin (RCHKD), its first Hong Kong dollar stablecoin, to more than 3.3 million PayMe users in Hong Kong on October 23, with the first phase covering peer-to-peer transfers and payments at over 100,000 merchants and one-to-one redemption in Hong Kong dollars. Issued under Hong Kong's Stablecoins Ordinance under HSBC's issuer licence FRS02, RedCoin is backed by segregated, high-quality liquid assets and pays no interest. HSBC plans to bring the token into its Hong Kong mobile banking app by the end of 2026 for tokenized investment subscriptions starting at HK$100."
-          },
-          "sources": [
-            {
-              "name": "GNcrypto",
-              "url": "https://www.gncrypto.news/news/hsbc-hong-kong-dollar-stablecoin-redcoin-payme-users/"
-            },
-            {
-              "name": "PYMNTS",
-              "url": "https://www.pymnts.com/blockchain/2026/hsbc-launches-hong-kong-dollar-stablecoin-for-everyday-payments/"
-            }
-          ]
-        },
-        {
-          "id": "20261025-05",
-          "category": "market",
-          "time": "2026-10-24T11:00:00Z",
-          "title": {
-            "zh": "加密ETF一周收绿：比特币基金净流入约3.09亿美元，以太坊基金流出2.21亿美元",
-            "en": "Crypto ETFs end week in green as Bitcoin funds gain about $309M and Ether funds lose $221M"
-          },
-          "summary": {
-            "zh": "尽管周五合计净流出1.3254亿美元，美国加密交易所交易基金（ETF）一周仍以8764万美元净流入收官，扭转了此前一周6.009亿美元净流出的局面。本周比特币基金净流入约3.09亿美元，其中贝莱德IBIT一周吸金5.6567亿美元，而以太坊基金则净流出2.2066亿美元，贝莱德ETHA流出2.3319亿美元。资金在周内剧烈摇摆：周一至周三合计流入后，周四单日流出7.4495亿美元，凸显机构需求仍不稳定。",
-            "en": "U.S. crypto ETFs ended the week $87.64 million in net inflows despite $132.54 million of outflows on Friday, reversing the previous week's $600.9 million net outflow. Bitcoin funds drew about $309 million over the week, with BlackRock's IBIT attracting $565.67 million, while Ethereum funds lost $220.66 million, including $233.19 million from BlackRock's ETHA. Flows swung sharply during the week, with strong inflows Monday through Wednesday followed by $744.95 million in outflows on Thursday, underscoring still-unstable institutional demand."
-          },
-          "sources": [
-            {
-              "name": "CoinEdition",
-              "url": "https://coinedition.com/crypto-etfs-end-week-in-green-as-bitcoin-gains-and-ether-outflows-rise/"
-            },
-            {
-              "name": "CryptoDesk",
-              "url": "https://cryptodesk.fr/en/posts/bitcoin-etf-weekly-inflows-reversal-fed-october-2026"
-            }
-          ]
-        },
-        {
-          "id": "20261025-06",
-          "category": "tech",
-          "time": "2026-10-23T15:41:30Z",
-          "title": {
-            "zh": "Initia遭无抵押增发攻击损失约270万美元，L1与Rollup全网暂停",
-            "en": "Initia halts L1 and rollups after unauthorized minting exploit drains about $2.7M"
-          },
-          "summary": {
-            "zh": "模块化公链Initia于10月23日15时41分（协调世界时，UTC）暂停其一层网络（Layer 1, L1）及关联Rollup，此前攻击者利用Move虚拟机（MoveVM）漏洞无抵押增发代币并通过跨链桥转移资产，初步估计损失约270万美元。据安全研究机构D2 Finance分析，攻击者增发了约200万枚无抵押的AUSD，并跨链提取约140万枚AUSD、105枚ETH及108万枚USDC，最终整合为约1135.5枚ETH。Initia表示正与安全研究人员、验证者及交易所合作评估影响，重启时间尚未公布。",
-            "en": "Modular blockchain Initia halted its layer-1 network and connected rollups at 15:41 UTC on October 23 after an attacker exploited a MoveVM flaw to mint tokens without backing and move assets across bridges, with preliminary losses estimated at about $2.7 million. Security firm D2 Finance reported the attacker minted about 2 million unbacked AUSD and withdrew roughly 1.4 million AUSD, 105 ETH and 1.08 million USDC to Ethereum, consolidating them into about 1,135.5 ETH. Initia said it is working with security researchers, validators and exchanges to assess the impact, with no restart timeline announced."
-          },
-          "sources": [
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained"
-            },
-            {
-              "name": "Forklog",
-              "url": "https://forklog.com/en/hacker-steals-2-7-million-from-initia-blockchain/"
-            }
-          ]
-        },
-        {
-          "id": "20261025-07",
-          "category": "solana",
-          "time": "2026-10-22T12:00:00Z",
-          "title": {
-            "zh": "Solana提出Quantumglow抗量子方案，为Alpenglow共识抵御未来量子攻击",
-            "en": "Solana pitches Quantumglow to shield Alpenglow consensus from future quantum attacks"
-          },
-          "summary": {
-            "zh": "Solana开发者于10月22日介绍了Quantumglow方案，这是一项针对Alpenglow共识机制的抗量子（Post-Quantum）改造设想，旨在抵御量子计算对验证者签名的潜在威胁，同时保留约150毫秒的快速最终性。该方案基于Anza于7月30日发表的研究，核心包括基于哈希的Ax（Alpenglow XMSS）签名方案与分布式 quorum 签名设计，验证者将预先交换并缓存一次性公钥材料以降低通信开销。开发者强调，Quantumglow目前仅为研究提案，尚未公布实施时间表，也未对应专门的Solana改进提案（Solana Improvement Document, SIMD）。",
-            "en": "Solana developers presented Quantumglow on October 22, a proposed post-quantum adaptation of the Alpenglow consensus mechanism designed to protect validator signatures against future quantum computing threats while preserving roughly 150-millisecond finality. Based on research Anza published on July 30, the design centers on the hash-based Ax (Alpenglow XMSS) signature scheme and a distributed quorum signature design, with validators pre-exchanging and caching one-time public-key material to reduce communication overhead. Developers stressed Quantumglow is only a research proposal, with no implementation timeline and no dedicated Solana Improvement Document (SIMD) announced."
-          },
-          "sources": [
-            {
-              "name": "Crypto.news",
-              "url": "https://crypto.news/solana-quantumglow-alpenglow-post-quantum-consensus/"
-            },
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/technology/39166"
-            }
-          ]
-        },
-        {
-          "id": "20261025-08",
-          "category": "regulation",
-          "time": "2026-10-22T10:00:00Z",
-          "title": {
-            "zh": "SEC加密资产新规征求意见截止后，银行与行业团体立场分裂",
-            "en": "Banks and industry groups split over SEC crypto rules as comment window closes"
-          },
-          "summary": {
-            "zh": "美国证券交易委员会（Securities and Exchange Commission, SEC）拟议的《加密资产监管条例》（Regulation Crypto Assets）征求意见期于10月20日截止，暴露出行业与银行业之间的明显分歧。该提案允许符合条件的加密项目在四年内融资最高500万美元或每年最高7500万美元而无需注册，区块链协会（Blockchain Association）则呼吁将上限提高至1000万美元与1.5亿美元，并明确代币何时不再属于投资合同。银行业团体则警告，更宽松的发行规则可能加速稳定币采用并分流存款，对金融稳定构成风险。",
-            "en": "The comment period for the U.S. Securities and Exchange Commission's proposed Regulation Crypto Assets closed on October 20, exposing a sharp split between the crypto industry and banks. The proposal would let qualifying crypto projects raise up to $5 million over four years or $75 million annually without registering their offerings, while the Blockchain Association urged raising the caps to $10 million and $150 million and clarifying when tokens cease to be investment contracts. Banking groups warned that easier issuance could accelerate stablecoin adoption and drain deposits, posing financial-stability risks."
-          },
-          "sources": [
-            {
-              "name": "CryptosBank",
-              "url": "https://cryptosbank.in/2026/10/22/sec-75m-crypto-fundraising-plan-draws-bank-backlash/"
-            },
-            {
-              "name": "KuCoin",
-              "url": "https://www.kucoin.com/news/flash/blockchain-association-proposes-major-revisions-to-sec-crypto-rules"
-            }
-          ]
-        },
-        {
-          "id": "20261025-09",
-          "category": "bitcoin",
-          "time": "2026-10-20T08:15:00Z",
-          "title": {
-            "zh": "贝莱德申请第三只比特币ETF PBIT，以期权换取约10%的下跌缓冲",
-            "en": "BlackRock files for third Bitcoin ETF PBIT, trading capped upside for about 10% downside cushion"
-          },
-          "summary": {
-            "zh": "贝莱德于10月19日向美国证券交易委员会（SEC）提交了iShares比特币管理保护ETF（iShares Bitcoin Managed Protection ETF，代码PBIT）的初步招募说明书，这是其第三只比特币相关ETF。该基金不直接持有比特币或比特币交易所交易产品（ETP），而是通过与IBIT挂钩的期权组合获取敞口：三档交错的看涨期权价差（Call Spread）各以约90%的参考价作为保护起点，目标是在支付费用前缓冲约10%的下跌，同时以卖出高行权价看涨期权换取成本并封顶上涨收益。PBIT尚未生效交易，管理费、上市交易所及发行日期均未披露。",
-            "en": "BlackRock filed a preliminary prospectus with the U.S. Securities and Exchange Commission on October 19 for the iShares Bitcoin Managed Protection ETF (ticker PBIT), its third Bitcoin-linked ETF. The fund would not hold bitcoin or bitcoin ETPs directly, instead gaining exposure through options tied to IBIT: three overlapping call-spread tranches, each starting protection at about 90% of the reference value to cushion roughly 10% of declines before fees, while sold higher-strike calls fund the protection and cap upside. PBIT is not yet effective for trading, with its fee, listing exchange and launch date undisclosed."
-          },
-          "sources": [
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/blackrock-files-for-bitcoin-etf-that-trades-capped-gains-for-a-10-loss-floor/"
-            },
-            {
-              "name": "Stocktwits",
-              "url": "https://stocktwits.com/news-articles/markets/equity/bitcoin-exposure-with-less-downside-risk-blackrock-new-etf/cZxqUdsRBux"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-14"
+  "updated": "2026-11-15"
 }
