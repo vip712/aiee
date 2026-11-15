@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-11-16",
+      "items": [
+        {
+          "id": "20261116-01",
+          "category": "market",
+          "time": "2026-11-15T20:48:44Z",
+          "title": {
+            "zh": "比特币跌至62080美元四个月低点，24小时爆仓近20亿美元，恐慌指数跌至10",
+            "en": "Bitcoin falls to $62,080, a four-month low, as nearly $2 billion is liquidated in 24 hours and fear hits extreme levels"
+          },
+          "summary": {
+            "zh": "比特币周末跌至约62080美元，创7月以来最低，随后反弹至65000美元上方；过去10天加密货币总市值蒸发约5710亿美元。CoinGlass数据显示，24小时内约19.5亿美元杠杆仓位被强制平仓，其中多头（Long）占约16.7亿美元。加密货币恐惧与贪婪指数（Crypto Fear & Greed Index）跌至10，进入极度恐慌（Extreme Fear）区间。",
+            "en": "Bitcoin fell to about $62,080 over the weekend, its lowest since July, before recovering above $65,000, while the total crypto market capitalization has shed roughly $571 billion in ten days. CoinGlass data shows about $1.95 billion in leveraged positions was liquidated in 24 hours, with longs accounting for roughly $1.67 billion. The Crypto Fear & Greed Index dropped to 10, deep in extreme fear territory."
+          },
+          "sources": [
+            {
+              "name": "Bitcoinist",
+              "url": "https://bitcoinist.com/bitcoin-breaks-below-63k-as-market-panic-intensifies/"
+            },
+            {
+              "name": "ForkLog",
+              "url": "https://forklog.com/en/bitcoin-falls-below-63000-hitting-three-month-low/"
+            }
+          ]
+        },
+        {
+          "id": "20261116-02",
+          "category": "solana",
+          "time": "2026-11-15T18:02:23Z",
+          "title": {
+            "zh": "Solana跌至67.37美元盘中低点，Breakpoint 2026在伦敦开幕",
+            "en": "Solana drops to $67.37 intraday low as Breakpoint 2026 opens in London"
+          },
+          "summary": {
+            "zh": "Solana周末一度跌至67.37美元，周跌幅约20%，随后回升至71美元附近；24小时内约6900万至9000万美元的SOL期货仓位被清算，其中多头（Long）占绝大部分。下跌恰逢Solana Breakpoint 2026大会于11月15日至17日在伦敦开幕，议题涵盖机构代币化（Tokenization）、稳定币（Stablecoin）与支付。尽管价格承压，Solana网络状态页面显示主网运行正常。",
+            "en": "Solana fell as low as $67.37 over the weekend, a weekly decline of about 20%, before recovering toward $71. Roughly $69 million to $90 million in SOL futures positions were liquidated in 24 hours, mostly longs. The slide coincides with Solana Breakpoint 2026, running November 15-17 in London with a focus on institutional tokenization, stablecoins and payments, while the network's status page shows mainnet operating normally."
+          },
+          "sources": [
+            {
+              "name": "The Coin Republic",
+              "url": "https://www.thecoinrepublic.com/2026/11/15/solana-price-falls-19-as-whale-deposits-raise-selling-fears/"
+            },
+            {
+              "name": "CryptoNews",
+              "url": "https://cryptonews.net/news/analytics/33753622/"
+            }
+          ]
+        },
+        {
+          "id": "20261116-03",
+          "category": "bitcoin",
+          "time": "2026-11-15T16:26:00Z",
+          "title": {
+            "zh": "比特币反弹至65000美元上方，美国现货比特币ETF两周净流出23.5亿美元",
+            "en": "Bitcoin rebounds above $65,000 as US spot bitcoin ETFs record $2.35 billion in outflows over two weeks"
+          },
+          "summary": {
+            "zh": "比特币在触及约62000美元后反弹至约65500美元，但一周跌幅仍接近15%。美国现货比特币ETF（Spot Bitcoin ETF）连续七个交易日净流出，两周合计流出约23.5亿美元；贝莱德（BlackRock）的IBIT已连续11个交易日流出。市场关注周一公布的ETF资金流数据，以判断机构赎回是否放缓。",
+            "en": "Bitcoin recovered to about $65,500 after touching roughly $62,000, though it remains nearly 15% lower on the week. US spot bitcoin ETFs have now seen seven straight sessions of outflows, totaling about $2.35 billion over two weeks, with BlackRock's IBIT logging its 11th consecutive session of redemptions. Traders are watching Monday's ETF flow data for signs of whether institutional redemptions are easing."
+          },
+          "sources": [
+            {
+              "name": "CryptoNews",
+              "url": "https://cryptonews.net/news/bitcoin/33754946/"
+            },
+            {
+              "name": "FinanceFeeds",
+              "url": "https://financefeeds.com/bitcoin-plunges-below-63000-ether-loses-19-5-and-solana-drops-20-7/"
+            }
+          ]
+        },
+        {
+          "id": "20261116-04",
+          "category": "ethereum",
+          "time": "2026-11-15T14:01:02Z",
+          "title": {
+            "zh": "以太坊跌破1800美元，币安ETH储备降至近五年低点",
+            "en": "Ether falls below $1,800 as Binance ETH reserves hit a near five-year low"
+          },
+          "summary": {
+            "zh": "以太坊周末一度跌至约1713美元，周跌幅约19.5%，随后回升至1830美元附近。CryptoQuant数据显示，币安（Binance）的ETH储备降至约290万枚，为近五年最低，较2025年7月的逾500万枚下降约42%。美国现货以太坊ETF（Spot Ether ETF）当周净流出约3.99亿美元，但周五录得230万美元小幅净流入，结束了连续六个交易日的流出。",
+            "en": "Ether fell as low as about $1,713 over the weekend, a weekly decline of roughly 19.5%, before recovering to near $1,830. CryptoQuant data shows Binance's ETH reserves have dropped to about 2.9 million, their lowest in nearly five years and down about 42% from more than 5 million in July 2025. US spot ether ETFs lost about $398.9 million for the week, though a modest $2.3 million inflow on Friday ended a six-day outflow streak."
+          },
+          "sources": [
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days"
+            },
+            {
+              "name": "Finwire",
+              "url": "https://finwire.io/news/crypto-news/ethereum-reserves-on-binance-hit-five-year-low-as-eth-price-falls"
+            }
+          ]
+        },
+        {
+          "id": "20261116-05",
+          "category": "regulation",
+          "time": "2026-11-13T10:16:04Z",
+          "title": {
+            "zh": "泰国SEC拟对稳定币转账设每日500万泰铢上限，征求意见至11月26日",
+            "en": "Thailand's SEC proposes a daily 5 million baht cap on stablecoin transfers, with comments open until November 26"
+          },
+          "summary": {
+            "zh": "泰国证券交易委员会（SEC）发布草案，拟将每位客户在每个持牌运营商处的稳定币存取上限设为每日500万泰铢（约14.8万美元），存入与取出分别计算。草案还要求稳定币只能在同一人持有名下的账户或钱包之间转移，旨在打击洗钱（Money Laundering）、网络犯罪与规避跨境汇款规则的行为。草案目前公开征求意见，截止日期为11月26日，尚未生效。",
+            "en": "Thailand's Securities and Exchange Commission has published a draft that would cap each customer's stablecoin deposits and withdrawals at 5 million baht (about $148,000) per day per licensed operator, with the limit applied separately in each direction. The draft would also require stablecoins to move only between accounts or wallets belonging to the same person, aiming to combat money laundering, cybercrime and evasion of cross-border transfer rules. The proposal is open for public comment until November 26 and is not yet in force."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676"
+            },
+            {
+              "name": "Blockonomi",
+              "url": "https://blockonomi.com/thailands-sec-proposes-daily-stablecoin-cap-of-5-million-baht-for-crypto-users/"
+            }
+          ]
+        },
+        {
+          "id": "20261116-06",
+          "category": "solana",
+          "time": "2026-11-12T08:26:14Z",
+          "title": {
+            "zh": "ZetaChain治理投票通过，12月9日关闭L1并将ZETA迁移至Solana",
+            "en": "ZetaChain governance approves shutdown of its L1 on December 9 and migration of ZETA to Solana"
+          },
+          "summary": {
+            "zh": "ZetaChain社区以逾99.99%的支持率、83%的投票率通过治理提案2，决定于约12月9日在区块高度20,755,000停止其Layer 1网络出块，ZETA将按1:1兑换为Solana上的SPL代币。约5500万枚未分配的验证者奖励ZETA将在2027年内分月销毁，总供应量将降至20.45亿枚；ZetaChain的AI产品ZetaLabs也将于12月9日上线。此前9月20日通过的提案68已确立迁移的基本方针。",
+            "en": "ZetaChain holders have approved Governance Proposal 2 with more than 99.99% support and 83% turnout, deciding to halt block production on its layer-1 network at block height 20,755,000 around December 9, with ZETA migrating 1:1 to a Solana SPL token. About 55 million undistributed validator-reward ZETA will be burned monthly through 2027, cutting total supply to 2.045 billion, and ZetaChain's AI product ZetaLabs launches the same day. An earlier proposal passed on September 20 had already set the migration's basic direction."
+          },
+          "sources": [
+            {
+              "name": "Odaily",
+              "url": "https://www.odaily.com.cn/en/post/5213885"
+            },
+            {
+              "name": "CryptoNews",
+              "url": "https://cryptonews.net/news/altcoins/33722300/"
+            }
+          ]
+        },
+        {
+          "id": "20261116-07",
+          "category": "tech",
+          "time": "2026-11-10T12:00:00Z",
+          "title": {
+            "zh": "币安与Polymarket提议Polygon硬分叉，追回约7049万枚被盗POL",
+            "en": "Binance and Polymarket propose a Polygon hard fork to recover about 70.49 million stolen POL"
+          },
+          "summary": {
+            "zh": "币安（Binance）与Polymarket联合提议对Polygon PoS网络进行一次性硬分叉（Hard Fork），将5个攻击者地址中约7049万枚POL（约650万至680万美元）转移至经核实的追回钱包，其中约4663万枚与币安事件相关、约2386万枚与Polymarket事件相关。提案不改变POL总供应量，但目前尚未获批，仍需治理批准、Amoy测试网测试与验证者协调。Polygon出块方已临时冻结相关地址的交易，但该限制不足以返还资金。",
+            "en": "Binance and Polymarket have jointly proposed a one-time hard fork of the Polygon PoS network to move about 70.49 million POL (roughly $6.5-6.8 million) from five attacker-controlled addresses to verified recovery wallets — about 46.63 million POL tied to the Binance incident and 23.86 million to Polymarket. The proposal would not change POL's total supply, but it has not been approved and still needs governance approval, testing on the Amoy testnet and validator coordination. Polygon block producers have temporarily blocked transactions from the affected addresses, a restriction that alone cannot return the funds."
+          },
+          "sources": [
+            {
+              "name": "CoinsNews",
+              "url": "https://coinsnews.com/binance-polymarket-seek-polygon-hard-fork-to-recover-68m-in-stolen-crypto"
+            },
+            {
+              "name": "Gate",
+              "url": "https://www.gate.com/learn/articles/blockchain-hard-fork-asset-recovery"
+            }
+          ]
+        },
+        {
+          "id": "20261116-08",
+          "category": "ethereum",
+          "time": "2026-11-08T06:07:54Z",
+          "title": {
+            "zh": "以太坊Glamsterdam升级Hoodi测试网部署暂停，审计发现8处Gas计量问题",
+            "en": "Ethereum pauses Glamsterdam deployment on Hoodi testnet after audit flags eight gas-accounting issues"
+          },
+          "summary": {
+            "zh": "以太坊基金会（Ethereum Foundation）宣布暂停Glamsterdam升级在Hoodi测试网（Testnet）的部署，此前ChainSecurity的审计发现与EIP-8037和EIP-8038相关的8处Gas计量不变量（Gas Accounting Invariant）被破坏。基金会已开设审计仓库，帮助合约开发者对照新规则验证应用逻辑，同时后续Hegota升级的工程工作继续推进。Glamsterdam此前已于10月6日在Sepolia测试网激活，原定10月26日部署至Hoodi。",
+            "en": "The Ethereum Foundation has paused deployment of the Glamsterdam upgrade on the Hoodi testnet after an audit by ChainSecurity identified eight breaks in gas-accounting invariants tied to EIP-8037 and EIP-8038. The Foundation has opened an auditing repository to help contract authors verify their application logic against the new rules, while engineering on the subsequent Hegota upgrade continues. Glamsterdam had activated on the Sepolia testnet on October 6 and was scheduled for Hoodi on October 26."
+          },
+          "sources": [
+            {
+              "name": "Boutlet",
+              "url": "https://www.boutlet.io/posts/cmw79he4x0d3110mqnqk092kv"
+            },
+            {
+              "name": "OriginBrief",
+              "url": "https://www.originbrief.app/en/reports/crypto-web3/2026-11-01/monthly"
+            }
+          ]
+        },
+        {
+          "id": "20261116-09",
+          "category": "regulation",
+          "time": "2026-11-04T20:19:26Z",
+          "title": {
+            "zh": "民主党赢得国会两院，CLARITY法案须在2027年1月3日前通过否则重头再来",
+            "en": "Democrats win both chambers of Congress, leaving the CLARITY Act until January 3, 2027 or it must start over"
+          },
+          "summary": {
+            "zh": "民主党在11月3日中期选举中赢得众议院与参议院控制权，新一届国会将于2027年1月就职。加密市场结构法案CLARITY法案（CLARITY Act）今年9月15日在参议院以49比50未能启动辩论，若未能在2027年1月3日本届国会结束前通过，法案将失效并须在新一届国会重新提出。伊丽莎白·沃伦（Elizabeth Warren）有望出任参议院银行委员会主席；已立法的稳定币法案GENIUS法案（GENIUS Act）不受影响，将于2027年1月18日生效。",
+            "en": "Democrats won control of both the House and Senate in the November 3 midterm elections, with the new Congress seated in January 2027. The CLARITY Act, the crypto market-structure bill, failed a Senate procedural vote 49-50 on September 15 and will die if it does not pass by January 3, 2027, when the current Congress ends, forcing it to be reintroduced from scratch. Elizabeth Warren is in line to chair the Senate Banking Committee, while the already-enacted GENIUS stablecoin law is unaffected and takes effect on January 18, 2027."
+          },
+          "sources": [
+            {
+              "name": "TheStreet",
+              "url": "https://www.thestreet.com/crypto/policy/midterm-results-leave-the-clarity-act-racing-the-clock"
+            },
+            {
+              "name": "Payment Expert",
+              "url": "https://paymentexpert.com/2026/11/04/clarity-act-democrat-congress-crypto/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "items": [
         {
@@ -2939,196 +3151,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-26",
-      "items": [
-        {
-          "id": "20261026-01",
-          "category": "tech",
-          "time": "2026-10-25T19:55:00Z",
-          "title": {
-            "zh": "Initia公布被盗根因：MoveVM脚本缓存漏洞，USDC跨链储备一度仅剩63美元",
-            "en": "Initia names MoveVM script-caching bug as exploit root cause; USDC bridge reserve fell to $63"
-          },
-          "summary": {
-            "zh": "Initia在10月24日的更新中将10月23日的攻击归因于MoveVM脚本缓存（Script Caching）漏洞，攻击者借此绕过安全检查、伪造虚拟机状态，凭空记入无抵押的WETH、iUSD与USDC余额，并通过跨链桥转出约270万美元资产。链上分析显示，USDC跨链储备在攻击期间从约100万美元骤降至63美元，导致普通用户的赎回接连失败；截至10月24日，Initia主网与Rollup仍处于停摆，修复与审计尚需数日，重启时间与赔付方案均未公布。",
-            "en": "Initia's October 24 update attributed the October 23 attack to a MoveVM script-caching bug that let the attacker bypass security checks and spoof virtual-machine state, crediting itself with unbacked WETH, iUSD and USDC balances and bridging out about $2.7 million. On-chain analysis showed the USDC bridge reserve plunging from about $1 million to $63 during the attack, causing ordinary withdrawal attempts to fail. As of October 24, Initia's mainnet and rollups remained halted, with a fix and audit still days away and no restart date or compensation plan announced."
-          },
-          "sources": [
-            {
-              "name": "Spendnode",
-              "url": "https://www.spendnode.io/blog/initia-bridge-exploit-usdc-reserve-drained-october-2026/"
-            },
-            {
-              "name": "ProCoinNews",
-              "url": "https://procoinnews.com/initia-movevm-exploit-usdc-bridge-reserve-63/"
-            }
-          ]
-        },
-        {
-          "id": "20261026-02",
-          "category": "market",
-          "time": "2026-10-25T10:00:00Z",
-          "title": {
-            "zh": "比特币周末一度跌破8万美元，逾4亿美元多头仓位遭清算，随后回升至8.05万美元附近",
-            "en": "Bitcoin briefly fell below $80,000 over the weekend, liquidating over $400M in longs, then recovered near $80,500"
-          },
-          "summary": {
-            "zh": "受中东地缘紧张消息影响，比特币在10月24日（周六）一度跌破8万美元，触及约79280美元的一个多月低点，短短四小时内逾4亿美元杠杆多头仓位（Long Positions）被清算。美国现货ETF（Spot ETF）在周四与周五合计净流出约7.735亿美元，投资者要到周一才能在ETF市场操作。比特币在10月25日（周日）回升至约80500美元附近，仍处于一个多月来的低位区间，加密恐惧与贪婪指数（Crypto Fear & Greed Index）为40，处于“恐惧”区域。",
-            "en": "Amid reports of Middle East tensions, Bitcoin briefly fell below $80,000 on Saturday, October 24, touching a more-than-one-month low near $79,280, with over $400 million in leveraged long positions liquidated within four hours. US spot ETFs recorded combined net outflows of about $773.5 million on Thursday and Friday, leaving ETF investors unable to trade until Monday. Bitcoin recovered to around $80,500 on Sunday, October 25, still near its weakest levels in over a month, while the Crypto Fear & Greed Index sat at 40, in 'Fear' territory."
-          },
-          "sources": [
-            {
-              "name": "Stocktwits",
-              "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-slips-below-80-k-as-peter-schiff-warns-of-very-long-weekend-for-btc-investors-mike-mc-glone-says-don-t-fight-the-fed/cZUcY1JRBUm"
-            },
-            {
-              "name": "MediaPavilion",
-              "url": "https://www.mediapavilion.net/bitcoin-below-80000-liquidations/"
-            }
-          ]
-        },
-        {
-          "id": "20261026-03",
-          "category": "regulation",
-          "time": "2026-10-24T07:00:00Z",
-          "title": {
-            "zh": "Kraken撤回门罗币用户问卷，联合CEO确认XMR继续上架",
-            "en": "Kraken withdraws Monero customer questionnaires; co-CEO confirms XMR stays listed"
-          },
-          "summary": {
-            "zh": "Kraken联合首席执行官Arjun Sethi于10月23日表示，交易所此前向部分门罗币（Monero, XMR）用户发送的问卷是错误的，现已撤回，受影响客户无需回复。问卷曾要求用户提供雇主信息、资金来源以及提币后的用途，Sethi称没有任何规则要求这些信息，资金来源是合理的合规问题，但用户提币后的用途不在交易所的监管范围之内。Kraken同时确认XMR继续上架、可正常交易与提币，但欧洲经济区、英国、加拿大与澳大利亚等地的原有交易限制不变。",
-            "en": "Kraken co-CEO Arjun Sethi said on October 23 that questionnaires previously sent to some Monero (XMR) customers were a mistake and have been withdrawn, with affected clients told nothing is required of them. The emails had asked for employer details, the source of funds and what customers planned to do with withdrawn coins; Sethi said no rule required the questions, arguing that the source of funds is a fair compliance question but post-withdrawal use is not the exchange's concern. Kraken confirmed XMR stays listed and available for trading and withdrawal, while existing restrictions in the European Economic Area, the UK, Canada and Australia remain in place."
-          },
-          "sources": [
-            {
-              "name": "HokaNews",
-              "url": "https://www.hokanews.com/2026/10/kraken-withdraws-monero-customer.html"
-            },
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/kraken-monero-kyc-emails-withdrawn/"
-            }
-          ]
-        },
-        {
-          "id": "20261026-04",
-          "category": "bitcoin",
-          "time": "2026-10-23T10:38:00Z",
-          "title": {
-            "zh": "Strategy一周回购STRC花掉1.931亿美元，约为同期买入比特币支出的8.7倍",
-            "en": "Strategy spent $193.1M buying back STRC in one week, about 8.7 times what it spent buying Bitcoin"
-          },
-          "summary": {
-            "zh": "根据Strategy于10月19日提交的监管文件，公司在10月12日至18日当周以2210万美元买入267枚比特币（Bitcoin），均价82900美元，持仓增至848517枚；但同期以1.931亿美元回购了约194万股STRC优先股（Preferred Stock），约为买币支出的8.7倍，回购资金全部来自公司现金。Strategy董事会同时将数字信用证券回购授权上限从20亿美元提高至30亿美元，约11.6亿美元额度尚未使用；分析机构Clear Street与Cantor Fitzgerald随后分别将目标价上调至211美元与208美元。",
-            "en": "According to Strategy's regulatory filing dated October 19, the company bought 267 Bitcoin for $22.1 million during the week of October 12-18 at an average price of $82,900, lifting holdings to 848,517 BTC; but it spent $193.1 million repurchasing about 1.94 million STRC preferred shares in the same week, roughly 8.7 times its Bitcoin spending, funded entirely from cash. Strategy's board also raised its digital credit securities repurchase authorization from $2 billion to $3 billion, with about $1.16 billion still untapped, while analysts Clear Street and Cantor Fitzgerald raised their price targets to $211 and $208 respectively."
-          },
-          "sources": [
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/business/38890"
-            },
-            {
-              "name": "CryptoPolitan",
-              "url": "https://www.cryptopolitan.com/bitcoin-high-lifts-strive-13-strategy-7/"
-            }
-          ]
-        },
-        {
-          "id": "20261026-05",
-          "category": "ethereum",
-          "time": "2026-10-22T16:30:00Z",
-          "title": {
-            "zh": "以太坊研究人员提交EIP-8453，拟将最终确认时间从约16分钟缩短至4分钟",
-            "en": "Ethereum researchers file EIP-8453 to cut finality from about 16 minutes to roughly four"
-          },
-          "summary": {
-            "zh": "以太坊基金会研究员Ben Edgington于10月21日在以太坊改进提案（Ethereum Improvement Proposal, EIP）仓库提交了“解耦共识”（Decoupled Consensus）草案，编号EIP-8453，目标是将交易的最终确认（Finality）时间从约16分钟缩短至约4分钟。该草案将验证者的选块投票与最终确认投票拆分，让确认投票按独立的、可以逐步加快的节奏进行；更快的确认可减少跨链桥与快速转账服务为等待结算而垫付的资金，草案示例称每小时转移100万美元的服务在途资金将从约26.7万美元降至约6.7万美元。草案同时为未来的抗量子签名过渡打基础，但尚无激活时间表，实施需要共识层硬分叉（Hard Fork）。",
-            "en": "Ethereum Foundation researcher Ben Edgington filed a 'Decoupled Consensus' draft in the Ethereum Improvement Proposals repository on October 21, numbered EIP-8453, aiming to cut transaction finality from about 16 minutes to roughly four. The draft separates validators' block-selection votes from finality votes, letting finality votes run on their own schedule that can be tightened over time; faster finality would reduce the capital bridges and fast-transfer services must front while awaiting settlement, with the draft's example putting idle capital for a service moving $1 million an hour at about $267,000 today versus $67,000 at four minutes. The draft also lays groundwork for a future post-quantum signature transition, but has no activation date and would require a consensus-layer hard fork."
-          },
-          "sources": [
-            {
-              "name": "ForkLog",
-              "url": "https://forklog.com/en/ethereum-researchers-propose-quadrupling-transaction-finalization-speed/"
-            },
-            {
-              "name": "0xzx",
-              "url": "https://0xzx.com/en/post/pst_8331d17de0609b64"
-            }
-          ]
-        },
-        {
-          "id": "20261026-06",
-          "category": "regulation",
-          "time": "2026-10-22T15:00:00Z",
-          "title": {
-            "zh": "爱尔兰央行对Coinbase爱尔兰子公司处以325万欧元罚款，涉客户资金保护违规",
-            "en": "Central Bank of Ireland fines Coinbase Ireland €3.25M over customer-fund safeguarding breaches"
-          },
-          "summary": {
-            "zh": "爱尔兰央行于10月21日与Coinbase爱尔兰子公司（Coinbase Ireland Limited）达成和解，对其处以3252618欧元罚款并给予正式训诫，原因是该电子货币机构在2020年11月至2025年8月期间违反了客户资金保护（Safeguarding）与外包规则。央行认定，该公司过度依赖美国母公司执行资金保护流程、缺乏本地专业能力进行监督，导致指定保护账户长期资金不足，且未及时向监管机构报告资金保护模式的重大变化。原定罚款4646597欧元，和解折扣30%后降至3252618欧元，罚款须经爱尔兰高等法院确认后生效；Coinbase表示没有客户遭受资金损失或无法取用资金。",
-            "en": "The Central Bank of Ireland reached a settlement on October 21 with Coinbase Ireland Limited, imposing a €3,252,618 penalty and a formal reprimand after finding the e-money firm breached customer-fund safeguarding and outsourcing rules between November 2020 and August 2025. The regulator found the firm relied too heavily on its US parent to run safeguarding processes, lacked the local expertise to oversee them, left its designated safeguarding account underfunded for extended periods, and failed to notify the regulator of material changes to its safeguarding model. The penalty was set at €4,646,597 before a 30% settlement discount, and takes effect only once Ireland's High Court confirms it; Coinbase said no customer suffered a financial loss or lost access to funds."
-          },
-          "sources": [
-            {
-              "name": "Fintech News Switzerland",
-              "url": "https://fintechnews.ch/payments/coinbase-ireland-fine-safeguarding-central-bank/86579/"
-            },
-            {
-              "name": "Corp-Intl",
-              "url": "https://corp-intl.com/news/why-was-coinbase-fined-ireland-safeguarding"
-            }
-          ]
-        },
-        {
-          "id": "20261026-07",
-          "category": "solana",
-          "time": "2026-10-22T14:00:00Z",
-          "title": {
-            "zh": "摩根大通将两只代币化货币市场基金MONY与JLTXX扩展至Solana",
-            "en": "JPMorgan brings tokenized money market funds MONY and JLTXX to Solana"
-          },
-          "summary": {
-            "zh": "摩根大通资产管理公司于10月22日宣布，将两只代币化货币市场基金（Tokenized Money Market Fund）——My OnChain Net Yield Fund（MONY）与JPMorgan OnChain Liquidity-Token Money Market Fund（JLTXX）扩展至Solana网络，供符合条件的美国投资者通过Morgan Money平台申购与赎回，并直接在投资者自己的区块链地址上收到基金份额代币。两只基金此前均已在以太坊（Ethereum）上线，其中JLTXX截至9月30日的资产规模为6.2848亿美元，七日年化收益率（SEC Yield）为3.79%。摩根大通表示，客户在多个网络上运作，其流动性也应如此，此举是现有产品的多链扩展，而非新设基金。",
-            "en": "JPMorgan Asset Management announced on October 22 that its two tokenized money market funds — My OnChain Net Yield Fund (MONY) and JPMorgan OnChain Liquidity-Token Money Market Fund (JLTXX) — are now available on Solana, letting eligible US investors subscribe and redeem through the Morgan Money platform and receive fund tokens directly at their own blockchain addresses. Both funds previously launched on Ethereum; JLTXX held $628.48 million in assets as of September 30, with a 3.79% seven-day SEC yield. JPMorgan said clients operate across more than one network and their liquidity should too, framing the move as a multichain extension of existing products rather than a new fund."
-          },
-          "sources": [
-            {
-              "name": "Genfinity",
-              "url": "https://genfinity.io/2026/10/23/jpmorgan-tokenized-money-market-funds-solana-mony-jltxx/"
-            },
-            {
-              "name": "Daily Crypto Briefs",
-              "url": "https://dailycryptobriefs.com/news/jpmorgan-mony-jltxx-solana-tokenized-funds/"
-            }
-          ]
-        },
-        {
-          "id": "20261026-08",
-          "category": "market",
-          "time": "2026-10-22T08:00:00Z",
-          "title": {
-            "zh": "Evernorth向SEC提交招股文件，认股权证全部行权可募资约1.322亿美元增持XRP",
-            "en": "Evernorth files SEC prospectus; full warrant exercise could raise about $132.2M for XRP treasury"
-          },
-          "summary": {
-            "zh": "纳斯达克上市的XRP金库公司Evernorth Holdings于10月19日向美国证券交易委员会（Securities and Exchange Commission, SEC）提交最终招股文件，登记11499992股A类普通股，供公开认股权证（Public Warrants）持有人按每股11.50美元行权；若全部行权，公司可募资约1.322亿美元，资金按其策略将用于增持XRP。文件同时披露，XRP价格在合并协议签署日至交易完成日之间下跌约40%，导致早期投资者的附加股份调整机制未能触发；公司目前持有约4.73亿枚XRP，价值约6.38亿美元，另有约3亿美元现金。招股登记本身不保证行权或买入，实际募资取决于持有人决定与市场波动。",
-            "en": "Nasdaq-listed XRP treasury company Evernorth Holdings filed a final prospectus with the US Securities and Exchange Commission on October 19, registering 11,499,992 Class A shares issuable when holders of its public warrants exercise at $11.50 per share; full exercise would raise about $132.2 million, which the company's strategy points toward buying more XRP. The filing also disclosed that XRP fell roughly 40% between the signing of its merger agreement and closing, so a built-in adjustment mechanism for early investors was not triggered; the company currently holds about 473 million XRP worth roughly $638 million plus about $300 million in cash. Registration alone guarantees no exercise or purchase, with actual proceeds depending on warrant holders' decisions and market conditions."
-          },
-          "sources": [
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/21/sec-clears-evernorth-filing-to-raise-up-to-132-million-to-buy-more-xrp/"
-            },
-            {
-              "name": "U.Today",
-              "url": "https://u.today/xrp-treasury-wins-key-sec-approval-to-raise-new-capital-main-crypto-news-this-morning"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
 }
