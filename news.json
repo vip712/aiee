@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-11-18",
+      "items": [
+        {
+          "id": "20261118-01",
+          "category": "regulation",
+          "time": "2026-11-17T18:28:00Z",
+          "title": {
+            "zh": "Kalshi在CFTC命令下暂停特朗普演讲相关押注，预测市场面临内幕交易审查",
+            "en": "Kalshi halts Trump speech bets after CFTC order as prediction markets face insider-trading scrutiny"
+          },
+          "summary": {
+            "zh": "预测市场平台Kalshi已暂停特朗普总统公开讲话中是否提及特定词汇的押注，此前美国商品期货交易委员会（CFTC）上周要求其终止这类“提及市场”（mention markets）。CFTC此前已对这类市场展开调查，因白宫一名提词员曾利用提前知晓的讲稿信息进行交易并被处以罚款；Kalshi表示不同意该决定。体育类提及市场此前已被下架，这类市场每月交易量曾达约9000万美元。",
+            "en": "Prediction-market platform Kalshi has suspended bets on whether President Donald Trump will mention specific words in his speeches, after the U.S. Commodity Futures Trading Commission (CFTC) ordered the contracts halted last week. The CFTC has been scrutinising the \"mention markets\" over insider-trading risks, after a White House teleprompter operator was found to have traded on advance knowledge of the president's remarks. Sports mention markets were already removed, and the affected markets previously generated about $90 million in monthly trading volume."
+          },
+          "sources": [
+            {
+              "name": "Reuters",
+              "url": "https://www.reuters.com/legal/government/kalshi-suspends-trump-speech-wagers-us-regulatory-order-2026-11-17/"
+            },
+            {
+              "name": "Al Jazeera",
+              "url": "https://www.aljazeera.com/economy/2026/11/17/kalshi-halts-trump-speech-bets-after-cftc-order"
+            }
+          ]
+        },
+        {
+          "id": "20261118-02",
+          "category": "tech",
+          "time": "2026-11-17T18:00:00Z",
+          "title": {
+            "zh": "Coinbase借贷产品Coinbase Borrow登陆纽约，借Morpho完成全美50州布局",
+            "en": "Coinbase Borrow reaches New York via Morpho, completing its rollout across all 50 U.S. states"
+          },
+          "summary": {
+            "zh": "Coinbase宣布其链上借贷产品Coinbase Borrow已向纽约居民开放，在获得纽约州金融服务局（NYDFS）批准后完成全美50州布局。纽约用户可抵押比特币（Bitcoin）、以太币（Ether）或Solana借入USDC，额度上限分别为500万、100万和10万美元，借贷通过Morpho协议在Base网络上执行。该产品自2025年1月推出以来已发放逾34亿美元贷款，目前未偿余额逾17亿美元。",
+            "en": "Coinbase has opened its onchain lending product Coinbase Borrow to New York residents, completing its rollout across all 50 U.S. states after approval from the New York State Department of Financial Services (NYDFS). New York users can borrow USDC against Bitcoin, Ether or Solana, with limits of up to $5 million, $1 million and $100,000 respectively, with lending executed through the Morpho protocol on Base. The product has originated more than $3.4 billion in loans since its January 2025 launch, with over $1.7 billion outstanding."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842"
+            },
+            {
+              "name": "DC Forecasts",
+              "url": "https://www.dcforecasts.com/cryptocurrency-exchange-news/bitcoin-loan-coinbase-new-york-morpho-collateral-record/"
+            }
+          ]
+        },
+        {
+          "id": "20261118-03",
+          "category": "tech",
+          "time": "2026-11-17T15:53:00Z",
+          "title": {
+            "zh": "Anchorage与Kalshi Prime合作，机构可用托管的比特币作保证金交易",
+            "en": "Anchorage and Kalshi Prime let institutions post custodied Bitcoin as trading margin"
+          },
+          "summary": {
+            "zh": "Anchorage Digital与Kalshi Prime宣布合作，机构客户可将存放在Anchorage Digital Bank托管的比特币（Bitcoin）与稳定币（stablecoins）作为保证金，在Kalshi Prime的HODL Margining网络上交易，无需划转或出售资产。该安排采用三方模式，Anchorage负责托管并锁定质押资产，Kalshi Prime将其认可为保证金，依托Anchorage的Atlas平台运行。这是Kalshi Prime继BitGo之后的第二个托管方合作。",
+            "en": "Anchorage Digital has partnered with Kalshi Prime to let institutional clients use Bitcoin and stablecoins held in custody at Anchorage Digital Bank as margin on Kalshi Prime's HODL Margining network, without transferring or selling the assets. The tri-party arrangement sees Anchorage retain custody and lock the pledged collateral while Kalshi Prime recognises it as margin, running on Anchorage's Atlas platform. It is Kalshi Prime's second custodian integration for HODL Margining, after BitGo."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-11-17-anchorage-digital-kalshi-prime-hodl-margining-bitcoin-collateral-442568"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/anchorage-digital-kalshi-prime-crypto-margin/"
+            }
+          ]
+        },
+        {
+          "id": "20261118-04",
+          "category": "regulation",
+          "time": "2026-11-17T14:17:00Z",
+          "title": {
+            "zh": "CFTC批准Backpack与tZERO运营区块链衍生品交易所及清算所",
+            "en": "CFTC approves Backpack and tZERO to run blockchain-based derivatives exchanges and clearinghouses"
+          },
+          "summary": {
+            "zh": "美国商品期货交易委员会（CFTC）已批准Backpack与tZERO运营基于区块链技术的受监管衍生品交易所和清算所，两家公司均获得指定合约市场（DCM）与衍生品清算组织（DCO）牌照。Backpack计划向美国用户提供24小时杠杆加密货币永续合约（perpetual futures）交易；tZERO则将其牌照纳入面向机构的基础设施服务。CFTC主席Michael Selig称，此举为新一代区块链市场基础设施建立了受监管路径。",
+            "en": "The U.S. Commodity Futures Trading Commission (CFTC) has approved Backpack and tZERO to operate regulated derivatives exchanges and clearinghouses built on blockchain technology, with both firms holding designated contract market (DCM) and derivatives clearing organization (DCO) registrations. Backpack plans to offer U.S. users 24/7 leveraged crypto perpetual futures, while tZERO will fold its licences into an infrastructure service for institutions. CFTC Chair Michael Selig called the approvals a regulated pathway for a new generation of blockchain-based market infrastructure."
+          },
+          "sources": [
+            {
+              "name": "CoinMarketCap",
+              "url": "https://coinmarketcap.com/academy/en/article/cftc-approves-backpack-tzero-blockchain-derivatives"
+            },
+            {
+              "name": "CoinTurk",
+              "url": "https://en.coin-turk.com/cftc-approves-backpack-and-tzero-for-blockchain-based-derivatives-exchanges/"
+            }
+          ]
+        },
+        {
+          "id": "20261118-05",
+          "category": "market",
+          "time": "2026-11-17T08:12:00Z",
+          "title": {
+            "zh": "意大利最大银行Intesa三季度减持比特币与以太坊ETF，加仓Solana与XRP",
+            "en": "Italy's Intesa Sanpaolo cuts Bitcoin and Ethereum ETF stakes, adds Solana and XRP in Q3"
+          },
+          "summary": {
+            "zh": "意大利最大银行集团Intesa Sanpaolo在三季度大幅调整加密货币ETF持仓：其ARK 21Shares比特币ETF（Bitcoin ETF）持仓减少42.9%，贝莱德以太坊质押ETF（Ethereum Staking ETF）持仓减少56.6%；同时新建约1414万美元的Bitwise Solana质押ETF仓位，并将XRP相关持仓增至2721万美元。披露的加密货币ETF总持仓升至1.0856亿美元，季度增长约19.5%，比特币仍是其最大敞口。",
+            "en": "Italy's largest banking group, Intesa Sanpaolo, sharply reshuffled its crypto ETF holdings in the third quarter, cutting its ARK 21Shares Bitcoin ETF stake by 42.9% and its BlackRock Ethereum staking ETF position by 56.6%, according to its SEC Form 13F filing. It opened a roughly $14.14 million position in the Bitwise Solana Staking ETF and raised its XRP exposure to $27.21 million. Total disclosed crypto ETF holdings rose about 19.5% on the quarter to $108.56 million, with Bitcoin remaining its largest exposure."
+          },
+          "sources": [
+            {
+              "name": "KuCoin",
+              "url": "https://www.kucoin.com/news/flash/intesa-sanpaolo-cuts-bitcoin-and-ethereum-etf-holdings-boosts-solana-and-xrp-exposure"
+            },
+            {
+              "name": "yjpeox",
+              "url": "https://www.yjpeox.com/news/intesa-sanpaolo-raises-xrp-and-solana-etf-holdings-cuts-bitcoin-and-ethereum"
+            }
+          ]
+        },
+        {
+          "id": "20261118-06",
+          "category": "bitcoin",
+          "time": "2026-11-17T07:38:00Z",
+          "title": {
+            "zh": "Wintermute警告比特币或跌入5万美元区间，称熊市尚未结束",
+            "en": "Wintermute warns Bitcoin could slide into the $50,000s, saying the bear market is not over"
+          },
+          "summary": {
+            "zh": "加密货币做市商Wintermute表示，比特币（Bitcoin）跌破约6.8万美元的200周均线后，跌势可能尚未结束，预计将承压下探5万美元区间，周末约6.2万美元的低点是首个关键位置。推动因素包括市场对美联储12月加息的预期升温、现货比特币ETF（Spot ETF）今年以来约19亿美元的净流出，以及稳定币供应收缩。Wintermute称，只有比特币收复6.8万美元并伴随ETF资金回流，才会转趋谨慎乐观。",
+            "en": "Crypto market maker Wintermute has warned that Bitcoin's slide may not be over after it broke below its 200-week moving average near $68,000, with pressure expected into the $50,000s and the weekend low near $62,000 as the first level to watch. The firm pointed to rising expectations of a Federal Reserve rate hike in December, about $1.9 billion in net outflows from spot Bitcoin ETFs so far in 2026, and shrinking stablecoin supply. Wintermute said it would turn less cautious only if Bitcoin closes back above $68,000 with ETF inflows on the same day."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says"
+            },
+            {
+              "name": "MINRK",
+              "url": "https://www.minrk.com/article/bitcoin-crash-risk-60-000-test-before-nvidia"
+            }
+          ]
+        },
+        {
+          "id": "20261118-07",
+          "category": "market",
+          "time": "2026-11-17T05:53:00Z",
+          "title": {
+            "zh": "比特币在6.5万美元附近徘徊，期权交易员加大下行保护",
+            "en": "Bitcoin holds near $65,000 as options traders seek downside protection"
+          },
+          "summary": {
+            "zh": "比特币（Bitcoin）周二在约6.49万美元附近交易，周跌幅约12.7%，市场等待英伟达财报与美联储11月18日公布的会议纪要。期权市场情绪转趋防御：Deribit上行权价6万美元的看跌期权（put）以约9亿美元未平仓合约成为最大持仓，超过10万美元看涨期权。美国现货比特币ETF（Spot ETF）上周净流出约10.7亿美元，为连续第三周资金外流。",
+            "en": "Bitcoin traded near $64,900 on Tuesday, down about 12.7% on the week, as markets awaited Nvidia's earnings and the Federal Reserve's meeting minutes due on November 18. Options positioning has turned defensive, with the $60,000 put on Deribit becoming the largest open-interest position at about $900 million, overtaking the $100,000 call. U.S. spot Bitcoin ETFs recorded about $1.07 billion in net outflows last week, their third consecutive week of withdrawals."
+          },
+          "sources": [
+            {
+              "name": "Gadgets360",
+              "url": "https://www.gadgets360.com/cryptocurrency/news/bitcoin-trades-near-usd-65000-as-options-traders-seek-downside-protection-crypto-markets-prices-btc-ethereum-eth-crypto-updates-12336993/amp"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/cryptocurrencies/news/crypto-today-bitcoin-drops-ethereum-and-xrp-pare-losses-amid-capital-outflows-202611171016"
+            }
+          ]
+        },
+        {
+          "id": "20261118-08",
+          "category": "ethereum",
+          "time": "2026-11-17T00:00:00Z",
+          "title": {
+            "zh": "以太币守住1800美元，巨鲸逢低买入，期货未平仓合约降至2024年10月以来最低",
+            "en": "Ether holds above $1,800 as whales buy the dip and futures open interest falls to its lowest since October 2024"
+          },
+          "summary": {
+            "zh": "以太币（Ether）周二反弹至约1833美元，此前周末一度跌至约1712美元，为7月以来最低；与巨鲸（whale）钱包相关的地址据报买入约8.2万枚ETH，Bitmine同期增持7653枚ETH。与此同时，以太坊期货未平仓合约（Open Interest）降至约91.2亿美元，为2024年10月以来最低；美国现货以太坊ETF（Spot ETF）连续第七周净流出，上周流出约3.989亿美元。",
+            "en": "Ether rebounded to about $1,833 on Tuesday after sliding toward $1,712 over the weekend, its lowest since July, while wallets linked to ShapeShift founder Erik Voorhees reportedly bought about 82,277 ETH and Bitmine added 7,653 ETH. At the same time, Ethereum futures open interest fell to about $9.12 billion, its lowest since October 2024. U.S. spot Ether ETFs posted a seventh straight week of net outflows, losing about $398.9 million last week."
+          },
+          "sources": [
+            {
+              "name": "crypto.news",
+              "url": "https://crypto.news/ethereum-price-up-today-whale-buying-etf-outflows/"
+            },
+            {
+              "name": "finwire",
+              "url": "https://finwire.io/news/crypto-news/ether-etfs-lose-3989m-as-november-withdrawals-top-764m"
+            }
+          ]
+        },
+        {
+          "id": "20261118-09",
+          "category": "solana",
+          "time": "2026-11-16T19:31:00Z",
+          "title": {
+            "zh": "纽交所母公司ICE考虑运营Solana验证节点，深化与Solana的合作",
+            "en": "NYSE owner ICE considers running a Solana validator as it deepens ties with the network"
+          },
+          "summary": {
+            "zh": "纽约证券交易所母公司洲际交易所（ICE）正考虑运营Solana验证节点，其ICE Clear Europe总裁Hester Serafini在Solana Breakpoint大会上表示，公司已在研究这一可能性。ICE表示，其数字资产托管业务ICE Digital Trust已支持Solana，纽交所的数字化另类交易系统（ATS）也可接受在Solana上发行的代币化证券。不过ICE尚未作出正式决定，也未公布时间表。",
+            "en": "Intercontinental Exchange (ICE), the parent company of the New York Stock Exchange, is considering operating a Solana validator, ICE Clear Europe President Hester Serafini said at the Solana Breakpoint conference in London. ICE said its digital-asset custodian, ICE Digital Trust, already supports Solana, and the NYSE's digital alternative trading system (ATS) is set up to accept tokenised securities issued on Solana. No formal decision or timeline has been disclosed."
+          },
+          "sources": [
+            {
+              "name": "TheStreet",
+              "url": "https://www.thestreet.com/crypto/innovation/nyse-owner-deepens-solana-ties-eyes-validator-role"
+            },
+            {
+              "name": "CryptoNews",
+              "url": "https://cryptonews.com/news/solana-price-prediction-ice-validator-solana-1-0/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-17",
       "items": [
         {
@@ -2962,196 +3174,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-10-28",
-      "items": [
-        {
-          "id": "20261028-01",
-          "category": "bitcoin",
-          "time": "2026-10-27T20:17:00Z",
-          "title": {
-            "zh": "散户向币安存入比特币规模翻倍，巨鲸自6月以来首次转向看空",
-            "en": "Retail Bitcoin deposits to Binance nearly double while whales turn bearish for first time since June"
-          },
-          "summary": {
-            "zh": "CryptoQuant数据显示，过去30天散户向币安存入的比特币接近108亿美元，约为此前的两倍，而大户存入量降至38亿美元，显示散户正借反弹抛售。The Motley Fool指出，巨鲸自6月以来首次转向看空，尽管10月27日市场随美股反弹，比特币仍在8万美元附近挣扎。分析人士认为，若比特币能守住8万美元区域，将为反弹打开空间，而持续站上8.7万美元才是买方重新掌控的更明确信号。",
-            "en": "CryptoQuant data showed retail Bitcoin deposits to Binance nearly doubled to about $10.8 billion over 30 days, while large-holder deposits fell to $3.8 billion, suggesting smaller investors used the rebound to sell. The Motley Fool noted whales turned bearish for the first time since June, even as the market rallied with US stocks on October 27 and Bitcoin struggled near $80,000. Holding $80,000 would be encouraging for buyers, while a sustained move above $87,000 would more convincingly signal a broader recovery."
-          },
-          "sources": [
-            {
-              "name": "The Motley Fool",
-              "url": "https://www.fool.com/coverage/stock-market-today/2026/10/27/crypto-market-today-oct-27-bitcoin-bounces-back-but-whales-are-turning-bearish-for-the-first-time-since-june/"
-            },
-            {
-              "name": "CoinTelegraph",
-              "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k"
-            }
-          ]
-        },
-        {
-          "id": "20261028-02",
-          "category": "market",
-          "time": "2026-10-27T16:00:00Z",
-          "title": {
-            "zh": "美国现货比特币ETF单日回流1.1亿美元，10月仍净流出约2.02亿美元",
-            "en": "US spot Bitcoin ETFs claw back $110 million in a day, but October stays about $202 million in net outflows"
-          },
-          "summary": {
-            "zh": "美国现货比特币ETF (Spot Bitcoin ETF) 在10月26日录得1.1亿美元净流入，扭转了此前两个交易日合计7.74亿美元的净流出，但10月迄今仍净流出约2.02亿美元。比特币同期在约7.96万美元附近交易，7日跌幅约2.6%，加密恐惧与贪婪指数 (Crypto Fear & Greed Index) 回落至48，仍处于中性区间。市场焦点转向10月28日结束的美联储会议，交易员普遍预计利率维持在3.75%至4.00%不变。",
-            "en": "US spot Bitcoin ETFs drew $110 million in net inflows on October 26, reversing $774 million of withdrawals over the previous two trading sessions, though October remained about $202 million in net outflows. Bitcoin traded near $79,600, down about 2.6% over seven days, while the Crypto Fear & Greed Index slipped to 48, still in neutral territory. Attention now turns to the Federal Reserve meeting ending October 28, with rates widely expected to stay at 3.75% to 4.00%."
-          },
-          "sources": [
-            {
-              "name": "CoinTelegraph",
-              "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k"
-            },
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital"
-            }
-          ]
-        },
-        {
-          "id": "20261028-03",
-          "category": "tech",
-          "time": "2026-10-27T12:00:00Z",
-          "title": {
-            "zh": "Keystone硬件钱包验证密钥被盗，公司将销毁18835台库存设备",
-            "en": "Keystone to destroy 18,835 hardware wallets after attackers steal device verification key"
-          },
-          "summary": {
-            "zh": "硬件钱包厂商Keystone表示，攻击者10月20日通过其网站第三方数据监控工具的漏洞提权，窃取了用于验证设备真伪的WebAuth密钥 (WebAuth Key)，并获取了25964条买家记录。持有该密钥者可能制造通过官方验证的仿冒设备，Keystone因此将销毁18835台库存设备，并暂停发货、改为预售，直至新密钥设备投产。公司强调，助记词 (Recovery Phrase)、私钥和银行支付信息未受影响，10月20日前交付且通过验证的设备仍可正常使用。",
-            "en": "Hardware wallet maker Keystone said attackers escalated privileges through a flaw in a third-party data monitoring tool on its website on October 20, stealing the WebAuth key used to verify devices as genuine along with 25,964 buyer records. Whoever holds the key could build counterfeit devices that pass official checks, so Keystone will destroy 18,835 units in inventory, suspend shipments and switch to preorders until new-key devices are produced. Recovery phrases, private keys and bank payment details were not involved, and devices delivered before October 20 that pass verification remain safe to use."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach"
-            },
-            {
-              "name": "The Hacker News",
-              "url": "http://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html"
-            }
-          ]
-        },
-        {
-          "id": "20261028-04",
-          "category": "regulation",
-          "time": "2026-10-27T04:28:00Z",
-          "title": {
-            "zh": "Ripple获得美国货币监理署最终批准，可开设国家信托银行",
-            "en": "Ripple wins final OCC approval to launch its US national trust bank"
-          },
-          "summary": {
-            "zh": "美国货币监理署 (Office of the Comptroller of the Currency, OCC) 已给予Ripple国家信托银行最终批准，完成了自2025年12月获得有条件批准以来的特许流程。该银行将管理支撑稳定币RLUSD的隔离储备、担任RLUSD持有人的抵押受托人，并为机构客户提供数字资产托管服务。RLUSD仍由Ripple旗下受纽约州金融服务局监管的Standard Custody & Trust Company发行，国家信托银行本身不吸收存款、不发放贷款，也不享有联邦存款保险。",
-            "en": "The US Office of the Comptroller of the Currency has granted final approval for Ripple National Trust Bank, completing a chartering process that began with conditional approval in December 2025. The bank will manage the segregated reserves backing the RLUSD stablecoin, act as collateral trustee for RLUSD holders and provide digital asset custody to institutional clients. RLUSD will still be issued by Standard Custody & Trust Company, Ripple's New York-regulated trust company, and the trust bank itself takes no deposits, makes no loans and carries no federal deposit insurance."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank"
-            },
-            {
-              "name": "CoinTelegraph",
-              "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank"
-            }
-          ]
-        },
-        {
-          "id": "20261028-05",
-          "category": "bitcoin",
-          "time": "2026-10-26T14:00:00Z",
-          "title": {
-            "zh": "Strategy在10月19日至25日一周未买比特币，转而回购2.049亿美元STRC优先股",
-            "en": "Strategy buys no Bitcoin in October 19-25 week, spending $204.9 million on STRC buybacks instead"
-          },
-          "summary": {
-            "zh": "Strategy在10月26日提交的8-K文件 (Form 8-K) 中披露，10月19日至25日一周内既未买入也未卖出比特币，持仓维持在848517枚，账面成本约640.2亿美元，平均成本约75446美元。同期公司斥资2.049亿美元回购约207万股STRC可变利率优先股，并保留约48.3亿美元的指定美元储备。公司未通过场内增发 (At-the-Market Offering) 出售股份，这是其近期连续增持告一段落后，资本配置重心转向优先股负担的一周。",
-            "en": "Strategy disclosed in an 8-K filed on October 26 that it neither bought nor sold Bitcoin in the week of October 19-25, leaving holdings unchanged at 848,517 BTC at an aggregate cost of about $64.02 billion, or roughly $75,446 per coin. Over the same week it spent $204.9 million repurchasing about 2.07 million STRC variable-rate preferred shares, while retaining about $4.83 billion in designated dollar reserves. It sold no shares under its at-the-market equity program, in a week when capital allocation shifted toward its preferred-stock obligations after a run of purchases."
-          },
-          "sources": [
-            {
-              "name": "Bitcoinist",
-              "url": "https://bitcoinist.com/strategy-halts-bitcoin-purchases-spends-205-million-buying-back-strc-shares-instead/"
-            },
-            {
-              "name": "CoinStats",
-              "url": "https://coinstats.app/news/d1de15af527b1b10f2c9c44ec68ee27e8f79625952dad8f3874ecc18e84c0871_Strategy-pauses-its-Bitcoin-buying-2049-million-into-its-own-shares/"
-            }
-          ]
-        },
-        {
-          "id": "20261028-06",
-          "category": "solana",
-          "time": "2026-10-26T13:17:00Z",
-          "title": {
-            "zh": "PrimeRevenue将电子定期汇票上链Solana，传统贸易金融迈入链上市场",
-            "en": "PrimeRevenue tokenizes electronic time drafts on Solana, bringing trade finance on-chain"
-          },
-          "summary": {
-            "zh": "营运资金解决方案公司PrimeRevenue宣布，将其专利电子定期汇票 (Electronic Time Draft, ETD) 在Solana上代币化，作为把传统贸易金融带入去中心化金融的第一步。ETD代表买方在未来约定日期支付指定金额的义务，上链后每次发行、转让、生命周期事件和到期结算都可记录在可验证的共享账本上。PrimeRevenue平台服务于5万家公司、100多家融资伙伴，年支付交易规模超过3000亿美元，未来计划把更多营运资金工具上链。",
-            "en": "Working capital firm PrimeRevenue said it is tokenizing its patented Electronic Time Draft (ETD) instrument on Solana, its first step toward bringing traditional trade finance to decentralized finance. An ETD represents a buyer's obligation to pay a specified amount on a defined future date, and moving it on-chain records each issuance, transfer, lifecycle event and maturity settlement on a verifiable shared record. PrimeRevenue's platform serves 50,000 companies and more than 100 funding partners with over $300 billion in annual payment transactions, and it plans to bring more working capital instruments on-chain."
-          },
-          "sources": [
-            {
-              "name": "PR Newswire",
-              "url": "https://www.prnewswire.com/news-releases/primerevenue-brings-trade-finance-assets-to-solana-expanding-access-to-on-chain-capital-markets-302919301.html"
-            },
-            {
-              "name": "The Defiant",
-              "url": "https://thedefiant.io/converge/tradfi-and-fintech/primerevenue-announces-solana-tokenization-of-corporate-payment-drafts"
-            }
-          ]
-        },
-        {
-          "id": "20261028-07",
-          "category": "tech",
-          "time": "2026-10-26T08:00:00Z",
-          "title": {
-            "zh": "CoinDCX确认再失窃约1600万美元，两次事件合计损失近6000万美元",
-            "en": "CoinDCX confirms another $16 million theft, taking combined losses from two incidents to nearly $60 million"
-          },
-          "summary": {
-            "zh": "印度交易所CoinDCX确认，在自动资金划转系统故障后，约1599万USDT从此前已遭入侵的旧钱包中流失，此前其首席执行官曾将相关报告斥为“虚惊一场”。该批钱包在2025年7月约4400万美元被盗事件后本应停用，但用户存款仍在其中累积，两次事件合计损失近6000万美元。CoinDCX表示已承担本次损失、用户资金安全，但链上调查员ZachXBT敦促用户提取资产，对交易所的披露节奏提出质疑。",
-            "en": "Indian exchange CoinDCX confirmed about 15.99 million USDT was lost from previously compromised wallets after its automated fund-transfer system failed, days after its CEO had dismissed reports of a new breach as a possible false alarm. The wallets were supposed to have been retired after a roughly $44 million hack in July 2025, but user deposits kept accumulating in them, bringing combined losses from the two incidents to nearly $60 million. CoinDCX said it absorbed the latest loss and that customer funds remain safe, while on-chain investigator ZachXBT urged users to withdraw assets and questioned the disclosure timeline."
-          },
-          "sources": [
-            {
-              "name": "CCN",
-              "url": "https://www.ccn.com/news/technology/coindcx-16-million-crypto-theft-false-alarm-60m-losses/"
-            },
-            {
-              "name": "Hokanews",
-              "url": "https://www.hokanews.com/2026/10/coindcx-confirms-16-million-theft.html"
-            }
-          ]
-        },
-        {
-          "id": "20261028-08",
-          "category": "ethereum",
-          "time": "2026-10-22T18:00:00Z",
-          "title": {
-            "zh": "以太坊推迟Glamsterdam的Hoodi测试网激活，原定10月26日的2亿Gas测试取消",
-            "en": "Ethereum postpones Glamsterdam's Hoodi testnet activation, cancelling the planned October 26 200-million-gas test"
-          },
-          "summary": {
-            "zh": "以太坊基金会10月22日宣布，核心开发者在第248次全体核心开发者执行层会议 (All Core Developers Execution, ACDE #248) 上决定推迟Glamsterdam在Hoodi测试网的激活，原定10月26日17:42:48 UTC的激活及2亿Gas上限计划一并取消，暂未公布新的激活日期。推迟的原因是需要进一步研究EIP-8037的Gas重定价与已部署主网智能合约的交互，安全公司ChainSecurity此前警告相关改动可能影响现有合约。此次推迟仅涉及测试网配置，不改变Hoodi已有链历史，也未设定以太坊主网的激活日期。",
-            "en": "The Ethereum Foundation announced on October 22 that core developers decided at All Core Developers Execution call #248 to postpone Glamsterdam's activation on the Hoodi testnet, cancelling the activation scheduled for October 26 at 17:42:48 UTC along with the planned 200-million-gas limit, with no replacement date set. The delay allows further investigation of how EIP-8037's gas repricing interacts with smart contracts already deployed on mainnet, after security firm ChainSecurity warned the changes could affect existing contracts. The postponement only rolls back Hoodi's future configuration, does not alter its chain history, and sets no mainnet activation date."
-          },
-          "sources": [
-            {
-              "name": "TECHi",
-              "url": "https://www.techi.com/ethereum-glamsterdam-hoodi-postponed-oct-26/"
-            },
-            {
-              "name": "MEXC Blog",
-              "url": "https://blog.mexc.com/trends/2026-10-23-ethereum-glamsterdam-hoodi-postponed-en/"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-17"
+  "updated": "2026-11-18"
 }
