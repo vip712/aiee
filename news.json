@@ -1,6 +1,218 @@
 {
   "days": [
     {
+      "date": "2026-11-22",
+      "items": [
+        {
+          "category": "bitcoin",
+          "id": "20261122-01",
+          "time": "2026-11-21T17:51:00Z",
+          "title": {
+            "en": "Bitcoin bounces 9% from two-year low to retake $60,000",
+            "zh": "比特币自两年低点反弹9%，重回60,000美元"
+          },
+          "summary": {
+            "en": "Bitcoin climbed back above $60,000 on November 21, recovering more than 9% from an intraday low of $55,130, its weakest level since September 2024. The sell-off wiped out about $1.8 billion in leveraged crypto positions over 24 hours, about $1.3 billion of it long bets, according to CoinGlass data. Trading firm QCP Capital said a lasting recovery will likely need stabilising technology stocks, calmer rates and returning institutional flows.",
+            "zh": "11月21日，比特币（Bitcoin）自盘中低点55,130美元反弹逾9%，重回60,000美元上方，该低点为2024年9月以来最低。过去24小时内约18亿美元杠杆仓位被清算（Liquidation），其中约13亿美元为多头仓位（CoinGlass数据）。交易公司QCP Capital表示，持续反弹可能需要科技股企稳、利率波动缓和以及机构资金回流。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+            },
+            {
+              "name": "Channel News Asia",
+              "url": "https://www.channelnewsasia.com/business/bitcoin-rises-after-falling-two-year-low-6571321"
+            }
+          ]
+        },
+        {
+          "category": "tech",
+          "id": "20261122-02",
+          "time": "2026-11-21T16:41:00Z",
+          "title": {
+            "en": "Chainflip's FLIP tanks over 30% after suspected $4.86 million vault drain",
+            "zh": "Chainflip疑似遭攻击损失486万美元，FLIP代币暴跌逾30%"
+          },
+          "summary": {
+            "en": "Cross-chain protocol Chainflip halted deposits, withdrawals, swaps and quotes on November 21 after about $4.86 million in ether and stablecoins left its Ethereum vault in a single transaction. The withdrawal carried a valid signature, pointing to a possible compromise of the aggregate key its validators use to approve payouts, and nearly all the funds were sent to mixer Tornado Cash within nine minutes. FLIP fell about 34% and the protocol said it was investigating while in full safe mode.",
+            "zh": "11月21日，跨链协议Chainflip在约486万美元的以太币（Ether）与稳定币（Stablecoin）通过一笔交易流出其以太坊金库（Vault）后，暂停了存款、取款、兑换与报价。该笔提款带有有效签名，疑似验证者用于批准金库支出的聚合密钥遭到泄露，近全部资金在九分钟内被转入混币器Tornado Cash。FLIP代币下跌约34%，协议方表示正在调查并已进入全面安全模式（Safe Mode）。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804"
+            }
+          ]
+        },
+        {
+          "category": "solana",
+          "id": "20261122-03",
+          "time": "2026-11-21T12:13:09Z",
+          "title": {
+            "en": "Solana falls more than 75% from peak as spot SOL ETFs record $5.9 million in outflows",
+            "zh": "Solana较历史高点跌逾75%，现货SOL ETF单日净流出590万美元"
+          },
+          "summary": {
+            "en": "Solana dropped to about $64.83 on November 21, nearly 78% below its January 2025 all-time high of about $293.31, and down roughly 30% in November. U.S. spot Solana ETFs recorded $5.9 million in net outflows on November 20, led by Bitwise's BSOL at $4.7 million, extending a 30-day net withdrawal of $122.7 million, according to Farside Investors and CoinPerps data. The slide came despite the Alpenglow upgrade in October, which cut transaction finality to about 150 milliseconds.",
+            "zh": "11月21日，Solana跌至约64.83美元，较2025年1月约293.31美元的历史高点（All-Time High）下跌近78%，11月累计跌幅约30%。美国现货Solana ETF（Spot ETF）11月20日净流出590万美元，其中Bitwise的BSOL占470万美元，过去30天累计净流出1.227亿美元（Farside Investors与CoinPerps数据）。尽管10月完成的Alpenglow升级将交易最终确认时间缩短至约150毫秒，价格仍未止跌。"
+          },
+          "sources": [
+            {
+              "name": "KuCoin News",
+              "url": "https://www.kucoin.com/news/flash/solana-price-falls-75-from-peak-as-etfs-record-5-9m-in-withdrawals"
+            },
+            {
+              "name": "CryptoCompass",
+              "url": "https://cryptocompass.com/articles/solana-price-at-72-55-solana-etfs-shed-122-7-million-in-30-days"
+            }
+          ]
+        },
+        {
+          "category": "tech",
+          "id": "20261122-04",
+          "time": "2026-11-21T06:16:00Z",
+          "title": {
+            "en": "Bitcoin Core fixes medium-severity node-stall bug found by Block's AI scanner",
+            "zh": "比特币核心修复中危节点停滞漏洞，该漏洞由Block的人工智能扫描工具发现"
+          },
+          "summary": {
+            "en": "Bitcoin Core disclosed CVE-2026-117348 on November 20, a medium-severity flaw that let an attacker stall a node for over a dozen seconds by repeating one orphan transaction identifier 50,000 times in a single announcement. The bug was found by an automated AI scan through Project Loupe at Spiral, Block's open-source unit, and fixed in versions 30.5 and 31.3, with version 32.1 already containing the fix. The retired 29.x branch will not receive a patch.",
+            "zh": "比特币核心（Bitcoin Core）11月20日披露编号CVE-2026-117348的中危漏洞：攻击者可通过在单次公告中重复同一孤块交易（Orphan Transaction）标识符50,000次，使节点停滞十余秒。该漏洞由Block旗下开源部门Spiral的Project Loupe人工智能自动扫描发现，已在30.5与31.3版本中修复，32.1版本已包含该修复。已停止维护的29.x分支将不再获得补丁。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug"
+            },
+            {
+              "name": "Bitcoin Core",
+              "url": "https://bitcoincore.org/en/2026/11/20/disclose-orphan-inv-stall/"
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "id": "20261122-05",
+          "time": "2026-11-21T05:59:00Z",
+          "title": {
+            "en": "XRP falls to about $0.87, its lowest since November 2024, as ETF assets slip below $1 billion",
+            "zh": "XRP跌至约0.87美元，创2024年11月以来新低，ETF资产跌破10亿美元"
+          },
+          "summary": {
+            "en": "XRP fell about 9% in 24 hours to around $0.87 on November 21, its lowest price since November 2024, as a broad crypto sell-off hit large-cap tokens. About $18 million in XRP futures positions were liquidated, roughly 94% of them long bets, according to CoinGlass. U.S. spot XRP ETFs recorded about $4.97 million in net outflows on Friday, taking their combined net assets to about $990 million, below the $1 billion mark.",
+            "zh": "11月21日，XRP在24小时内下跌约9%至0.87美元左右，为2024年11月以来最低，加密货币整体抛售波及大市值代币。约1,800万美元XRP期货仓位被清算（Liquidation），其中约94%为多头仓位（CoinGlass数据）。美国现货XRP ETF（Spot ETF）周五净流出约497万美元，五只基金合计净资产降至约9.9亿美元，跌破10亿美元关口。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion"
+            },
+            {
+              "name": "Bitcoin.com News",
+              "url": "https://news.bitcoin.com/crypto-news/xrp-price-below-90-cents-xrp-etfs-worst-month/"
+            }
+          ]
+        },
+        {
+          "category": "tech",
+          "id": "20261122-06",
+          "time": "2026-11-21T00:15:37Z",
+          "title": {
+            "en": "Binance hackers move $860 million in ether as bitcoin laundering surges, Elliptic says",
+            "zh": "Elliptic称币安黑客转移8.6亿美元以太币，比特币洗钱活动激增"
+          },
+          "summary": {
+            "en": "Hackers linked to North Korea moved about $860 million in ether stolen from Binance between November 17 and 20, emptying five of the nine largest ether wallets tied to the October theft, according to blockchain analytics firm Elliptic. About $70 million was swapped into bitcoin through THORChain, and at least 2,310 BTC, worth about $149 million, has entered coinjoin mixing since November began, with roughly 90% of that in the past four days. Elliptic said about $2.35 billion remains in hacker-linked wallets while $2.85 billion has been frozen or seized.",
+            "zh": "区块链分析公司Elliptic表示，与朝鲜有关的黑客在11月17日至20日转移了约8.6亿美元从币安盗取的以太币，清空了与10月盗窃案有关的九个最大以太币钱包中的五个。约7,000万美元通过THORChain兑换为比特币，11月以来至少2,310枚比特币（约1.49亿美元）进入混币（Coinjoin）交易，其中约90%发生在过去四天。Elliptic称约23.5亿美元仍在黑客关联钱包中，另有28.5亿美元已被冻结或扣押。"
+          },
+          "sources": [
+            {
+              "name": "Bitcoin.com News",
+              "url": "https://news.bitcoin.com/security/binance-hackers-move-860-million-ether-bitcoin-laundering-surges/"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758"
+            }
+          ]
+        },
+        {
+          "category": "regulation",
+          "id": "20261122-07",
+          "time": "2026-11-20T22:02:00Z",
+          "title": {
+            "en": "OCC gives Payoneer preliminary approval for stablecoin national trust bank",
+            "zh": "美国货币监理署初步批准Payoneer设立稳定币国家信托银行"
+          },
+          "summary": {
+            "en": "The U.S. Office of the Comptroller of the Currency granted Payoneer preliminary conditional approval on November 20 to form PAYO Digital Bank, a national trust bank for stablecoin issuance, custody and cross-border payments. Once it receives final approval, Payoneer plans to issue PAYO-USD, a fully reserved, GENIUS Act-compliant stablecoin that will circulate only inside its platform and will not be listed on exchanges. The bank must hold at least $8 million in Tier 1 capital, and the OCC noted it has recently approved similar trust-bank charters for BitGo, Paxos, Bridge and World Liberty.",
+            "zh": "美国货币监理署（OCC）11月20日给予Payoneer初步有条件批准，允许其设立PAYO Digital Bank，一家从事稳定币发行、托管与跨境支付的国家信托银行。获得最终批准后，Payoneer计划发行全额储备、符合《GENIUS法案》的稳定币PAYO-USD，该币仅在其平台内流通，不在交易所上市。该银行须持有至少800万美元一级资本（Tier 1 Capital），OCC同时指出近期已批准BitGo、Paxos、Bridge及World Liberty等类似信托银行牌照。"
+          },
+          "sources": [
+            {
+              "name": "OCC",
+              "url": "https://www.occ.gov/topics/charters-and-licensing/interpretations-and-decisions/2026/cd1395.pdf"
+            },
+            {
+              "name": "PR Newswire",
+              "url": "https://www.prnewswire.com/news-releases/payoneer-receives-occ-conditional-approval-to-form-stablecoin-national-trust-bank-302947358.html"
+            }
+          ]
+        },
+        {
+          "category": "ethereum",
+          "id": "20261122-08",
+          "time": "2026-11-20T16:02:35Z",
+          "title": {
+            "en": "Spot ether ETFs log $131.2 million in outflows as redemption streak hits four sessions",
+            "zh": "现货以太币ETF单日净流出1.312亿美元，赎回潮延续至第四个交易日"
+          },
+          "summary": {
+            "en": "U.S. spot ether ETFs recorded $131.2 million in net outflows on November 19, their fourth straight session of redemptions, with BlackRock's ETHA accounting for $124.2 million, nearly 95% of the day's total. Month-to-date outflows reached about $972.6 million, close to a billion-dollar monthly drain, while ether fell to around $1,735 and tested support near $1,700. The funds have lost $208.5 million over the four sessions from November 16 to 19, according to Farside Investors data.",
+            "zh": "美国现货以太币ETF（Spot ETF）11月19日净流出1.312亿美元，为连续第四个交易日赎回，其中贝莱德ETHA占1.242亿美元，接近当日总量的95%。11月累计净流出约9.726亿美元，接近10亿美元月度关口，以太币跌至约1,735美元并测试1,700美元附近支撑。11月16日至19日四个交易日合计净流出2.085亿美元（Farside Investors数据）。"
+          },
+          "sources": [
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/spot-ethereum-etfs-outflows-four-sessions/"
+            },
+            {
+              "name": "crypto.news",
+              "url": "https://crypto.news/ethereum-price-1700-etf-outflows-nov-20/"
+            }
+          ]
+        },
+        {
+          "category": "regulation",
+          "id": "20261122-09",
+          "time": "2026-11-19T15:20:38Z",
+          "title": {
+            "en": "Binance wins $6.5 billion worldwide freezing order against hackers behind record theft",
+            "zh": "币安获得65亿美元全球冻结令，追讨创纪录盗窃案赃款"
+          },
+          "summary": {
+            "en": "An Abu Dhabi court handed Binance a worldwide freezing order covering $6.5 billion, barring the hackers behind October's record theft from moving the proceeds. The order covers 18 firms that have already frozen stolen assets, and the court will consider on December 1 whether they must hand those assets over. Binance said it has already replaced the stolen assets with its own funds, while third parties have frozen or intercepted about $2.85 billion.",
+            "zh": "阿布扎比法院向币安发出覆盖65亿美元的全球冻结令，禁止10月创纪录盗窃案的黑客转移赃款。该命令涉及18家已冻结被盗资产的公司，法院将于12月1日审议这些公司是否须移交资产。币安表示已用自有资金补足被盗资产，第三方已冻结或截获约28.5亿美元赃款。"
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-11-18-binance-freezing-court-order-adgm-crypto-october-hack-443491"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "items": [
         {
@@ -2847,288 +3059,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-01",
-      "items": [
-        {
-          "category": "solana",
-          "id": "20261101-01",
-          "sources": [
-            {
-              "name": "NewsBTC",
-              "url": "https://www.newsbtc.com/news/polygon-extends-open-money-stack-to-solana-for-stablecoin-payment-flows/"
-            },
-            {
-              "name": "Bitcoin.com News",
-              "url": "https://news.bitcoin.com/blockchain/polygon-adds-solana-open-money-stack-major-expansion/"
-            }
-          ],
-          "summary": {
-            "en": "Polygon Labs announced on October 29 that its Open Money Stack now supports Solana-based businesses across a full stablecoin payment flow, from bank funding to on-chain balances and bank payouts. Companies can connect bank transfers, wallets, cross-chain routing and payouts through a single integration, without forcing users to handle bridges directly. Cross-border payments firm Kira is among the first customers adopting the Solana integration, using it to turn stablecoin transfers into dollars in clients' bank accounts.",
-            "zh": "Polygon Labs于10月29日宣布，其Open Money Stack（开放货币栈）现已支持基于Solana的业务，覆盖从银行入金、链上余额到银行出金的完整稳定币 (Stablecoin) 支付流程。企业可通过一次集成连接银行转账、钱包、跨链路由与出金服务，而无需用户直接操作跨链桥 (Bridge)。跨境支付公司Kira已成为首批采用该Solana集成服务的客户之一，用于将稳定币转账转换为客户银行账户中的美元。"
-          },
-          "time": "2026-10-31T17:00:00Z",
-          "title": {
-            "en": "Polygon extends Open Money Stack to Solana, linking stablecoin payments with bank rails",
-            "zh": "Polygon将Open Money Stack扩展至Solana，打通稳定币支付与银行出入金"
-          }
-        },
-        {
-          "category": "market",
-          "id": "20261101-02",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach"
-            },
-            {
-              "name": "Business Today",
-              "url": "https://www.businesstoday.in/amp/technology/news/story/binance-says-90-of-stolen-crypto-assets-replenished-withdrawals-to-resume-on-november-1-564957-2026-10-31"
-            }
-          ],
-          "summary": {
-            "en": "Binance said on October 31 it has replaced about 90% of the roughly $6.3 billion stolen on October 29, up from about 80% in its previous update, and remains on track to reopen withdrawals on Sunday, November 1, subject to final security checks. Customer holdings of the ten largest assets, including bitcoin, ether, USDT, BNB and SOL, are now fully backed, while the remaining roughly 10% consists of less liquid tokens the exchange is still buying on public markets and over the counter.",
-            "zh": "币安10月31日表示，已补足10月29日约63亿美元被盗事件中约90%的资产，高于此前公布的约80%，并仍计划于11月1日（周日）恢复提现服务，但须通过最终安全检查。比特币 (Bitcoin)、以太坊 (Ethereum)、USDT、BNB、SOL等十大资产的客户持仓现已实现100%足额支撑，剩余约10%为流动性较差的小币种，仍在通过市场与场外渠道继续买入补足。"
-          },
-          "time": "2026-10-31T15:24:00Z",
-          "title": {
-            "en": "Binance says it has replaced 90% of stolen assets, plans November 1 withdrawal restart",
-            "zh": "币安称已补足90%被盗资产，计划11月1日恢复提现"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "20261101-03",
-          "sources": [
-            {
-              "name": "The Coin Republic",
-              "url": "https://www.thecoinrepublic.com/2026/10/31/bitcoin-etfs-bleed-643m-in-biggest-exit-since-june-whats-next/"
-            },
-            {
-              "name": "CryptoTimes",
-              "url": "https://www.cryptotimes.io/2026/10/31/bitcoin-price-today-btc-falls-to-77k-as-427m-in-crypto-liquidations-hit-etfs-see-643m-outflow/"
-            }
-          ],
-          "summary": {
-            "en": "US spot bitcoin ETFs recorded about $643 million in net outflows on October 30, ending a four-session inflow streak and marking the largest single-day withdrawal since June 25. BlackRock's IBIT accounted for about $234 million and Fidelity's FBTC about $201 million, together roughly two-thirds of the day's total. The funds still held about $98.14 billion in assets, so the day's exit equaled roughly 0.7% of that total.",
-            "zh": "美国现货比特币ETF (Spot Bitcoin ETF) 于10月30日录得约6.43亿美元净流出，终结此前连续四个交易日的净流入势头，并创下6月25日以来的最大单日流出。贝莱德 (BlackRock) 的IBIT流出约2.34亿美元，富达 (Fidelity) 的FBTC流出约2.01亿美元，两者合计占当日流出的约三分之二。"
-          },
-          "time": "2026-10-31T11:30:00Z",
-          "title": {
-            "en": "US spot bitcoin ETFs see $643 million in single-day outflows, largest since June",
-            "zh": "美国比特币现货ETF单日净流出6.43亿美元，创6月以来最大单日流出"
-          }
-        },
-        {
-          "category": "ethereum",
-          "id": "20261101-04",
-          "sources": [
-            {
-              "name": "The Coin Republic",
-              "url": "https://www.thecoinrepublic.com/2026/10/31/bitcoin-etfs-bleed-643m-in-biggest-exit-since-june-whats-next/"
-            },
-            {
-              "name": "TradingView News (BeInCrypto)",
-              "url": "https://www.tradingview.com/news/beincrypto:2e73262fe094b:0-investors-pull-643-million-from-bitcoin-etfs-after-the-biggest-crypto-hack-in-history/"
-            }
-          ],
-          "summary": {
-            "en": "US spot ether ETFs recorded about $156 million in net outflows on October 30, extending their withdrawal streak to a fifth consecutive session alongside heavy redemptions from bitcoin funds. Leveraged liquidations across the crypto market topped $1.5 billion over the same period, underscoring how risk aversion lingered after the Binance breach.",
-            "zh": "美国现货以太坊ETF (Spot Ether ETF) 于10月30日录得约1.56亿美元净流出，连续第五个交易日资金外流，与同日比特币ETF的大额赎回同步出现。市场数据同时显示，过去24小时内全市场杠杆仓位清算规模超过15亿美元，显示币安被盗事件后的避险情绪仍在延续。"
-          },
-          "time": "2026-10-31T11:00:00Z",
-          "title": {
-            "en": "Spot ether ETFs shed $156 million, extending outflows to a fifth straight session",
-            "zh": "以太坊现货ETF单日流出1.56亿美元，连续第五个交易日净流出"
-          }
-        },
-        {
-          "category": "market",
-          "id": "20261101-05",
-          "sources": [
-            {
-              "name": "Coinpedia",
-              "url": "https://coinpedia.org/news/crypto-market-loses-360-billion-in-october-as-solana-ethereum-lead-losses/"
-            },
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/investing/45430"
-            }
-          ],
-          "summary": {
-            "en": "The total crypto market capitalization fell from about $2.94 trillion on October 1 to about $2.58 trillion on October 31, a monthly loss of roughly $360 billion, or about 12.2%. Solana led major-asset declines with a drop of about 25.8% over the month, ether fell about 21.7%, and bitcoin slid from about $87,220 to about $77,300, a loss of about 11.4%, with the Binance breach adding to end-of-month selling pressure.",
-            "zh": "加密市场总市值在10月从约2.94万亿美元降至约2.58万亿美元，单月缩水约3600亿美元，跌幅约12.2%。其中Solana (SOL) 全月下跌约25.8%，以太坊 (Ethereum) 下跌约21.7%，比特币 (Bitcoin) 从约87220美元跌至约77300美元，跌幅约11.4%，币安被盗事件加剧了月末的抛售压力。"
-          },
-          "time": "2026-10-31T10:30:00Z",
-          "title": {
-            "en": "Crypto market sheds about $360 billion in October, with SOL and ETH leading major-asset losses",
-            "zh": "加密市场10月蒸发约3600亿美元，SOL与ETH领跌主流资产"
-          }
-        },
-        {
-          "category": "bitcoin",
-          "id": "20261101-06",
-          "sources": [
-            {
-              "name": "The Cryptonomist",
-              "url": "https://en.cryptonomist.ch/2026/10/31/bitcoin-price-drop-binance-breach/"
-            },
-            {
-              "name": "CoinPaper",
-              "url": "https://coinpaper.com/38150/bitcoin-price-prediction-75-000-in-focus-as-et-fs-lose-643-million-after-binance-hack"
-            }
-          ],
-          "summary": {
-            "en": "Bitcoin traded near $77,170 early on October 31, briefly dipping to about $76,300 before steadying, and remained below the $78,000 to $78,500 resistance zone. That left the asset about 39% below its October 2025 record near $126,000, with the Binance breach and ETF outflows weighing on sentiment.",
-            "zh": "比特币 (Bitcoin) 在10月31日早间交投于约77170美元附近，短暂下探76300美元后企稳，仍低于78000至78500美元的阻力区间。按此计算，比特币较2025年10月约126000美元的纪录高点已回落约39%，币安被盗事件与ETF资金流出共同压制了市场情绪。"
-          },
-          "time": "2026-10-31T07:00:00Z",
-          "title": {
-            "en": "Bitcoin hovers near $77,000, about 39% below its October 2025 record high",
-            "zh": "比特币徘徊于77000美元附近，较2025年10月纪录高点回落约39%"
-          }
-        },
-        {
-          "category": "solana",
-          "id": "20261101-07",
-          "sources": [
-            {
-              "name": "CoinGape",
-              "url": "https://coingape.com/markets/solana-price-prediction-as-fear-greed-index-drops-to-35-is-90-next/"
-            },
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/investing/45430"
-            }
-          ],
-          "summary": {
-            "en": "Solana traded near $95.80 on October 31, still below the psychological $100 level, while the Crypto Fear & Greed Index fell to 35, signaling fear. On the charts, SOL needs to hold support near $94.55; a break below it could expose $91 and then the $90 to $87 range.",
-            "zh": "Solana (SOL) 在10月31日交投于约95.80美元附近，仍低于100美元心理关口，加密恐惧与贪婪指数 (Crypto Fear & Greed Index) 已降至35，进入“恐惧”区间。技术面显示，SOL需守住约94.55美元的支撑位，若失守则可能进一步下探91美元乃至90至87美元区间。"
-          },
-          "time": "2026-10-31T06:00:00Z",
-          "title": {
-            "en": "SOL struggles near $95 after falling below $100 as fear gauge drops to 35",
-            "zh": "SOL跌破100美元后在95美元附近挣扎，恐惧指数降至35"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "20261101-08",
-          "sources": [
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/regulation/45263"
-            },
-            {
-              "name": "Analytics Insight",
-              "url": "https://www.analyticsinsight.net/amp/story/news/2026-midterm-elections-could-reshape-us-crypto-regulations-markets"
-            }
-          ],
-          "summary": {
-            "en": "US midterm elections on November 3 will decide all 435 House seats and 35 Senate seats, determining who leads crypto market-structure legislation for the next two years. The CLARITY Act passed the House in July 2025 but stalled in the Senate on September 15, when a procedural vote failed 49 to 50, short of the 60 votes needed to advance.",
-            "zh": "美国中期选举将于11月3日举行，全部435个众议院席位与35个参议院席位改选，选举结果将决定未来两年由谁主导加密市场结构立法。核心法案CLARITY Act (CLARITY法案) 已于2025年7月在众议院通过，但9月15日在参议院以49票对50票未能达到推进所需的60票，仍处于停滞状态。"
-          },
-          "time": "2026-10-31T00:48:00Z",
-          "title": {
-            "en": "US midterms vote on November 3, with CLARITY Act's fate tied to congressional control",
-            "zh": "美国中期选举11月3日投票，CLARITY法案前景系于国会控制权"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "20261101-09",
-          "sources": [
-            {
-              "name": "SEC",
-              "url": "https://www.sec.gov/newsroom/speeches-statements/atkins-remarks-economic-club-of-dallas-103026"
-            },
-            {
-              "name": "OppHub America",
-              "url": "https://www.opphubamerica.com/explore/sec-declares-most-crypto-not-securities-xrp-outlook-after-2026-rules"
-            }
-          ],
-          "summary": {
-            "en": "US Securities and Exchange Commission Chair Paul Atkins told the Economic Club of Dallas on October 30 that most crypto assets are not themselves securities, pointing to the proposed Regulation Crypto Assets and the Innovation Exemption as follow-up steps. The remarks extend the SEC's Project Crypto push to replace case-by-case enforcement with upfront clarity on where securities laws apply to crypto assets and where they do not.",
-            "zh": "美国证券交易委员会 (SEC) 主席保罗·阿特金斯10月30日在达拉斯经济俱乐部 (Economic Club of Dallas) 发表演讲，重申大多数加密资产本身不是证券，并介绍了“加密资产监管条例 (Regulation Crypto Assets)”提案与“创新豁免 (Innovation Exemption)”等配套措施。该表态延续了SEC“加密项目 (Project Crypto)”的澄清路线，即结束以往以执法行动逐案界定证券属性的做法，为发行人与投资者提供事前可预期的规则。"
-          },
-          "time": "2026-10-30T20:00:00Z",
-          "title": {
-            "en": "SEC Chair Atkins tells Dallas audience most crypto assets are not themselves securities",
-            "zh": "SEC主席阿特金斯在达拉斯重申：大多数加密资产本身不是证券"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "20261101-10",
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance"
-            },
-            {
-              "name": "Crypto-Economy",
-              "url": "https://crypto-economy.com/seriously-dangerous-code-hoskinson-warns-of-eip-7702-risks-amid-binance-wallet-exploit/"
-            }
-          ],
-          "summary": {
-            "en": "Technical analysis shows the attackers used Ethereum's EIP-7702 account-delegation mechanism to delegate a major Binance hot wallet to attacker-controlled code, sweeping about $2.5 billion in ETH and tokens in a short window. EIP-7702 lets an ordinary externally owned account temporarily delegate execution to smart-contract code via a signed authorization, so once signing infrastructure is compromised, the delegation can be used to drain a wallet fast.",
-            "zh": "技术分析显示，攻击者利用以太坊EIP-7702 (EIP-7702) 的账户委托机制，将币安一个主要热钱包委托给攻击者控制的代码，从而在短时间内转移了约25亿美元的ETH与代币。EIP-7702允许普通钱包 (Externally Owned Account) 通过签名授权临时委托给智能合约代码执行，一旦签名基础设施被攻破，委托机制便可被用来快速清空钱包资产。"
-          },
-          "time": "2026-10-30T19:00:00Z",
-          "title": {
-            "en": "EIP-7702 delegation used in Binance theft to sweep about $2.5 billion quickly",
-            "zh": "EIP-7702授权机制被用于币安被盗案，约25亿美元资产遭快速转移"
-          }
-        },
-        {
-          "category": "regulation",
-          "id": "20261101-11",
-          "sources": [
-            {
-              "name": "CryptoSpiel",
-              "url": "https://cryptospiel.com/circle-wants-sec-to-erase-a-costly-wall-street-rule-holding-stablecoins-back/"
-            },
-            {
-              "name": "Digital Today",
-              "url": "https://www.digitaltoday.co.kr/en/view/121795/circle-asks-us-sec-to-treat-usdc-like-cash-and-ease-rules"
-            }
-          ],
-          "summary": {
-            "en": "Stablecoin issuer Circle said in an October 28 statement that the US Securities and Exchange Commission should treat payment stablecoins meeting GENIUS Act standards as cash under its proposed Regulation Crypto Assets framework. Circle also asked for the 2% capital haircut on broker-dealers' proprietary stablecoin positions to be eliminated and for clearer treatment in customer reserve accounts, aiming to widen USDC's use in institutional securities markets.",
-            "zh": "稳定币发行商Circle在10月28日公布的声明中呼吁美国证券交易委员会 (SEC)，在拟议的“加密资产监管条例”框架下，将符合《GENIUS法案》标准的支付型稳定币视同现金处理。Circle还要求取消经纪商自营稳定币头寸现行的2%资本扣减 (Haircut)，并明确客户准备金账户中的稳定币待遇，以扩大USDC在机构证券市场的应用。"
-          },
-          "time": "2026-10-30T01:38:00Z",
-          "title": {
-            "en": "Circle urges SEC to treat compliant stablecoins as cash and drop 2% broker capital haircut",
-            "zh": "Circle呼吁SEC将合规稳定币视同现金，并取消2%的经纪商资本扣减"
-          }
-        },
-        {
-          "category": "tech",
-          "id": "20261101-12",
-          "sources": [
-            {
-              "name": "CryptoNews",
-              "url": "https://cryptonews.net/news/security/33668184/"
-            },
-            {
-              "name": "AiCybr",
-              "url": "https://aicybr.com/blog/bitcoin-core-project-loupe-ai-found-vulnerabilities-october-2026"
-            }
-          ],
-          "summary": {
-            "en": "Bitcoin Core disclosed three vulnerabilities on October 28 found by Spiral's Project Loupe automated large-language-model scan, shipping fixes in versions 29.5, 30.4, 31.2 and 32.1. Two are medium-severity memory-exhaustion issues, including one letting a malicious peer use TCP urgent data to bypass read backpressure and crash Windows, macOS and BSD nodes; the third is a low-severity undo-file overflow issue.",
-            "zh": "比特币核心 (Bitcoin Core) 于10月28日披露三项由Spiral旗下Project Loupe自动化大模型扫描发现的漏洞，并已在29.5、30.4、31.2与32.1版本中发布修复。其中两项为中等严重程度的内存耗尽问题，包括可令恶意节点通过TCP紧急数据 (TCP Urgent Data) 绕过读取限流、拖垮Windows、macOS与BSD节点的漏洞；第三项为低严重程度的撤销文件 (Undo File) 溢出问题。"
-          },
-          "time": "2026-10-29T03:21:00Z",
-          "title": {
-            "en": "Bitcoin Core discloses three AI-scan-found flaws, with fixes shipped in versions 29.5 to 32.1",
-            "zh": "比特币核心披露三项AI扫描发现的漏洞，修复版本29.5至32.1已发布"
-          }
-        }
-      ]
     }
   ],
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
 }
