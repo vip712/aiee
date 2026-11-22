@@ -1,6 +1,172 @@
 {
   "days": [
     {
+      "date": "2026-11-23",
+      "items": [
+        {
+          "id": "20261123-01",
+          "category": "bitcoin",
+          "time": "2026-11-22T22:26:00Z",
+          "title": {
+            "zh": "比特币暴跌至55,130美元后反弹重返60,000美元，27亿美元杠杆仓位被清算",
+            "en": "Bitcoin plunges to $55,130 then rebounds above $60,000 as $2.7 billion in leverage is wiped out"
+          },
+          "summary": {
+            "zh": "比特币周六一度跌至约55,130美元，创2024年9月以来新低，随后反弹重返60,000美元上方，24小时内涨幅约9%。此次暴跌触发约27亿美元杠杆仓位清算（Liquidation），创历史第11大清算事件，其中约6.5亿美元在一小时内被平仓。分析认为，美联储加息预期、美国科技股抛售及现货ETF（Spot ETF）资金流出共同施压，而杠杆出清后市场短期抛压有所缓解。",
+            "en": "Bitcoin fell to about $55,130 on Saturday, its lowest since September 2024, before rebounding back above $60,000 for a roughly 9% intraday gain. The drop triggered about $2.7 billion in leveraged liquidations within 24 hours, the 11th-largest liquidation event on record, with roughly $650 million wiped out in a single hour. Rate-hike expectations, a sell-off in U.S. tech stocks and spot ETF outflows pressured the market, while the flush-out of leveraged longs eased near-term selling pressure."
+          },
+          "sources": [
+            {
+              "name": "Crypto.news",
+              "url": "https://crypto.news/bitcoin-price-crash-seven-market-pressures-altcoins/"
+            },
+            {
+              "name": "CryptoBriefing",
+              "url": "https://www.tradingview.com/news/cryptobriefing:ebfcc41b3094b:0-bitcoin-climbs-back-above-60k-after-leveraged-longs-get-flushed/"
+            }
+          ]
+        },
+        {
+          "id": "20261123-02",
+          "category": "market",
+          "time": "2026-11-22T18:15:00Z",
+          "title": {
+            "zh": "比特币ETF 11月净流出34.7亿美元，贝莱德IBIT创5.41亿美元单日流出纪录",
+            "en": "Bitcoin ETFs bleed $3.47 billion in November as IBIT posts record $541 million outflow"
+          },
+          "summary": {
+            "zh": "美国现货比特币ETF（Spot Bitcoin ETF）11月以来累计净流出约34.7亿美元，全月仅有两个交易日录得净流入。贝莱德IBIT于11月19日单日净流出5.41亿美元，创该基金成立以来最大单日流出纪录；当日全市场净流出5.822亿美元。比特币ETF累计净流入已从9月23日的571.8亿美元降至11月19日的535.1亿美元，机构需求持续疲软。",
+            "en": "U.S. spot Bitcoin ETFs have recorded about $3.47 billion in net outflows so far in November, with only two positive sessions all month. BlackRock's IBIT posted a record $541.1 million single-day outflow on November 19, when total daily redemptions reached $582.2 million. Cumulative net inflows into the funds have fallen from $57.18 billion on September 23 to $53.51 billion on November 19, reflecting persistently weak institutional demand."
+          },
+          "sources": [
+            {
+              "name": "CryptoPotato",
+              "url": "https://cryptopotato.com/bitcoin-and-ethereum-etf-outflows-stay-in-the-billions-for-another-week/"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217"
+            }
+          ]
+        },
+        {
+          "id": "20261123-03",
+          "category": "regulation",
+          "time": "2026-11-22T16:11:00Z",
+          "title": {
+            "zh": "俄罗斯合规加密货币交易规则生效，但尚无交易所获准开市",
+            "en": "Russia's regulated crypto trading rules take effect, but no exchange is cleared to trade yet"
+          },
+          "summary": {
+            "zh": "俄罗斯央行关于有组织加密货币交易的规定于11月22日生效，获批交易所可在央行核准其交易规则后开展比特币、以太坊及USDT交易。截至目前，央行尚未公开确认任何一家交易所获得核准，莫斯科交易所计划于12月1日启动试点。普通投资者每年通过每家中介购买加密货币的上限为30万卢布（约合3,600美元），且须通过知识测试。",
+            "en": "Russia's rules for organized cryptocurrency trading took effect on November 22, allowing approved exchanges to offer Bitcoin, Ether and USDT once the central bank signs off on their trading rulebooks. So far the Bank of Russia has not publicly confirmed a single approval, and Moscow Exchange is targeting a December 1 pilot. Ordinary investors face a purchase cap of 300,000 rubles (about $3,600) per intermediary per year and must pass a knowledge test."
+          },
+          "sources": [
+            {
+              "name": "Bitcoinist",
+              "url": "https://bitcoinist.com/russia-crypto-trading-is-now-legal-but-bitcoin-buyers-still-cant-place-an-order/"
+            },
+            {
+              "name": "CoinStats",
+              "url": "https://coinstats.app/news/20ae8bab9de80fb8bb26413168a9e3996fa977f25d70dc54fb3711f392377be9_Russian-exchanges-can-now-trade-crypto-but-the-market-isnt-ready/"
+            }
+          ]
+        },
+        {
+          "id": "20261123-04",
+          "category": "solana",
+          "time": "2026-11-22T15:00:00Z",
+          "title": {
+            "zh": "Solana反弹至70美元附近，现货SOL ETF结束连续六周资金流出",
+            "en": "Solana recovers toward $70 as spot SOL ETFs snap six-week outflow streak"
+          },
+          "summary": {
+            "zh": "SOL周末反弹至约70美元，24小时上涨约3%，但过去一个月仍下跌约33%。美国现货Solana ETF（Spot Solana ETF）当周录得约440万美元净流入，结束连续六周的资金流出，此前六周累计流出约1.974亿美元。Bitwise同期发布的估值模型预计，在乐观情形下SOL到2031年可达1,100美元。",
+            "en": "SOL recovered toward $70 over the weekend, up about 3% in 24 hours, though it remained down roughly 33% over the past month. U.S. spot Solana ETFs recorded about $4.4 million in net inflows for the week, ending six consecutive weeks of withdrawals that had totaled roughly $197.4 million. Bitwise's valuation model published in the same week projected SOL at $1,100 by 2031 in its bullish scenario."
+          },
+          "sources": [
+            {
+              "name": "Crypto.news",
+              "url": "https://crypto.news/solana-price-rebounds-70-etf-inflows-return/"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/solana-sol-price-recovers-toward-70-as-spot-etfs-snap-six-week-outflow-streak/"
+            }
+          ]
+        },
+        {
+          "id": "20261123-05",
+          "category": "ethereum",
+          "time": "2026-11-22T12:18:00Z",
+          "title": {
+            "zh": "以太坊自1,538美元低点反弹至1,680美元上方，空头回补助推反弹",
+            "en": "Ether rebounds above $1,680 from $1,538 low as short sellers fuel the bounce"
+          },
+          "summary": {
+            "zh": "以太坊周日反弹至约1,685美元，较周六1,538.60美元的低点回升逾10%，但仍受阻于1,712美元附近。24小时内约8,353万美元以太期货仓位被清算，其中空头（Short）占比约76%，空头回补成为反弹的重要推手。美国现货以太坊ETF（Spot Ether ETF）当周净流出2.217亿美元，连续第五个交易日录得资金流出。",
+            "en": "Ether rebounded to about $1,685 on Sunday, recovering more than 10% from Saturday's low of $1,538.60, but stalled near resistance at $1,712. About $83.53 million in Ether futures positions were liquidated in 24 hours, with short positions accounting for roughly 76%, making short covering a key driver of the bounce. U.S. spot Ether ETFs recorded $221.7 million in net outflows for the week, a fifth straight day of withdrawals."
+          },
+          "sources": [
+            {
+              "name": "Analytics Insight",
+              "url": "https://www.analyticsinsight.net/amp/story/news/ethereum-price-tests-support-near-usd-1650-after-five-days-of-ether-etf-outflows"
+            },
+            {
+              "name": "Coinpaper",
+              "url": "https://coinpaper.com/39216/ethereum-price-prediction-could-eth-crash-below-1-500-as-etf-selling-continues"
+            }
+          ]
+        },
+        {
+          "id": "20261123-06",
+          "category": "tech",
+          "time": "2026-11-20T19:37:00Z",
+          "title": {
+            "zh": "包装门罗币XMR1暴跌99%，疑似部署者密钥被盗致1,350万美元损失",
+            "en": "Wrapped Monero token XMR1 collapses 99% after suspected $13.5 million deployer-key hack"
+          },
+          "summary": {
+            "zh": "跨链服务Wagyu发行的包装门罗币XMR1上周五在约半小时内从约500美元暴跌至约1美元，跌幅超过99%。攻击者从XMR1部署者钱包转出520万枚代币，并向约388名买家出售约36.4万枚，套现约1,350万美元，随后将资金兑换为以太币。Wagyu创始人将事件归咎于冰岛托管商1984.hosting遭网络攻击导致部署者密钥泄露，并承诺个人赔偿受损用户；门罗币原生资产XMR未受影响。",
+            "en": "XMR1, the wrapped Monero token issued by cross-chain service Wagyu, collapsed more than 99% on Friday, falling from about $500 to around $1 in roughly half an hour. An attacker moved 5.2 million tokens out of the deployer wallet and sold about 364,000 of them to roughly 388 buyers for $13.5 million, then converted the proceeds into Ether. Wagyu's founder blamed a breach at Icelandic hosting provider 1984.hosting for exposing the deployer key and pledged personal refunds; native Monero (XMR) was unaffected."
+          },
+          "sources": [
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747"
+            }
+          ]
+        },
+        {
+          "id": "20261123-07",
+          "category": "tech",
+          "time": "2026-11-19T15:24:00Z",
+          "title": {
+            "zh": "IOSCO警告称抗量子升级或使区块链吞吐量下降约90%",
+            "en": "IOSCO warns quantum-resistant upgrades could cut blockchain throughput by about 90%"
+          },
+          "summary": {
+            "zh": "国际证监会组织（IOSCO）在11月19日发布的报告中警告，为抵御量子计算攻击而升级区块链可能带来显著的性能、存储与治理成本。报告指出，抗量子签名比现有椭圆曲线签名大35至40倍；Solana一条抗量子测试网在替换签名方案后吞吐量下降约90%。报告称迁移可能耗时数年，呼吁金融机构立即开始准备，尽管目前尚无量子计算机能够破解现行加密技术。",
+            "en": "The International Organization of Securities Commissions (IOSCO) warned in a report published on November 19 that preparing blockchains for quantum attacks could impose significant performance, storage and governance costs. Post-quantum signatures are 35 to 40 times larger than current elliptic-curve signatures, and a quantum-resistant Solana testnet saw throughput fall about 90% after switching signature schemes. Migration could take years, the report said, urging financial firms to start preparing now even though no known quantum computer can yet break widely used cryptography."
+          },
+          "sources": [
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/global-securities-regulators-tell-financial-firms-to-plan-for-a-surprise-quantum-zero-day/"
+            },
+            {
+              "name": "Crypto Economy",
+              "url": "https://crypto-economy.com/iosco-flags-costly-risks-of-preparing-blockchains-for-quantum-threats/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-22",
       "items": [
         {
@@ -2870,196 +3036,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-02",
-      "items": [
-        {
-          "id": "20261102-01",
-          "category": "bitcoin",
-          "time": "2026-11-01T18:56:30Z",
-          "title": {
-            "zh": "比特币反弹至7.8万美元附近，但现货ETF单日净流出6.43亿美元",
-            "en": "Bitcoin rebounds toward $78,000, even as spot ETFs post $643 million in single-day outflows"
-          },
-          "summary": {
-            "zh": "比特币在11月1日回升至约7.8万美元附近，24小时涨幅约0.7%，此前一度跌至约7.63万美元的低点。美国现货ETF (Spot ETF) 在10月30日单日净流出6.43亿美元，为6月以来最大单日流出，其中贝莱德IBIT流出2.337亿美元、富达FBTC流出2.01亿美元，抹去了当周前四天的流入。",
-            "en": "Bitcoin recovered to around $78,000 on November 1, up about 0.7% over 24 hours, after falling to a low near $76,300. U.S. spot Bitcoin ETFs recorded $643 million in net outflows on October 30, the largest single-day exit since June, with BlackRock's IBIT losing $233.7 million and Fidelity's FBTC losing $201 million, erasing the week's first four days of inflows."
-          },
-          "sources": [
-            {
-              "name": "CoinPaper",
-              "url": "https://coinpaper.com/38192/bitcoin-price-prediction-btc-rebounds-to-78-000-but-can-it-reclaim-80-000-in-november"
-            },
-            {
-              "name": "Bitcoin Insider",
-              "url": "https://www.bitcoininsider.org/article/bitcoin-rebounds-etf-outflow-reversal"
-            }
-          ]
-        },
-        {
-          "id": "20261102-02",
-          "category": "market",
-          "time": "2026-11-01T15:30:00Z",
-          "title": {
-            "zh": "币安恢复提款后首日处理46.5亿美元提款，净流出约36.4亿美元",
-            "en": "Binance processes $4.65 billion in withdrawals on restart day, with about $3.64 billion net outflows"
-          },
-          "summary": {
-            "zh": "币安于11月1日分阶段恢复提款，首批覆盖15个网络与资产，至当日15:30（UTC）共处理46.5亿美元提款与10.1亿美元存款，净流出约36.4亿美元，约占其1710亿美元资产管理规模的2.1%。交易所称提款量在开盘冲高后趋于平稳，并表示已补足约95%的被盗资产，剩余流动性较低的代币仍在通过市场与场外渠道补齐。",
-            "en": "Binance resumed withdrawals in phases on November 1, covering 15 networks and assets in the first phase, and processed $4.65 billion in withdrawals against $1.01 billion in deposits by 15:30 UTC, leaving about $3.64 billion in net outflows, or about 2.1% of its $171 billion in assets under management. The exchange said withdrawal volumes stabilized after an opening spike and that about 95% of the stolen assets had been replenished, with less liquid tokens still being sourced through market and over-the-counter channels."
-          },
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/"
-            },
-            {
-              "name": "Bitcoin.com News",
-              "url": "https://news.bitcoin.com/security/binance-processes-4-65b-in-withdrawals-across-15-networks-after-hack/"
-            }
-          ]
-        },
-        {
-          "id": "20261102-03",
-          "category": "solana",
-          "time": "2026-11-01T13:06:00Z",
-          "title": {
-            "zh": "SOL徘徊于95美元附近，Alpenglow升级的快速终局尚未扭转需求担忧",
-            "en": "SOL holds near $95 as Alpenglow's faster finality has yet to ease demand concerns"
-          },
-          "summary": {
-            "zh": "SOL在11月1日报价约95.21美元，Alpenglow共识升级已于10月21日上线主网，目标是将交易终局时间 (Finality) 从约12.8秒缩短至约150毫秒。分析指出，升级本身已被市场预期，而网络收入与费用趋势仍是关键变量，21Shares数据显示2026年上半年网络收入为1.41亿美元，较2025年同期的10.9亿美元下降87.1%。",
-            "en": "SOL traded at about $95.21 on November 1, after the Alpenglow consensus upgrade went live on mainnet on October 21, targeting transaction finality of about 150 milliseconds instead of roughly 12.8 seconds. Analysts noted the upgrade had been anticipated, while network revenue and fee trends remain key variables, with 21Shares data putting first-half 2026 network revenue at $141 million, down 87.1% from $1.09 billion in the same period of 2025."
-          },
-          "sources": [
-            {
-              "name": "AD HOC NEWS",
-              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/solana-price-weighs-alpenglow-upgrade-against-demand-concerns/70441404"
-            },
-            {
-              "name": "Solana",
-              "url": "https://solana.com/news/solana-changelog-october-29-2026"
-            }
-          ]
-        },
-        {
-          "id": "20261102-04",
-          "category": "bitcoin",
-          "time": "2026-11-01T12:18:11Z",
-          "title": {
-            "zh": "比特币白皮书发布18周年，现货ETF合计持有约128万枚BTC",
-            "en": "Bitcoin white paper turns 18 as spot ETFs hold about 1.28 million BTC"
-          },
-          "summary": {
-            "zh": "2008年10月31日，中本聪在密码学邮件列表发布了9页的《比特币：一种点对点的电子现金系统》，18年后比特币市值约1.55万亿美元。截至10月31日，美国现货ETF合计持有约128万枚BTC，约占流通量的6.36%，Strategy持有848,517枚；2026年3月9日第2000万枚BTC被挖出，已发行量超过总上限2100万枚的95%。",
-            "en": "On October 31, 2008, Satoshi Nakamoto published the nine-page paper 'Bitcoin: A Peer-to-Peer Electronic Cash System' on a cryptography mailing list; 18 years later, Bitcoin's market value is about $1.55 trillion. As of October 31, U.S. spot Bitcoin ETFs together held about 1.28 million BTC, roughly 6.36% of circulating supply, while Strategy held 848,517 BTC; the 20 millionth BTC was mined on March 9, 2026, taking issued supply past 95% of the 21 million cap."
-          },
-          "sources": [
-            {
-              "name": "Bitcoin.com News",
-              "url": "https://news.bitcoin.com/featured/satoshis-bitcoin-white-paper-turns-18-with-a-new-question-who-pays-for-security/"
-            },
-            {
-              "name": "The Coin Republic",
-              "url": "https://www.thecoinrepublic.com/2026/11/01/bitcoin-price-at-18-from-0-to-77k-as-etfs-hold-1-28m-btc/?amp"
-            }
-          ]
-        },
-        {
-          "id": "20261102-05",
-          "category": "regulation",
-          "time": "2026-11-01T11:00:00Z",
-          "title": {
-            "zh": "FBI认定朝鲜TraderTraitor组织实施币安63亿美元盗窃案",
-            "en": "FBI attributes Binance's $6.3 billion theft to North Korea's TraderTraitor unit"
-          },
-          "summary": {
-            "zh": "美国联邦调查局 (FBI) 表示，朝鲜国家支持的TraderTraitor组织应对10月29日币安约63亿美元虚拟资产被盗负责，并称已观察到该组织将赃款转换为以太坊 (ETH)。FBI预计赃款将通过去中心化金融 (DeFi) 与即时兑换服务进一步洗钱，并公布了与盗窃相关的钱包地址供行业封堵。币安则重申将自行承担被盗资金的财务影响，而非转嫁给用户。",
-            "en": "The U.S. Federal Bureau of Investigation (FBI) said North Korea's state-sponsored TraderTraitor unit was responsible for the theft of about $6.3 billion in virtual assets from Binance on October 29, and that it had observed the group converting stolen assets into ether (ETH). The FBI said it expected further laundering through decentralized finance (DeFi) and instant-swap services, and published wallet addresses linked to the theft for the industry to block. Binance reiterated that it would absorb the financial impact itself, rather than passing it to users."
-          },
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/legal/government/binance-resume-withdrawals-after-recovering-bulk-6-billion-stolen-funds-2026-11-01/"
-            },
-            {
-              "name": "CNN",
-              "url": "https://www.cnn.com/2026/11/01/business/binance-withdrawals-crypto-heist?cid=external-feeds_iluminar_meta"
-            }
-          ]
-        },
-        {
-          "id": "20261102-06",
-          "category": "bitcoin",
-          "time": "2026-11-01T08:44:50Z",
-          "title": {
-            "zh": "比特币Coinbase溢价跌至4年低点，CryptoQuant负责人视极端悲观为反向信号",
-            "en": "Bitcoin's Coinbase Premium falls to four-year low, seen by CryptoQuant chief as contrarian signal"
-          },
-          "summary": {
-            "zh": "CryptoQuant的Coinbase溢价指数 (Coinbase Premium Index) 跌至约-0.2%，为2022年11月FTX崩盘后以来的最低水平，该指标衡量Coinbase美元价格与币安USDT价格之差。CryptoQuant首席执行官Ki Young Ju表示，市场情绪已悲观到足以看涨，这是一种个人判断而非价格保证；上一次出现类似读数时，比特币在约1.55万至1.6万美元附近见底。",
-            "en": "CryptoQuant's Coinbase Premium Index fell to about -0.2%, its lowest level since November 2022, after the FTX collapse; the index measures the difference between Bitcoin's dollar price on Coinbase and its USDT price on Binance. CryptoQuant CEO Ki Young Ju said market sentiment had become bearish enough to be bullish, a personal judgment rather than a price guarantee; the last time readings were this low, Bitcoin bottomed near $15,500 to $16,000."
-          },
-          "sources": [
-            {
-              "name": "ZyCrypto",
-              "url": "https://zycrypto.com/bitcoin-signal-crashes-to-4-year-low-last-seen-during-ftx-disaster-but-top-analyst-sees-a-silver-lining/"
-            },
-            {
-              "name": "CoinGape",
-              "url": "https://coingape.com/bitcoin-coinbase-premium-hits-level-last-seen-during-ftx-collapse-cryptoquant-ceo/"
-            }
-          ]
-        },
-        {
-          "id": "20261102-07",
-          "category": "ethereum",
-          "time": "2026-11-01T08:03:20Z",
-          "title": {
-            "zh": "以太坊回升至2270美元附近，质押量创4380万枚纪录",
-            "en": "Ether recovers near $2,270 as staked supply hits record 43.8 million ETH"
-          },
-          "summary": {
-            "zh": "以太坊在11月1日回升至约2270美元，涨幅约1.12%，尽管美国现货以太坊ETF (Spot Ether ETF) 当周净流出4.314亿美元、10月30日单日流出1.557亿美元。CryptoQuant数据显示质押量达到4380万枚ETH，约占流通量的35.9%，市场关注的支撑位在2250美元附近、阻力位在2300美元附近。",
-            "en": "Ether recovered to about $2,270 on November 1, up about 1.12%, despite $431.4 million in weekly net outflows from U.S. spot Ether ETFs, including $155.7 million on October 30. CryptoQuant data put staked supply at a record 43.8 million ETH, about 35.9% of circulating supply, while market watchers were eyeing support near $2,250 and resistance near $2,300."
-          },
-          "sources": [
-            {
-              "name": "Crypto.news",
-              "url": "https://crypto.news/why-is-ethereum-price-up-today/"
-            },
-            {
-              "name": "Traders Union",
-              "url": "https://tradersunion.com/news/cryptocurrency-news/show/4050173-ethereum-jumps-1-2percent-to-usd2271/"
-            }
-          ]
-        },
-        {
-          "id": "20261102-08",
-          "category": "tech",
-          "time": "2026-10-29T12:00:00Z",
-          "title": {
-            "zh": "Solana发布10月29日开发者更新，Agave与Firedancer迎来新版本",
-            "en": "Solana publishes October 29 developer update with new Agave and Firedancer releases"
-          },
-          "summary": {
-            "zh": "Solana官方更新列出了Agave v4.5.0-alpha.4与v4.4.0、Firedancer主网版本v26.10.5，以及Solana Kit与Token-2022的新版本，并发布了链下消息签名 (Offchain Message Signing) 功能。更新还提到Solana命令行工具 (CLI) 与构建工具cargo-build-sbf的安装解耦，以及验证者事件服务与交易处理方面的改进，伦敦黑客松 (Hacker House) 定于11月1日至12日举行。",
-            "en": "Solana's official update listed Agave v4.5.0-alpha.4 and v4.4.0, Firedancer mainnet release v26.10.5, and new Solana Kit and Token-2022 releases, alongside the release of offchain message signing. The update also noted the decoupling of Solana CLI installation from the cargo-build-sbf build tool, plus work on validator event services and transaction handling, with the London Hacker House scheduled for November 1-12."
-          },
-          "sources": [
-            {
-              "name": "Solana",
-              "url": "https://solana.com/news/solana-changelog-october-29-2026"
-            },
-            {
-              "name": "AD HOC NEWS",
-              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/solana-price-weighs-alpenglow-upgrade-against-demand-concerns/70441404"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-22"
+  "updated": "2026-11-23"
 }
