@@ -1,6 +1,195 @@
 {
   "days": [
     {
+      "date": "2026-11-24",
+      "items": [
+        {
+          "id": "20261124-01",
+          "category": "ethereum",
+          "time": "2026-11-23T16:46:00Z",
+          "title": {
+            "zh": "BitMine以太坊持仓达608万枚，接近总供应量5%目标",
+            "en": "BitMine's ETH holdings reach 6.09 million, nearing 5% of total supply"
+          },
+          "summary": {
+            "zh": "上市公司BitMine Immersion Technologies（BitMine）宣布，上周再买入7,819枚以太币（ETH），总持仓达6,085,564枚，约占以太坊流通供应量（Circulating Supply）的4.98%，距离其5%的“Alchemy of 5%”目标仅一步之遥。公司表示自2025年6月启动以太坊财库战略（Treasury Strategy）以来每周持续买入，其中约86%的持仓已通过其MAVAN平台质押（Staking），预计年化质押收益约2.45亿美元。尽管以太币月内下跌约26%，其财库总价值仍达111亿美元，但持仓账面浮亏约96亿美元。",
+            "en": "BitMine Immersion Technologies said it bought another 7,819 ETH last week, lifting its holdings to 6,085,564 ETH, or about 4.98% of Ethereum's circulating supply, just short of its 5% \"Alchemy of 5%\" target. The company has bought ETH every week since launching its Ethereum treasury strategy in June 2025, and about 86% of its holdings are staked through its MAVAN platform, generating an estimated $245 million in annualized staking revenue. Despite a roughly 26% monthly drop in ETH, BitMine's total holdings stand at $11.1 billion, though its ETH position is about $9.6 billion underwater on cost."
+          },
+          "sources": [
+            {
+              "name": "Decrypt",
+              "url": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more"
+            },
+            {
+              "name": "Bitcoin.com",
+              "url": "https://news.bitcoin.com/crypto-news/bitmine-13m-eth-buy-ether-recovers-5-month-price-low/"
+            }
+          ]
+        },
+        {
+          "id": "20261124-02",
+          "category": "solana",
+          "time": "2026-11-23T15:37:00Z",
+          "title": {
+            "zh": "Solana反弹至76美元，较周末低点回升逾20%",
+            "en": "Solana rebounds to $76, up over 20% from weekend low near $65"
+          },
+          "summary": {
+            "zh": "Solana（SOL）周一反弹至约76美元，日内一度触及78.48美元，较周六约65美元的低点回升逾20%，当时其相对强弱指数（RSI）已跌至23.5的超卖区间。美国现货SOL ETF（Spot ETF）上周净流入约440万美元，终结了此前连续六周的资金流出，其中Bitwise旗下BSOL单周吸金1,080万美元。尽管反弹强劲，SOL仍远低于92美元附近的周均线，趋势反转尚未确认。",
+            "en": "Solana (SOL) rebounded to about $76 on Monday, touching an intraday high of $78.48, more than 20% above Saturday's low near $65, when its daily RSI had fallen to an oversold 23.5. U.S. spot SOL ETFs took in about $4.4 million last week, ending six straight weeks of outflows, with Bitwise's BSOL alone drawing $10.8 million. The bounce remains unconfirmed as a trend reversal, with SOL still well below its weekly moving averages near $92."
+          },
+          "sources": [
+            {
+              "name": "Crypto.news",
+              "url": "https://crypto.news/solana-price-rebounds-76-weekend-drop/"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/cryptocurrencies/news/solana-price-forecast-sol-holds-above-70-as-etf-inflows-ease-selloff-202611230459"
+            }
+          ]
+        },
+        {
+          "id": "20261124-03",
+          "category": "bitcoin",
+          "time": "2026-11-23T12:30:00Z",
+          "title": {
+            "zh": "比特币连续七周下跌，创有记录以来第二长连跌纪录",
+            "en": "Bitcoin falls for seven straight weeks, second-longest losing streak on record"
+          },
+          "summary": {
+            "zh": "比特币已连续七周收跌，为有记录以来第二长周线连跌，仅次于2022年Terra崩盘期间的九周连跌；自10月5日当周约86,500美元起，价格已累计下跌29%，周末一度跌至约55,500美元，随后反弹至61,000美元上方。市场情绪极度悲观，加密恐惧与贪婪指数（Fear and Greed Index）一度降至6，低于FTX崩盘后的水平。分析师对底部位置分歧较大，有观点认为可能下探4万美元区间，也有观点认为底部已接近形成，关键变量是美联储12月的利率决定与周三公布的核心PCE（Core PCE）通胀数据。",
+            "en": "Bitcoin has fallen for seven consecutive weeks, its second-longest weekly losing streak on record after the nine-week slide during the 2022 Terra collapse; the price has dropped 29% from about $86,500 in the week of October 5, touching roughly $55,500 over the weekend before recovering above $61,000. Sentiment is deeply fearful, with the Crypto Fear and Greed Index falling to 6, below its post-FTX-collapse reading. Analysts disagree on where the bottom lies, with some seeing a possible drop toward the $40,000s and others saying a bottom is forming, with the Federal Reserve's December rate decision and Wednesday's core PCE inflation data as key triggers."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/bitcoin-btc-price-rebounds-above-61000-as-etf-outflows-reach-1-8-billion/"
+            }
+          ]
+        },
+        {
+          "id": "20261124-04",
+          "category": "ethereum",
+          "time": "2026-11-23T12:13:00Z",
+          "title": {
+            "zh": "研究警告：约4200万枚以太币面临未来量子计算攻击风险",
+            "en": "Research warns about 42 million ETH face future quantum-computing risk"
+          },
+          "summary": {
+            "zh": "匹兹堡大学（University of Pittsburgh）与安全公司SeQure的研究发现，约4,200万枚以太币（ETH），价值约720亿美元，存放在已暴露公钥（Public Key）的钱包中，未来足够强大的量子计算机理论上可据此推导出私钥（Private Key）并窃取资金；目前尚无公开已知的量子计算机具备这一能力。研究估计，若提前迁移至抗量子密钥（Quantum-Resistant Keys），445万个符合条件的钱包约需29天完成注册；若全部拖延至旧签名停用后再恢复，则需约235天。此外，61%的质押以太币（Staked ETH）在提取后也将进入已暴露公钥的钱包。以太坊开发者正在Hegotá升级（Hegotá Upgrade）中评估量子防御方案。",
+            "en": "Researchers at the University of Pittsburgh and security firm SeQure found that about 42 million ETH, worth roughly $72 billion, sits in wallets whose public keys have already been exposed on-chain, which a sufficiently powerful future quantum computer could theoretically use to derive private keys and steal funds; no publicly known machine can do so today. The team estimated that migrating 4.45 million eligible wallets to quantum-resistant keys could take 29 days if done early, or 235 days if all waited until after old signatures were disabled. Some 61% of staked ether is also set to move into exposed-key wallets once withdrawn. Ethereum developers are weighing quantum defenses for the planned Hegota upgrade."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/23/ethereum-wallets-holding-usd72-billion-eth-are-under-threat-of-a-future-quantum-attack"
+            },
+            {
+              "name": "Bitcoinist",
+              "url": "https://bitcoinist.com/researchers-warn-72b-in-eth-faces-future-quantum-risk/"
+            }
+          ]
+        },
+        {
+          "id": "20261124-05",
+          "category": "market",
+          "time": "2026-11-23T09:00:00Z",
+          "title": {
+            "zh": "比特币ETF单周净流出17.9亿美元，创6月以来最大",
+            "en": "Bitcoin ETFs see $1.79 billion weekly outflow, largest since June"
+          },
+          "summary": {
+            "zh": "美国现货比特币ETF（Spot Bitcoin ETF）上周净流出17.9亿美元，为截至6月26日当周以来最大单周流出，也是自2024年1月产品上市以来的第三大单周流出；这已是连续第四周净流出，四周累计流出43.4亿美元，11月累计流出达41.4亿美元。贝莱德IBIT占上周流出的约76%，达13.7亿美元，周四、周五单日流出分别创该基金纪录。同期现货以太币ETF净流出3.14亿美元，连续第八周录得负值；比特币ETF总净资产已从9月中旬约1,100亿美元降至713.5亿美元。",
+            "en": "U.S. spot bitcoin ETFs recorded $1.79 billion in net outflows last week, the largest weekly withdrawal since the week ended June 26 and the third-largest since the products launched in January 2024, marking a fourth consecutive week of outflows totaling $4.34 billion over the period. November outflows reached $4.14 billion, with BlackRock's IBIT accounting for about 76% of the week's redemptions at $1.37 billion, including record single-day outflows on Thursday and Friday. Spot ether ETFs lost $314 million, their eighth straight week of redemptions, and total bitcoin ETF net assets have fallen from about $110 billion in mid-September to $71.35 billion."
+          },
+          "sources": [
+            {
+              "name": "Cryptonomist",
+              "url": "https://en.cryptonomist.ch/2026/11/23/bitcoin-etf-outflows-highest-june/"
+            },
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside"
+            }
+          ]
+        },
+        {
+          "id": "20261124-06",
+          "category": "tech",
+          "time": "2026-11-23T05:42:00Z",
+          "title": {
+            "zh": "Kraken加元市场闪崩：比特币一度跌至1.7万美元，成交全部有效",
+            "en": "Kraken CAD market flash crash sends bitcoin to $17,000; trades stand"
+          },
+          "summary": {
+            "zh": "上周六凌晨，Kraken交易所加元（CAD）交易对的比特币价格一度跌至24,250加元（约合1.7万美元），较全球市价低近70%，原因是该交易所各法币采用独立订单簿（Order Book），加元市场流动性枯竭导致止损单连锁触发；在15分钟窗口内共成交976笔，约245枚比特币在均价低于5万加元的区间易手。Kraken表示平台订单均正常执行，未发现安全漏洞或账户被盗，所有成交维持有效；以太币、XRP及稳定币USDT的加元价格也同步暴跌。价格随后回升，周一已与全球市价重新接轨。",
+            "en": "Early Saturday, bitcoin briefly fell to C$24,250, about $17,000, on Kraken's Canadian dollar market, nearly 70% below global prices, after heavy selling drained liquidity from the exchange's isolated CAD order book and triggered cascading stop-loss orders; 976 trades executed in a 15-minute window, with about 245 BTC changing hands while average prices stayed below C$50,000. Kraken said every order executed correctly, no security breach or compromised accounts were found, and all trades stand, while ether, XRP and even the USDT stablecoin also plunged on the CAD book. Prices recovered within hours and were back in line with global markets by Monday."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
+            },
+            {
+              "name": "Finance Magnates",
+              "url": "https://www.financemagnates.com/cryptocurrency/exchange/bitcoin-at-17k-why-krakens-flash-crash-avoided-saxos-2015-repricing-trap/"
+            }
+          ]
+        },
+        {
+          "id": "20261124-07",
+          "category": "ethereum",
+          "time": "2026-11-20T12:00:00Z",
+          "title": {
+            "zh": "以太坊Glamsterdam升级推迟至2027年，智能合约兼容性成主因",
+            "en": "Ethereum's Glamsterdam upgrade delayed to 2027 over contract compatibility"
+          },
+          "summary": {
+            "zh": "以太坊核心开发者在11月19日的全体核心开发者执行层会议（All Core Devs Execution）上确认，Glamsterdam升级（Glamsterdam Upgrade）无法在原定的12月上线，最早也要到2027年1月中旬，更可能在1月底至2月初；若修改技术规范，激活时间可能延后至2027年5月。推迟主因是EIP-8037与EIP-8038两项Gas定价（Gas Pricing）提案会大幅提高合约部署与状态存储成本，可能导致现有智能合约（Smart Contract）运行失败；审计发现约200处潜在问题，以太坊基金会及安全公司已联系50多家受影响的应用团队。Hoodi测试网（Testnet）分叉暂定于12月14日当周进行，最终决定将于11月26日的开发者会议上作出。",
+            "en": "Ethereum core developers confirmed at their November 19 All Core Devs Execution call that the Glamsterdam upgrade cannot go live in December as planned, with mid-January 2027 the earliest possible date and late January or early February more realistic; changing the specifications could push activation to May 2027. The delay stems from gas repricing proposals EIP-8037 and EIP-8038, which would sharply raise contract deployment and state storage costs and could break existing smart contracts, with an audit flagging about 200 findings. The Ethereum Foundation and security firms have contacted more than 50 affected application teams, and a Hoodi testnet fork is tentatively planned for the week of December 14, pending a decision at the November 26 developers' meeting."
+          },
+          "sources": [
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/ethereums-glamsterdam-upgrade-slips-into-2027-as-developers-fix-apps-that-could-break"
+            },
+            {
+              "name": "ForkLog",
+              "url": "https://forklog.com/en/ethereum-developers-postpone-glamsterdam-upgrade-to-2027/"
+            }
+          ]
+        },
+        {
+          "id": "20261124-08",
+          "category": "regulation",
+          "time": "2026-11-18T22:09:00Z",
+          "title": {
+            "zh": "六名参议员致函财政部，要求州级稳定币发行方与联邦同等待遇",
+            "en": "Six senators urge Treasury to give state stablecoin issuers equal footing"
+          },
+          "summary": {
+            "zh": "六名两党参议员11月17日致函美国财政部长贝森特（Scott Bessent），要求在《GENIUS法案》（GENIUS Act）实施细则中给予州级监管的稳定币发行方（Stablecoin Issuer）与联邦申请人同等的临时安全港（Safe Harbor）保护。联名信由参议院银行委员会数字资产小组主席Cynthia Lummis与Kirsten Gillibrand牵头，指出财政部现行提案只为待批的联邦申请人提供豁免，却未给州级发行方同等保护，可能迫使发行方转向联邦牌照，违背国会立法本意。法案允许发行量100亿美元及以下的发行方在州级监管下运营，前提是该州制度与联邦框架“基本相似”（Substantially Similar）；法案将于2027年1月18日生效。",
+            "en": "Six bipartisan U.S. senators wrote to Treasury Secretary Scott Bessent on November 17, urging the department to give state-regulated stablecoin issuers the same temporary safe harbor protection as federal applicants under the GENIUS Act's implementation rules. Led by Senate Banking digital assets subcommittee chair Cynthia Lummis and Kirsten Gillibrand, the letter said Treasury's current proposal shields only federal applicants with pending applications, with no equivalent protection for state issuers, potentially pushing firms toward federal charters against Congress's intent. The GENIUS Act allows issuers with $10 billion or less outstanding to operate under state supervision if the state's regime is \"substantially similar\" to the federal framework; the law takes effect January 18, 2027."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501"
+            },
+            {
+              "name": "PYMNTS",
+              "url": "https://www.pymnts.com/cryptocurrency/2026/senators-urge-treasury-protect-state-stablecoin-charters-under-genius-act/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "items": [
         {
@@ -2801,242 +2990,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-03",
-      "items": [
-        {
-          "id": "20261103-01",
-          "category": "tech",
-          "time": "2026-11-02T22:35:00Z",
-          "title": {
-            "zh": "香港金管局EnsembleTX试点实现代币化存款7×24小时结算",
-            "en": "Hong Kong's EnsembleTX pilot moves to 24/7 tokenized-deposit settlement"
-          },
-          "summary": {
-            "zh": "香港金融管理局 (HKMA) 11月2日宣布，EnsembleTX试点现已支持以代币化央行货币 (Tokenised Central Bank Money) 对代币化存款交易进行7×24小时银行间结算，不再受港元实时全额结算系统 (RTGS) 的营业时间限制。试点参与银行已增至12家、行业先行者增至20家，包括汇丰、渣打、工商银行 (亚洲) 等，适用场景包括企业财资管理和代币化基金交易。金管局还表示，已完成代币化外汇基金票据 (Exchange Fund Bills) 的二级市场试验交易，并计划将试验扩大至受监管稳定币 (Regulated Stablecoins)。",
-            "en": "The Hong Kong Monetary Authority announced on November 2 that its EnsembleTX pilot now supports round-the-clock interbank settlement of tokenized-deposit transactions in tokenized central bank money, moving beyond Hong Kong dollar RTGS operating hours. Participation has grown to 12 banks and 20 industry pioneers, including HSBC and Standard Chartered, with corporate treasury management and tokenized fund transactions among the use cases. The HKMA also said trial secondary-market trades in tokenized Exchange Fund Bills are complete, with regulated stablecoins next in line for trials."
-          },
-          "sources": [
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/hkma-pilot-lets-banks-settle-tokenized-deposits-nights-and-weekends-in-central-bank-money/"
-            },
-            {
-              "name": "Blockchain.News",
-              "url": "https://blockchain.news/news/hkma-expands-project-ensemble-24-7-tokenised-settlement"
-            }
-          ]
-        },
-        {
-          "id": "20261103-02",
-          "category": "market",
-          "time": "2026-11-02T21:17:00Z",
-          "title": {
-            "zh": "11月2日晚间加密市场再度走弱，比特币跌至约7.67万美元",
-            "en": "Crypto markets retreat again on the evening of November 2, with bitcoin near $76,700"
-          },
-          "summary": {
-            "zh": "截至11月2日晚间，比特币 (BTC) 跌约1.9%至约76,732美元，以太坊 (ETH) 跌约1.1%至约2,248美元，Solana (SOL) 跌约3.1%至约91.56美元，市场继续消化币安 (Binance) 63亿美元被盗事件后的提款潮与安全担忧。尽管当日早些时候价格曾企稳回升，但晚间抛压再起，显示投资者信心仍未完全恢复。币安此前表示已用自有资金补足约95%的被盗资产，并分阶段恢复提款。",
-            "en": "As of the evening of November 2, bitcoin fell about 1.9% to roughly $76,732, ether fell about 1.1% to about $2,248, and Solana fell about 3.1% to about $91.56, as markets kept digesting the aftermath of Binance's $6.3 billion hack. Prices had steadied earlier in the day, but selling returned in the evening, showing investor confidence had not fully recovered. Binance had said it replaced about 95% of the stolen assets from company funds and was restoring withdrawals in phases."
-          },
-          "sources": [
-            {
-              "name": "The Motley Fool",
-              "url": "https://www.fool.com/coverage/stock-market-today/2026/11/02/crypto-market-today-nov-2-crypto-market-today-nov-2-bitcoin-and-altcoins-retreat-as-binance-withdrawals-spark-fresh-concerns/"
-            },
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen"
-            }
-          ]
-        },
-        {
-          "id": "20261103-03",
-          "category": "ethereum",
-          "time": "2026-11-02T17:46:00Z",
-          "title": {
-            "zh": "以太坊Glamsterdam升级在Hoodi测试网延期，主网时间表未定",
-            "en": "Ethereum's Glamsterdam upgrade delayed on the Hoodi testnet, leaving the mainnet timetable unsettled"
-          },
-          "summary": {
-            "zh": "以太坊 (Ethereum) 核心开发者已推迟原定10月26日在Hoodi测试网激活的Glamsterdam升级，原因是需要进一步研究EIP-8037等燃气 (Gas) 定价调整与现有主网智能合约的相互影响，新的激活日期尚未公布。延期同时取消了将Hoodi燃气上限 (Gas Limit) 提升至2亿的计划，但不影响Hoodi已有链上历史，也无需以太坊持有者采取任何行动。Glamsterdam此前已于10月6日在Sepolia测试网激活，该测试网不受此次延期影响。",
-            "en": "Ethereum core developers have postponed the Glamsterdam upgrade on the Hoodi testnet, originally scheduled for October 26, to investigate how gas repricing changes such as EIP-8037 interact with existing mainnet smart contracts; no replacement date has been set. The delay also cancels the planned rise in Hoodi's gas limit to 200 million, but it does not revert Hoodi's chain history and requires no action from ether holders. Glamsterdam already activated on the Sepolia testnet on October 6, which is unaffected by the postponement."
-          },
-          "sources": [
-            {
-              "name": "CoinGape",
-              "url": "https://coingape.com/ethereum-delays-glamsterdam-hoodi-upgrade-over-eip-8037-risks/"
-            },
-            {
-              "name": "Ad Hoc News",
-              "url": "https://www.ad-hoc-news.de/boerse/marktberichte/ethereum-price-faces-etf-outflows-as-glamsterdam-test-is-delayed/70447138"
-            }
-          ]
-        },
-        {
-          "id": "20261103-04",
-          "category": "regulation",
-          "time": "2026-11-02T15:30:00Z",
-          "title": {
-            "zh": "美国中期选举前夜：CLARITY法案命运取决于国会控制权与60票门槛",
-            "en": "On the eve of U.S. midterms, the CLARITY Act's fate hinges on congressional control and the 60-vote threshold"
-          },
-          "summary": {
-            "zh": "美国中期选举将于11月3日举行，众议院全部435个席位与参议院35个席位改选，选举结果将决定未来加密市场结构立法的委员会主席人选与推进节奏。此前众议院已于2025年通过的CLARITY法案 (CLARITY Act) 在参议院9月15日的程序性投票中以49比50失败，远未达到推进所需的60票；若在2027年1月3日本届国会结束前仍未通过，法案将失效并需重新提出。已于2025年7月生效的稳定币法案GENIUS法案 (GENIUS Act) 则不受选举结果影响。",
-            "en": "Americans vote in the midterm elections on November 3, with all 435 House seats and 35 Senate seats on the ballot, and the outcome will decide who chairs the committees that steer future crypto market-structure legislation. The CLARITY Act, passed by the House in 2025, failed a Senate procedural vote 49 to 50 on September 15, well short of the 60 votes needed to advance; if it is not passed before this Congress ends on January 3, 2027, it dies and must be reintroduced. The GENIUS Act stablecoin framework, enacted in July 2025, is unaffected by the election."
-          },
-          "sources": [
-            {
-              "name": "MEXC Crypto Pulse",
-              "url": "https://www.mexc.com/crypto-pulse/article/2026-midterm-elections-183732"
-            },
-            {
-              "name": "Rebatly",
-              "url": "https://rebatly.io/guides/us-midterms-crypto-regulation/"
-            }
-          ]
-        },
-        {
-          "id": "20261103-05",
-          "category": "market",
-          "time": "2026-11-02T15:00:00Z",
-          "title": {
-            "zh": "上周加密现货ETF合计净流出约7.01亿美元，仅XRP录得净流入",
-            "en": "Weekly crypto spot ETF flows total about $701 million in net outflows, with only XRP in positive territory"
-          },
-          "summary": {
-            "zh": "上周美国加密现货ETF (Spot ETF) 合计净流出约7.0127亿美元，其中以太坊 (ETH) 产品流出最多，达约4.3153亿美元，比特币 (BTC) 产品净流出约2.0259亿美元，Solana (SOL) 产品净流出约7,147万美元。XRP现货ETF成为唯一录得净流入的类别，约432万美元，凸显在币安安全事件冲击下机构资金的避险倾向在各资产间并不均匀。",
-            "en": "U.S. crypto spot ETFs recorded combined net outflows of about $701.27 million last week, led by ether products at about $431.53 million, followed by bitcoin at about $202.59 million and Solana at about $71.47 million. XRP spot ETFs were the only category in positive territory, with about $4.32 million of net inflows, showing that institutional caution after the Binance security incident did not hit every asset equally."
-          },
-          "sources": [
-            {
-              "name": "Coinomedia",
-              "url": "https://coinomedia.com/weekly-crypto-etf-flows-2/"
-            },
-            {
-              "name": "The Block",
-              "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270"
-            }
-          ]
-        },
-        {
-          "id": "20261103-06",
-          "category": "ethereum",
-          "time": "2026-11-02T14:40:53Z",
-          "title": {
-            "zh": "BitMine再增持8,573枚以太坊，总持仓达606万枚、接近供应量的5%",
-            "en": "BitMine adds 8,573 ether, lifting holdings to 6.06 million ETH, near 5% of supply"
-          },
-          "summary": {
-            "zh": "BitMine Immersion Technologies在过去一周再增持8,573枚以太坊 (ETH)，总持仓增至6,060,506枚，约占以太坊流通供应量的4.9%，距离其5%的目标仅差约4.95万枚。公司表示，其中5,227,037枚已质押 (Staked)，按当前水平预计每年可产生约3.58亿美元的质押收益；以11月1日每枚2,261美元的参考价计算，其以太坊持仓价值约137亿美元。",
-            "en": "BitMine Immersion Technologies added 8,573 ether over the past week, taking its holdings to 6,060,506 ETH, about 4.9% of ether's circulating supply and roughly 49,500 ETH short of its 5% target. The company said 5,227,037 ETH is staked, with projected annualized staking revenue of about $358 million at current levels; at its November 1 reference price of $2,261 per ETH, the ether position was worth about $13.7 billion."
-          },
-          "sources": [
-            {
-              "name": "crypto.news",
-              "url": "https://crypto.news/bitmine-adds-8573-eth-ethereum-price-recovery/"
-            },
-            {
-              "name": "TradingView News",
-              "url": "https://www.tradingview.com/news/the_block:aeecf9027094b:0-bitmine-adds-8-573-eth-as-tom-lee-flags-muted-binance-hack-reaction/"
-            }
-          ]
-        },
-        {
-          "id": "20261103-07",
-          "category": "bitcoin",
-          "time": "2026-11-02T13:46:09Z",
-          "title": {
-            "zh": "Strategy恢复买入比特币：以6,550万美元增持811枚，总持仓达849,327枚",
-            "en": "Strategy resumes bitcoin buying with 811 BTC for $65.5 million, taking holdings to 849,327 BTC"
-          },
-          "summary": {
-            "zh": "Strategy在11月2日提交的8-K文件 (Form 8-K) 中披露，10月26日至11月1日期间以约6,550万美元买入811枚比特币 (BTC)，均价约80,846美元，结束了此前一周的暂停买入。买入资金来自增发MSTR普通股所得，公司同期还以约2.082亿美元回购了STRC优先股。截至11月1日，公司比特币总持仓达849,327枚，累计成本约640.8亿美元，均价约75,451美元。",
-            "en": "Strategy disclosed in a Form 8-K filed on November 2 that it bought 811 bitcoin for about $65.5 million between October 26 and November 1, at an average price of about $80,846, ending a one-week pause in purchases. The buy was funded with proceeds from sales of MSTR common stock, while the company also spent about $208.2 million repurchasing STRC preferred stock. As of November 1, its bitcoin holdings stood at 849,327 BTC, acquired for about $64.08 billion at an average cost of about $75,451 per coin."
-          },
-          "sources": [
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/strategy-adds-811-btc-with-mstr-sales-as-strc-buybacks-top-400-million-in-two-weeks/"
-            },
-            {
-              "name": "BeInCrypto",
-              "url": "https://beincrypto.com/microstrategy-strive-bitcoin-buy-november-mstr-shareholder-dilution/"
-            }
-          ]
-        },
-        {
-          "id": "20261103-08",
-          "category": "tech",
-          "time": "2026-11-02T12:40:45Z",
-          "title": {
-            "zh": "币安被盗资金洗钱转向Solana：黑客将约48.7万枚SOL兑换为比特币",
-            "en": "Binance hack laundering shifts to Solana as hackers swap about 487,000 SOL for bitcoin"
-          },
-          "summary": {
-            "zh": "链上调查人员报告称，币安63亿美元被盗案的黑客已开始将约48.7万枚Solana (SOL)（约4,640万美元）通过跨链服务兑换为比特币 (BTC)，此前其在Tron网络上的临时钱包大多已被清空或冻结。调查机构Chainalysis表示，洗钱活动正从Tron扩展至Solana，而交易所Gate已冻结两个相关账户并配合执法部门。与此同时，美国联邦调查局 (FBI) 等机构此前已要求加密平台屏蔽与被盗资金相关的地址。",
-            "en": "On-chain investigators reported that the hackers behind Binance's $6.3 billion theft have begun converting about 486,970 Solana tokens, worth roughly $46.4 million, into bitcoin through a cross-chain service, after most of their temporary Tron wallets were emptied or frozen. Chainalysis said laundering activity was expanding from Tron onto Solana, while exchange Gate froze two linked accounts and said it would cooperate with law enforcement. The FBI and other U.S. agencies had previously asked crypto platforms to block addresses tied to the stolen funds."
-          },
-          "sources": [
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis"
-            },
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/fbi-pins-6-billion-binance-theft-on-north-koreas-tradertraitor-publishes-hacker-wallet-list/"
-            }
-          ]
-        },
-        {
-          "id": "20261103-09",
-          "category": "solana",
-          "time": "2026-11-02T12:26:24Z",
-          "title": {
-            "zh": "Solana现货ETF上周净流出7,147万美元，创推出以来单周纪录",
-            "en": "Solana spot ETFs post record weekly outflow of $71.47 million"
-          },
-          "summary": {
-            "zh": "美国上市的Solana现货ETF (Spot ETF) 上周净流出7,147万美元，为产品推出以来最大的单周流出，同期SOL价格在约94美元附近承压。分析指出，尽管Solana近期发布了Agave与Firedancer等客户端更新，短期需求仍是主要风险，协议升级并不自动转化为代币需求。Solana现货ETF的资金流出也是上周加密ETF整体约7亿美元净流出的一部分。",
-            "en": "U.S.-listed spot Solana ETFs recorded $71.47 million in net weekly outflows, the largest weekly withdrawal since the products launched, while SOL traded near $94. Analysts noted that although Solana recently shipped client updates such as Agave and Firedancer, near-term demand remains the key risk, and protocol upgrades do not automatically translate into token demand. The Solana outflows were part of last week's roughly $700 million in combined crypto ETF net outflows."
-          },
-          "sources": [
-            {
-              "name": "Ad Hoc News",
-              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/solana-price-pressured-as-spot-etf-outflows-hit-record/70445640"
-            },
-            {
-              "name": "Coinomedia",
-              "url": "https://coinomedia.com/weekly-crypto-etf-flows-2/"
-            }
-          ]
-        },
-        {
-          "id": "20261103-10",
-          "category": "regulation",
-          "time": "2026-10-30T20:22:00Z",
-          "title": {
-            "zh": "CFTC主席Selig以币安事件为例，力推交易所自愿联邦注册路径",
-            "en": "CFTC Chair Selig cites the Binance breach in pushing a voluntary federal registration path for exchanges"
-          },
-          "summary": {
-            "zh": "美国商品期货交易委员会 (CFTC) 主席Michael Selig表示，币安63亿美元被盗事件恰恰证明了其10月5日提出的加密市场监管框架的必要性，该框架拟为交易所提供自愿联邦注册选项，并适用与美国衍生品市场类似的网络安全与客户资金隔离保障。Selig同时承认，CFTC无权在没有国会立法的情况下强制现货交易所注册，因此该路径目前仅为征求意见的预先规则制定通知 (ANPRM)，公众意见征集期约至12月中旬截止。",
-            "en": "CFTC Chairman Michael Selig said the $6.3 billion Binance breach proves the point of the agency's October 5 framework, which would offer crypto exchanges a voluntary federal registration option subject to cybersecurity and customer-fund segregation safeguards similar to those in U.S. derivatives markets. Selig acknowledged the CFTC cannot compel spot exchanges to register without congressional action, so the proposal remains an advance notice of proposed rulemaking, with the public comment period running to around mid-December."
-          },
-          "sources": [
-            {
-              "name": "Forkast",
-              "url": "https://forkast.news/cftc-chair-ties-the-binance-breach-to-his-exchange-oversight-proposal-it-would-offer-a-federal-option-not-compel-one/"
-            },
-            {
-              "name": "CoinGabbar",
-              "url": "https://www.coingabbar.com/en/cftc-crypto-rules-federal-registration-crypto-exchanges"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-23"
+  "updated": "2026-11-24"
 }
