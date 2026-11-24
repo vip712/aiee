@@ -1,6 +1,241 @@
 {
   "days": [
     {
+      "date": "2026-11-25",
+      "items": [
+        {
+          "id": "20261125-01",
+          "category": "market",
+          "time": "2026-11-24T20:14:00Z",
+          "title": {
+            "zh": "比特币跌破6万美元，英伟达反弹行情熄火，24小时爆仓8.44亿美元",
+            "en": "Bitcoin falls below $60,000 as Nvidia-driven rally fades; $844 million liquidated in 24 hours"
+          },
+          "summary": {
+            "zh": "比特币（BTC）周二回落至6万美元下方，抹去周一因英伟达（Nvidia）首席执行官黄仁勋复职而录得的全部涨幅，24小时内全网加密货币期货爆仓金额达8.44亿美元，较前一日增长217%（CoinGlass数据）。以太币（ETH）同步下跌约1.6%至1,695美元附近，CoinDesk 20指数下跌1.3%。分析师指出，比特币已连续七周下跌，短期内能否守住6万美元关口将成为关键考验。",
+            "en": "Bitcoin fell back below $60,000 on Tuesday, giving up all of Monday's gains sparked by Nvidia reinstating Jensen Huang as CEO, while $844 million in crypto futures positions were liquidated over 24 hours, up 217% from the day before, according to CoinGlass. Ether fell about 1.6% to around $1,695, and the CoinDesk 20 Index lost 1.3%. Analysts say whether bitcoin can hold the $60,000 level is the key near-term test after seven straight weeks of declines."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple"
+            },
+            {
+              "name": "Morningstar",
+              "url": "https://www.morningstar.com/news/dow-jones/202611246694/bitcoin-back-below-60000-after-tech-rally-proves-short-lived-2nd-update"
+            }
+          ]
+        },
+        {
+          "id": "20261125-02",
+          "category": "regulation",
+          "time": "2026-11-24T15:58:00Z",
+          "title": {
+            "zh": "CFTC允许比特币、以太坊及合规稳定币计入交易场所运营准备金",
+            "en": "CFTC lets bitcoin, ether and payment stablecoins count toward venue operating reserves"
+          },
+          "summary": {
+            "zh": "美国商品期货交易委员会（CFTC）工作人员发布指引，允许受监管的衍生品交易所和清算机构将比特币（BTC）、以太币（ETH）及合规支付稳定币计入覆盖12个月运营成本的财务资源要求，其中比特币和以太币须按市值至少折价20%，合规稳定币折价2%。该指引明确，加密资产不能满足以现金或高流动性证券形式持有的流动性要求，且仅为工作人员意见，不构成委员会正式规则。",
+            "en": "Staff at the U.S. Commodity Futures Trading Commission (CFTC) issued guidance allowing regulated derivatives exchanges and clearinghouses to count bitcoin, ether and qualifying payment stablecoins toward financial resources covering 12 months of operating costs, with a minimum 20% haircut for bitcoin and ether and 2% for qualifying payment stablecoins. The guidance makes clear crypto assets cannot satisfy the separate liquidity requirement, which must be held in cash or highly liquid securities, and that it is staff guidance rather than a formal Commission rule."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves"
+            },
+            {
+              "name": "Channel News Asia",
+              "url": "https://www.channelnewsasia.com/business/cftc-staff-advisory-says-crypto-can-count-toward-reserves-not-liquidity-rule-6576391"
+            }
+          ]
+        },
+        {
+          "id": "20261125-03",
+          "category": "solana",
+          "time": "2026-11-24T15:54:00Z",
+          "title": {
+            "zh": "Solana代币化股票规模达12.2亿美元，周交易量创18亿美元纪录",
+            "en": "Solana tokenized equities reach $1.22 billion as weekly volume hits record $1.8 billion"
+          },
+          "summary": {
+            "zh": "Solana网络上的代币化股票（Tokenized Equities）流通规模已达12.2亿美元，约为10月底水平的两倍，周现货交易量创下18亿美元纪录，占全链代币化股票交易的43%。代币化Anthropic股票成为主要推动力，Backpack发行的ANT代币在上市首日交易量达1.347亿美元。Solana基金会表示，代币化股票的下一步在于借贷与收益等实际用途，而非仅作为持有资产。",
+            "en": "Circulating tokenized equities on Solana reached $1.22 billion, nearly double the level at the end of October, while weekly spot trading volume hit a record $1.8 billion, or 43% of all on-chain equities activity. Tokenized Anthropic stock was a key driver, with Backpack's ANT token recording $134.7 million in first-day trading. The Solana Foundation said the next step for tokenized stocks is real utility such as lending and yield, not just holding the assets."
+          },
+          "sources": [
+            {
+              "name": "TheStreet",
+              "url": "https://www.thestreet.com/crypto/innovation/solana-foundation-defi-head-says-utility-is-what-makes-tokenized-stocks-matter-"
+            },
+            {
+              "name": "Analytics Insight",
+              "url": "https://www.analyticsinsight.net/news/solana-exits-beta-backs-coingecko-as-anthropic-shares-debut"
+            }
+          ]
+        },
+        {
+          "id": "20261125-04",
+          "category": "tech",
+          "time": "2026-11-24T15:17:00Z",
+          "title": {
+            "zh": "币安11月25日进行钱包维护，全网提币暂停约1小时",
+            "en": "Binance to suspend all-network withdrawals for about an hour during wallet maintenance on November 25"
+          },
+          "summary": {
+            "zh": "币安（Binance）宣布将于11月25日06:00（UTC）进行钱包维护，期间全网提币服务将暂停，预计持续约60分钟，交易不受影响。币安表示，提币服务将在网络被确认稳定后恢复，且可能不再另行公告。此次维护距离10月底影响63亿美元资产的安全事件仅数周，币安称已完成受影响资产的赔付并发布了新的储备证明（Proof of Reserves）。",
+            "en": "Binance said it will perform wallet maintenance at 06:00 UTC on November 25, suspending withdrawals on all networks for an estimated 60 minutes, while trading will not be affected. The exchange said withdrawal services will resume once the network is deemed stable and that no further announcement may follow. The maintenance comes weeks after a late-October security incident affecting $6.3 billion in assets; Binance says it has completed coverage of affected assets and published a new proof of reserves."
+          },
+          "sources": [
+            {
+              "name": "U.Today",
+              "url": "https://u.today/binance-to-temporarily-suspend-all-crypto-withdrawals-on-november-25-reason"
+            },
+            {
+              "name": "COINOTAG",
+              "url": "https://en.coinotag.com/binance-withdrawal-halt-november-25-2026"
+            }
+          ]
+        },
+        {
+          "id": "20261125-05",
+          "category": "bitcoin",
+          "time": "2026-11-24T14:32:00Z",
+          "title": {
+            "zh": "比特币现货ETF周一净流出5.7亿美元，11月流出创47.1亿美元月度纪录",
+            "en": "Spot bitcoin ETFs see $570 million outflow on Monday as November total hits record $4.71 billion"
+          },
+          "summary": {
+            "zh": "美国比特币现货ETF（Spot ETF）周一净流出5.697亿美元，为连续第五个交易日净流出，11月累计净流出达47.1亿美元，超过6月创下的45亿美元纪录，成为有记录以来流出最多的月份。贝莱德（BlackRock）的IBIT占当日流出的5.093亿美元，富达（Fidelity）的FBTC是唯一录得净流入的基金。同期以太坊现货ETF净流出8,496万美元。",
+            "en": "U.S. spot bitcoin ETFs recorded $569.7 million in net outflows on Monday, a fifth straight session of withdrawals, taking November's total to $4.71 billion — surpassing June's $4.5 billion record for the worst month since the funds launched. BlackRock's IBIT accounted for $509.3 million of the day's outflows, while Fidelity's FBTC was the only fund to record net inflows. Spot ether ETFs also saw $84.96 million in net outflows the same day."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548"
+            },
+            {
+              "name": "Bitcoin Magazine",
+              "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows"
+            }
+          ]
+        },
+        {
+          "id": "20261125-06",
+          "category": "tech",
+          "time": "2026-11-24T13:17:00Z",
+          "title": {
+            "zh": "贝莱德在香港推出首只代币化货币市场基金，规模1亿美元",
+            "en": "BlackRock launches first tokenized money market fund in Hong Kong at $100 million"
+          },
+          "summary": {
+            "zh": "贝莱德（BlackRock）宣布在香港推出首只代币化货币市场基金（Tokenized Money Market Fund）——贝莱德港元数字流动性基金（HKD Digital Liquidity Fund），截至11月20日规模为1亿美元。专业投资者可使用持牌港元稳定币HKDAP申购和赎回，渣打银行（Standard Chartered）与蚂蚁国际（Ant International）为种子投资者。这是贝莱德代币化货币基金业务首次进入亚太地区。",
+            "en": "BlackRock has opened its first tokenized money market fund in Hong Kong, the BlackRock HKD Digital Liquidity Fund, with $100 million in assets as of November 20. Professional investors can subscribe and redeem using HKDAP, a licensed Hong Kong dollar-backed stablecoin, with Standard Chartered and Ant International as seed investors. It is BlackRock's first tokenized money market fund in the Asia-Pacific region."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524"
+            },
+            {
+              "name": "South China Morning Post",
+              "url": "https://www.scmp.com/business/banking-finance/article/3375575/blackrock-taps-hong-kong-stablecoins-new-money-market-fund?module=latest&pgtype=homepage"
+            }
+          ]
+        },
+        {
+          "id": "20261125-07",
+          "category": "ethereum",
+          "time": "2026-11-24T12:00:00Z",
+          "title": {
+            "zh": "以太坊基金会安全团队扩编一倍，AI威胁被列为优先于量子计算",
+            "en": "Ethereum Foundation doubles security team as AI threat moves ahead of quantum"
+          },
+          "summary": {
+            "zh": "以太坊基金会（Ethereum Foundation）宣布已将协议安全团队规模扩大一倍，以推进应对人工智能（AI）与量子计算威胁的大规模协议升级。研究员Kev Wedderburn表示，AI发现软件漏洞的速度已超过人工审查，AI风险如今比量子计算更为紧迫，相关升级的难度超过2022年的合并（The Merge）。升级将涉及验证者签名、钱包授权及Rollup数据验证，内部目标仍为2029年完成过渡。",
+            "en": "The Ethereum Foundation has doubled its protocol security team to advance a major overhaul of the network's defenses against artificial intelligence and quantum computing threats. Researcher Kev Wedderburn said AI now finds software bugs faster than people can review them, making AI a more urgent risk than quantum computing, and called the upgrade harder than the 2022 Merge. The overhaul would change validator signing, wallet authorization and rollup data verification, with an internal target of completing the transition by 2029."
+          },
+          "sources": [
+            {
+              "name": "Cointelegraph",
+              "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul"
+            },
+            {
+              "name": "CoinCentral",
+              "url": "https://coincentral.com/ethereum-foundation-doubles-security-team-as-ai-risk-moves-ahead-of-quantum/"
+            }
+          ]
+        },
+        {
+          "id": "20261125-08",
+          "category": "market",
+          "time": "2026-11-24T11:46:00Z",
+          "title": {
+            "zh": "OKX与ICE代币化证券平台上线，首批仅6只股票，67家发行人反对",
+            "en": "OKXICE tokenized securities venue launches with six stocks as 67 issuers object"
+          },
+          "summary": {
+            "zh": "OKX与洲际交易所（ICE）的合资公司OKXICE于11月23日正式上线代币化证券平台（Tokenized Securities Venue），首批仅上线6只代币化股票，包括Coinbase、Strategy、Robinhood等，并以USDC结算。尽管平台规划了113只资产的分阶段目录，已有67家上市公司正式反对将其股票代币化。平台在美国证券交易委员会（SEC）的创新豁免（Innovation Exemption）下运营，通过许可型Uniswap v4资金池提供24/7交易。",
+            "en": "OKXICE, the joint venture between OKX and Intercontinental Exchange (ICE), opened its tokenized securities venue on November 23, listing only six tokenized stocks at launch — including Coinbase, Strategy and Robinhood — settled against USDC. Although the platform has a 113-asset phased catalog, 67 listed companies have formally objected to having their shares tokenized. The venue operates under the SEC's Innovation Exemption, offering 24/7 trading through permissioned Uniswap v4 pools."
+          },
+          "sources": [
+            {
+              "name": "Particle News",
+              "url": "https://particle.news/story/okx-and-ice-launch-tokenized-securities-venue-after-wide-issuer-opt-outs"
+            },
+            {
+              "name": "FRNT",
+              "url": "https://frnt.substack.com/p/tokenized-stock-venue-okxice-debuts"
+            }
+          ]
+        },
+        {
+          "id": "20261125-09",
+          "category": "regulation",
+          "time": "2026-11-24T10:00:00Z",
+          "title": {
+            "zh": "GENIUS法案终版规则送交白宫审查，参议院举行SEC与CFTC提名人听证",
+            "en": "GENIUS Act final rules reach White House review as Senate holds SEC and CFTC nominee hearings"
+          },
+          "summary": {
+            "zh": "美国联邦存款保险公司（FDIC）与金融犯罪执法网络（FinCEN）的《GENIUS法案》终版实施细则已于11月18日送交白宫管理和预算办公室（OIRA）审查，距离该法2027年1月18日生效日仅剩61天。同期，参议院银行委员会与农业委员会分别就美国证券交易委员会（SEC）和CFTC提名人举行听证，议题包括代币化证券与预测市场。联邦与各州围绕预测市场的管辖权冲突也在升级，CFTC已起诉阿肯色州与路易斯安那州。",
+            "en": "Final GENIUS Act rules from the FDIC and FinCEN were sent to the White House Office of Information and Regulatory Affairs (OIRA) for review on November 18, 61 days before the law takes effect on January 18, 2027. Meanwhile, the Senate Banking and Agriculture Committees held hearings on nominees to the SEC and CFTC, covering tokenized securities and prediction markets. The federal-state fight over prediction markets also escalated, with the CFTC suing Arkansas and Louisiana to block state enforcement against federally regulated exchanges."
+          },
+          "sources": [
+            {
+              "name": "JD Supra",
+              "url": "https://www.jdsupra.com/legalnews/genius-act-final-rules-reach-oira-1030144/"
+            },
+            {
+              "name": "DC Forecasts",
+              "url": "https://www.dcforecasts.com/regulation/genius-act-final-rules-fdic-fincen-white-house/"
+            }
+          ]
+        },
+        {
+          "id": "20261125-10",
+          "category": "tech",
+          "time": "2026-11-23T11:22:00Z",
+          "title": {
+            "zh": "Visa推出实验性AI代理钱包，代理完成任务可赚取OUSD稳定币",
+            "en": "Visa launches experimental AI agent wallet letting agents earn OUSD for paid tasks"
+          },
+          "summary": {
+            "zh": "Visa加密实验室（Visa Crypto Labs）推出实验性Visa CLI代理钱包（Agent Wallet），符合条件的美国Visa持卡人可验证AI代理并将其注册至Visa代理目录，代理完成有偿任务后可赚取美元稳定币Open USD（OUSD）。该钱包基于Tempo区块链与机器支付协议（Machine Payments Protocol）构建，任务通过Taskmarket等平台发布。目前该产品仅限受邀用户使用，Visa强调其仍处于实验阶段。",
+            "en": "Visa Crypto Labs launched an experimental Visa CLI agent wallet that lets eligible U.S. Visa cardholders verify AI agents and register them in Visa's Agent Directory, with agents earning Open USD (OUSD), a dollar-backed stablecoin, for completing paid tasks. The wallet is built on the Tempo blockchain using the Machine Payments Protocol, with tasks posted through marketplaces such as Taskmarket. Access is invitation-only, and Visa describes the product as experimental."
+          },
+          "sources": [
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/business/2026-11-23-visa-launches-experimental-ai-agent-wallet-for-eligible-us-users-to-earn-ousd-from-paid-tasks-444903"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/visa-cli-agent-wallet-ai-agents-ousd/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-24",
       "items": [
         {
@@ -2755,242 +2990,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-04",
-      "items": [
-        {
-          "id": "20261104-01",
-          "category": "solana",
-          "time": "2026-11-03T18:04:00Z",
-          "title": {
-            "zh": "Solana现实世界资产规模首破50亿美元，30天转账量达162亿美元",
-            "en": "Solana's real-world asset value tops $5 billion for the first time"
-          },
-          "summary": {
-            "zh": "RWA.xyz数据显示，Solana链上已分配现实世界资产 (Real-World Assets, RWA) 价值于10月29日达到约51.9亿美元，创历史新高，11月2日至3日回落至约51.2亿美元，仍较30天前增长约17.6%。30天转账量达162亿美元，代币化资产数量为3516个，持有者约86万，增长主要来自代币化股票、国债和私人信贷。这一里程碑显示传统资产上链正在加速，但单日峰值回落也提醒该规模仍会随市场波动。",
-            "en": "Data from RWA.xyz showed Solana's distributed real-world asset value reaching about $5.19 billion on October 29, a record high, before easing to about $5.12 billion by November 2-3, still up about 17.6% over 30 days. Thirty-day transfer volume reached $16.2 billion across 3,516 tokenized assets held by roughly 860,000 holders, driven by tokenized equities, Treasuries and private credit. The milestone points to accelerating on-chain adoption of traditional assets, though the pullback from the peak shows the total still moves with market conditions."
-          },
-          "sources": [
-            {
-              "name": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/solana-rwa-ecosystem-surpasses-5-billion/"
-            },
-            {
-              "name": "TokenPost",
-              "url": "https://www.tokenpost.com/news/investing/46998"
-            }
-          ]
-        },
-        {
-          "id": "20261104-02",
-          "category": "ethereum",
-          "time": "2026-11-03T18:03:00Z",
-          "title": {
-            "zh": "美国现货以太币ETF单日净流出1.398亿美元，连续第六天遭赎回",
-            "en": "US spot ether ETFs lose $139.8 million in a sixth straight day of outflows"
-          },
-          "summary": {
-            "zh": "美国现货以太币ETF (Spot Ether ETF) 11月2日净流出1.398亿美元，为连续第六个交易日净流出，其中贝莱德ETHA占1.383亿美元，基金总资产降至约131.8亿美元。彭博分析师James Seyffart估计，以太币ETF持有人的平均成本接近3200美元，10月底账面浮亏已近35亿美元。尽管资金持续流出，以太币价格11月3日仍小幅反弹至约2290美元，显示现货需求与基金赎回之间出现分化。",
-            "en": "US spot ether ETFs recorded $139.8 million in net outflows on November 2, a sixth consecutive day of redemptions, with BlackRock's ETHA accounting for $138.3 million and total fund assets falling to about $13.18 billion. Bloomberg analyst James Seyffart estimated ether ETF holders' average cost at just under $3,200, leaving them with almost $3.5 billion in unrealized losses at the end of October. Despite the outflows, ether rebounded modestly to about $2,290 on November 3, a sign that spot demand and fund redemptions are diverging."
-          },
-          "sources": [
-            {
-              "name": "Stocktwits",
-              "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ethereum-price-recovers-despite-6-straight-days-of-etf-selling-with-holders-sitting-on-billions-in-losses/cNGXfMNR9d9"
-            },
-            {
-              "name": "Bitcoin.com",
-              "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-399m-as-2-day-outflows-top-1-04b/"
-            }
-          ]
-        },
-        {
-          "id": "20261104-03",
-          "category": "tech",
-          "time": "2026-11-03T17:57:00Z",
-          "title": {
-            "zh": "Bullish将以太坊、Solana和Aptos列为代币化股票首批网络",
-            "en": "Bullish names Ethereum, Solana and Aptos as first networks for tokenized shares"
-          },
-          "summary": {
-            "zh": "纽交所上市公司Bullish 11月3日宣布，将以太坊、Solana和Aptos作为发行人赞助型代币化股票 (Issuer-Sponsored Tokenized Shares) 服务的首批网络，发行公司可自主选择上链网络，官方股东名册仍由过户代理 (Transfer Agent) Equiniti维护。此前Bullish已在Solana上完成全部股权上链，并在10月27日于纽交所演示了6100万股代币化股份的秒级转移。公司对Equiniti的42亿美元收购预计2027年1月完成，但Aptos和以太坊的上线时间尚未公布。",
-            "en": "NYSE-listed Bullish announced on November 3 that Ethereum, Solana and Aptos will be the first networks for its issuer-sponsored tokenized share services, letting issuers choose where their shares live while transfer agent Equiniti keeps the official ownership record. Bullish has already tokenized its full equity cap table on Solana and demonstrated a transfer of 61 million tokenized shares in seconds at the New York Stock Exchange on October 27. Its $4.2 billion acquisition of Equiniti is expected to close in January 2027, but no launch dates for Aptos or Ethereum were given."
-          },
-          "sources": [
-            {
-              "name": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/bullish-ethereum-issuer-sponsored-tokenized-shares/"
-            },
-            {
-              "name": "CoinEdition",
-              "url": "https://coinedition.com/crypto-live-news/bullish-expands-stock-tokenization-to-solana-aptos-and/"
-            }
-          ]
-        },
-        {
-          "id": "20261104-04",
-          "category": "ethereum",
-          "time": "2026-11-03T14:01:00Z",
-          "title": {
-            "zh": "Aztec上线Tierra V6升级，修复关键证明漏洞并提速隐私交易",
-            "en": "Aztec launches Tierra V6 upgrade, fixing a critical proving bug and speeding up private transactions"
-          },
-          "summary": {
-            "zh": "以太坊隐私二层网络 (Layer 2) Aztec 11月3日上线Tierra升级 (Alpha V6)，修复了V5版本中一个关键的零知识证明 (Zero-Knowledge Proof) 系统漏洞，并引入形式化验证 (Formal Verification) 与AI驱动的安全测试工具。升级后客户端隐私交易证明生成时间约1秒，较此前快一倍，以太坊至Aztec的消息传递时间从平均2分钟缩短至最快12秒。升级同时伴随品牌更新与一批隐私应用上线，包括重启的私人支付应用zk.money。",
-            "en": "Ethereum privacy layer-2 network Aztec launched its Tierra upgrade, Alpha V6, on November 3, fixing a critical vulnerability in the V5 zero-knowledge proving system and adding formal verification plus an AI-powered security testing harness. Client-side private transaction proofs now take about one second, roughly twice as fast as before, while Ethereum-to-Aztec message delivery fell from an average of two minutes to as little as 12 seconds. The upgrade arrives with a rebrand and new privacy apps, including the relaunched private payments app zk.money."
-          },
-          "sources": [
-            {
-              "name": "Decrypt",
-              "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade"
-            },
-            {
-              "name": "The Block",
-              "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399"
-            }
-          ]
-        },
-        {
-          "id": "20261104-05",
-          "category": "bitcoin",
-          "time": "2026-11-03T11:28:00Z",
-          "title": {
-            "zh": "美国现货比特币ETF周一净流出3.99亿美元，两日合计超10.4亿美元",
-            "en": "US spot bitcoin ETFs lose $399 million on Monday, taking two-day outflows past $1.04 billion"
-          },
-          "summary": {
-            "zh": "美国现货比特币ETF (Spot Bitcoin ETF) 11月2日净流出3.99亿美元，为连续第二天净流出，两日合计超过10.4亿美元，其中贝莱德IBIT单日流出4.053亿美元，为6月以来最大单日流出。受此影响，2026年以来累计净流入基本被抹平，机构风险偏好明显转弱。与此同时，比特币价格在11月3日欧洲时段跌至约76300美元后回稳至约76900美元附近。",
-            "en": "US spot bitcoin ETFs lost $399 million on November 2, a second straight day of outflows that took the two-day total past $1.04 billion, with BlackRock's IBIT shedding $405 million in its largest daily outflow since June. The selling effectively wiped out the funds' net inflows for 2026, signalling weaker institutional risk appetite. Bitcoin dipped to about $76,300 in the European morning on November 3 before steadying near $76,900."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto"
-            },
-            {
-              "name": "Bitcoin.com",
-              "url": "https://news.bitcoin.com/bitcoin-etf/bitcoin-etfs-lose-399m-as-2-day-outflows-top-1-04b/"
-            }
-          ]
-        },
-        {
-          "id": "20261104-06",
-          "category": "tech",
-          "time": "2026-11-03T10:00:00Z",
-          "title": {
-            "zh": "币安完成10种资产零知识储备证明，称已补回约95%被盗资产",
-            "en": "Binance completes zero-knowledge proof of reserves for 10 assets, saying about 95% of stolen funds are replenished"
-          },
-          "summary": {
-            "zh": "币安11月2日宣布，已完成基于10月31日快照的零知识储备证明 (Zero-Knowledge Proof of Reserves)，覆盖比特币、以太币、USDT、BNB、SOL、USDC、XRP等10种资产，用户可通过开源验证工具自行核查余额至少1:1备付。币安称，已用公司资金和SAFU基金补回约95%的被盗资产，剩余部分为流动性较差的代币，仍在继续买入。新的快照定于11月4日进行，证明生成约需40至50小时；储备证明是某一时点的快照，并非全面审计。",
-            "en": "Binance said on November 2 it had completed a zero-knowledge proof of reserves based on an October 31 snapshot, covering 10 assets including bitcoin, ether, USDT, BNB, SOL, USDC and XRP, letting users verify with an open-source tool that balances are backed at least 1:1. The exchange said it had replenished about 95% of the stolen assets from company funds and its SAFU fund, with the remainder in less liquid tokens still being acquired. A new snapshot is set for November 4, with the proof taking about 40 to 50 hours to generate; a proof of reserves is a point-in-time snapshot, not a full audit."
-          },
-          "sources": [
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/binance-publishes-zero-knowledge-reserve-proof-for-btc-eth-and-8-other-tokens-after-hack/"
-            },
-            {
-              "name": "NewsBTC",
-              "url": "https://www.newsbtc.com/news/binance-publishes-new-proof-of-reserves-snapshot-following-october-attack/"
-            }
-          ]
-        },
-        {
-          "id": "20261104-07",
-          "category": "regulation",
-          "time": "2026-11-03T09:00:00Z",
-          "title": {
-            "zh": "美国SEC新增三条加密FAQ，厘清共享治理与去中心化认定",
-            "en": "SEC staff add three crypto FAQs clarifying shared governance and decentralization"
-          },
-          "summary": {
-            "zh": "美国证券交易委员会 (SEC) 公司金融部11月2日在加密资产常见问题 (FAQ) 中新增第1.4至1.6条，阐明广泛共享治理的参与者通常不因共同投票而被视为一个控制集团，除非存在关联关系或协同行动的约定。新增内容还区分了“功能性系统”与“去中心化”：前者指代币可按设计用途使用，后者要求没有任何个人、实体或协调集团掌握运营、经济或投票控制权。需要留意的是，这只是工作人员指引，不具法律效力，也未取代国会正在推进的CLARITY法案立法工作。",
-            "en": "The US Securities and Exchange Commission's Division of Corporation Finance added questions 1.4 to 1.6 to its crypto asset FAQ on November 2, clarifying that participants in broad-based shared governance are generally not treated as a controlling group merely for voting together, absent affiliations or agreements to act in concert. The new answers also separate a 'functional system', where a token can be used as designed, from decentralization, which requires no person, entity or coordinated group holding operational, economic or voting control. The update is staff guidance with no legal force and does not replace Congress's pending CLARITY Act legislation."
-          },
-          "sources": [
-            {
-              "name": "Crypto.news",
-              "url": "https://crypto.news/sec-crypto-faq-decentralized-governance-token-taxonomy/"
-            },
-            {
-              "name": "CoinEdition",
-              "url": "https://coinedition.com/sec-staff-adds-3-crypto-faqs-on-governance-and-network-control/"
-            }
-          ]
-        },
-        {
-          "id": "20261104-08",
-          "category": "tech",
-          "time": "2026-11-03T08:56:00Z",
-          "title": {
-            "zh": "巴西Mercado Bitcoin遭约4000万美元攻击后承诺全额承担用户损失",
-            "en": "Mercado Bitcoin pledges to cover user losses after roughly $40 million hack"
-          },
-          "summary": {
-            "zh": "巴西最大加密交易所Mercado Bitcoin 11月2日凌晨发现一起安全事件后暂停存取款，并于11月3日表示将承担约3800万至4000万美元的损失，客户不会受损，也没有客户数据泄露。安全公司Hypernative标记的可疑转账超过4000万美元，涉及至少10条区块链，交易所称已在Tether、Circle和Chainalysis协助下冻结约1100万美元。事件发生几天前币安刚遭遇约63亿美元盗窃，Mercado Bitcoin未将两者关联，恢复时间尚未公布。",
-            "en": "Brazil's largest crypto exchange, Mercado Bitcoin, suspended deposits and withdrawals after detecting a security incident early on November 2, and said on November 3 it will cover losses of roughly $38 million to $40 million so no customer loses funds, with no customer data leaked. Security firm Hypernative flagged more than $40 million in suspicious transfers across at least 10 blockchains, and the exchange said about $11 million had been frozen with help from Tether, Circle and Chainalysis. The incident came days after Binance's roughly $6.3 billion theft, which Mercado Bitcoin has not linked to its own breach, and no restart date has been given."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack"
-            },
-            {
-              "name": "Decrypt",
-              "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack"
-            }
-          ]
-        },
-        {
-          "id": "20261104-09",
-          "category": "market",
-          "time": "2026-11-03T08:51:00Z",
-          "title": {
-            "zh": "加密市场单日蒸发约1150亿美元，比特币跌至约76464美元",
-            "en": "Crypto market sheds about $115 billion in a day as bitcoin falls to about $76,464"
-          },
-          "summary": {
-            "zh": "加密市场总市值24小时内下跌约4.3%至2.56万亿美元，蒸发约1150亿美元，比特币下跌2.25%至约76464美元，以太币下跌2.01%至约2249美元，比特币市占率仍接近59.8%。抛售发生在美国现货比特币ETF周一净流出近3.99亿美元之后，叠加美国中期选举前的不确定性与币安事件余波，机构资金撤离加剧了市场压力。分析指出，短期关注点在于ETF资金流是否企稳以及比特币能否守住关键支撑位。",
-            "en": "The total crypto market capitalization fell about 4.3% to $2.56 trillion in 24 hours, shedding roughly $115 billion, with bitcoin down 2.25% to about $76,464 and ether down 2.01% to about $2,249, while bitcoin's dominance held near 59.8%. The sell-off followed nearly $399 million in net outflows from US spot bitcoin ETFs on Monday, compounded by uncertainty ahead of the US midterm elections and the aftermath of the Binance incident. The near-term focus is whether ETF flows stabilize and whether bitcoin holds key support levels."
-          },
-          "sources": [
-            {
-              "name": "LoopWire",
-              "url": "https://www.loopwire.news/story-crypto-1793695853700.html"
-            },
-            {
-              "name": "CNBC TV18 via TradingView",
-              "url": "https://www.tradingview.com/news/cnbctv:d8a9fd144094b:0/"
-            }
-          ]
-        },
-        {
-          "id": "20261104-10",
-          "category": "solana",
-          "time": "2026-11-03T08:36:00Z",
-          "title": {
-            "zh": "Solana达成连续1000天无全网停机，活跃交易者较2024年增六倍",
-            "en": "Solana reaches 1,000 days without a network-wide halt as active traders grow sixfold"
-          },
-          "summary": {
-            "zh": "Solana于11月2日前后达成连续1000天无全网停机，上一次全面停机发生在2024年2月6日，期间月均去中心化交易所 (DEX) 交易量翻倍，总交易量翻倍，活跃交易者数量增长约六倍。网络提速也在推进，2026年8月21日出块时间 (Slot Time) 降至350毫秒，长期目标约200毫秒。不过这一纪录并非零事故：2026年8月一次基础设施路由故障曾影响约29%的质押，富达相关报告也指出质押分布与验证者托管多样性仍是结构性隐忧。",
-            "en": "Solana reached 1,000 consecutive days without a network-wide halt around November 2, since its last full stoppage on February 6, 2024, with average monthly decentralized exchange volume doubling, total transactions doubling and active traders growing about sixfold over the period. Speed also improved, with slot time falling to 350 milliseconds on August 21, 2026, toward a longer-term target of about 200 milliseconds. The record is not incident-free: an August 2026 infrastructure routing failure affected about 29% of stake, and a Fidelity report flagged stake distribution and validator hosting diversity as structural concerns."
-          },
-          "sources": [
-            {
-              "name": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/solana-1000-days-without-network-halt/"
-            },
-            {
-              "name": "CoinCentral",
-              "url": "https://coincentral.com/solana-reaches-1000-day-uptime-milestone-amid-growth/"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }
