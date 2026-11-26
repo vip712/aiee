@@ -1,6 +1,195 @@
 {
   "days": [
     {
+      "date": "2026-11-27",
+      "items": [
+        {
+          "category": "market",
+          "id": "20261127-market-01",
+          "sources": [
+            {
+              "name": "CoinTelegraph",
+              "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november"
+            },
+            {
+              "name": "Bitcoin Insider",
+              "url": "https://www.bitcoininsider.org/article/bitcoin-steadies-near-60800-record-5-39-billion-etf-outflows-7-billion-options-expiry-thin-thanksgiving-market-update"
+            }
+          ],
+          "summary": {
+            "en": "US spot Bitcoin ETFs have shed $5.39 billion in November, surpassing June's $4.51 billion monthly record for the largest outflow since the funds launched in January 2024. Wednesday alone brought $453 million of outflows, the seventh straight negative session, with BlackRock's IBIT accounting for $329.7 million. Morgan Stanley's Bitcoin Trust was one of only two funds with net inflows for the month, drawing $114.1 million.",
+            "zh": "美国现货比特币ETF（Spot Bitcoin ETF）11月迄今净流出53.9亿美元，已超过6月创下的45.1亿美元单月纪录，成为产品2024年1月推出以来流出最多的一个月。11月25日单日净流出4.53亿美元，为连续第七个流出交易日，其中贝莱德（BlackRock）IBIT占3.30亿美元；摩根士丹利（Morgan Stanley）的比特币信托是当月仅有的两只净流入基金之一，吸金1.14亿美元。"
+          },
+          "time": "2026-11-26T23:16:00Z",
+          "title": {
+            "en": "US spot Bitcoin ETFs post record $5.39 billion November outflow",
+            "zh": "美国现货比特币ETF 11月净流出53.9亿美元，创单月纪录"
+          }
+        },
+        {
+          "category": "ethereum",
+          "id": "20261127-ethereum-01",
+          "sources": [
+            {
+              "name": "Crypto.news",
+              "url": "https://crypto.news/ethereum-price-falls-29-percent/"
+            },
+            {
+              "name": "Blockchain Reporter",
+              "url": "https://blockchainreporter.net/crypto-etf-flows/"
+            }
+          ],
+          "summary": {
+            "en": "Ethereum traded near $1,672 on November 26 after touching $1,730 intraday, down about 29% from its October 28 close. US spot Ether ETFs recorded $68.51 million in net outflows on November 25, all from BlackRock's ETHA, extending the streak to eight straight sessions. November outflows now stand at $1.29 billion.",
+            "zh": "以太坊（ETH）11月26日盘中触及1730美元后回落至约1670美元，较10月28日收盘下跌约29%。美国现货以太币ETF（Spot Ether ETF）11月25日净流出6851万美元，全部来自贝莱德（BlackRock）ETHA，为连续第八个流出交易日，11月累计流出已达12.9亿美元。"
+          },
+          "time": "2026-11-26T20:38:00Z",
+          "title": {
+            "en": "Ethereum reclaims $1,700 as spot Ether ETFs extend outflow streak to eight sessions",
+            "zh": "以太坊重回1700美元附近，现货以太币ETF连续第八天净流出"
+          }
+        },
+        {
+          "category": "regulation",
+          "id": "20261127-regulation-01",
+          "sources": [
+            {
+              "name": "Unchained",
+              "url": "https://unchainedcrypto.com/senate-democrats-press-atkins-to-reverse-secs-tokenized-stock-order-regulation-crypto-assets/"
+            },
+            {
+              "name": "CoinMarketCap Academy",
+              "url": "https://coinmarketcap.com/academy/en/article/warren-van-hollen-sec-regulation-crypto-assets-letters"
+            }
+          ],
+          "summary": {
+            "en": "Senators Elizabeth Warren and Chris Van Hollen led two letters to SEC Chair Paul Atkins urging the agency to rescind its proposed Regulation Crypto Assets rule and withdraw a September order granting tokenized securities venues a five-year exemption from exchange registration. The senators warned the order could create a \"shadow stock market\" outside longstanding regulatory protections, and noted it was issued without a public notice-and-comment process.",
+            "zh": "参议员伊丽莎白·沃伦（Elizabeth Warren）与克里斯·范霍伦（Chris Van Hollen）牵头致信美国证券交易委员会（SEC）主席保罗·阿特金斯（Paul Atkins），要求撤销拟议的《加密资产监管规则》（Regulation Crypto Assets），并撤回9月给予代币化证券交易场所（Tokenized Securities Venues）五年注册豁免的命令。议员们警告，后者可能催生一个缺乏监管保护的“影子股市”，并指出该命令未经公开征求意见程序。"
+          },
+          "time": "2026-11-26T20:15:00Z",
+          "title": {
+            "en": "Senate Democrats press SEC to scrap crypto offering rule and tokenized-stock exemption",
+            "zh": "参议院民主党人致信SEC，要求撤销加密募资规则与代币化股票豁免"
+          }
+        },
+        {
+          "category": "bitcoin",
+          "id": "20261127-bitcoin-01",
+          "sources": [
+            {
+              "name": "CryptoNews.net",
+              "url": "https://cryptonews.net/news/bitcoin/33812286/"
+            },
+            {
+              "name": "FXStreet",
+              "url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-and-gold-price-forecast-why-daily-technicals-flash-sell-amid-hawkish-fed-and-thanksgiving-liquidity-202611261718"
+            }
+          ],
+          "summary": {
+            "en": "Bitcoin dipped to about $57,300 on November 25 after US October PCE inflation rose 3.8% year on year, then rebounded to around $60,300. Galaxy Digital has withdrawn its October view that Bitcoin's bear market ended in June, saying a daily close below $58,525, the June 30 closing low, would confirm a move toward a lower low.",
+            "zh": "比特币（BTC）11月25日在美国10月个人消费支出（PCE）物价指数同比上涨3.8%后一度跌至约5.73万美元，随后反弹至约6.03万美元。Galaxy Digital已撤回其10月关于比特币熊市已于6月结束的判断，认为若日收盘跌破6月30日收盘低点58525美元，将确认新的下行趋势。"
+          },
+          "time": "2026-11-26T17:18:00Z",
+          "title": {
+            "en": "Bitcoin rebounds to about $60,300 after PCE shock as Galaxy withdraws bullish call",
+            "zh": "比特币在PCE数据冲击后反弹至约6.03万美元，Galaxy撤回看涨判断"
+          }
+        },
+        {
+          "category": "regulation",
+          "id": "20261127-regulation-02",
+          "sources": [
+            {
+              "name": "Crypto.news",
+              "url": "https://crypto.news/three-major-crypto-policy-battles-take-shape/"
+            },
+            {
+              "name": "BigGo Finance",
+              "url": "https://finance.biggo.com/news/4041ee8c-c12b-4e4c-bec3-b1b2e8115518"
+            }
+          ],
+          "summary": {
+            "en": "The House Financial Services Committee formally reported the American Reserve Modernization Act (H.R. 8957) on November 24, sending it to the House Union Calendar. The bill would require the Treasury to establish a Strategic Bitcoin Reserve within 180 days, with reserve Bitcoin subject to a minimum 20-year holding period. Meanwhile, Representative Maxine Waters pledged to investigate President Donald Trump's cryptocurrency businesses and prioritize the Stop TRUMP in Crypto Act.",
+            "zh": "众议院金融服务委员会已于11月24日正式上报《美国储备现代化法案》（American Reserve Modernization Act，H.R. 8957），该法案要求财政部在180天内设立战略比特币储备（Strategic Bitcoin Reserve），储备比特币至少锁定20年。与此同时，众议院金融服务委员会民主党领袖玛克辛·沃特斯（Maxine Waters）表示，将调查特朗普总统的加密资产业务，并优先推动《停止特朗普加密法案》（Stop TRUMP in Crypto Act）。"
+          },
+          "time": "2026-11-26T12:00:00Z",
+          "title": {
+            "en": "Strategic Bitcoin Reserve bill reaches House calendar as Democrats pledge probe of Trump memecoin business",
+            "zh": "美国战略比特币储备法案进入众议院议程，民主党拟调查特朗普迷因币业务"
+          }
+        },
+        {
+          "category": "tech",
+          "id": "20261127-tech-01",
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources"
+            },
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/auros-winds-down-crypto-market-maker/"
+            }
+          ],
+          "summary": {
+            "en": "Hong Kong-based crypto trading and market-making firm Auros is winding down operations, according to two people familiar with the situation, though the reason and timetable remain unclear. The firm once estimated it handled roughly 4% of global cryptocurrency trading volume on exchanges. Auros survived a court-supervised restructuring after the FTX collapse, raised $17 million in March 2023, and launched its institutional trading portal Aurora on September 29.",
+            "zh": "据知情人士透露，香港加密交易与做市公司Auros正在逐步结束运营，原因与时间表暂未明确。Auros曾估计其处理了约4%的全球加密货币交易所交易量；该公司在FTX崩盘后经历法院监督重组，并于2023年3月完成1700万美元融资，今年9月29日刚推出机构交易平台Aurora。"
+          },
+          "time": "2026-11-26T11:27:00Z",
+          "title": {
+            "en": "Crypto market maker Auros reportedly winding down after handling about 4% of global exchange volume",
+            "zh": "加密做市商Auros据报逐步结束运营，曾处理约4%的全球交易所交易量"
+          }
+        },
+        {
+          "category": "regulation",
+          "id": "20261127-regulation-03",
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech"
+            },
+            {
+              "name": "NY Attorney General",
+              "url": "https://ag.ny.gov/press-release/2026/attorney-general-james-wins-13-billion-judgment-against-crypto-scammers-who"
+            }
+          ],
+          "summary": {
+            "en": "New York Attorney General Letitia James won a court judgment ordering NovaTechFx founders Cynthia and Eddy Petion to pay $1,367,023,585 for defrauding hundreds of thousands of investors worldwide, including about 11,000 New Yorkers, through a cryptocurrency Ponzi scheme. The award comprises $1,134,549,691 in disgorgement and $232,473,894 in prejudgment interest.",
+            "zh": "纽约州总检察长莱蒂希娅·詹姆斯（Letitia James）赢得法院判决，要求加密交易公司NovaTechFx创始人辛西娅·佩蒂翁（Cynthia Petion）与埃迪·佩蒂翁（Eddy Petion）支付13.67亿美元，原因是该公司通过庞氏骗局（Ponzi scheme）欺诈全球数十万投资者，包括约1.1万名纽约人。判决包括11.35亿美元非法所得返还与2.32亿美元判决前利息。"
+          },
+          "time": "2026-11-26T10:40:00Z",
+          "title": {
+            "en": "New York AG wins $1.37 billion judgment against NovaTech founders over crypto Ponzi scheme",
+            "zh": "纽约总检察长赢得13.7亿美元判决，NovaTech创始人涉加密庞氏骗局"
+          }
+        },
+        {
+          "category": "solana",
+          "id": "20261127-solana-01",
+          "sources": [
+            {
+              "name": "CryptoCompass",
+              "url": "https://cryptocompass.com/articles/inside-sbi-and-smbc-s-plan-to-put-japanese-finance-on-solana"
+            },
+            {
+              "name": "Briefly",
+              "url": "https://briefly.co/anchor/Cryptocurrency/story/japans-biggest-banks-chose-solana-is-it-a-bigger-deal-than-ripples-bank-wins"
+            }
+          ],
+          "summary": {
+            "en": "SBI Solana Global, a joint venture of SBI Holdings, Sumitomo Mitsui Financial Group and the Solana Foundation, began operating on November 25. The venture covers stablecoin payments, tokenization of financial and real-world assets, and on-chain asset management. According to Solana, the two financial groups hold $2.3 trillion in combined assets and serve more than 80 million customers.",
+            "zh": "SBI Holdings、三井住友金融集团（SMFG）与Solana基金会（Solana Foundation）合作的SBI Solana Global于11月25日开始运营，业务涵盖稳定币（Stablecoin）支付、金融资产与现实世界资产代币化（Tokenization）以及链上资产管理。据Solana方面介绍，两家金融机构合计资产达2.3万亿美元，服务客户超过8000万人。"
+          },
+          "time": "2026-11-25T09:08:00Z",
+          "title": {
+            "en": "SBI Solana Global launches in Japan as SBI and SMFG push on-chain finance",
+            "zh": "SBI Solana Global在日本启动，SBI与三井住友携手推进链上金融"
+          }
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "items": [
         {
@@ -2686,219 +2875,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-13",
-      "items": [
-        {
-          "id": "20261113-01",
-          "category": "tech",
-          "time": "2026-11-13T12:36:00Z",
-          "title": {
-            "zh": "MANTRA暂停新增解绑7天，Keplr/Web3Auth私钥泄露余波未平",
-            "en": "MANTRA halts new unbonding for 7 days as Keplr/Web3Auth key exposure fallout spreads"
-          },
-          "summary": {
-            "zh": "MANTRA于11月13日宣布暂停所有新增解绑 (Unbonding) 交易7天，此前攻击者利用Web3Auth基础设施漏洞泄露的Keplr社交登录钱包私钥 (Private Key)，在盗取用户流动性代币后又未经授权发起质押解绑。链上分析机构Bitquery估计至少182万美元资产被盗，涉及7,842个Cosmos钱包；MANTRA此前已通过第41号治理提案冻结多个攻击者钱包。正在解绑的用户需在8天解绑期结束前重新委托 (Redelegate)，否则代币可能被攻击者领取。",
-            "en": "MANTRA said on November 13 it would suspend all new unbonding transactions for seven days after attackers used private keys exposed in the Web3Auth infrastructure flaw behind Keplr's Google and Apple logins to unstake victims' tokens without consent, having already drained their liquid holdings. On-chain firm Bitquery estimates at least $1.82 million was taken from 7,842 Cosmos wallets, and MANTRA had already frozen several attacker wallets through Governance Proposal 41. Users with unbonding in progress must redelegate before the eight-day unbonding period ends or the attackers could claim the tokens."
-          },
-          "sources": [
-            {
-              "name": "Crypto Briefing",
-              "url": "https://cryptobriefing.com/mantra-unbonding-transaction-freeze/"
-            },
-            {
-              "name": "PANews",
-              "url": "https://www.panews.io/articles/01a1d4bf-f6d1-7214-8c78-ae64c5ce8f2a"
-            }
-          ]
-        },
-        {
-          "id": "20261113-02",
-          "category": "market",
-          "time": "2026-11-13T11:52:00Z",
-          "title": {
-            "zh": "比特币跌破7万美元至12周低点，24小时爆仓16亿美元",
-            "en": "Bitcoin falls below $70,000 to a 12-week low as $1.6 billion is liquidated in 24 hours"
-          },
-          "summary": {
-            "zh": "比特币11月13日跌破7万美元心理关口，最低触及67,770美元，为8月19日以来最低；以太币 (Ether, ETH) 跌破2,000美元，同样创约三个月新低。美元指数 (Dollar Index) 升破103、创4月以来新高，交易员押注美联储 (Federal Reserve) 将在12月加息，叠加英伟达 (Nvidia) 首席执行官辞职拖累科技股，风险资产承压。CoinGlass数据显示24小时全网爆仓约16.4亿美元，其中多头占绝大多数；美国现货比特币ETF (Spot Bitcoin ETF) 已连续六个交易日净流出。",
-            "en": "Bitcoin fell below the psychologically important $70,000 level on November 13, touching as low as $67,770, its weakest since August 19, while ether dropped below $2,000, also a roughly three-month low. The dollar index rose above 103, its highest since April, as traders priced in a Federal Reserve rate increase in December, and Nvidia's chief executive resignation weighed on technology shares. CoinGlass data showed about $1.64 billion of leveraged positions liquidated in 24 hours, mostly longs, while U.S. spot bitcoin ETFs extended their outflow streak to a sixth straight session."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion"
-            },
-            {
-              "name": "Crypto Times",
-              "url": "https://www.cryptotimes.io/2026/11/13/bitcoin-price-crashes-below-69k-as-crypto-liquidations-top-1-41-billion/"
-            }
-          ]
-        },
-        {
-          "id": "20261113-03",
-          "category": "market",
-          "time": "2026-11-12T14:21:00Z",
-          "title": {
-            "zh": "英伟达CEO黄仁勋辞职，首席财务官科莱特·克雷斯暂任掌舵",
-            "en": "Nvidia CEO Jensen Huang resigns; CFO Colette Kress named interim chief"
-          },
-          "summary": {
-            "zh": "英伟达11月12日向美国证券交易委员会 (SEC) 提交的8-K文件显示，董事会已于11月11日接受创始人黄仁勋辞去总裁、首席执行官及董事职务，立即生效；首席财务官科莱特·克雷斯 (Colette Kress) 出任临时首席执行官，董事哈维·琼斯 (Harvey Jones) 成为公司首任董事长。文件未说明辞职原因，也未提及董事会11月8日宣布的独立调查进展；公司定于11月17日公布财报，届时将是临时管理层首次面对投资者。",
-            "en": "Nvidia said in a Form 8-K filed with the SEC on November 12 that its board accepted founder Jensen Huang's resignation as president, chief executive and director on November 11, effective immediately; CFO Colette Kress becomes interim CEO and director Harvey Jones becomes the company's first board chair. The filing gave no reason for the resignation and no update on the independent investigation the board announced on November 8; earnings are still scheduled for November 17, when the interim leadership will first face investors."
-          },
-          "sources": [
-            {
-              "name": "The Register",
-              "url": "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411"
-            },
-            {
-              "name": "QuantSlant",
-              "url": "https://quantslant.com/nvidia-ceo-jensen-huang-resigns/"
-            }
-          ]
-        },
-        {
-          "id": "20261113-04",
-          "category": "bitcoin",
-          "time": "2026-11-12T12:00:00Z",
-          "title": {
-            "zh": "美国现货比特币ETF今年累计资金流转负，为产品推出以来首次",
-            "en": "U.S. spot bitcoin ETF flows turn negative for 2026, a first since launch"
-          },
-          "summary": {
-            "zh": "贝莱德旗下IBIT于11月11日单日净流出2.697亿美元，推动美国现货比特币ETF (Spot Bitcoin ETF) 今年以来累计资金流自2024年1月推出以来首次转为负值。11月以来产品在8个交易日中仅1天净流入，月内累计净流出约19亿美元；IBIT是流出主力，月内累计流出约18亿美元。资金持续外流之际，比特币价格跌破7万美元，机构需求降温成为市场关注焦点。",
-            "en": "BlackRock's IBIT recorded $269.7 million of net outflows on November 11, pushing cumulative 2026 flows for U.S. spot bitcoin ETFs below zero for the first time since the products launched in January 2024. The funds have seen outflows on seven of eight November trading days, totaling about $1.9 billion for the month, with IBIT accounting for roughly $1.8 billion of the redemptions. The steady outflows coincide with bitcoin's slide below $70,000, putting cooling institutional demand in focus."
-          },
-          "sources": [
-            {
-              "name": "Finobird",
-              "url": "https://finobird.com/news/roundup/bitcoin-etf-flows-turn-negative-as-msci-drop-and-boj-risk-weigh-on-crypto-2026-11-12/"
-            },
-            {
-              "name": "TFTC",
-              "url": "https://www.tftc.io/bitcoin-etf-flows/november-2026"
-            }
-          ]
-        },
-        {
-          "id": "20261113-05",
-          "category": "bitcoin",
-          "time": "2026-11-12T07:00:00Z",
-          "title": {
-            "zh": "MSCI确认将Strategy移出全球股指，11月30日收盘后生效",
-            "en": "MSCI confirms Strategy's removal from global indexes, effective after the November 30 close"
-          },
-          "summary": {
-            "zh": "指数提供商MSCI确认，将全球最大比特币上市公司持有者Strategy (MSTR) 移出其全球股票指数，11月30日收盘后生效；公司同时被移出MSCI美国指数 (MSCI USA Index)，并因此退出MSCI世界指数 (MSCI World)。此次调整源于MSCI 10月15日通过的“非经营性公司”筛查规则，东京上市的Metaplanet亦被移出。跟踪MSCI指数的基金预计需卖出约1,300万股Strategy股票，摩根大通 (JPMorgan) 估计相关抛售规模约28亿美元；市场担忧失去被动资金流入将削弱Strategy融资买币的能力。",
-            "en": "Index provider MSCI confirmed it will remove Strategy (MSTR), the largest listed corporate holder of bitcoin, from its global equity indexes after the close on November 30, including the MSCI USA Index, which also drops it from the MSCI World index. The move follows MSCI's October 15 rule excluding 'non-operating' companies; Tokyo-listed Metaplanet was also removed. Funds tracking MSCI indexes would need to sell an estimated 13 million shares, with JPMorgan estimating about $2.8 billion of forced selling, raising questions over Strategy's ability to keep raising money for bitcoin purchases."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine"
-            },
-            {
-              "name": "MyTokenCap",
-              "url": "https://www.mytokencap.com/en/news/607384.html"
-            }
-          ]
-        },
-        {
-          "id": "20261113-06",
-          "category": "ethereum",
-          "time": "2026-11-10T16:17:00Z",
-          "title": {
-            "zh": "以太坊Glamsterdam升级停滞：两份对立提案争夺旧合约兼容方案",
-            "en": "Ethereum's Glamsterdam upgrade stalls as rival proposals compete to protect old contracts"
-          },
-          "summary": {
-            "zh": "以太坊下一次重大升级Glamsterdam陷入停滞，两名开发者于11月8日提交对立修复方案，以防止新的Gas定价规则 (Gas Pricing) 破坏已部署的旧合约，其中部分合约持有用户资金且无法升级。以太坊基金会 (Ethereum Foundation) 要求核心开发者在ChainSecurity与Dedaub的审计结果公布前暂不作决定，审计预计11月13日至16日交付；Hoodi测试网 (Testnet) 的激活自10月26日推迟后仍无新日期。升级原计划将区块Gas上限提高至2亿，约为当前6,000万的三倍多。",
-            "en": "Ethereum's next major upgrade, Glamsterdam, has stalled after two developers filed rival fixes on November 8 to stop its new gas pricing rules from breaking deployed contracts, some holding user funds that cannot be upgraded. The Ethereum Foundation has asked core developers to wait until audits by ChainSecurity and Dedaub are public, with reports due between November 13 and 16; the Hoodi testnet activation postponed since October 26 still has no new date. The upgrade would raise the block gas limit to 200 million, more than three times the current 60 million."
-          },
-          "sources": [
-            {
-              "name": "CoinDesk",
-              "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts"
-            },
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/ethereums-glamsterdam-upgrade-stalls-on-gas-change-risks-to-live-contracts-pending-audits/"
-            }
-          ]
-        },
-        {
-          "id": "20261113-07",
-          "category": "regulation",
-          "time": "2026-11-10T12:00:00Z",
-          "title": {
-            "zh": "SEC批准纳斯达克ISE上线数字商品ETF期权，设7亿美元门槛",
-            "en": "SEC clears Nasdaq ISE to list options on digital-commodity ETPs, setting a $700 million bar"
-          },
-          "summary": {
-            "zh": "美国证券交易委员会 (SEC) 于11月10日批准纳斯达克ISE期权交易所 (Nasdaq ISE) 的规则变更，允许其为持有“数字商品” (Digital Commodity) 的交易所交易产品 (ETP) 上线期权，无需逐只产品另行报批。符合条件的信托所持每种资产过去12个月日均市值须不低于7亿美元，且至少85%的净资产须对应在受监控市场有衍生品的资产。SEC同时提交法庭之友意见书，支持商品期货交易委员会 (CFTC) 在股票永续合约 (Perpetual Futures) 诉讼中的立场。",
-            "en": "The SEC on November 10 approved a Nasdaq ISE rule change letting the options exchange list options on exchange-traded products holding 'digital commodities' without seeking approval for each product. Each asset in a qualifying trust must have averaged at least $700 million in daily market value over the prior 12 months, and at least 85% of the trust's net assets must sit in assets with derivatives on surveilled markets. The SEC also filed a friend-of-the-court brief backing the CFTC in litigation over stock perpetual futures."
-          },
-          "sources": [
-            {
-              "name": "SEC",
-              "url": "https://www.sec.gov/files/rules/sro/ise/2026/34-106863.pdf"
-            },
-            {
-              "name": "Genfinity",
-              "url": "https://genfinity.io/2026/11/10/sec-clears-nasdaq-ise-options-digital-commodity-etps/"
-            }
-          ]
-        },
-        {
-          "id": "20261113-08",
-          "category": "solana",
-          "time": "2026-11-09T21:11:00Z",
-          "title": {
-            "zh": "嘉信理财上线SOL现货交易，Solana ETF资金流出延续至第五周",
-            "en": "Schwab opens spot SOL trading as Solana ETF outflows stretch to a fifth week"
-          },
-          "summary": {
-            "zh": "美国券商嘉信理财 (Charles Schwab) 于11月9日向符合条件的零售客户开放Solana、Avalanche与Chainlink现货交易，每笔交易收取0.75%费用，平台可交易加密资产由此增至五种。尽管华尔街渠道扩大，美国现货Solana ETF (Spot Solana ETF) 资金流出延续至第五周，5周累计流出近1.7亿美元，SOL期货未平仓合约 (Open Interest) 降至8月19日以来最低。SOL已连续五周下跌，2026年内累计跌幅约30%。",
-            "en": "Charles Schwab opened spot trading in Solana, Avalanche and Chainlink to eligible retail clients on November 9, charging 0.75% per trade and bringing its crypto lineup to five assets. Even as Wall Street access widened, U.S. spot Solana ETFs stretched outflows to a fifth straight week, totaling nearly $170 million over the stretch, while SOL futures open interest fell to its lowest since August 19. SOL has now fallen for five consecutive weeks and is down about 30% in 2026."
-          },
-          "sources": [
-            {
-              "name": "TradingNews",
-              "url": "https://www.tradingnews.com/news/solana-price-targets-80-usd-as-etf-outflows-strech-to-5-week-despite-schwab-and-formation-bringing-sol-to-wall-street"
-            },
-            {
-              "name": "Blockchain Reporter",
-              "url": "https://blockchainreporter.net/schwab-crypto-adds-solana-avalanche-chainlink/"
-            }
-          ]
-        },
-        {
-          "id": "20261113-09",
-          "category": "solana",
-          "time": "2026-11-09T19:25:00Z",
-          "title": {
-            "zh": "Solana拟废除耐用随机数，回应Drift 2.7亿美元被盗案",
-            "en": "Solana moves to retire durable nonces after Drift's $270 million exploit"
-          },
-          "summary": {
-            "zh": "Solana核心开发团队Anza于11月5日提交改进提案SIMD-0723，拟废除耐用随机数 (Durable Nonce) 机制——攻击者正是利用该功能在今年4月从Drift协议盗走至少2.7亿美元。提案要求所有交易改用近期区块哈希 (Blockhash)，过期后即失效；最早于2027年5月5日激活，留出至少六个月迁移期。托管机构与交易所须在此期间迁移至Anza的程序化签名器 (Programmatic Signer) 或Blueshift的Vector等替代方案。",
-            "en": "Anza, the team behind Solana's core validator software, filed improvement proposal SIMD-0723 on November 5 to retire durable nonces, the feature attackers exploited to drain at least $270 million from Drift Protocol in April. The change would require every transaction to use a recent blockhash that expires after about 150 blocks, with activation no earlier than May 5, 2027, leaving at least six months to migrate. Custodians and exchanges must move to replacements such as Anza's Programmatic Signer or Blueshift's Vector."
-          },
-          "sources": [
-            {
-              "name": "Unchained",
-              "url": "https://unchainedcrypto.com/anzas-plan-to-kill-solanas-durable-nonces-puts-custodians-on-a-six-month-clock/"
-            },
-            {
-              "name": "CoinPaprika",
-              "url": "https://coinpaprika.com/news/solana-moves-retire-feature-exploited-drifts"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-26"
+  "updated": "2026-11-27"
 }
