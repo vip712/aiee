@@ -1,6 +1,149 @@
 {
   "days": [
     {
+      "date": "2026-11-28",
+      "items": [
+        {
+          "category": "bitcoin",
+          "id": "20261128-bitcoin-01",
+          "time": "2026-11-27T17:30:00Z",
+          "title": {
+            "zh": "约70亿美元比特币期权周五到期，BTC盘中从62125美元急跌至58719美元",
+            "en": "About $7 billion in Bitcoin options expire Friday as BTC swings from $62,125 to $58,719"
+          },
+          "summary": {
+            "zh": "约70亿美元比特币期权（Bitcoin Options）于11月27日在Deribit到期，另有约6亿美元以太坊期权同期结算，合计约占该平台未平仓合约的四分之一。期权到期前后比特币剧烈波动，盘中一度冲高至62125美元，随后半小时内急跌至58719美元，全市场爆仓（Liquidation）达4.78亿美元。交易员的防御姿态较10月明显加重：本次到期的看跌/看涨未平仓比（Put/Call Ratio）升至0.89，高于10月的0.55；Deribit波动率指数DVOL升至55.45。",
+            "en": "About $7 billion in Bitcoin options expired on Deribit on November 27, with a further $0.6 billion in Ether options settling alongside, together about a quarter of the platform's open interest. Bitcoin swung violently around the expiry, touching an intraday high of $62,125 before plunging to $58,719 within 30 minutes, while liquidations across the crypto market reached $478 million. Positioning had turned defensive: the put/call open-interest ratio for the expiry stood at 0.89, up from 0.55 in October, and Deribit's DVOL volatility index rose to 55.45."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october"
+            },
+            {
+              "name": "Bitcoin.com News",
+              "url": "https://news.bitcoin.com/market-updates/bitcoins-thanksgiving-rally-unravels-as-7b-options-expiry-rocks-markets/"
+            }
+          ]
+        },
+        {
+          "category": "market",
+          "id": "20261128-market-01",
+          "time": "2026-11-27T11:45:00Z",
+          "title": {
+            "zh": "比特币有望终结七周连跌，周五随美股反弹站上6.1万美元",
+            "en": "Bitcoin on course to end seven-week losing streak as it rebounds above $61,000 with US stocks"
+          },
+          "summary": {
+            "zh": "比特币周五随美股反弹，盘中升至约61500美元，本周累计上涨约0.6%，有望终结连续七周下跌——为有记录以来第二长的周线连跌。尽管如此，比特币11月仍累计下跌约20%，为6月以来表现最差的月份；以太币同步反弹至约1735美元。加密恐惧与贪婪指数（Crypto Fear & Greed Index）为11，仍处于极度恐慌区间。",
+            "en": "Bitcoin rose with US stocks on Friday, climbing to about $61,500 and gaining roughly 0.6% for the week, putting it on course to end seven straight weekly losses — the second-longest weekly losing streak on record. Even so, Bitcoin is down about 20% in November, its worst month since June, while Ether rebounded to about $1,735. The Crypto Fear & Greed Index stood at 11, still in extreme fear territory."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound"
+            },
+            {
+              "name": "Morningstar",
+              "url": "https://www.morningstar.com/news/dow-jones/20261127846/bitcoin-ether-rebound-as-markets-stabilize"
+            }
+          ]
+        },
+        {
+          "category": "regulation",
+          "id": "20261128-regulation-01",
+          "time": "2026-11-27T07:33:00Z",
+          "title": {
+            "zh": "KuCoin将于11月30日下架门罗币，XMR创五个多月最大单日跌幅",
+            "en": "KuCoin to delist Monero on November 30 as XMR posts biggest one-day drop in over five months"
+          },
+          "summary": {
+            "zh": "加密货币交易所KuCoin宣布将于11月30日下架门罗币（Monero，XMR）全部四个现货交易对，并已暂停充值，提币通道将于12月31日关闭。消息公布后XMR周四下跌逾11%，创6月4日以来最大单日跌幅，价格一度跌至430美元附近。KuCoin是本月第二家下架XMR的大型平台，此前MEXC已于11月13日下架XMR现货交易；欧盟反洗钱法规（Anti-Money Laundering Regulation）将于2027年7月10日起禁止受监管机构为匿名增强型币种提供服务。",
+            "en": "Crypto exchange KuCoin said it will delist Monero (XMR) on November 30, removing all four XMR spot trading pairs, with deposits already suspended and withdrawals closing on December 31. XMR fell more than 11% on Thursday, its biggest one-day drop since June 4, hitting a low near $430. KuCoin is the second major platform to drop XMR this month after MEXC delisted its spot pairs on November 13, while the EU's Anti-Money Laundering Regulation will bar regulated firms from servicing anonymity-enhancing coins from July 10, 2027."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why"
+            },
+            {
+              "name": "CoinTelegraph",
+              "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash"
+            }
+          ]
+        },
+        {
+          "category": "ethereum",
+          "id": "20261128-ethereum-01",
+          "time": "2026-11-27T04:29:00Z",
+          "title": {
+            "zh": "以太坊Glamsterdam升级定于12月15日进行Hoodi测试，争议存储费保留",
+            "en": "Ethereum's Glamsterdam upgrade set for December 15 Hoodi test as contested storage fee stays"
+          },
+          "summary": {
+            "zh": "以太坊（Ethereum）核心开发者在11月26日的全体核心开发者共识会议（All Core Devs Consensus）上决定，下一代重大升级Glamsterdam将于12月15日19:12 UTC在Hoodi测试网（Testnet）激活，这是主网上线前的最后一次公开测试。执行层团队达成粗略共识，保留颇具争议的EIP-8037存储费用规则：新建合约的存储费将从3.2万单位Gas升至18.36万单位，可能导致多达1.5万个现有智能合约（Smart Contract）在交易中途耗尽Gas而失败。主网上线时间尚未确定，最早为2027年1月中下旬。",
+            "en": "Ethereum core developers agreed at the November 26 All Core Devs Consensus call to activate Glamsterdam, the network's next major upgrade, on the Hoodi testnet on December 15 at 19:12 UTC — the final public test before mainnet. Execution-layer teams reached rough consensus to keep the contested EIP-8037 storage fee: creating a new contract would cost 183,600 gas in storage charges, up from a flat 32,000 today, and up to 15,000 existing smart contracts could run out of gas mid-transaction and fail. No mainnet date has been set, with the earliest window in mid-to-late January 2027."
+          },
+          "sources": [
+            {
+              "name": "CoinDesk",
+              "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know"
+            },
+            {
+              "name": "The Block",
+              "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051"
+            }
+          ]
+        },
+        {
+          "category": "solana",
+          "id": "20261128-solana-01",
+          "time": "2026-11-26T13:09:00Z",
+          "title": {
+            "zh": "Solana永续合约交易所Velocity因保险基金漏洞暂停交易，次日恢复",
+            "en": "Solana perps exchange Velocity pauses trading over insurance fund bug, resumes a day later"
+          },
+          "summary": {
+            "zh": "Solana永续合约交易所Velocity于11月25日暂停全部交易，原因是其保险基金（Insurance Fund）与清算机制存在严重漏洞；攻击者通过150组配对钱包反复触发自我清算，在43分钟内从保险基金套取约1.23万美元。平台于11月26日修复漏洞后恢复交易，用户存款未受影响，主金库约202万美元亦未波及，但新用户注册与充值仍处于暂停状态。Velocity是今年4月遭约2.95亿美元攻击的Drift Protocol更名重建后的平台，于9月重新上线。",
+            "en": "Solana perpetual futures exchange Velocity halted all trading on November 25 after finding a critical flaw in its insurance fund and liquidation mechanism; an attacker ran self-liquidation loops across 150 wallet pairs, draining about $12,300 from the fund in 43 minutes. The platform patched the bug and resumed trading on November 26, with user deposits untouched and its roughly $2.02 million main vault unaffected, though new signups and deposits remain paused. Velocity is the rebuilt version of Drift Protocol, which lost about $295 million in an April exploit, and relaunched in September."
+          },
+          "sources": [
+            {
+              "name": "Crypto Briefing",
+              "url": "https://cryptobriefing.com/velocitydex-resumes-trading-insurance-fund-bug/"
+            },
+            {
+              "name": "SolanaFloor",
+              "url": "https://solanafloor.com/news/velocity-pauses-trading-due-to-bug-user-deposits-unaffected"
+            }
+          ]
+        },
+        {
+          "category": "tech",
+          "id": "20261128-tech-01",
+          "time": "2026-11-26T05:05:00Z",
+          "title": {
+            "zh": "交易终端Bullpen确认安全事件，交易员Ansem钱包约257万美元资产被转走",
+            "en": "Trading terminal Bullpen confirms breach as trader Ansem's wallet is drained of about $2.57 million"
+          },
+          "summary": {
+            "zh": "加密交易终端Bullpen确认，未经授权的转账涉及18至19个2024年4月至6月早期测试期开设的账户，其中包括联合创始人、知名交易员Ansem的账户。Ansem称其导入Bullpen的Solana钱包私钥疑似遭未授权访问，约257万美元资产在数小时内被抛售并经跨链桥转移至Arbitrum，最终流向比特币（Bitcoin），其同名代币ANSEM暴跌约55%。Bullpen表示正与美国联邦调查局（FBI）等机构合作追踪资金，但尚未披露入侵方式与是否赔偿用户；Ansem已呼吁用户在安全确认前先行提款。",
+            "en": "Crypto trading terminal Bullpen confirmed unauthorized transfers affecting 18 to 19 accounts opened during its early beta between April and June 2024, including an account belonging to co-founder and well-known trader Ansem. Ansem said unauthorized access to his Bullpen profile, where he had imported a Solana wallet's private key, likely caused the loss: about $2.57 million was liquidated within hours and bridged to Arbitrum before heading toward Bitcoin, while his namesake token ANSEM plunged about 55%. Bullpen said it is working with the FBI and other agencies to trace the funds but has not disclosed how the accounts were accessed or whether users will be reimbursed; Ansem urged users to withdraw funds until safety is confirmed."
+          },
+          "sources": [
+            {
+              "name": "TokenPost",
+              "url": "https://www.tokenpost.com/news/technology/62618"
+            },
+            {
+              "name": "CryptoSlate",
+              "url": "https://cryptoslate.com/crypto-host-who-once-promoted-a-50-billion-memecoin-vision-now-tells-traders-to-get-out/"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "items": [
         {
@@ -2594,288 +2737,7 @@
           ]
         }
       ]
-    },
-    {
-      "date": "2026-11-14",
-      "items": [
-        {
-          "id": "20261114-01",
-          "category": "tech",
-          "time": "2026-11-13T19:38:00Z",
-          "title": {
-            "zh": "Trezor确认三台CryptoBilis售出Safe 5钱包藏有窃取助记词的植入硬件",
-            "en": "Trezor confirms hidden implants in three Safe 5 wallets sold by CryptoBilis"
-          },
-          "summary": {
-            "zh": "硬件钱包厂商Trezor于11月13日确认，经销商CryptoBilis售出的三台Safe 5钱包内藏有额外电路板，可在屏幕显示助记词 (Recovery Phrase) 时将其复制并通过移动网络发送给攻击者。Trezor于11月11日发布的固件 (Firmware) 2.13.1可使已发现的植入失效，但无法保护此前已被窃取的助记词；公司同时将授权经销商网络缩减约80%。自3月以来通过CryptoBilis购买过Trezor钱包的用户被建议将资产转移至使用新助记词的新钱包。",
-            "en": "Hardware wallet maker Trezor confirmed on November 13 that three Safe 5 wallets sold by reseller CryptoBilis contained an extra circuit board that copies the recovery phrase shown on screen and transmits it to attackers over a mobile network. Firmware 2.13.1, released November 11, disables the implants found so far but cannot protect phrases captured before installation; Trezor also cut its authorized reseller network by about 80%. Anyone who bought a Trezor from CryptoBilis since March is advised to move funds to a new wallet with a fresh recovery phrase."
-          },
-          "sources": [
-            {
-              "name": "The Hacker News",
-              "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html"
-            },
-            {
-              "name": "BleepingComputer",
-              "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-02",
-          "category": "regulation",
-          "time": "2026-11-13T17:56:00Z",
-          "title": {
-            "zh": "特朗普提名四名SEC与CFTC委员，CLARITY法案确认搁浅",
-            "en": "Trump nominates four SEC and CFTC commissioners as CLARITY Act stalls"
-          },
-          "summary": {
-            "zh": "美国总统特朗普于11月12日向参议院提名四名人选填补证券交易委员会 (SEC) 与商品期货交易委员会 (CFTC) 的空缺，其中包括接替知名加密倡导者Hester Peirce的Steven Levine；四人均需参议院确认。提名之际，加密市场结构法案CLARITY Act已确认在参议院搁浅，前CFTC主席Giancarlo表示该法案在最后六个月中“缓慢死亡”。两家机构目前正依据现有职权推进加密规则制定，但民主党将于明年1月掌控参议院，留给共和党确认提名的时间窗口有限。",
-            "en": "US President Donald Trump on November 12 nominated four people to fill vacancies at the SEC and CFTC, including Steven Levine to succeed prominent crypto advocate Hester Peirce; all four require Senate confirmation. The nominations come as the crypto market-structure bill known as the CLARITY Act has stalled in the Senate, with former CFTC Chair Chris Giancarlo saying it \"died a slow death\" in its final six months. Both agencies are now writing crypto rules under existing authority, but with Democrats set to take Senate control in January, Republicans have only a narrow window to confirm the slate."
-          },
-          "sources": [
-            {
-              "name": "Decrypt",
-              "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto"
-            },
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/what-happened-in-crypto-today"
-            }
-          ]
-        },
-        {
-          "id": "20261114-03",
-          "category": "ethereum",
-          "time": "2026-11-13T17:00:00Z",
-          "title": {
-            "zh": "以太坊基金会关联钱包第四次出售2,000枚ETH",
-            "en": "Ethereum Foundation-linked wallet sells 2,000 ETH for a fourth time"
-          },
-          "summary": {
-            "zh": "链上分析机构Lookonchain追踪的、归属于以太坊基金会 (Ethereum Foundation) 的钱包于11月13日再度出售2,000枚ETH，约合387万美元，为10月12日以来第四轮出售。11月以来该钱包累计出售4,000枚ETH，约合803万美元；相比之下，美国现货以太币ETF (Spot Ether ETF) 11月前11天净流出达6.959亿美元，约为基金会出售规模的87倍。基金会出售更多被视为情绪信号，真正影响价格的是基金资金流向。",
-            "en": "A wallet attributed by on-chain analytics firm Lookonchain to the Ethereum Foundation sold another 2,000 ETH on November 13 for about $3.87 million, the fourth round of sales since October 12. The wallet has sold 4,000 ETH for about $8.03 million in November, while US spot ether ETFs saw $695.9 million in net outflows over the first 11 days of the month — roughly 87 times as much. The foundation's sales are seen mainly as a sentiment signal, with fund flows doing far more to move the price."
-          },
-          "sources": [
-            {
-              "name": "CryptoCompass",
-              "url": "https://cryptocompass.com/articles/ethereum-price-prediction-foundation-wallet-sells-for-a-fourth-time-etf-outflows-87-times-larger"
-            },
-            {
-              "name": "The Coin Republic",
-              "url": "https://www.thecoinrepublic.com/2026/11/13/ethereum-price-below-2k-etf-outflows-near-532m-in-six-days/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-04",
-          "category": "tech",
-          "time": "2026-11-13T15:43:00Z",
-          "title": {
-            "zh": "OpenAI推出ChatGPT Wallet，AI代理可代用户完成支付",
-            "en": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases"
-          },
-          "summary": {
-            "zh": "OpenAI于11月13日推出ChatGPT Wallet，允许其AI代理 (AI Agent) 在用户逐笔授权后代为完成购物支付，卡号以一次性网络令牌 (Network Token) 替代，不向代理或商家暴露真实卡信息。该功能与美国运通 (American Express)、万事达卡 (Mastercard) 和Visa合作开发，初期仅面向美国年满18岁的ChatGPT Pro订阅用户。OpenAI表示上线初期不从交易中抽成，重点是与商家、银行和支付网络磨合兼容性。",
-            "en": "OpenAI launched ChatGPT Wallet on November 13, letting its AI agents complete purchases on a user's behalf after per-transaction approval, with a one-time network token standing in for the real card number so neither the agent nor the merchant sees it. Built with American Express, Mastercard and Visa, the wallet is initially limited to US ChatGPT Pro subscribers aged 18 and older. OpenAI said it will take no cut of transactions at launch, focusing instead on compatibility with merchants, banks and payment networks."
-          },
-          "sources": [
-            {
-              "name": "Reuters",
-              "url": "https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/"
-            },
-            {
-              "name": "Unite.AI",
-              "url": "https://www.unite.ai/openai-launches-chatgpt-wallet-for-agent-assisted-purchases/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-05",
-          "category": "bitcoin",
-          "time": "2026-11-13T15:00:00Z",
-          "title": {
-            "zh": "比特币考验200周均线约6.8万美元，分析师争论是否已见底",
-            "en": "Bitcoin tests 200-week moving average near $68,000 as analysts debate a bottom"
-          },
-          "summary": {
-            "zh": "比特币于11月13日跌至约6.8万美元附近，考验200周移动平均线 (200-Week Moving Average) 约6.8万美元一线；分析师Doctor Profit认为该均线历史上可靠地标志着熊市底部，并表示正在该价位附近大举买入。Glassnode数据显示，主要交易所6.8万至7.25万美元区间存在密集买单；但批评者指出，持续的ETF资金流出与清算压力仍可能推动价格进一步下探，市场对该位置能否守住存在明显分歧。",
-            "en": "Bitcoin fell toward $68,000 on November 13, testing its 200-week moving average near that level, which analyst Doctor Profit argues has reliably marked bear market lows and says he is buying heavily around. Glassnode data showed dense buy orders clustered between $68,000 and $72,500 on major exchanges, but skeptics note persistent ETF outflows and liquidation pressure could still push prices lower. The market is split on whether the level will hold."
-          },
-          "sources": [
-            {
-              "name": "Affluencer",
-              "url": "https://affluencer.co.za/2026/11/is-68k-the-bottom-for-bitcoin-analyst-points-out-key-historical-support-levels/"
-            },
-            {
-              "name": "CoinLab",
-              "url": "https://coinlab.info/en/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-06",
-          "category": "solana",
-          "time": "2026-11-13T13:23:00Z",
-          "title": {
-            "zh": "DTCC计划2027年下半年在Solana上实现托管资产代币化",
-            "en": "DTCC plans tokenization of custodied assets on Solana by second half of 2027"
-          },
-          "summary": {
-            "zh": "美国存管信托与清算公司 (DTCC) 于11月12日宣布，计划在2027年下半年将其代币化服务 (Tokenization Service) 接入Solana网络，支持对DTCC托管资产的代币化及相关资产全生命周期功能，同时保留传统证券的投资者保护与所有权。消息为Solana的机构叙事再添一笔，但SOL价格当日仍随大市走低。分析认为，该整合若落地，将是传统金融基础设施对公链的又一次重要采用。",
-            "en": "The Depository Trust & Clearing Corporation (DTCC) announced on November 12 that it plans to connect its Tokenization Service with Solana by the second half of 2027, supporting tokenization of DTC-custodied assets and related asset lifecycle functions while retaining the investor protections and ownership rights of traditionally held securities. The news bolstered Solana's institutional narrative, though SOL still fell with the broader market that day. If delivered, the integration would mark another major adoption of a public chain by traditional financial infrastructure."
-          },
-          "sources": [
-            {
-              "name": "Traders Union",
-              "url": "https://tradersunion.com/news/cryptocurrency-news/show/4231501-solana-falls-10-51percent-this-week/"
-            },
-            {
-              "name": "Ad-Hoc News",
-              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/solana-price-weighs-dtcc-tokenization-plans-against-etf-outflows/70504502"
-            }
-          ]
-        },
-        {
-          "id": "20261114-07",
-          "category": "market",
-          "time": "2026-11-13T12:00:00Z",
-          "title": {
-            "zh": "稳定币供应30天缩水142亿美元，创2022年6月以来最大降幅",
-            "en": "Stablecoin supply shrinks $14.2 billion in 30 days, largest drop since June 2022"
-          },
-          "summary": {
-            "zh": "Glassnode于11月11日发布的研究显示，主要稳定币 (Stablecoin) 总供应量在截至11月9日的30天内减少142亿美元，为2022年6月以来最大降幅，总量回落至2,800亿美元以下。美元流动性收缩与现货比特币ETF (Spot Bitcoin ETF) 持续资金流出叠加，被视为本轮加密市场抛售的重要背景。分析指出，稳定币供应是衡量市场购买力的重要指标，其收缩意味着承接卖盘的资金减少。",
-            "en": "Glassnode research published November 11 showed total major stablecoin supply fell $14.2 billion in the 30 days through November 9, the largest decline since June 2022, taking the total below $280 billion. The contraction in dollar liquidity, combined with continued outflows from spot bitcoin ETFs, is seen as a key backdrop to the crypto selloff. Stablecoin supply is widely watched as a gauge of buying power, and its shrinkage means less capital is available to absorb selling."
-          },
-          "sources": [
-            {
-              "name": "CryptoNews",
-              "url": "https://cryptonews.com/news/why-is-crypto-down-bitcoin-market-crash-liquidity-drain/"
-            },
-            {
-              "name": "CoinArticle",
-              "url": "https://www.coinarticle.com/article/bitcoin-falls-below-69000-stablecoin-contraction-etf-outflows"
-            }
-          ]
-        },
-        {
-          "id": "20261114-08",
-          "category": "ethereum",
-          "time": "2026-11-13T11:12:00Z",
-          "title": {
-            "zh": "以太坊跌破2,000美元，11月现货ETF净流出近7亿美元",
-            "en": "Ethereum falls below $2,000 as spot ETF outflows near $700 million in November"
-          },
-          "summary": {
-            "zh": "以太坊 (ETH) 于11月13日跌破2,000美元关口，日内低点约1,894美元，24小时内约2.59亿美元杠杆头寸被清算。美国现货以太币ETF (Spot Ether ETF) 11月前11天累计净流出6.959亿美元，其中11月11日单日流出1.448亿美元，贝莱德 (BlackRock) 的ETHA占1.298亿美元。以太坊质押退出队列 (Exit Queue) 中约27万枚ETH等待退出，等待时间约5天14小时。",
-            "en": "Ethereum fell below $2,000 on November 13, touching an intraday low near $1,894, with about $259 million in leveraged positions liquidated in 24 hours. US spot ether ETFs recorded $695.9 million in net outflows over the first 11 days of November, including $144.8 million on November 11 alone, $129.8 million of it from BlackRock's ETHA. About 269,951 ETH sat in the staking exit queue, with a wait of roughly 5 days and 14 hours."
-          },
-          "sources": [
-            {
-              "name": "KuCoin",
-              "url": "https://www.kucoin.com/news/flash/ethereum-price-drops-to-1-958-as-etf-outflows-reach-696m"
-            },
-            {
-              "name": "The Coin Republic",
-              "url": "https://www.thecoinrepublic.com/2026/11/13/ethereum-price-below-2k-etf-outflows-near-532m-in-six-days/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-09",
-          "category": "market",
-          "time": "2026-11-13T10:27:00Z",
-          "title": {
-            "zh": "比特币跌至67,568美元，创8月以来新低，24小时清算16.4亿美元",
-            "en": "Bitcoin slides to $67,568, lowest since August, as $1.64 billion is liquidated in 24 hours"
-          },
-          "summary": {
-            "zh": "比特币于11月13日凌晨跌破200日移动平均线 (200-Day Moving Average) 并失守7万美元，低点触及67,568美元，为8月中旬以来最低，全市场24小时清算达16.4亿美元，涉及逾18.5万名交易者。随后美国10月生产者价格指数 (PPI) 略低于预期，比特币短暂收复7万美元，但市场情绪仍处极度恐惧区间。分析指出，ETF资金流出、杠杆清算与加息预期共同推动了本轮急跌。",
-            "en": "Bitcoin broke below its 200-day moving average and through $70,000 overnight on November 13, bottoming at $67,568 — its lowest since mid-August — as $1.64 billion in derivatives positions were liquidated across more than 185,000 traders in 24 hours. A cooler-than-expected US October producer price index later helped bitcoin briefly reclaim $70,000, though sentiment remained in extreme fear. Analysts point to ETF outflows, leveraged liquidations and rising rate-hike expectations behind the sharp drop."
-          },
-          "sources": [
-            {
-              "name": "FXStreet",
-              "url": "https://www.fxstreet.com/cryptocurrencies/news/bitcoin-slides-toward-67-568-as-164-billion-liquidation-wave-hits-traders-on-a-scary-friday-202611131027"
-            },
-            {
-              "name": "CryptoNews",
-              "url": "https://cryptonews.com/news/why-is-crypto-down-bitcoin-market-crash-liquidity-drain/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-10",
-          "category": "tech",
-          "time": "2026-11-13T09:27:00Z",
-          "title": {
-            "zh": "美国司法部获准扣押12亿美元币安被盗资产，并打掉FaceStealer诈骗团伙",
-            "en": "US DOJ authorized to seize $1.2 billion in Binance hack funds, disrupts FaceStealer scheme"
-          },
-          "summary": {
-            "zh": "美国司法部于11月13日表示，已获法院授权扣押或冻结超过12亿美元与币安10月29日被盗案相关的加密资产；该案涉案金额逾63亿美元，目前已有逾27亿美元资产被冻结。联邦调查局 (FBI) 将此次攻击归咎于朝鲜黑客组织TraderTraitor。司法部同时打掉了名为FaceStealer的朝鲜社会工程诈骗活动，该活动18个月内通过深度伪造 (Deepfake) 视频通话窃取逾4亿美元加密资产，并查获900多段受害者网络摄像头视频。",
-            "en": "The US Department of Justice said on November 13 it had obtained court authorization to seize or restrain more than $1.2 billion in crypto linked to the theft of over $6.3 billion from Binance on October 29, with more than $2.7 billion of the stolen assets frozen so far. The FBI attributed the hack to North Korean group TraderTraitor. The DOJ also disrupted FaceStealer, a North Korean social-engineering campaign that stole over $400 million in crypto over 18 months using deepfake video calls, seizing more than 900 webcam videos of victims."
-          },
-          "sources": [
-            {
-              "name": "Cointelegraph",
-              "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme"
-            },
-            {
-              "name": "The Coin Republic",
-              "url": "https://www.thecoinrepublic.com/2026/11/13/crypto-hack-news-doj-moves-to-seize-12b-linked-to-north-koreas-binance-heist/"
-            }
-          ]
-        },
-        {
-          "id": "20261114-11",
-          "category": "market",
-          "time": "2026-11-13T08:22:00Z",
-          "title": {
-            "zh": "加密ETF五天净流出14.8亿美元，美股ETF同期吸金375亿美元",
-            "en": "Crypto ETFs lose $1.48 billion in five days while US stock ETFs take in $37.5 billion"
-          },
-          "summary": {
-            "zh": "数据显示，11月4日至10日五个交易日内，美国现货加密ETF (Spot Crypto ETF) 净流出14.8亿美元，其中比特币基金流出10.6亿美元，以太坊基金流出3.26亿美元；同期十大美股ETF吸金375亿美元。比特币与以太坊ETF 2026年迄今合计净流出已达22.5亿美元，资金流向出现明显分化。分析认为，加密基金持有者持续撤资，而股市逢低买入迅速回流，反映出两类资产的风险偏好差异。",
-            "en": "US spot crypto ETFs lost $1.48 billion in net outflows over five trading days from November 4 to 10, with bitcoin funds accounting for $1.06 billion and ethereum funds $326 million, while ten major US stock ETFs attracted $37.5 billion over the same period. Combined bitcoin and ether ETF flows for 2026 through November 11 stood at $2.25 billion in net outflows, a sharp divergence in fund flows. Analysts say crypto fund holders kept withdrawing while equity buyers returned quickly after the selloff, reflecting different risk appetites."
-          },
-          "sources": [
-            {
-              "name": "The Bit Journal",
-              "url": "https://thebitjournal.com/crypto-etf-outflows-wall-street/"
-            },
-            {
-              "name": "Business Standard",
-              "url": "https://www.business-standard.com/content/press-releases-ani/wazirx-on-crypto-s-inflation-etf-and-nvidia-headwinds-126111301238_1.html"
-            }
-          ]
-        },
-        {
-          "id": "20261114-12",
-          "category": "solana",
-          "time": "2026-11-13T06:03:00Z",
-          "title": {
-            "zh": "Solana跌破80美元，创8月中旬以来新低",
-            "en": "Solana falls below $80, lowest since mid-August"
-          },
-          "summary": {
-            "zh": "Solana (SOL) 于11月13日跌破80美元关口，盘中低点约78.29美元，为8月中旬以来最低，24小时跌幅约5.7%。本轮下跌主要受大市拖累：比特币失守7万美元，杠杆头寸集中平仓；仅一小时内，币安 (Binance)、Bybit与OKX上价值1,027万美元的SOL多单被强制平仓。SOL本周累计下跌逾10%，目前交投于全部主要均线下方，下一支撑位在74.50至77美元区间。",
-            "en": "Solana fell below $80 on November 13, touching about $78.29 — its lowest since mid-August — and down roughly 5.7% in 24 hours. The drop was driven mainly by the broader market: bitcoin lost $70,000 and leveraged positions were forcibly closed, with $10.27 million in SOL long positions liquidated on Binance, Bybit and OKX within a single hour. SOL is down more than 10% on the week and trades below all key moving averages, with the next support zone at $74.50 to $77."
-          },
-          "sources": [
-            {
-              "name": "Ad-Hoc News",
-              "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/solana-price-falls-below-80-usd-as-liquidations-deepen-sell-off/70502547"
-            },
-            {
-              "name": "Traders Union",
-              "url": "https://tradersunion.com/news/cryptocurrency-news/show/4225192-solana-slides-5-51percent-to-usd78-38/"
-            }
-          ]
-        }
-      ]
     }
   ],
-  "updated": "2026-11-27"
+  "updated": "2026-11-28"
 }
